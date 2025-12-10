@@ -213,18 +213,24 @@ body {
 
 /* Mobile Responsiveness */
 @media screen and (max-width: 768px) {
+  html {
+    height: auto;
+    overflow-x: hidden;
+  }
+
   body {
-    flex-direction: column;
+    display: block;
+    /* Disable flex on mobile */
     height: auto;
     min-height: 100vh;
-    overflow-y: auto;
-    /* Enable native scroll */
+    overflow-y: visible;
+    /* Let html handle scroll or body grow */
+    overflow-x: hidden;
   }
 
   #sidebar {
     width: 100%;
     height: auto;
-    /* Remove fixed max-height to allow full expansion when open */
     border-right: none;
     border-bottom: 1px solid var(--border-color);
     position: sticky;
@@ -253,14 +259,12 @@ body {
     color: var(--text-color);
     padding: 4px;
     display: flex;
-    /* Ensure SVG centers */
   }
 
   /* Hidden by default on mobile */
   .nav-scroll {
     display: none;
     padding: 8px 16px;
-    /* Fill rest of screen */
     border-top: 1px solid var(--border-color);
     position: fixed;
     /* Fixed overlay */
@@ -281,15 +285,15 @@ body {
     display: block;
   }
 
-  /* Flex main content adjustment */
+  /* Main content adjustment */
   #main-content {
+    display: block;
+    /* Disable flex on mobile */
     padding: 16px;
     width: 100%;
     box-sizing: border-box;
     overflow: visible;
-    /* Let content overflow naturally */
     height: auto;
-    flex: none;
   }
 
   /* Indentation for nesting */
@@ -298,7 +302,6 @@ body {
     border-left: 2px solid var(--border-color);
     padding: 12px;
   }
-
 
   .header-container {
     flex-direction: column;
@@ -317,7 +320,6 @@ body {
 
   .heatmap-grid {
     grid-template-columns: repeat(auto-fill, minmax(32px, 1fr));
-    /* Usage of smaller cells on mobile */
     gap: 4px;
   }
 
@@ -333,22 +335,23 @@ body {
     display: none;
   }
 }
+
 /* Footer Styles */
 .site-footer {
-    margin-top: 40px;
-    padding: 24px;
-    text-align: center;
-    color: #6b7280;
-    font-size: 0.9rem;
-    border-top: 1px solid var(--border-color);
-    width: 100%;
+  margin-top: 40px;
+  padding: 24px;
+  text-align: center;
+  color: #6b7280;
+  font-size: 0.9rem;
+  border-top: 1px solid var(--border-color);
+  width: 100%;
 }
 
 .site-footer a {
-    color: var(--accent-color);
-    text-decoration: none;
+  color: var(--accent-color);
+  text-decoration: none;
 }
 
 .site-footer a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
