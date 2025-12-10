@@ -83,6 +83,17 @@ async function get(endpoint) {
 // Initialization
 function init() {
     renderSidebar();
+
+    // Event Listeners
+    const menuBtn = document.getElementById('menu-toggle');
+    if (menuBtn) {
+        menuBtn.addEventListener('click', () => {
+            console.log('Menu button clicked');
+            toggleSidebar();
+        });
+    } else {
+        console.error('Menu toggle button not found!');
+    }
 }
 
 function renderSidebar() {
@@ -322,11 +333,9 @@ init();
 
 // UI Helpers
 function toggleSidebar(forceState = null) {
+    console.log('toggleSidebar called', { forceState });
     const nav = document.getElementById('nav-container');
     const isMobile = window.innerWidth <= 768;
-
-    // Only toggle if we are on mobile (or if we want this feature on desktop too, currently css hides button)
-    // But logic should check if class is present.
 
     if (forceState === true) {
         nav.classList.add('open');
