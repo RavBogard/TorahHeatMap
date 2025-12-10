@@ -208,3 +208,65 @@ body {
     font-size: 0.9em;
     opacity: 0.9;
 }
+
+/* Mobile Responsiveness */
+@media screen and (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+
+  #sidebar {
+    width: 100%;
+    height: auto;
+    max-height: 200px; /* Collapsed view or scrollable top bar */
+    border-right: none;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .logo-area {
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo-area h1 {
+    font-size: 1.1rem;
+  }
+
+  .nav-scroll {
+    padding: 8px 16px;
+  }
+  
+  /* Flex main content adjustment */
+  #main-content {
+    padding: 16px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .header-container {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 12px;
+  }
+
+  .header-content h2 {
+    font-size: 1.5rem;
+  }
+
+  #heatmap-container {
+    padding: 16px;
+  }
+
+  .heatmap-grid {
+    grid-template-columns: repeat(auto-fill, minmax(32px, 1fr)); /* Usage of smaller cells on mobile */
+    gap: 4px;
+  }
+  
+  /* Improve touch targets for parasha items */
+  .parasha-item {
+      padding: 12px;
+  }
+}
