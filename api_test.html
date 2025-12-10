@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sefaria API Test</title>
+</head>
+<body>
+    <h1>Sefaria API Test</h1>
+    <div id="output">Running...</div>
+    <script>
+        async function runTest() {
+            const output = document.getElementById('output');
+            const log = (msg) => output.innerHTML += `<p>${msg}</p>`;
+
+            try {
+                // Test 1: Fetch a single verse with commentary
+                log("Fetching Genesis 1:1 with commentary...");
+                const res1 = await fetch('https://www.sefaria.org/api/texts/Genesis.1.1?commentary=1&context=0');
+                const data1 = await res1.json();
+                console.log("Data1:", data1);
+                log(`Genesis 1:1 Commentary Count: ${data1.commentary ? data1.commentary.length : 0}`);
+
+                // Test 2: Fetch a small range related
+                // Note: /api/related might not support ranges well or might be paginated?
+                log("Fetching Related for Genesis 1:1...");
+                const res2 = await fetch('https://www.sefaria.org/api/related/Genesis.1.1');
+                const data2 = await res2.json();
+                console.log("Data2:", data2);
+                log(`Genesis 1:1 Related Links Count: ${data2.links ? data2.links.length : 0}`);
+
+                // Test 3: Fetch Parasha Range (Bereshit) - JUST first chapter to check size
+                log("Fetching Genesis 1 text only...");
+                const res3 = await fetch('https://www.sefaria.org/api/texts/Genesis.1?context=0');
+                const data3 = await res3.json();
+                log(`Genesis 1 Text Length: ${data3.text ? data3.text.length : 0} verses`);
+
+            } catch (e) {
+                log(`Error: ${e.message}`);
+                console.error(e);
+            }
+        }
+        runTest();
+    </script>
+</body>
+</html>

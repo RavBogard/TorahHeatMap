@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sefaria Commentary Heatmap</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <!-- Tippy.js for Tooltips -->
+    <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/animations/scale.css" />
+</head>
+
+<body>
+
+    <div id="sidebar">
+        <div class="logo-area">
+            <h1>Torah Heatmap</h1>
+        </div>
+        <div class="nav-scroll" id="nav-container">
+            <!-- Populated by JS -->
+        </div>
+    </div>
+
+    <div id="main-content">
+        <div class="header-container">
+            <div class="header-content">
+                <h2 id="parasha-title">Select a Parasha</h2>
+                <p id="parasha-hebrew">Exploring Jewish Texts</p>
+            </div>
+            <div id="parasha-ref" class="ref-badge" style="display: none;"></div>
+        </div>
+
+        <div id="heatmap-container">
+            <div class="empty-state">
+                Select a Torah portion from the sidebar to begin exploring.
+            </div>
+        </div>
+    </div>
+
+    <!-- Tippy & Popper -->
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
