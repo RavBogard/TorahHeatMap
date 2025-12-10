@@ -215,6 +215,10 @@ body {
 @media screen and (max-width: 768px) {
   body {
     flex-direction: column;
+    height: auto;
+    min-height: 100vh;
+    overflow-y: auto;
+    /* Enable native scroll */
   }
 
   #sidebar {
@@ -223,6 +227,10 @@ body {
     /* Remove fixed max-height to allow full expansion when open */
     border-right: none;
     border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    /* Pin to top */
+    top: 0;
+    z-index: 200;
   }
 
   .logo-area {
@@ -230,6 +238,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background: var(--sidebar-bg);
+    /* Ensure opaque background when sticky */
   }
 
   .logo-area h1 {
@@ -250,18 +260,20 @@ body {
   .nav-scroll {
     display: none;
     padding: 8px 16px;
-    height: calc(100vh - 60px);
     /* Fill rest of screen */
     border-top: 1px solid var(--border-color);
-    position: absolute;
+    position: fixed;
+    /* Fixed overlay */
     top: 60px;
-    /* Below logo area approx */
+    bottom: 0;
     left: 0;
     right: 0;
+    height: auto;
     background: var(--sidebar-bg);
     z-index: 100;
-    /* Ensure it's on top */
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    /* Allow menu to scroll internally */
   }
 
   /* Show when open */
@@ -274,8 +286,10 @@ body {
     padding: 16px;
     width: 100%;
     box-sizing: border-box;
-    /* Ensure content doesn't get hidden behind absolute header if we fixed header, 
-       but here sidebar header is in flow. Main content starts after it. */
+    overflow: visible;
+    /* Let content overflow naturally */
+    height: auto;
+    flex: none;
   }
 
   /* Indentation for nesting */
@@ -318,4 +332,23 @@ body {
   #menu-toggle {
     display: none;
   }
+}
+/* Footer Styles */
+.site-footer {
+    margin-top: 40px;
+    padding: 24px;
+    text-align: center;
+    color: #6b7280;
+    font-size: 0.9rem;
+    border-top: 1px solid var(--border-color);
+    width: 100%;
+}
+
+.site-footer a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
 }
