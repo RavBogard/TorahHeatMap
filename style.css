@@ -44,6 +44,7 @@ body {
   font-weight: 700;
   background: linear-gradient(135deg, var(--accent-color), #2563eb);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -175,12 +176,13 @@ body {
 
 .verse-cell:hover {
   transform: scale(1.15);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   z-index: 2;
   border: 2px solid white;
 }
 
-.loading-state, .empty-state {
+.loading-state,
+.empty-state {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -191,22 +193,22 @@ body {
 
 /* Tooltip Customisation */
 [data-tippy-root] {
-    font-family: 'Inter', sans-serif;
+  font-family: 'Inter', sans-serif;
 }
 
 .tooltip-content {
-    text-align: center;
+  text-align: center;
 }
 
 .tooltip-ref {
-    font-weight: 700;
-    margin-bottom: 4px;
-    display: block;
+  font-weight: 700;
+  margin-bottom: 4px;
+  display: block;
 }
 
 .tooltip-count {
-    font-size: 0.9em;
-    opacity: 0.9;
+  font-size: 0.9em;
+  opacity: 0.9;
 }
 
 /* Mobile Responsiveness */
@@ -218,7 +220,7 @@ body {
   #sidebar {
     width: 100%;
     height: auto;
-    max-height: 200px; /* Collapsed view or scrollable top bar */
+    /* Remove fixed max-height to allow full expansion when open */
     border-right: none;
     border-bottom: 1px solid var(--border-color);
   }
@@ -234,10 +236,30 @@ body {
     font-size: 1.1rem;
   }
 
-  .nav-scroll {
-    padding: 8px 16px;
+  #menu-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-color);
+    padding: 4px;
+    display: flex;
+    /* Ensure SVG centers */
   }
-  
+
+  /* Hidden by default on mobile */
+  .nav-scroll {
+    display: none;
+    padding: 8px 16px;
+    max-height: 50vh;
+    /* Limit height when open */
+    border-top: 1px solid var(--border-color);
+  }
+
+  /* Show when open */
+  .nav-scroll.open {
+    display: block;
+  }
+
   /* Flex main content adjustment */
   #main-content {
     padding: 16px;
@@ -261,12 +283,20 @@ body {
   }
 
   .heatmap-grid {
-    grid-template-columns: repeat(auto-fill, minmax(32px, 1fr)); /* Usage of smaller cells on mobile */
+    grid-template-columns: repeat(auto-fill, minmax(32px, 1fr));
+    /* Usage of smaller cells on mobile */
     gap: 4px;
   }
-  
+
   /* Improve touch targets for parasha items */
   .parasha-item {
-      padding: 12px;
+    padding: 12px;
+  }
+}
+
+/* Hide toggle on desktop */
+@media screen and (min-width: 769px) {
+  #menu-toggle {
+    display: none;
   }
 }

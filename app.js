@@ -114,6 +114,9 @@ function renderSidebar() {
 }
 
 async function loadParasha(parasha) {
+    // Auto-close sidebar on mobile if open
+    toggleSidebar(false);
+
     currentParasha = parashot;
 
     // Update Header
@@ -316,3 +319,20 @@ function renderHeatmap(data) {
 
 // Start
 init();
+
+// UI Helpers
+function toggleSidebar(forceState = null) {
+    const nav = document.getElementById('nav-container');
+    const isMobile = window.innerWidth <= 768;
+    
+    // Only toggle if we are on mobile (or if we want this feature on desktop too, currently css hides button)
+    // But logic should check if class is present.
+    
+    if (forceState === true) {
+        nav.classList.add('open');
+    } else if (forceState === false) {
+        nav.classList.remove('open');
+    } else {
+        nav.classList.toggle('open');
+    }
+}
