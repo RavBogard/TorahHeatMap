@@ -250,9 +250,18 @@ body {
   .nav-scroll {
     display: none;
     padding: 8px 16px;
-    max-height: 50vh;
-    /* Limit height when open */
+    height: calc(100vh - 60px);
+    /* Fill rest of screen */
     border-top: 1px solid var(--border-color);
+    position: absolute;
+    top: 60px;
+    /* Below logo area approx */
+    left: 0;
+    right: 0;
+    background: var(--sidebar-bg);
+    z-index: 100;
+    /* Ensure it's on top */
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
   }
 
   /* Show when open */
@@ -265,7 +274,17 @@ body {
     padding: 16px;
     width: 100%;
     box-sizing: border-box;
+    /* Ensure content doesn't get hidden behind absolute header if we fixed header, 
+       but here sidebar header is in flow. Main content starts after it. */
   }
+
+  /* Indentation for nesting */
+  .parasha-item {
+    margin-left: 12px;
+    border-left: 2px solid var(--border-color);
+    padding: 12px;
+  }
+
 
   .header-container {
     flex-direction: column;
