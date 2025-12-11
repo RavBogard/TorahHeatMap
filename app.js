@@ -161,6 +161,9 @@ function init() {
 
     // Listen for hash changes (back/forward navigation)
     window.addEventListener('hashchange', checkUrlAndLoadParasha);
+
+    // Initial Load: Global Heatmap
+    loadGlobalHeatmap();
 }
 
 // Search Filter Function
@@ -701,17 +704,91 @@ function toggleDarkMode() {
 }
 
 // Text Helper Functions
-function truncateHebrew(html, maxLength) {
-    if (!html) return '';
-    // Strip HTML tags
-    const tmp = document.createElement('div');
-    tmp.innerHTML = html;
-    const text = tmp.textContent || tmp.innerText || '';
-    // Truncate and add ellipsis if needed
-    if (text.length > maxLength) {
-        return text.substring(0, maxLength) + '...';
+return text;
+}
+
+// Global Heatmap
+async function loadGlobalHeatmap() {
+    const wrapper = document.getElementById('global-heatmap-wrapper');
+    const container = document.getElementById('global-heatmap');
+
+    if (!wrapper || !container) return;
+
+    try {
+        const res = await fetch('data/torah_summary.json');
+        if (!res.ok) throw new Error('Failed to load summary');
+
+        const summary = await res.json();
+        renderGlobalHeatmap(summary);
+        wrapper.style.display = 'block';
+    } catch (e) {
+        console.warn('Could not load global heatmap', e);
+        wrapper.style.display = 'none';
     }
-    return text;
+}
+
+function renderGlobalHeatmap(summary) {
+    const container = document.getElementById('global-heatmap');
+    container.innerHTML = '';
+
+    // Find global max for scaling
+    let max = 0;
+    Object.values(summary).forEach(chapters => {
+        chapters.forEach(c => {
+            if (c.count > max) max = c.count;
+        });
+    });
+
+    // Order: Genesls, Exodus, Leviticus, Numbers, Deuteronomy
+    const books = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"];
+
+    books.forEach(book => {
+        const row = document.createElement('div');
+        row.className = 'global-book-row';
+
+        const label = document.createElement('div');
+        label.className = 'global-book-label';
+        label.textContent = book;
+        row.appendChild(label);
+
+        const chapters = summary[book] || [];
+        const cellsContainer = document.createElement('div');
+        cellsContainer.className = 'global-chapters-grid';
+
+        chapters.forEach(c => {
+            const cell = document.createElement('div');
+            cell.className = 'global-chapter-cell';
+
+            // Color Logic (same linear scale as main map for consistency)
+            const ratio = c.count / (max || 1);
+            const lightness = 95 - (ratio * 60); // 95 -> 35
+
+            cell.style.backgroundColor = `hsl(210, 85%, ${lightness}%)`;
+            cell.style.color = lightness < 60 ? 'white' : '#1e3a5f';
+            cell.textContent = c.chapter;
+
+            // Tippy
+            tippy(cell, {
+                content: `${book} ${c.chapter}<br><b>${c.count}</b> commentaries`,
+                allowHTML: true,
+                animation: 'scale'
+            });
+
+            // Interaction
+            cell.onclick = () => {
+                const slug = c.slug;
+                if (slug) {
+                    const parasha = parashot.find(p => getSlugFromName(p.name) === slug);
+                    if (parasha) loadParasha(parasha);
+                }
+            };
+
+            cellsContainer.appendChild(cell);
+        });
+
+        row.appendChild(cellsContainer);
+        container.appendChild(row);
+    });
 }
 
 window.toggleSidebar = toggleSidebar;

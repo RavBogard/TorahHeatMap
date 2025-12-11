@@ -90,7 +90,8 @@ def fetch_json(endpoint):
     # Sefaria might require User-Agent
     req = urllib.request.Request(url, headers={'User-Agent': 'TorahHeatMap/1.0'})
     try:
-        with urllib.request.urlopen(req) as response:
+        # Add 30s timeout
+        with urllib.request.urlopen(req, timeout=30) as response:
             return json.loads(response.read().decode())
     except urllib.error.HTTPError as e:
         print(f"HTTP Error for {url}: {e.code}")
@@ -101,6 +102,13 @@ def fetch_json(endpoint):
 
 def process_parasha(parasha):
     slug = get_slug(parasha['name'])
+    path_out = os.path.join(DATA_DIR, f"{slug}.json")
+    
+    # Skip if exists (Resume capability)
+    if os.path.exists(path_out):
+        print(f"Skipping {parasha['name']} (already exists)")
+        return True
+
     print(f"Processing {parasha['name']} ({parasha['ref']})...")
 
     # 1. Fetch Text
@@ -108,10 +116,8 @@ def process_parasha(parasha):
     text_data = fetch_json(f"/texts/{parasha['ref'].replace(' ', '%20')}?context=0&pad=0")
     if not text_data:
         return False
-
-    # 2. Parse Text Structure
-    # text_data['sections'] = [start_chapter, start_verse] (usually)
-    # text_data['text'] could be single list (one chapter) or list of lists (multiple)
+    
+    # ... (Rest of logic is fine, just ensure we update the return points if needed)
     
     start_chap = text_data['sections'][0]
     raw_text = text_data['text'] if isinstance(text_data['text'][0], list) else [text_data['text']]
@@ -158,9 +164,6 @@ def process_parasha(parasha):
         time.sleep(0.5) # limit rate
         
         links_data = fetch_json(f"/related/{chap_ref.replace(' ', '%20')}")
-        if notLinks_data := links_data: # wait, python walrus operator might be too new for some? 3.11 is fine.
-            # actually let's stick to standard syntax just in case
-            pass
         
         if not links_data:
             continue
@@ -209,8 +212,7 @@ def process_parasha(parasha):
         'data': render_data
     }
 
-    path = os.path.join(DATA_DIR, f"{slug}.json")
-    with open(path, 'w', encoding='utf-8') as f:
+    with open(path_out, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
     print(f"Saved {slug}.json")
@@ -218,11 +220,7 @@ def process_parasha(parasha):
 
 import concurrent.futures
 
-# ... (imports are same)
-
-# ... (parashot list is same)
-
-# ... (API_BASE, etc same)
+# ... (rest is same)
 
 def process_parasha_wrapper(p):
     try:
@@ -238,8 +236,8 @@ def main():
     
     # Use ThreadPool to fetch in parallel
     # Sefaria might rate limit, so let's check max_workers
-    # 5 workers should be safe enough if we keep individual delays low
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    # Reduced to 3 to be safer with timeouts
+    with concurrent.futures.ThreadPoolExecutor(max_workers=3) as executor:
         futures = {executor.submit(process_parasha_wrapper, p): p for p in parashot}
         
         for future in concurrent.futures.as_completed(futures):
