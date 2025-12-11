@@ -1322,6 +1322,334 @@
           }
         }
       ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 27:1",
+          "hebrewText": "וְעָשִׂ֥יתָ אֶת־הַמִּזְבֵּ֖חַ עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אֹ֜רֶךְ וְחָמֵ֧שׁ אַמּ֣וֹת רֹ֗חַב רָב֤וּעַ יִהְיֶה֙ הַמִּזְבֵּ֔חַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃",
+          "counts": {
+            "all": 111,
+            "Rashi": 5,
+            "Commentary": 54,
+            "Midrash": 9,
+            "Talmud": 11,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 27:2",
+          "hebrewText": "וְעָשִׂ֣יתָ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ תִּהְיֶ֣יןָ קַרְנֹתָ֑יו וְצִפִּיתָ֥ אֹת֖וֹ נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 2,
+            "Commentary": 18,
+            "Midrash": 4,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 27:3",
+          "hebrewText": "וְעָשִׂ֤יתָ סִּֽירֹתָיו֙ לְדַשְּׁנ֔וֹ וְיָעָיו֙ וּמִזְרְקֹתָ֔יו וּמִזְלְגֹתָ֖יו וּמַחְתֹּתָ֑יו לְכׇל־כֵּלָ֖יו תַּעֲשֶׂ֥ה נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 116,
+            "Rashi": 12,
+            "Commentary": 63,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 27:4",
+          "hebrewText": "וְעָשִׂ֤יתָ לּוֹ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת וְעָשִׂ֣יתָ עַל־הָרֶ֗שֶׁת אַרְבַּע֙ טַבְּעֹ֣ת נְחֹ֔שֶׁת עַ֖ל אַרְבַּ֥ע קְצוֹתָֽיו׃",
+          "counts": {
+            "all": 38,
+            "Rashi": 2,
+            "Commentary": 21,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 27:5",
+          "hebrewText": "וְנָתַתָּ֣ה אֹתָ֗הּ תַּ֛חַת כַּרְכֹּ֥ב הַמִּזְבֵּ֖חַ מִלְּמָ֑טָּה וְהָיְתָ֣ה הָרֶ֔שֶׁת עַ֖ד חֲצִ֥י הַמִּזְבֵּֽחַ׃",
+          "counts": {
+            "all": 59,
+            "Rashi": 1,
+            "Commentary": 26,
+            "Midrash": 7,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 27:6",
+          "hebrewText": "וְעָשִׂ֤יתָ בַדִּים֙ לַמִּזְבֵּ֔חַ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 27:7",
+          "hebrewText": "וְהוּבָ֥א אֶת־בַּדָּ֖יו בַּטַּבָּעֹ֑ת וְהָי֣וּ הַבַּדִּ֗ים עַל־שְׁתֵּ֛י צַלְעֹ֥ת הַמִּזְבֵּ֖חַ בִּשְׂאֵ֥ת אֹתֽוֹ׃",
+          "counts": {
+            "all": 26,
+            "Rashi": 1,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 27:8",
+          "hebrewText": "נְב֥וּב לֻחֹ֖ת תַּעֲשֶׂ֣ה אֹת֑וֹ כַּאֲשֶׁ֨ר הֶרְאָ֥ה אֹתְךָ֛ בָּהָ֖ר כֵּ֥ן יַעֲשֽׂוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 73,
+            "Rashi": 2,
+            "Commentary": 47,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 27:9",
+          "hebrewText": "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־תֵּ֠ימָ֠נָה קְלָעִ֨ים לֶחָצֵ֜ר שֵׁ֣שׁ מׇשְׁזָ֗ר מֵאָ֤ה בָֽאַמָּה֙ אֹ֔רֶךְ לַפֵּאָ֖ה הָאֶחָֽת׃",
+          "counts": {
+            "all": 62,
+            "Rashi": 3,
+            "Commentary": 31,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 27:10",
+          "hebrewText": "וְעַמֻּדָ֣יו עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 9,
+            "Commentary": 33,
+            "Midrash": 4,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 27:11",
+          "hebrewText": "וְכֵ֨ן לִפְאַ֤ת צָפוֹן֙ בָּאֹ֔רֶךְ קְלָעִ֖ים מֵ֣אָה אֹ֑רֶךְ <span class=\"mam-kq-trivial\">וְעַמֻּדָ֣ו</span> עֶשְׂרִ֗ים וְאַדְנֵיהֶ֤ם עֶשְׂרִים֙ נְחֹ֔שֶׁת וָוֵ֧י הָֽעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+          "counts": {
+            "all": 21,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 27:12",
+          "hebrewText": "וְרֹ֤חַב הֶֽחָצֵר֙ לִפְאַת־יָ֔ם קְלָעִ֖ים חֲמִשִּׁ֣ים אַמָּ֑ה עַמֻּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָֽה׃",
+          "counts": {
+            "all": 16,
+            "Rashi": 0,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 27:13",
+          "hebrewText": "וְרֹ֣חַב הֶֽחָצֵ֗ר לִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה חֲמִשִּׁ֥ים אַמָּֽה׃",
+          "counts": {
+            "all": 26,
+            "Rashi": 3,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 27:14",
+          "hebrewText": "וַחֲמֵ֨שׁ עֶשְׂרֵ֥ה אַמָּ֛ה קְלָעִ֖ים לַכָּתֵ֑ף עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+          "counts": {
+            "all": 18,
+            "Rashi": 2,
+            "Commentary": 10,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 27:15",
+          "hebrewText": "וְלַכָּתֵף֙ הַשֵּׁנִ֔ית חֲמֵ֥שׁ עֶשְׂרֵ֖ה קְלָעִ֑ים עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 1,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 27:16",
+          "hebrewText": "וּלְשַׁ֨עַר הֶֽחָצֵ֜ר מָסָ֣ךְ&thinsp;<b>׀</b> עֶשְׂרִ֣ים אַמָּ֗ה תְּכֵ֨לֶת וְאַרְגָּמָ֜ן וְתוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מׇשְׁזָ֖ר מַעֲשֵׂ֣ה רֹקֵ֑ם עַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֖ם אַרְבָּעָֽה׃",
+          "counts": {
+            "all": 20,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 27:17",
+          "hebrewText": "כׇּל־עַמּוּדֵ֨י הֶֽחָצֵ֤ר סָבִיב֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף וָוֵיהֶ֖ם כָּ֑סֶף וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 16,
+            "Rashi": 1,
+            "Commentary": 6,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 27:18",
+          "hebrewText": "אֹ֣רֶךְ הֶֽחָצֵר֩ מֵאָ֨ה בָֽאַמָּ֜ה וְרֹ֣חַב&thinsp;<b>׀</b> חֲמִשִּׁ֣ים בַּחֲמִשִּׁ֗ים וְקֹמָ֛ה חָמֵ֥שׁ אַמּ֖וֹת שֵׁ֣שׁ מׇשְׁזָ֑ר וְאַדְנֵיהֶ֖ם נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 88,
+            "Rashi": 7,
+            "Commentary": 42,
+            "Midrash": 7,
+            "Talmud": 6,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 27:19",
+          "hebrewText": "לְכֹל֙ כְּלֵ֣י הַמִּשְׁכָּ֔ן בְּכֹ֖ל עֲבֹדָת֑וֹ וְכׇל־יְתֵדֹתָ֛יו וְכׇל־יִתְדֹ֥ת הֶחָצֵ֖ר נְחֹֽשֶׁת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 50,
+            "Rashi": 4,
+            "Commentary": 26,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        }
+      ]
     }
   ]
 }

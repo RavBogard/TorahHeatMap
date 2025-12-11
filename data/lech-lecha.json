@@ -1074,6 +1074,368 @@
       ]
     },
     {
+      "chapter": 15,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 15:1",
+          "hebrewText": "אַחַ֣ר&thinsp;<b>׀</b> הַדְּבָרִ֣ים הָאֵ֗לֶּה הָיָ֤ה דְבַר־יְהֹוָה֙ אֶל־אַבְרָ֔ם בַּֽמַּחֲזֶ֖ה לֵאמֹ֑ר אַל־תִּירָ֣א אַבְרָ֗ם אָנֹכִי֙ מָגֵ֣ן לָ֔ךְ שְׂכָרְךָ֖ הַרְבֵּ֥ה מְאֹֽד׃",
+          "counts": {
+            "all": 320,
+            "Rashi": 3,
+            "Commentary": 82,
+            "Midrash": 59,
+            "Talmud": 0,
+            "Halakhah": 4,
+            "Kabbalah": 18,
+            "Musar": 12,
+            "Chasidut": 48,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 15:2",
+          "hebrewText": "וַיֹּ֣אמֶר אַבְרָ֗ם אֲדֹנָ֤י יֱהֹוִה֙ מַה־תִּתֶּן־לִ֔י וְאָנֹכִ֖י הוֹלֵ֣ךְ עֲרִירִ֑י וּבֶן־מֶ֣שֶׁק בֵּיתִ֔י ה֖וּא דַּמֶּ֥שֶׂק אֱלִיעֶֽזֶר׃",
+          "counts": {
+            "all": 215,
+            "Rashi": 7,
+            "Commentary": 75,
+            "Midrash": 31,
+            "Talmud": 6,
+            "Halakhah": 0,
+            "Kabbalah": 12,
+            "Musar": 3,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 15:3",
+          "hebrewText": "וַיֹּ֣אמֶר אַבְרָ֔ם הֵ֣ן לִ֔י לֹ֥א נָתַ֖תָּה זָ֑רַע וְהִנֵּ֥ה בֶן־בֵּיתִ֖י יוֹרֵ֥שׁ אֹתִֽי׃",
+          "counts": {
+            "all": 82,
+            "Rashi": 1,
+            "Commentary": 30,
+            "Midrash": 10,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 15:4",
+          "hebrewText": "וְהִנֵּ֨ה דְבַר־יְהֹוָ֤ה אֵלָיו֙ לֵאמֹ֔ר לֹ֥א יִֽירָשְׁךָ֖ זֶ֑ה כִּי־אִם֙ אֲשֶׁ֣ר יֵצֵ֣א מִמֵּעֶ֔יךָ ה֖וּא יִֽירָשֶֽׁךָ׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 0,
+            "Commentary": 20,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 15:5",
+          "hebrewText": "וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֙אמֶר֙ הַבֶּט־נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם־תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ׃",
+          "counts": {
+            "all": 263,
+            "Rashi": 6,
+            "Commentary": 49,
+            "Midrash": 64,
+            "Talmud": 4,
+            "Halakhah": 2,
+            "Kabbalah": 9,
+            "Musar": 10,
+            "Chasidut": 24,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 15:6",
+          "hebrewText": "וְהֶאֱמִ֖ן בַּֽיהֹוָ֑ה וַיַּחְשְׁבֶ֥הָ לּ֖וֹ צְדָקָֽה׃",
+          "counts": {
+            "all": 211,
+            "Rashi": 3,
+            "Commentary": 60,
+            "Midrash": 29,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 8,
+            "Musar": 8,
+            "Chasidut": 36,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 15:7",
+          "hebrewText": "וַיֹּ֖אמֶר אֵלָ֑יו אֲנִ֣י יְהֹוָ֗ה אֲשֶׁ֤ר הוֹצֵאתִ֙יךָ֙ מֵא֣וּר כַּשְׂדִּ֔ים לָ֧תֶת לְךָ֛ אֶת־הָאָ֥רֶץ הַזֹּ֖את לְרִשְׁתָּֽהּ׃",
+          "counts": {
+            "all": 145,
+            "Rashi": 1,
+            "Commentary": 40,
+            "Midrash": 31,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 6,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 15:8",
+          "hebrewText": "וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֔ה בַּמָּ֥ה אֵדַ֖ע כִּ֥י אִֽירָשֶֽׁנָּה׃",
+          "counts": {
+            "all": 161,
+            "Rashi": 4,
+            "Commentary": 28,
+            "Midrash": 28,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 15,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 15:9",
+          "hebrewText": "וַיֹּ֣אמֶר אֵלָ֗יו קְחָ֥ה לִי֙ עֶגְלָ֣ה מְשֻׁלֶּ֔שֶׁת וְעֵ֥ז מְשֻׁלֶּ֖שֶׁת וְאַ֣יִל מְשֻׁלָּ֑שׁ וְתֹ֖ר וְגוֹזָֽל׃",
+          "counts": {
+            "all": 191,
+            "Rashi": 5,
+            "Commentary": 90,
+            "Midrash": 21,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Genesis 15:10",
+          "hebrewText": "וַיִּֽקַּֽח־ל֣וֹ אֶת־כׇּל־אֵ֗לֶּה וַיְבַתֵּ֤ר אֹתָם֙ בַּתָּ֔וֶךְ וַיִּתֵּ֥ן אִישׁ־בִּתְר֖וֹ לִקְרַ֣את רֵעֵ֑הוּ וְאֶת־הַצִּפֹּ֖ר לֹ֥א בָתָֽר׃",
+          "counts": {
+            "all": 131,
+            "Rashi": 3,
+            "Commentary": 55,
+            "Midrash": 16,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Genesis 15:11",
+          "hebrewText": "וַיֵּ֥רֶד הָעַ֖יִט עַל־הַפְּגָרִ֑ים וַיַּשֵּׁ֥ב אֹתָ֖ם אַבְרָֽם׃",
+          "counts": {
+            "all": 117,
+            "Rashi": 6,
+            "Commentary": 48,
+            "Midrash": 23,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Genesis 15:12",
+          "hebrewText": "וַיְהִ֤י הַשֶּׁ֙מֶשׁ֙ לָב֔וֹא וְתַרְדֵּמָ֖ה נָפְלָ֣ה עַל־אַבְרָ֑ם וְהִנֵּ֥ה אֵימָ֛ה חֲשֵׁכָ֥ה גְדֹלָ֖ה נֹפֶ֥לֶת עָלָֽיו׃",
+          "counts": {
+            "all": 134,
+            "Rashi": 2,
+            "Commentary": 34,
+            "Midrash": 22,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 10,
+            "Musar": 8,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Genesis 15:13",
+          "hebrewText": "וַיֹּ֣אמֶר לְאַבְרָ֗ם יָדֹ֨עַ תֵּדַ֜ע כִּי־גֵ֣ר&thinsp;<b>׀</b> יִהְיֶ֣ה זַרְעֲךָ֗ בְּאֶ֙רֶץ֙ לֹ֣א לָהֶ֔ם וַעֲבָד֖וּם וְעִנּ֣וּ אֹתָ֑ם אַרְבַּ֥ע מֵא֖וֹת שָׁנָֽה׃",
+          "counts": {
+            "all": 414,
+            "Rashi": 11,
+            "Commentary": 68,
+            "Midrash": 83,
+            "Talmud": 6,
+            "Halakhah": 4,
+            "Kabbalah": 7,
+            "Musar": 13,
+            "Chasidut": 54,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Genesis 15:14",
+          "hebrewText": "וְגַ֧ם אֶת־הַגּ֛וֹי אֲשֶׁ֥ר יַעֲבֹ֖דוּ דָּ֣ן אָנֹ֑כִי וְאַחֲרֵי־כֵ֥ן יֵצְא֖וּ בִּרְכֻ֥שׁ גָּדֽוֹל׃",
+          "counts": {
+            "all": 231,
+            "Rashi": 9,
+            "Commentary": 43,
+            "Midrash": 50,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 43,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Genesis 15:15",
+          "hebrewText": "וְאַתָּ֛ה תָּב֥וֹא אֶל־אֲבֹתֶ֖יךָ בְּשָׁל֑וֹם תִּקָּבֵ֖ר בְּשֵׂיבָ֥ה טוֹבָֽה׃",
+          "counts": {
+            "all": 163,
+            "Rashi": 4,
+            "Commentary": 42,
+            "Midrash": 44,
+            "Talmud": 4,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Genesis 15:16",
+          "hebrewText": "וְד֥וֹר רְבִיעִ֖י יָשׁ֣וּבוּ הֵ֑נָּה כִּ֧י לֹא־שָׁלֵ֛ם עֲוֺ֥ן הָאֱמֹרִ֖י עַד־הֵֽנָּה׃",
+          "counts": {
+            "all": 202,
+            "Rashi": 3,
+            "Commentary": 70,
+            "Midrash": 19,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 7,
+            "Chasidut": 20,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Genesis 15:17",
+          "hebrewText": "וַיְהִ֤י הַשֶּׁ֙מֶשׁ֙ בָּ֔אָה וַעֲלָטָ֖ה הָיָ֑ה וְהִנֵּ֨ה תַנּ֤וּר עָשָׁן֙ וְלַפִּ֣יד אֵ֔שׁ אֲשֶׁ֣ר עָבַ֔ר בֵּ֖ין הַגְּזָרִ֥ים הָאֵֽלֶּה׃",
+          "counts": {
+            "all": 187,
+            "Rashi": 8,
+            "Commentary": 65,
+            "Midrash": 31,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 5,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Genesis 15:18",
+          "hebrewText": "בַּיּ֣וֹם הַה֗וּא כָּרַ֧ת יְהֹוָ֛ה אֶת־אַבְרָ֖ם בְּרִ֣ית לֵאמֹ֑ר לְזַרְעֲךָ֗ נָתַ֙תִּי֙ אֶת־הָאָ֣רֶץ הַזֹּ֔את מִנְּהַ֣ר מִצְרַ֔יִם עַד־הַנָּהָ֥ר הַגָּדֹ֖ל נְהַר־פְּרָֽת׃",
+          "counts": {
+            "all": 188,
+            "Rashi": 5,
+            "Commentary": 36,
+            "Midrash": 56,
+            "Talmud": 4,
+            "Halakhah": 4,
+            "Kabbalah": 4,
+            "Musar": 3,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Genesis 15:19",
+          "hebrewText": "אֶת־הַקֵּינִי֙ וְאֶת־הַקְּנִזִּ֔י וְאֵ֖ת הַקַּדְמֹנִֽי׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 2,
+            "Commentary": 22,
+            "Midrash": 12,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 15:20",
+          "hebrewText": "וְאֶת־הַחִתִּ֥י וְאֶת־הַפְּרִזִּ֖י וְאֶת־הָרְפָאִֽים׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 2,
+            "Commentary": 20,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 15:21",
+          "hebrewText": "וְאֶת־הָֽאֱמֹרִי֙ וְאֶת־הַֽכְּנַעֲנִ֔י וְאֶת־הַגִּרְגָּשִׁ֖י וְאֶת־הַיְבוּסִֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 33,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 22,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
       "chapter": 16,
       "verses": [
         {

@@ -71,6 +71,23 @@ let currentParasha = null;
 let thisWeekParasha = null; // Fetched from Hebcal
 let verseData = {}; // { "Genesis 1:1": { text: "...", count: 120 } }
 let maxCount = 0;
+let useAbsoluteScale = false;
+
+// Global Max Counts (Calculated)
+const GLOBAL_MAX_COUNTS = {
+    "all": 1357,
+    "Rashi": 22,
+    "Commentary": 1014,
+    "Midrash": 419,
+    "Talmud": 94,
+    "Halakhah": 104,
+    "Kabbalah": 87,
+    "Musar": 60,
+    "Chasidut": 289,
+    "Modern": 0,
+    // Add variations if needed for exact matching, but categories are fixed
+    "Chassidut": 289
+};
 
 // Cached data for filter reprocessing
 let cachedLinks = []; // Raw links data from Sefaria (Legacy/Fallback)
@@ -156,6 +173,16 @@ function init() {
         });
     }
 
+    // Scale Toggle
+    const scaleToggle = document.getElementById('scale-toggle');
+    if (scaleToggle) {
+        scaleToggle.addEventListener('change', (e) => {
+            useAbsoluteScale = e.target.checked;
+            const currentCat = categoryFilter ? categoryFilter.value : 'all';
+            applyFilter(currentCat);
+        });
+    }
+
     // URL Routing: Check for hash on page load
     checkUrlAndLoadParasha();
 
@@ -200,13 +227,20 @@ function applyFilter(category) {
         maxCount = 0;
         const renderData = [];
 
+        // Determine max count strategy
+        if (useAbsoluteScale) {
+            maxCount = GLOBAL_MAX_COUNTS[category] || GLOBAL_MAX_COUNTS['all'];
+        }
+
         cachedStaticData.data.forEach(chap => {
             const verses = [];
             chap.verses.forEach(v => {
                 // Get count for category, default to 0
                 const count = v.counts[category] || 0;
 
-                if (count > maxCount) maxCount = count;
+                if (!useAbsoluteScale) {
+                    if (count > maxCount) maxCount = count;
+                }
 
                 verses.push({
                     verse: v.verse,
@@ -231,6 +265,11 @@ function applyFilter(category) {
     // Recalculate counts based on category
     const countsMap = {};
     maxCount = 0;
+
+    // Set absolute max if enabled
+    if (useAbsoluteScale) {
+        maxCount = GLOBAL_MAX_COUNTS[category] || GLOBAL_MAX_COUNTS['all'];
+    }
 
     cachedLinks.forEach(res => {
         if (!res.links) return;
@@ -259,7 +298,9 @@ function applyFilter(category) {
             const verseNum = chap.startVerse + v;
             const verseRef = `${cachedBookName} ${chap.chapter}:${verseNum}`;
             const count = countsMap[verseRef] || 0;
-            if (count > maxCount) maxCount = count;
+            if (!useAbsoluteScale) {
+                if (count > maxCount) maxCount = count;
+            }
 
             verses.push({
                 verse: verseNum,
@@ -513,6 +554,12 @@ async function loadParasha(parasha, updateUrl = true) {
 
         // Process results
         maxCount = 0;
+        if (useAbsoluteScale) {
+            // Initial load is always "all" or we should check filter?
+            // Usually on load it is "all".
+            const cat = document.getElementById('category-filter')?.value || 'all';
+            maxCount = GLOBAL_MAX_COUNTS[cat] || GLOBAL_MAX_COUNTS['all'];
+        }
 
         // Create a map of "Book Chap:Verse" -> count
         const countsMap = {};
@@ -541,7 +588,13 @@ async function loadParasha(parasha, updateUrl = true) {
                 const verseNum = chap.startVerse + v;
                 const verseRef = `${textData.book} ${chap.chapter}:${verseNum}`;
                 const count = countsMap[verseRef] || 0;
-                if (count > maxCount) maxCount = count;
+
+                // Logic handled in render/applyFilter mostly, but initial load needs max too
+                // However, initial load calls renderHeatmap directly... wait.
+                // Initial load calculates maxCount here for the *initial* view (all categories)
+                if (!useAbsoluteScale) {
+                    if (count > maxCount) maxCount = count;
+                }
 
                 verses.push({
                     verse: verseNum,

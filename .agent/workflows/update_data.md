@@ -20,3 +20,4 @@ To update the static data cache (e.g. if Sefaria data changes or you want to ref
    git commit -m "Update cached data from Sefaria"
    git push
    ```
+TorahHeatMap/scripts/generate_summary.py

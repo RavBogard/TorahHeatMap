@@ -5,6 +5,283 @@
   "book": "Genesis",
   "data": [
     {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 19,
+          "ref": "Genesis 25:19",
+          "hebrewText": "וְאֵ֛לֶּה תּוֹלְדֹ֥ת יִצְחָ֖ק בֶּן־אַבְרָהָ֑ם אַבְרָהָ֖ם הוֹלִ֥יד אֶת־יִצְחָֽק׃",
+          "counts": {
+            "all": 242,
+            "Rashi": 2,
+            "Commentary": 113,
+            "Midrash": 28,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 71,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 25:20",
+          "hebrewText": "וַיְהִ֤י יִצְחָק֙ בֶּן־אַרְבָּעִ֣ים שָׁנָ֔ה בְּקַחְתּ֣וֹ אֶת־רִבְקָ֗ה בַּת־בְּתוּאֵל֙ הָֽאֲרַמִּ֔י מִפַּדַּ֖ן אֲרָ֑ם אֲח֛וֹת לָבָ֥ן הָאֲרַמִּ֖י ל֥וֹ לְאִשָּֽׁה׃",
+          "counts": {
+            "all": 145,
+            "Rashi": 3,
+            "Commentary": 83,
+            "Midrash": 18,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 25:21",
+          "hebrewText": "וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהֹוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהֹוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ׃",
+          "counts": {
+            "all": 243,
+            "Rashi": 8,
+            "Commentary": 94,
+            "Midrash": 41,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 6,
+            "Chasidut": 44,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Genesis 25:22",
+          "hebrewText": "וַיִּתְרֹֽצְצ֤וּ הַבָּנִים֙ בְּקִרְבָּ֔הּ וַתֹּ֣אמֶר אִם־כֵּ֔ן לָ֥מָּה זֶּ֖ה אָנֹ֑כִי וַתֵּ֖לֶךְ לִדְרֹ֥שׁ אֶת־יְהֹוָֽה׃",
+          "counts": {
+            "all": 229,
+            "Rashi": 7,
+            "Commentary": 112,
+            "Midrash": 34,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 26,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Genesis 25:23",
+          "hebrewText": "וַיֹּ֨אמֶר יְהֹוָ֜ה לָ֗הּ שְׁנֵ֤י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(גיים)</span> <span class=\"mam-kq-q\">[גוֹיִם֙]</span></span> בְּבִטְנֵ֔ךְ וּשְׁנֵ֣י לְאֻמִּ֔ים מִמֵּעַ֖יִךְ יִפָּרֵ֑דוּ וּלְאֹם֙ מִלְאֹ֣ם יֶֽאֱמָ֔ץ וְרַ֖ב יַעֲבֹ֥ד צָעִֽיר׃",
+          "counts": {
+            "all": 344,
+            "Rashi": 5,
+            "Commentary": 134,
+            "Midrash": 61,
+            "Talmud": 8,
+            "Halakhah": 2,
+            "Kabbalah": 9,
+            "Musar": 7,
+            "Chasidut": 34,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Genesis 25:24",
+          "hebrewText": "וַיִּמְלְא֥וּ יָמֶ֖יהָ לָלֶ֑דֶת וְהִנֵּ֥ה תוֹמִ֖ם בְּבִטְנָֽהּ׃",
+          "counts": {
+            "all": 79,
+            "Rashi": 2,
+            "Commentary": 35,
+            "Midrash": 11,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Genesis 25:25",
+          "hebrewText": "וַיֵּצֵ֤א הָרִאשׁוֹן֙ אַדְמוֹנִ֔י כֻּלּ֖וֹ כְּאַדֶּ֣רֶת שֵׂעָ֑ר וַיִּקְרְא֥וּ שְׁמ֖וֹ עֵשָֽׂו׃",
+          "counts": {
+            "all": 205,
+            "Rashi": 4,
+            "Commentary": 85,
+            "Midrash": 40,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 8,
+            "Musar": 2,
+            "Chasidut": 25,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Genesis 25:26",
+          "hebrewText": "וְאַֽחֲרֵי־כֵ֞ן יָצָ֣א אָחִ֗יו וְיָד֤וֹ אֹחֶ֙זֶת֙ בַּעֲקֵ֣ב עֵשָׂ֔ו וַיִּקְרָ֥א שְׁמ֖וֹ יַעֲקֹ֑ב וְיִצְחָ֛ק בֶּן־שִׁשִּׁ֥ים שָׁנָ֖ה בְּלֶ֥דֶת אֹתָֽם׃",
+          "counts": {
+            "all": 236,
+            "Rashi": 4,
+            "Commentary": 81,
+            "Midrash": 33,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 8,
+            "Musar": 11,
+            "Chasidut": 51,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Genesis 25:27",
+          "hebrewText": "וַֽיִּגְדְּלוּ֙ הַנְּעָרִ֔ים וַיְהִ֣י עֵשָׂ֗ו אִ֛ישׁ יֹדֵ֥עַ צַ֖יִד אִ֣ישׁ שָׂדֶ֑ה וְיַעֲקֹב֙ אִ֣ישׁ תָּ֔ם יֹשֵׁ֖ב אֹהָלִֽים׃",
+          "counts": {
+            "all": 393,
+            "Rashi": 8,
+            "Commentary": 106,
+            "Midrash": 69,
+            "Talmud": 5,
+            "Halakhah": 3,
+            "Kabbalah": 60,
+            "Musar": 23,
+            "Chasidut": 48,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Genesis 25:28",
+          "hebrewText": "וַיֶּאֱהַ֥ב יִצְחָ֛ק אֶת־עֵשָׂ֖ו כִּי־צַ֣יִד בְּפִ֑יו וְרִבְקָ֖ה אֹהֶ֥בֶת אֶֽת־יַעֲקֹֽב׃",
+          "counts": {
+            "all": 138,
+            "Rashi": 1,
+            "Commentary": 51,
+            "Midrash": 24,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 8,
+            "Musar": 5,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Genesis 25:29",
+          "hebrewText": "וַיָּ֥זֶד יַעֲקֹ֖ב נָזִ֑יד וַיָּבֹ֥א עֵשָׂ֛ו מִן־הַשָּׂדֶ֖ה וְה֥וּא עָיֵֽף׃",
+          "counts": {
+            "all": 113,
+            "Rashi": 4,
+            "Commentary": 44,
+            "Midrash": 24,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Genesis 25:30",
+          "hebrewText": "וַיֹּ֨אמֶר עֵשָׂ֜ו אֶֽל־יַעֲקֹ֗ב הַלְעִיטֵ֤נִי נָא֙ מִן־הָאָדֹ֤ם הָאָדֹם֙ הַזֶּ֔ה כִּ֥י עָיֵ֖ף אָנֹ֑כִי עַל־כֵּ֥ן קָרָֽא־שְׁמ֖וֹ אֱדֽוֹם׃",
+          "counts": {
+            "all": 140,
+            "Rashi": 2,
+            "Commentary": 57,
+            "Midrash": 25,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 9,
+            "Musar": 10,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Genesis 25:31",
+          "hebrewText": "וַיֹּ֖אמֶר יַעֲקֹ֑ב מִכְרָ֥ה כַיּ֛וֹם אֶת־בְּכֹרָתְךָ֖ לִֽי׃",
+          "counts": {
+            "all": 102,
+            "Rashi": 2,
+            "Commentary": 53,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Genesis 25:32",
+          "hebrewText": "וַיֹּ֣אמֶר עֵשָׂ֔ו הִנֵּ֛ה אָנֹכִ֥י הוֹלֵ֖ךְ לָמ֑וּת וְלָמָּה־זֶּ֥ה לִ֖י בְּכֹרָֽה׃",
+          "counts": {
+            "all": 101,
+            "Rashi": 2,
+            "Commentary": 31,
+            "Midrash": 24,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 4,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Genesis 25:33",
+          "hebrewText": "וַיֹּ֣אמֶר יַעֲקֹ֗ב הִשָּׁ֤בְעָה לִּי֙ כַּיּ֔וֹם וַיִּשָּׁבַ֖ע ל֑וֹ וַיִּמְכֹּ֥ר אֶת־בְּכֹרָת֖וֹ לְיַעֲקֹֽב׃",
+          "counts": {
+            "all": 59,
+            "Rashi": 0,
+            "Commentary": 20,
+            "Midrash": 15,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Genesis 25:34",
+          "hebrewText": "וְיַעֲקֹ֞ב נָתַ֣ן לְעֵשָׂ֗ו לֶ֚חֶם וּנְזִ֣יד עֲדָשִׁ֔ים וַיֹּ֣אכַל וַיֵּ֔שְׁתְּ וַיָּ֖קׇם וַיֵּלַ֑ךְ וַיִּ֥בֶז עֵשָׂ֖ו אֶת־הַבְּכֹרָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 151,
+            "Rashi": 5,
+            "Commentary": 59,
+            "Midrash": 44,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
       "chapter": 26,
       "verses": [
         {

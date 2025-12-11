@@ -5,6 +5,572 @@
   "book": "Numbers",
   "data": [
     {
+      "chapter": 13,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Numbers 13:1",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 34,
+            "Rashi": 0,
+            "Commentary": 15,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Numbers 13:2",
+          "hebrewText": "שְׁלַח־לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֙רוּ֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר־אֲנִ֥י נֹתֵ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם׃",
+          "counts": {
+            "all": 259,
+            "Rashi": 4,
+            "Commentary": 121,
+            "Midrash": 17,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 47,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Numbers 13:3",
+          "hebrewText": "וַיִּשְׁלַ֨ח אֹתָ֥ם מֹשֶׁ֛ה מִמִּדְבַּ֥ר פָּארָ֖ן עַל־פִּ֣י יְהֹוָ֑ה כֻּלָּ֣ם אֲנָשִׁ֔ים רָאשֵׁ֥י בְנֵֽי־יִשְׂרָאֵ֖ל הֵֽמָּה׃",
+          "counts": {
+            "all": 84,
+            "Rashi": 2,
+            "Commentary": 33,
+            "Midrash": 8,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Numbers 13:4",
+          "hebrewText": "וְאֵ֖לֶּה שְׁמוֹתָ֑ם לְמַטֵּ֣ה רְאוּבֵ֔ן שַׁמּ֖וּעַ בֶּן־זַכּֽוּר׃",
+          "counts": {
+            "all": 32,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 6,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Numbers 13:5",
+          "hebrewText": "לְמַטֵּ֣ה שִׁמְע֔וֹן שָׁפָ֖ט בֶּן־חוֹרִֽי׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Numbers 13:6",
+          "hebrewText": "לְמַטֵּ֣ה יְהוּדָ֔ה כָּלֵ֖ב בֶּן־יְפֻנֶּֽה׃",
+          "counts": {
+            "all": 17,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Numbers 13:7",
+          "hebrewText": "לְמַטֵּ֣ה יִשָּׂשכָ֔ר יִגְאָ֖ל בֶּן־יוֹסֵֽף׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 1,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Numbers 13:8",
+          "hebrewText": "לְמַטֵּ֥ה אֶפְרָ֖יִם הוֹשֵׁ֥עַ בִּן־נֽוּן׃",
+          "counts": {
+            "all": 34,
+            "Rashi": 1,
+            "Commentary": 8,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Numbers 13:9",
+          "hebrewText": "לְמַטֵּ֣ה בִנְיָמִ֔ן פַּלְטִ֖י בֶּן־רָפֽוּא׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Numbers 13:10",
+          "hebrewText": "לְמַטֵּ֣ה זְבוּלֻ֔ן גַּדִּיאֵ֖ל בֶּן־סוֹדִֽי׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Numbers 13:11",
+          "hebrewText": "לְמַטֵּ֥ה יוֹסֵ֖ף לְמַטֵּ֣ה מְנַשֶּׁ֑ה גַּדִּ֖י בֶּן־סוּסִֽי׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Numbers 13:12",
+          "hebrewText": "לְמַטֵּ֣ה דָ֔ן עַמִּיאֵ֖ל בֶּן־גְּמַלִּֽי׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 2,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Numbers 13:13",
+          "hebrewText": "לְמַטֵּ֣ה אָשֵׁ֔ר סְת֖וּר בֶּן־מִיכָאֵֽל׃",
+          "counts": {
+            "all": 19,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Numbers 13:14",
+          "hebrewText": "לְמַטֵּ֣ה נַפְתָּלִ֔י נַחְבִּ֖י בֶּן־וׇפְסִֽי׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 4,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Numbers 13:15",
+          "hebrewText": "לְמַטֵּ֣ה גָ֔ד גְּאוּאֵ֖ל בֶּן־מָכִֽי׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Numbers 13:16",
+          "hebrewText": "אֵ֚לֶּה שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁר־שָׁלַ֥ח מֹשֶׁ֖ה לָת֣וּר אֶת־הָאָ֑רֶץ וַיִּקְרָ֥א מֹשֶׁ֛ה לְהוֹשֵׁ֥עַ בִּן־נ֖וּן יְהוֹשֻֽׁעַ׃",
+          "counts": {
+            "all": 149,
+            "Rashi": 4,
+            "Commentary": 53,
+            "Midrash": 27,
+            "Talmud": 3,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 3,
+            "Chasidut": 18,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Numbers 13:17",
+          "hebrewText": "וַיִּשְׁלַ֤ח אֹתָם֙ מֹשֶׁ֔ה לָת֖וּר אֶת־אֶ֣רֶץ כְּנָ֑עַן וַיֹּ֣אמֶר אֲלֵהֶ֗ם עֲל֥וּ זֶה֙ בַּנֶּ֔גֶב וַעֲלִיתֶ֖ם אֶת־הָהָֽר׃",
+          "counts": {
+            "all": 83,
+            "Rashi": 1,
+            "Commentary": 35,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Numbers 13:18",
+          "hebrewText": "וּרְאִיתֶ֥ם אֶת־הָאָ֖רֶץ מַה־הִ֑וא וְאֶת־הָעָם֙ הַיֹּשֵׁ֣ב עָלֶ֔יהָ הֶחָזָ֥ק הוּא֙ הֲרָפֶ֔ה הַמְעַ֥ט ה֖וּא אִם־רָֽב׃",
+          "counts": {
+            "all": 93,
+            "Rashi": 2,
+            "Commentary": 43,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Numbers 13:19",
+          "hebrewText": "וּמָ֣ה הָאָ֗רֶץ אֲשֶׁר־הוּא֙ יֹשֵׁ֣ב בָּ֔הּ הֲטוֹבָ֥ה הִ֖וא אִם־רָעָ֑ה וּמָ֣ה הֶֽעָרִ֗ים אֲשֶׁר־הוּא֙ יוֹשֵׁ֣ב בָּהֵ֔נָּה הַבְּמַֽחֲנִ֖ים אִ֥ם בְּמִבְצָרִֽים׃",
+          "counts": {
+            "all": 66,
+            "Rashi": 4,
+            "Commentary": 35,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Numbers 13:20",
+          "hebrewText": "וּמָ֣ה הָ֠אָ֠רֶץ הַשְּׁמֵנָ֨ה הִ֜וא אִם־רָזָ֗ה הֲיֵֽשׁ־בָּ֥הּ עֵץ֙ אִם־אַ֔יִן וְהִ֨תְחַזַּקְתֶּ֔ם וּלְקַחְתֶּ֖ם מִפְּרִ֣י הָאָ֑רֶץ וְהַ֨יָּמִ֔ים יְמֵ֖י בִּכּוּרֵ֥י עֲנָבִֽים׃",
+          "counts": {
+            "all": 128,
+            "Rashi": 5,
+            "Commentary": 53,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 7,
+            "Chasidut": 23,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Numbers 13:21",
+          "hebrewText": "וַֽיַּעֲל֖וּ וַיָּתֻ֣רוּ אֶת־הָאָ֑רֶץ מִמִּדְבַּר־צִ֥ן עַד־רְחֹ֖ב לְבֹ֥א חֲמָֽת׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 3,
+            "Commentary": 22,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Numbers 13:22",
+          "hebrewText": "וַיַּעֲל֣וּ בַנֶּ֘גֶב֮ וַיָּבֹ֣א עַד־חֶבְרוֹן֒ וְשָׁ֤ם אֲחִימַן֙ שֵׁשַׁ֣י וְתַלְמַ֔י יְלִידֵ֖י הָעֲנָ֑ק וְחֶבְר֗וֹן שֶׁ֤בַע שָׁנִים֙ נִבְנְתָ֔ה לִפְנֵ֖י צֹ֥עַן מִצְרָֽיִם׃",
+          "counts": {
+            "all": 191,
+            "Rashi": 9,
+            "Commentary": 77,
+            "Midrash": 27,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 3,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Numbers 13:23",
+          "hebrewText": "וַיָּבֹ֜אוּ עַד־נַ֣חַל אֶשְׁכֹּ֗ל וַיִּכְרְת֨וּ מִשָּׁ֤ם זְמוֹרָה֙ וְאֶשְׁכּ֤וֹל עֲנָבִים֙ אֶחָ֔ד וַיִּשָּׂאֻ֥הוּ בַמּ֖וֹט בִּשְׁנָ֑יִם וּמִן־הָרִמֹּנִ֖ים וּמִן־הַתְּאֵנִֽים׃",
+          "counts": {
+            "all": 121,
+            "Rashi": 2,
+            "Commentary": 55,
+            "Midrash": 15,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 7,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Numbers 13:24",
+          "hebrewText": "לַמָּק֣וֹם הַה֔וּא קָרָ֖א נַ֣חַל אֶשְׁכּ֑וֹל עַ֚ל אֹד֣וֹת הָֽאֶשְׁכּ֔וֹל אֲשֶׁר־כָּרְת֥וּ מִשָּׁ֖ם בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 0,
+            "Commentary": 19,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Numbers 13:25",
+          "hebrewText": "וַיָּשֻׁ֖בוּ מִתּ֣וּר הָאָ֑רֶץ מִקֵּ֖ץ אַרְבָּעִ֥ים יֽוֹם׃",
+          "counts": {
+            "all": 48,
+            "Rashi": 3,
+            "Commentary": 20,
+            "Midrash": 8,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Numbers 13:26",
+          "hebrewText": "וַיֵּלְכ֡וּ וַיָּבֹ֩אוּ֩ אֶל־מֹשֶׁ֨ה וְאֶֽל־אַהֲרֹ֜ן וְאֶל־כׇּל־עֲדַ֧ת בְּנֵֽי־יִשְׂרָאֵ֛ל אֶל־מִדְבַּ֥ר פָּארָ֖ן קָדֵ֑שָׁה וַיָּשִׁ֨יבוּ אֹתָ֤ם דָּבָר֙ וְאֶת־כׇּל־הָ֣עֵדָ֔ה וַיַּרְא֖וּם אֶת־פְּרִ֥י הָאָֽרֶץ׃",
+          "counts": {
+            "all": 84,
+            "Rashi": 2,
+            "Commentary": 47,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Numbers 13:27",
+          "hebrewText": "וַיְסַפְּרוּ־לוֹ֙ וַיֹּ֣אמְר֔וּ בָּ֕אנוּ אֶל־הָאָ֖רֶץ אֲשֶׁ֣ר שְׁלַחְתָּ֑נוּ וְ֠גַ֠ם זָבַ֨ת חָלָ֥ב וּדְבַ֛שׁ הִ֖וא וְזֶה־פִּרְיָֽהּ׃",
+          "counts": {
+            "all": 62,
+            "Rashi": 1,
+            "Commentary": 26,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Numbers 13:28",
+          "hebrewText": "אֶ֚פֶס כִּֽי־עַ֣ז הָעָ֔ם הַיֹּשֵׁ֖ב בָּאָ֑רֶץ וְהֶֽעָרִ֗ים בְּצֻר֤וֹת גְּדֹלֹת֙ מְאֹ֔ד וְגַם־יְלִדֵ֥י הָֽעֲנָ֖ק רָאִ֥ינוּ שָֽׁם׃",
+          "counts": {
+            "all": 70,
+            "Rashi": 2,
+            "Commentary": 34,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Numbers 13:29",
+          "hebrewText": "עֲמָלֵ֥ק יוֹשֵׁ֖ב בְּאֶ֣רֶץ הַנֶּ֑גֶב וְ֠הַֽחִתִּ֠י וְהַיְבוּסִ֤י וְהָֽאֱמֹרִי֙ יוֹשֵׁ֣ב בָּהָ֔ר וְהַֽכְּנַעֲנִי֙ יוֹשֵׁ֣ב עַל־הַיָּ֔ם וְעַ֖ל יַ֥ד הַיַּרְדֵּֽן׃",
+          "counts": {
+            "all": 62,
+            "Rashi": 4,
+            "Commentary": 16,
+            "Midrash": 16,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Numbers 13:30",
+          "hebrewText": "וַיַּ֧הַס כָּלֵ֛ב אֶת־הָעָ֖ם אֶל־מֹשֶׁ֑ה וַיֹּ֗אמֶר עָלֹ֤ה נַעֲלֶה֙ וְיָרַ֣שְׁנוּ אֹתָ֔הּ כִּֽי־יָכ֥וֹל נוּכַ֖ל לָֽהּ׃",
+          "counts": {
+            "all": 137,
+            "Rashi": 8,
+            "Commentary": 60,
+            "Midrash": 14,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 4,
+            "Chasidut": 15,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Numbers 13:31",
+          "hebrewText": "וְהָ֨אֲנָשִׁ֜ים אֲשֶׁר־עָל֤וּ עִמּוֹ֙ אָֽמְר֔וּ לֹ֥א נוּכַ֖ל לַעֲל֣וֹת אֶל־הָעָ֑ם כִּֽי־חָזָ֥ק ה֖וּא מִמֶּֽנּוּ׃",
+          "counts": {
+            "all": 78,
+            "Rashi": 1,
+            "Commentary": 24,
+            "Midrash": 12,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Numbers 13:32",
+          "hebrewText": "וַיֹּצִ֜יאוּ דִּבַּ֤ת הָאָ֙רֶץ֙ אֲשֶׁ֣ר תָּר֣וּ אֹתָ֔הּ אֶל־בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר הָאָ֡רֶץ אֲשֶׁר֩ עָבַ֨רְנוּ בָ֜הּ לָת֣וּר אֹתָ֗הּ אֶ֣רֶץ אֹכֶ֤לֶת יוֹשְׁבֶ֙יהָ֙ הִ֔וא וְכׇל־הָעָ֛ם אֲשֶׁר־רָאִ֥ינוּ בְתוֹכָ֖הּ אַנְשֵׁ֥י מִדּֽוֹת׃",
+          "counts": {
+            "all": 154,
+            "Rashi": 7,
+            "Commentary": 50,
+            "Midrash": 20,
+            "Talmud": 3,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 3,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Numbers 13:33",
+          "hebrewText": "וְשָׁ֣ם רָאִ֗ינוּ אֶת־הַנְּפִילִ֛ים בְּנֵ֥י עֲנָ֖ק מִן־הַנְּפִלִ֑ים וַנְּהִ֤י בְעֵינֵ֙ינוּ֙ כַּֽחֲגָבִ֔ים וְכֵ֥ן הָיִ֖ינוּ בְּעֵינֵיהֶֽם׃",
+          "counts": {
+            "all": 110,
+            "Rashi": 3,
+            "Commentary": 54,
+            "Midrash": 11,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
       "chapter": 14,
       "verses": [
         {

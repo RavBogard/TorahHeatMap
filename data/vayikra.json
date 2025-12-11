@@ -5,6 +5,300 @@
   "book": "Leviticus",
   "data": [
     {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Leviticus 1:1",
+          "hebrewText": "וַיִּקְרָ֖<small>א</small> אֶל־מֹשֶׁ֑ה וַיְדַבֵּ֤ר יְהֹוָה֙ אֵלָ֔יו מֵאֹ֥הֶל מוֹעֵ֖ד לֵאמֹֽר׃",
+          "counts": {
+            "all": 507,
+            "Rashi": 11,
+            "Commentary": 235,
+            "Midrash": 92,
+            "Talmud": 5,
+            "Halakhah": 5,
+            "Kabbalah": 23,
+            "Musar": 14,
+            "Chasidut": 59,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Leviticus 1:2",
+          "hebrewText": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם אָדָ֗ם כִּֽי־יַקְרִ֥יב מִכֶּ֛ם קׇרְבָּ֖ן לַֽיהֹוָ֑ה מִן־הַבְּהֵמָ֗ה מִן־הַבָּקָר֙ וּמִן־הַצֹּ֔אן תַּקְרִ֖יבוּ אֶת־קׇרְבַּנְכֶֽם׃",
+          "counts": {
+            "all": 580,
+            "Rashi": 12,
+            "Commentary": 246,
+            "Midrash": 86,
+            "Talmud": 35,
+            "Halakhah": 5,
+            "Kabbalah": 17,
+            "Musar": 26,
+            "Chasidut": 61,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Leviticus 1:3",
+          "hebrewText": "אִם־עֹלָ֤ה קׇרְבָּנוֹ֙ מִן־הַבָּקָ֔ר זָכָ֥ר תָּמִ֖ים יַקְרִיבֶ֑נּוּ אֶל־פֶּ֜תַח אֹ֤הֶל מוֹעֵד֙ יַקְרִ֣יב אֹת֔וֹ לִרְצֹנ֖וֹ לִפְנֵ֥י יְהֹוָֽה׃",
+          "counts": {
+            "all": 295,
+            "Rashi": 8,
+            "Commentary": 141,
+            "Midrash": 41,
+            "Talmud": 24,
+            "Halakhah": 8,
+            "Kabbalah": 4,
+            "Musar": 4,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Leviticus 1:4",
+          "hebrewText": "וְסָמַ֣ךְ יָד֔וֹ עַ֖ל רֹ֣אשׁ הָעֹלָ֑ה וְנִרְצָ֥ה ל֖וֹ לְכַפֵּ֥ר עָלָֽיו׃",
+          "counts": {
+            "all": 230,
+            "Rashi": 7,
+            "Commentary": 97,
+            "Midrash": 31,
+            "Talmud": 29,
+            "Halakhah": 6,
+            "Kabbalah": 3,
+            "Musar": 3,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Leviticus 1:5",
+          "hebrewText": "וְשָׁחַ֛ט אֶת־בֶּ֥ן הַבָּקָ֖ר לִפְנֵ֣י יְהֹוָ֑ה וְ֠הִקְרִ֠יבוּ בְּנֵ֨י אַהֲרֹ֤ן הַכֹּֽהֲנִים֙ אֶת־הַדָּ֔ם וְזָרְק֨וּ אֶת־הַדָּ֤ם עַל־הַמִּזְבֵּ֙חַ֙ סָבִ֔יב אֲשֶׁר־פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+          "counts": {
+            "all": 323,
+            "Rashi": 9,
+            "Commentary": 166,
+            "Midrash": 35,
+            "Talmud": 34,
+            "Halakhah": 4,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Leviticus 1:6",
+          "hebrewText": "וְהִפְשִׁ֖יט אֶת־הָעֹלָ֑ה וְנִתַּ֥ח אֹתָ֖הּ לִנְתָחֶֽיהָ׃",
+          "counts": {
+            "all": 117,
+            "Rashi": 2,
+            "Commentary": 44,
+            "Midrash": 18,
+            "Talmud": 8,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Leviticus 1:7",
+          "hebrewText": "וְ֠נָתְנ֠וּ בְּנֵ֨י אַהֲרֹ֧ן הַכֹּהֵ֛ן אֵ֖שׁ עַל־הַמִּזְבֵּ֑חַ וְעָרְכ֥וּ עֵצִ֖ים עַל־הָאֵֽשׁ׃",
+          "counts": {
+            "all": 146,
+            "Rashi": 2,
+            "Commentary": 60,
+            "Midrash": 24,
+            "Talmud": 16,
+            "Halakhah": 5,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Leviticus 1:8",
+          "hebrewText": "וְעָרְכ֗וּ בְּנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים אֵ֚ת הַנְּתָחִ֔ים אֶת־הָרֹ֖אשׁ וְאֶת־הַפָּ֑דֶר עַל־הָעֵצִים֙ אֲשֶׁ֣ר עַל־הָאֵ֔שׁ אֲשֶׁ֖ר עַל־הַמִּזְבֵּֽחַ׃",
+          "counts": {
+            "all": 131,
+            "Rashi": 7,
+            "Commentary": 60,
+            "Midrash": 12,
+            "Talmud": 20,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Leviticus 1:9",
+          "hebrewText": "וְקִרְבּ֥וֹ וּכְרָעָ֖יו יִרְחַ֣ץ בַּמָּ֑יִם וְהִקְטִ֨יר הַכֹּהֵ֤ן אֶת־הַכֹּל֙ הַמִּזְבֵּ֔חָה עֹלָ֛ה אִשֵּׁ֥ה רֵֽיחַ־נִיח֖וֹחַ לַֽיהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 232,
+            "Rashi": 6,
+            "Commentary": 85,
+            "Midrash": 23,
+            "Talmud": 14,
+            "Halakhah": 9,
+            "Kabbalah": 4,
+            "Musar": 4,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Leviticus 1:10",
+          "hebrewText": "וְאִם־מִן־הַצֹּ֨אן קׇרְבָּנ֧וֹ מִן־הַכְּשָׂבִ֛ים א֥וֹ מִן־הָעִזִּ֖ים לְעֹלָ֑ה זָכָ֥ר תָּמִ֖ים יַקְרִיבֶֽנּוּ׃",
+          "counts": {
+            "all": 124,
+            "Rashi": 3,
+            "Commentary": 68,
+            "Midrash": 13,
+            "Talmud": 13,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Leviticus 1:11",
+          "hebrewText": "וְשָׁחַ֨ט אֹת֜וֹ עַ֣ל יֶ֧רֶךְ הַמִּזְבֵּ֛חַ צָפֹ֖נָה לִפְנֵ֣י יְהֹוָ֑ה וְזָרְק֡וּ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־דָּמ֛וֹ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+          "counts": {
+            "all": 187,
+            "Rashi": 8,
+            "Commentary": 49,
+            "Midrash": 26,
+            "Talmud": 17,
+            "Halakhah": 6,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Leviticus 1:12",
+          "hebrewText": "וְנִתַּ֤ח אֹתוֹ֙ לִנְתָחָ֔יו וְאֶת־רֹאשׁ֖וֹ וְאֶת־פִּדְר֑וֹ וְעָרַ֤ךְ הַכֹּהֵן֙ אֹתָ֔ם עַל־הָֽעֵצִים֙ אֲשֶׁ֣ר עַל־הָאֵ֔שׁ אֲשֶׁ֖ר עַל־הַמִּזְבֵּֽחַ׃",
+          "counts": {
+            "all": 72,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 17,
+            "Talmud": 11,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Leviticus 1:13",
+          "hebrewText": "וְהַקֶּ֥רֶב וְהַכְּרָעַ֖יִם יִרְחַ֣ץ בַּמָּ֑יִם וְהִקְרִ֨יב הַכֹּהֵ֤ן אֶת־הַכֹּל֙ וְהִקְטִ֣יר הַמִּזְבֵּ֔חָה עֹלָ֣ה ה֗וּא אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַיהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 100,
+            "Rashi": 0,
+            "Commentary": 24,
+            "Midrash": 19,
+            "Talmud": 13,
+            "Halakhah": 1,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Leviticus 1:14",
+          "hebrewText": "וְאִ֧ם מִן־הָע֛וֹף עֹלָ֥ה קׇרְבָּנ֖וֹ לַֽיהֹוָ֑ה וְהִקְרִ֣יב מִן־הַתֹּרִ֗ים א֛וֹ מִן־בְּנֵ֥י הַיּוֹנָ֖ה אֶת־קׇרְבָּנֽוֹ׃",
+          "counts": {
+            "all": 167,
+            "Rashi": 6,
+            "Commentary": 88,
+            "Midrash": 27,
+            "Talmud": 10,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Leviticus 1:15",
+          "hebrewText": "וְהִקְרִיב֤וֹ הַכֹּהֵן֙ אֶל־הַמִּזְבֵּ֔חַ וּמָלַק֙ אֶת־רֹאשׁ֔וֹ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה וְנִמְצָ֣ה דָמ֔וֹ עַ֖ל קִ֥יר הַמִּזְבֵּֽחַ׃",
+          "counts": {
+            "all": 196,
+            "Rashi": 8,
+            "Commentary": 98,
+            "Midrash": 12,
+            "Talmud": 26,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Leviticus 1:16",
+          "hebrewText": "וְהֵסִ֥יר אֶת־מֻרְאָת֖וֹ בְּנֹצָתָ֑הּ וְהִשְׁלִ֨יךְ אֹתָ֜הּ אֵ֤צֶל הַמִּזְבֵּ֙חַ֙ קֵ֔דְמָה אֶל־מְק֖וֹם הַדָּֽשֶׁן׃",
+          "counts": {
+            "all": 148,
+            "Rashi": 11,
+            "Commentary": 69,
+            "Midrash": 20,
+            "Talmud": 6,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Leviticus 1:17",
+          "hebrewText": "וְשִׁסַּ֨ע אֹת֣וֹ בִכְנָפָיו֮ לֹ֣א יַבְדִּיל֒ וְהִקְטִ֨יר אֹת֤וֹ הַכֹּהֵן֙ הַמִּזְבֵּ֔חָה עַל־הָעֵצִ֖ים אֲשֶׁ֣ר עַל־הָאֵ֑שׁ עֹלָ֣ה ה֗וּא אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַיהֹוָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 131,
+            "Rashi": 5,
+            "Commentary": 65,
+            "Midrash": 8,
+            "Talmud": 9,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
       "chapter": 2,
       "verses": [
         {
@@ -276,6 +570,300 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Leviticus 3:1",
+          "hebrewText": "וְאִם־זֶ֥בַח שְׁלָמִ֖ים קׇרְבָּנ֑וֹ אִ֤ם מִן־הַבָּקָר֙ ה֣וּא מַקְרִ֔יב אִם־זָכָר֙ אִם־נְקֵבָ֔ה תָּמִ֥ים יַקְרִיבֶ֖נּוּ לִפְנֵ֥י יְהֹוָֽה׃",
+          "counts": {
+            "all": 156,
+            "Rashi": 3,
+            "Commentary": 74,
+            "Midrash": 19,
+            "Talmud": 16,
+            "Halakhah": 5,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Leviticus 3:2",
+          "hebrewText": "וְסָמַ֤ךְ יָדוֹ֙ עַל־רֹ֣אשׁ קׇרְבָּנ֔וֹ וּשְׁחָט֕וֹ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְזָרְק֡וּ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־הַדָּ֛ם עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+          "counts": {
+            "all": 146,
+            "Rashi": 3,
+            "Commentary": 32,
+            "Midrash": 25,
+            "Talmud": 24,
+            "Halakhah": 5,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Leviticus 3:3",
+          "hebrewText": "וְהִקְרִיב֙ מִזֶּ֣בַח הַשְּׁלָמִ֔ים אִשֶּׁ֖ה לַיהֹוָ֑ה אֶת־הַחֵ֙לֶב֙ הַֽמְכַסֶּ֣ה אֶת־הַקֶּ֔רֶב וְאֵת֙ כׇּל־הַחֵ֔לֶב אֲשֶׁ֖ר עַל־הַקֶּֽרֶב׃",
+          "counts": {
+            "all": 92,
+            "Rashi": 3,
+            "Commentary": 46,
+            "Midrash": 15,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Leviticus 3:4",
+          "hebrewText": "וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵהֶ֔ן אֲשֶׁ֖ר עַל־הַכְּסָלִ֑ים וְאֶת־הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד עַל־הַכְּלָי֖וֹת יְסִירֶֽנָּה׃",
+          "counts": {
+            "all": 99,
+            "Rashi": 8,
+            "Commentary": 53,
+            "Midrash": 6,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Leviticus 3:5",
+          "hebrewText": "וְהִקְטִ֨ירוּ אֹת֤וֹ בְנֵֽי־אַהֲרֹן֙ הַמִּזְבֵּ֔חָה עַל־הָ֣עֹלָ֔ה אֲשֶׁ֥ר עַל־הָעֵצִ֖ים אֲשֶׁ֣ר עַל־הָאֵ֑שׁ אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַֽיהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 53,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 12,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Leviticus 3:6",
+          "hebrewText": "וְאִם־מִן־הַצֹּ֧אן קׇרְבָּנ֛וֹ לְזֶ֥בַח שְׁלָמִ֖ים לַיהֹוָ֑ה זָכָר֙ א֣וֹ נְקֵבָ֔ה תָּמִ֖ים יַקְרִיבֶֽנּוּ׃",
+          "counts": {
+            "all": 63,
+            "Rashi": 1,
+            "Commentary": 19,
+            "Midrash": 9,
+            "Talmud": 11,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Leviticus 3:7",
+          "hebrewText": "אִם־כֶּ֥שֶׂב הֽוּא־מַקְרִ֖יב אֶת־קׇרְבָּנ֑וֹ וְהִקְרִ֥יב אֹת֖וֹ לִפְנֵ֥י יְהֹוָֽה׃",
+          "counts": {
+            "all": 61,
+            "Rashi": 1,
+            "Commentary": 23,
+            "Midrash": 9,
+            "Talmud": 6,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Leviticus 3:8",
+          "hebrewText": "וְסָמַ֤ךְ אֶת־יָדוֹ֙ עַל־רֹ֣אשׁ קׇרְבָּנ֔וֹ וְשָׁחַ֣ט אֹת֔וֹ לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְ֠זָרְק֠וּ בְּנֵ֨י אַהֲרֹ֧ן אֶת־דָּמ֛וֹ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 1,
+            "Commentary": 15,
+            "Midrash": 12,
+            "Talmud": 7,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Leviticus 3:9",
+          "hebrewText": "וְהִקְרִ֨יב מִזֶּ֣בַח הַשְּׁלָמִים֮ אִשֶּׁ֣ה לַיהֹוָה֒ חֶלְבּוֹ֙ הָאַלְיָ֣ה תְמִימָ֔ה לְעֻמַּ֥ת הֶעָצֶ֖ה יְסִירֶ֑נָּה וְאֶת־הַחֵ֙לֶב֙ הַֽמְכַסֶּ֣ה אֶת־הַקֶּ֔רֶב וְאֵת֙ כׇּל־הַחֵ֔לֶב אֲשֶׁ֖ר עַל־הַקֶּֽרֶב׃",
+          "counts": {
+            "all": 107,
+            "Rashi": 6,
+            "Commentary": 46,
+            "Midrash": 8,
+            "Talmud": 7,
+            "Halakhah": 5,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Leviticus 3:10",
+          "hebrewText": "וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵהֶ֔ן אֲשֶׁ֖ר עַל־הַכְּסָלִ֑ים וְאֶת־הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד עַל־הַכְּלָיֹ֖ת יְסִירֶֽנָּה׃",
+          "counts": {
+            "all": 18,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Leviticus 3:11",
+          "hebrewText": "וְהִקְטִיר֥וֹ הַכֹּהֵ֖ן הַמִּזְבֵּ֑חָה לֶ֥חֶם אִשֶּׁ֖ה לַיהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 47,
+            "Rashi": 2,
+            "Commentary": 19,
+            "Midrash": 6,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Leviticus 3:12",
+          "hebrewText": "וְאִ֥ם עֵ֖ז קׇרְבָּנ֑וֹ וְהִקְרִיב֖וֹ לִפְנֵ֥י יְהֹוָֽה׃",
+          "counts": {
+            "all": 54,
+            "Rashi": 0,
+            "Commentary": 23,
+            "Midrash": 10,
+            "Talmud": 7,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Leviticus 3:13",
+          "hebrewText": "וְסָמַ֤ךְ אֶת־יָדוֹ֙ עַל־רֹאשׁ֔וֹ וְשָׁחַ֣ט אֹת֔וֹ לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וְ֠זָרְק֠וּ בְּנֵ֨י אַהֲרֹ֧ן אֶת־דָּמ֛וֹ עַל־הַמִּזְבֵּ֖חַ סָבִֽיב׃",
+          "counts": {
+            "all": 22,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 4,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Leviticus 3:14",
+          "hebrewText": "וְהִקְרִ֤יב מִמֶּ֙נּוּ֙ קׇרְבָּנ֔וֹ אִשֶּׁ֖ה לַֽיהֹוָ֑ה אֶת־הַחֵ֙לֶב֙ הַֽמְכַסֶּ֣ה אֶת־הַקֶּ֔רֶב וְאֵת֙ כׇּל־הַחֵ֔לֶב אֲשֶׁ֖ר עַל־הַקֶּֽרֶב׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 1,
+            "Commentary": 9,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Leviticus 3:15",
+          "hebrewText": "וְאֵת֙ שְׁתֵּ֣י הַכְּלָיֹ֔ת וְאֶת־הַחֵ֙לֶב֙ אֲשֶׁ֣ר עֲלֵהֶ֔ן אֲשֶׁ֖ר עַל־הַכְּסָלִ֑ים וְאֶת־הַיֹּתֶ֙רֶת֙ עַל־הַכָּבֵ֔ד עַל־הַכְּלָיֹ֖ת יְסִירֶֽנָּה׃",
+          "counts": {
+            "all": 13,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Leviticus 3:16",
+          "hebrewText": "וְהִקְטִירָ֥ם הַכֹּהֵ֖ן הַמִּזְבֵּ֑חָה לֶ֤חֶם אִשֶּׁה֙ לְרֵ֣יחַ נִיחֹ֔חַ כׇּל־חֵ֖לֶב לַיהֹוָֽה׃",
+          "counts": {
+            "all": 69,
+            "Rashi": 2,
+            "Commentary": 14,
+            "Midrash": 11,
+            "Talmud": 9,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Leviticus 3:17",
+          "hebrewText": "חֻקַּ֤ת עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם בְּכֹ֖ל מוֹשְׁבֹֽתֵיכֶ֑ם כׇּל־חֵ֥לֶב וְכׇל־דָּ֖ם לֹ֥א תֹאכֵֽלוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 113,
+            "Rashi": 4,
+            "Commentary": 34,
+            "Midrash": 17,
+            "Talmud": 11,
+            "Halakhah": 9,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
             "Modern": 0
           }
         }

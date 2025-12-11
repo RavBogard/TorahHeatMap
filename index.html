@@ -109,6 +109,16 @@
 
             <!-- Commentary Filter -->
             <div id="filter-container" class="filter-container" style="display: none;">
+                <div class="scale-toggle-container">
+                    <span class="toggle-label">Relative</span>
+                    <label class="switch">
+                        <input type="checkbox" id="scale-toggle">
+                        <span class="slider round"></span>
+                    </label>
+                    <span class="toggle-label">Absolute</span>
+                </div>
+                <div class="filter-separator"
+                    style="width: 1px; height: 24px; background: var(--border-color); margin: 0 1rem;"></div>
                 <label for="category-filter">Filter by:</label>
                 <select id="category-filter" class="category-filter">
                     <option value="all">All Commentaries</option>

@@ -85,20 +85,30 @@ def get_slug(name):
     s = re.sub(r'-+', '-', s)
     return s.strip('-')
 
-def fetch_json(endpoint):
+def fetch_json(endpoint, retries=3):
     url = f"{API_BASE}{endpoint}"
     # Sefaria might require User-Agent
     req = urllib.request.Request(url, headers={'User-Agent': 'TorahHeatMap/1.0'})
-    try:
-        # Add 30s timeout
-        with urllib.request.urlopen(req, timeout=30) as response:
-            return json.loads(response.read().decode())
-    except urllib.error.HTTPError as e:
-        print(f"HTTP Error for {url}: {e.code}")
-        return None
-    except Exception as e:
-        print(f"Error for {url}: {e}")
-        return None
+    
+    for attempt in range(retries):
+        try:
+            # Add 30s timeout
+            with urllib.request.urlopen(req, timeout=30) as response:
+                return json.loads(response.read().decode())
+        except urllib.error.HTTPError as e:
+            if e.code in [429, 500, 502, 503, 504]:
+                print(f"HTTP {e.code} for {url}. Retrying {attempt+1}/{retries}...")
+                time.sleep(2 * (attempt + 1))
+                continue
+            print(f"HTTP Error for {url}: {e.code}")
+            return None
+        except Exception as e:
+            print(f"Error for {url}: {e}. Retrying {attempt+1}/{retries}...")
+            time.sleep(2 * (attempt + 1))
+            continue
+            
+    print(f"Failed to fetch {url} after {retries} attempts.")
+    return None
 
 def process_parasha(parasha):
     slug = get_slug(parasha['name'])
@@ -166,7 +176,8 @@ def process_parasha(parasha):
         links_data = fetch_json(f"/related/{chap_ref.replace(' ', '%20')}")
         
         if not links_data:
-            continue
+            print(f"Failed to get links for {chap_ref}. Aborting {parasha['name']} to ensure integrity.")
+            return False
 
         # Aggregate counts
         counts_map = {} # Ref -> { all: 0, Category: 0, Rashi: 0 ... }

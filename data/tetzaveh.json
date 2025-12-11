@@ -5,6 +5,45 @@
   "book": "Exodus",
   "data": [
     {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 20,
+          "ref": "Exodus 27:20",
+          "hebrewText": "וְאַתָּ֞ה תְּצַוֶּ֣ה&thinsp;<b>׀</b> אֶת־בְּנֵ֣י יִשְׂרָאֵ֗ל וְיִקְח֨וּ אֵלֶ֜יךָ שֶׁ֣מֶן זַ֥יִת זָ֛ךְ כָּתִ֖ית לַמָּא֑וֹר לְהַעֲלֹ֥ת נֵ֖ר תָּמִֽיד׃",
+          "counts": {
+            "all": 454,
+            "Rashi": 11,
+            "Commentary": 186,
+            "Midrash": 71,
+            "Talmud": 10,
+            "Halakhah": 8,
+            "Kabbalah": 8,
+            "Musar": 13,
+            "Chasidut": 71,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 27:21",
+          "hebrewText": "בְּאֹ֣הֶל מוֹעֵד֩ מִח֨וּץ לַפָּרֹ֜כֶת אֲשֶׁ֣ר עַל־הָעֵדֻ֗ת יַעֲרֹךְ֩ אֹת֨וֹ אַהֲרֹ֧ן וּבָנָ֛יו מֵעֶ֥רֶב עַד־בֹּ֖קֶר לִפְנֵ֣י יְהֹוָ֑ה חֻקַּ֤ת עוֹלָם֙ לְדֹ֣רֹתָ֔ם מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 128,
+            "Rashi": 2,
+            "Commentary": 46,
+            "Midrash": 12,
+            "Talmud": 9,
+            "Halakhah": 8,
+            "Kabbalah": 0,
+            "Musar": 3,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
       "chapter": 28,
       "verses": [
         {
