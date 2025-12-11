@@ -136,6 +136,11 @@
       "slug": "vayetzei"
     },
     {
+      "chapter": 30,
+      "count": 3374,
+      "slug": "vayetzei"
+    },
+    {
       "chapter": 31,
       "count": 3590,
       "slug": "vayetzei"
@@ -143,7 +148,7 @@
     {
       "chapter": 32,
       "count": 3902,
-      "slug": "vayetzei"
+      "slug": "vayishlach"
     },
     {
       "chapter": 33,
@@ -161,6 +166,16 @@
       "slug": "vayishlach"
     },
     {
+      "chapter": 37,
+      "count": 4316,
+      "slug": "vayeshev"
+    },
+    {
+      "chapter": 38,
+      "count": 2439,
+      "slug": "vayeshev"
+    },
+    {
       "chapter": 39,
       "count": 1899,
       "slug": "vayeshev"
@@ -176,6 +191,11 @@
       "slug": "miketz"
     },
     {
+      "chapter": 42,
+      "count": 2553,
+      "slug": "miketz"
+    },
+    {
       "chapter": 43,
       "count": 2030,
       "slug": "miketz"
@@ -183,7 +203,7 @@
     {
       "chapter": 44,
       "count": 1963,
-      "slug": "miketz"
+      "slug": "vayigash"
     },
     {
       "chapter": 45,
@@ -192,12 +212,661 @@
     },
     {
       "chapter": 47,
-      "count": 1620,
+      "count": 2385,
       "slug": "vayigash"
+    },
+    {
+      "chapter": 48,
+      "count": 2258,
+      "slug": "vayechi"
+    },
+    {
+      "chapter": 49,
+      "count": 5740,
+      "slug": "vayechi"
+    },
+    {
+      "chapter": 50,
+      "count": 1698,
+      "slug": "vayechi"
     }
   ],
-  "Exodus": [],
-  "Leviticus": [],
-  "Numbers": [],
-  "Deuteronomy": []
+  "Exodus": [
+    {
+      "chapter": 1,
+      "count": 3001,
+      "slug": "shemot"
+    },
+    {
+      "chapter": 2,
+      "count": 3481,
+      "slug": "shemot"
+    },
+    {
+      "chapter": 3,
+      "count": 3634,
+      "slug": "shemot"
+    },
+    {
+      "chapter": 4,
+      "count": 3145,
+      "slug": "shemot"
+    },
+    {
+      "chapter": 5,
+      "count": 1764,
+      "slug": "shemot"
+    },
+    {
+      "chapter": 6,
+      "count": 2622,
+      "slug": "vaera"
+    },
+    {
+      "chapter": 7,
+      "count": 1972,
+      "slug": "vaera"
+    },
+    {
+      "chapter": 8,
+      "count": 1710,
+      "slug": "vaera"
+    },
+    {
+      "chapter": 9,
+      "count": 2238,
+      "slug": "vaera"
+    },
+    {
+      "chapter": 10,
+      "count": 2166,
+      "slug": "bo"
+    },
+    {
+      "chapter": 11,
+      "count": 1104,
+      "slug": "bo"
+    },
+    {
+      "chapter": 12,
+      "count": 8253,
+      "slug": "bo"
+    },
+    {
+      "chapter": 13,
+      "count": 3758,
+      "slug": "bo"
+    },
+    {
+      "chapter": 14,
+      "count": 3790,
+      "slug": "beshalach"
+    },
+    {
+      "chapter": 15,
+      "count": 5446,
+      "slug": "beshalach"
+    },
+    {
+      "chapter": 16,
+      "count": 4116,
+      "slug": "beshalach"
+    },
+    {
+      "chapter": 17,
+      "count": 2193,
+      "slug": "beshalach"
+    },
+    {
+      "chapter": 18,
+      "count": 2954,
+      "slug": "yitro"
+    },
+    {
+      "chapter": 19,
+      "count": 4177,
+      "slug": "yitro"
+    },
+    {
+      "chapter": 20,
+      "count": 6092,
+      "slug": "yitro"
+    },
+    {
+      "chapter": 21,
+      "count": 6593,
+      "slug": "mishpatim"
+    },
+    {
+      "chapter": 22,
+      "count": 4968,
+      "slug": "mishpatim"
+    },
+    {
+      "chapter": 23,
+      "count": 4668,
+      "slug": "mishpatim"
+    },
+    {
+      "chapter": 24,
+      "count": 2346,
+      "slug": "mishpatim"
+    },
+    {
+      "chapter": 25,
+      "count": 4011,
+      "slug": "terumah"
+    },
+    {
+      "chapter": 26,
+      "count": 1742,
+      "slug": "terumah"
+    },
+    {
+      "chapter": 28,
+      "count": 2842,
+      "slug": "tetzaveh"
+    },
+    {
+      "chapter": 29,
+      "count": 2412,
+      "slug": "tetzaveh"
+    },
+    {
+      "chapter": 30,
+      "count": 3088,
+      "slug": "tetzaveh"
+    },
+    {
+      "chapter": 31,
+      "count": 1844,
+      "slug": "ki-tisa"
+    },
+    {
+      "chapter": 32,
+      "count": 4305,
+      "slug": "ki-tisa"
+    },
+    {
+      "chapter": 33,
+      "count": 2670,
+      "slug": "ki-tisa"
+    },
+    {
+      "chapter": 34,
+      "count": 4086,
+      "slug": "ki-tisa"
+    },
+    {
+      "chapter": 36,
+      "count": 862,
+      "slug": "vayakhel"
+    },
+    {
+      "chapter": 37,
+      "count": 420,
+      "slug": "vayakhel"
+    },
+    {
+      "chapter": 38,
+      "count": 1091,
+      "slug": "vayakhel"
+    },
+    {
+      "chapter": 39,
+      "count": 1072,
+      "slug": "pekudei"
+    },
+    {
+      "chapter": 40,
+      "count": 1243,
+      "slug": "pekudei"
+    }
+  ],
+  "Leviticus": [
+    {
+      "chapter": 2,
+      "count": 2147,
+      "slug": "vayikra"
+    },
+    {
+      "chapter": 4,
+      "count": 3253,
+      "slug": "vayikra"
+    },
+    {
+      "chapter": 5,
+      "count": 3498,
+      "slug": "vayikra"
+    },
+    {
+      "chapter": 6,
+      "count": 3349,
+      "slug": "tzav"
+    },
+    {
+      "chapter": 7,
+      "count": 3226,
+      "slug": "tzav"
+    },
+    {
+      "chapter": 8,
+      "count": 1383,
+      "slug": "tzav"
+    },
+    {
+      "chapter": 9,
+      "count": 1620,
+      "slug": "shmini"
+    },
+    {
+      "chapter": 10,
+      "count": 2239,
+      "slug": "shmini"
+    },
+    {
+      "chapter": 11,
+      "count": 4646,
+      "slug": "shmini"
+    },
+    {
+      "chapter": 12,
+      "count": 1494,
+      "slug": "tazria"
+    },
+    {
+      "chapter": 13,
+      "count": 4280,
+      "slug": "tazria"
+    },
+    {
+      "chapter": 14,
+      "count": 3942,
+      "slug": "metzora"
+    },
+    {
+      "chapter": 15,
+      "count": 2570,
+      "slug": "metzora"
+    },
+    {
+      "chapter": 16,
+      "count": 4431,
+      "slug": "achrei-mot"
+    },
+    {
+      "chapter": 17,
+      "count": 1754,
+      "slug": "achrei-mot"
+    },
+    {
+      "chapter": 18,
+      "count": 3247,
+      "slug": "achrei-mot"
+    },
+    {
+      "chapter": 19,
+      "count": 7685,
+      "slug": "kedoshim"
+    },
+    {
+      "chapter": 20,
+      "count": 2435,
+      "slug": "kedoshim"
+    },
+    {
+      "chapter": 21,
+      "count": 3317,
+      "slug": "emor"
+    },
+    {
+      "chapter": 22,
+      "count": 3986,
+      "slug": "emor"
+    },
+    {
+      "chapter": 23,
+      "count": 5183,
+      "slug": "emor"
+    },
+    {
+      "chapter": 24,
+      "count": 2037,
+      "slug": "emor"
+    },
+    {
+      "chapter": 25,
+      "count": 6269,
+      "slug": "behar"
+    },
+    {
+      "chapter": 26,
+      "count": 4812,
+      "slug": "behar"
+    },
+    {
+      "chapter": 27,
+      "count": 3281,
+      "slug": "bechukotai"
+    }
+  ],
+  "Numbers": [
+    {
+      "chapter": 1,
+      "count": 1638,
+      "slug": "bamidbar"
+    },
+    {
+      "chapter": 2,
+      "count": 832,
+      "slug": "bamidbar"
+    },
+    {
+      "chapter": 3,
+      "count": 1672,
+      "slug": "bamidbar"
+    },
+    {
+      "chapter": 4,
+      "count": 1511,
+      "slug": "bamidbar"
+    },
+    {
+      "chapter": 5,
+      "count": 3663,
+      "slug": "nasso"
+    },
+    {
+      "chapter": 6,
+      "count": 3279,
+      "slug": "nasso"
+    },
+    {
+      "chapter": 7,
+      "count": 2349,
+      "slug": "nasso"
+    },
+    {
+      "chapter": 8,
+      "count": 1459,
+      "slug": "beha-alotcha"
+    },
+    {
+      "chapter": 9,
+      "count": 1455,
+      "slug": "beha-alotcha"
+    },
+    {
+      "chapter": 10,
+      "count": 2176,
+      "slug": "beha-alotcha"
+    },
+    {
+      "chapter": 11,
+      "count": 3444,
+      "slug": "beha-alotcha"
+    },
+    {
+      "chapter": 12,
+      "count": 2307,
+      "slug": "beha-alotcha"
+    },
+    {
+      "chapter": 14,
+      "count": 3073,
+      "slug": "sh-lach"
+    },
+    {
+      "chapter": 15,
+      "count": 3788,
+      "slug": "sh-lach"
+    },
+    {
+      "chapter": 16,
+      "count": 2924,
+      "slug": "korach"
+    },
+    {
+      "chapter": 17,
+      "count": 1368,
+      "slug": "korach"
+    },
+    {
+      "chapter": 18,
+      "count": 3038,
+      "slug": "korach"
+    },
+    {
+      "chapter": 19,
+      "count": 3205,
+      "slug": "chukat"
+    },
+    {
+      "chapter": 20,
+      "count": 2175,
+      "slug": "chukat"
+    },
+    {
+      "chapter": 21,
+      "count": 2720,
+      "slug": "chukat"
+    },
+    {
+      "chapter": 22,
+      "count": 2808,
+      "slug": "chukat"
+    },
+    {
+      "chapter": 23,
+      "count": 2445,
+      "slug": "balak"
+    },
+    {
+      "chapter": 24,
+      "count": 2334,
+      "slug": "balak"
+    },
+    {
+      "chapter": 25,
+      "count": 1776,
+      "slug": "balak"
+    },
+    {
+      "chapter": 26,
+      "count": 1761,
+      "slug": "pinchas"
+    },
+    {
+      "chapter": 27,
+      "count": 1792,
+      "slug": "pinchas"
+    },
+    {
+      "chapter": 28,
+      "count": 2020,
+      "slug": "pinchas"
+    },
+    {
+      "chapter": 29,
+      "count": 1232,
+      "slug": "pinchas"
+    },
+    {
+      "chapter": 30,
+      "count": 1610,
+      "slug": "matot"
+    },
+    {
+      "chapter": 31,
+      "count": 2266,
+      "slug": "matot"
+    },
+    {
+      "chapter": 32,
+      "count": 1462,
+      "slug": "matot"
+    },
+    {
+      "chapter": 33,
+      "count": 2353,
+      "slug": "masei"
+    },
+    {
+      "chapter": 34,
+      "count": 731,
+      "slug": "masei"
+    },
+    {
+      "chapter": 35,
+      "count": 1918,
+      "slug": "masei"
+    },
+    {
+      "chapter": 36,
+      "count": 521,
+      "slug": "masei"
+    }
+  ],
+  "Deuteronomy": [
+    {
+      "chapter": 1,
+      "count": 4182,
+      "slug": "devarim"
+    },
+    {
+      "chapter": 2,
+      "count": 1903,
+      "slug": "devarim"
+    },
+    {
+      "chapter": 3,
+      "count": 2167,
+      "slug": "devarim"
+    },
+    {
+      "chapter": 6,
+      "count": 3617,
+      "slug": "vaetchanan"
+    },
+    {
+      "chapter": 7,
+      "count": 2737,
+      "slug": "vaetchanan"
+    },
+    {
+      "chapter": 8,
+      "count": 2115,
+      "slug": "eikev"
+    },
+    {
+      "chapter": 9,
+      "count": 1627,
+      "slug": "eikev"
+    },
+    {
+      "chapter": 10,
+      "count": 2283,
+      "slug": "eikev"
+    },
+    {
+      "chapter": 11,
+      "count": 3632,
+      "slug": "eikev"
+    },
+    {
+      "chapter": 12,
+      "count": 3652,
+      "slug": "re-eh"
+    },
+    {
+      "chapter": 13,
+      "count": 2257,
+      "slug": "re-eh"
+    },
+    {
+      "chapter": 14,
+      "count": 3312,
+      "slug": "re-eh"
+    },
+    {
+      "chapter": 15,
+      "count": 2769,
+      "slug": "re-eh"
+    },
+    {
+      "chapter": 16,
+      "count": 3468,
+      "slug": "re-eh"
+    },
+    {
+      "chapter": 17,
+      "count": 2977,
+      "slug": "shoftim"
+    },
+    {
+      "chapter": 18,
+      "count": 2389,
+      "slug": "shoftim"
+    },
+    {
+      "chapter": 19,
+      "count": 2059,
+      "slug": "shoftim"
+    },
+    {
+      "chapter": 20,
+      "count": 1983,
+      "slug": "shoftim"
+    },
+    {
+      "chapter": 21,
+      "count": 3537,
+      "slug": "shoftim"
+    },
+    {
+      "chapter": 22,
+      "count": 4532,
+      "slug": "ki-teitzei"
+    },
+    {
+      "chapter": 26,
+      "count": 3032,
+      "slug": "ki-tavo"
+    },
+    {
+      "chapter": 27,
+      "count": 1378,
+      "slug": "ki-tavo"
+    },
+    {
+      "chapter": 28,
+      "count": 4013,
+      "slug": "ki-tavo"
+    },
+    {
+      "chapter": 29,
+      "count": 2096,
+      "slug": "ki-tavo"
+    },
+    {
+      "chapter": 30,
+      "count": 1873,
+      "slug": "nitzavim"
+    },
+    {
+      "chapter": 31,
+      "count": 2537,
+      "slug": "vayeilech"
+    },
+    {
+      "chapter": 32,
+      "count": 7998,
+      "slug": "ha-azinu"
+    },
+    {
+      "chapter": 34,
+      "count": 1697,
+      "slug": "vezot-haberakhah"
+    }
+  ]
 }

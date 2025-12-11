@@ -1,0 +1,217 @@
+{
+  "name": "Vezot Haberakhah",
+  "heName": "וזאת הברכה",
+  "ref": "Deuteronomy 33:1-34:12",
+  "book": "Deuteronomy",
+  "data": [
+    {
+      "chapter": 34,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Deuteronomy 34:1",
+          "hebrewText": "וַיַּ֨עַל מֹשֶׁ֜ה מֵעַרְבֹ֤ת מוֹאָב֙ אֶל־הַ֣ר נְב֔וֹ רֹ֚אשׁ הַפִּסְגָּ֔ה אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵח֑וֹ וַיַּרְאֵ֨הוּ יְהֹוָ֧ה אֶת־כׇּל־הָאָ֛רֶץ אֶת־הַגִּלְעָ֖ד עַד־דָּֽן׃",
+          "counts": {
+            "all": 146,
+            "Rashi": 6,
+            "Commentary": 57,
+            "Midrash": 33,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 5,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Deuteronomy 34:2",
+          "hebrewText": "וְאֵת֙ כׇּל־נַפְתָּלִ֔י וְאֶת־אֶ֥רֶץ אֶפְרַ֖יִם וּמְנַשֶּׁ֑ה וְאֵת֙ כׇּל־אֶ֣רֶץ יְהוּדָ֔ה עַ֖ד הַיָּ֥ם הָאַחֲרֽוֹן׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 5,
+            "Commentary": 30,
+            "Midrash": 28,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Deuteronomy 34:3",
+          "hebrewText": "וְאֶת־הַנֶּ֗גֶב וְֽאֶת־הַכִּכָּ֞ר בִּקְעַ֧ת יְרֵח֛וֹ עִ֥יר הַתְּמָרִ֖ים עַד־צֹֽעַר׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 5,
+            "Commentary": 28,
+            "Midrash": 24,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Deuteronomy 34:4",
+          "hebrewText": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלָ֗יו זֹ֤את הָאָ֙רֶץ֙ אֲשֶׁ֣ר נִ֠שְׁבַּ֠עְתִּי לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לֵאמֹ֔ר לְזַרְעֲךָ֖ אֶתְּנֶ֑נָּה הֶרְאִיתִ֣יךָ בְעֵינֶ֔יךָ וְשָׁ֖מָּה לֹ֥א תַעֲבֹֽר׃",
+          "counts": {
+            "all": 90,
+            "Rashi": 1,
+            "Commentary": 37,
+            "Midrash": 18,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Deuteronomy 34:5",
+          "hebrewText": "וַיָּ֨מׇת שָׁ֜ם מֹשֶׁ֧ה עֶבֶד־יְהֹוָ֛ה בְּאֶ֥רֶץ מוֹאָ֖ב עַל־פִּ֥י יְהֹוָֽה׃",
+          "counts": {
+            "all": 168,
+            "Rashi": 3,
+            "Commentary": 46,
+            "Midrash": 43,
+            "Talmud": 10,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Deuteronomy 34:6",
+          "hebrewText": "וַיִּקְבֹּ֨ר אֹת֤וֹ בַגַּי֙ בְּאֶ֣רֶץ מוֹאָ֔ב מ֖וּל בֵּ֣ית פְּע֑וֹר וְלֹא־יָדַ֥ע אִישׁ֙ אֶת־קְבֻ֣רָת֔וֹ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+          "counts": {
+            "all": 261,
+            "Rashi": 5,
+            "Commentary": 50,
+            "Midrash": 66,
+            "Talmud": 6,
+            "Halakhah": 3,
+            "Kabbalah": 12,
+            "Musar": 13,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Deuteronomy 34:7",
+          "hebrewText": "וּמֹשֶׁ֗ה בֶּן־מֵאָ֧ה וְעֶשְׂרִ֛ים שָׁנָ֖ה בְּמֹת֑וֹ לֹא־כָהֲתָ֥ה עֵינ֖וֹ וְלֹא־נָ֥ס לֵחֹֽה׃",
+          "counts": {
+            "all": 136,
+            "Rashi": 4,
+            "Commentary": 40,
+            "Midrash": 12,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Deuteronomy 34:8",
+          "hebrewText": "וַיִּבְכּוּ֩ בְנֵ֨י יִשְׂרָאֵ֧ל אֶת־מֹשֶׁ֛ה בְּעַֽרְבֹ֥ת מוֹאָ֖ב שְׁלֹשִׁ֣ים י֑וֹם וַֽיִּתְּמ֔וּ יְמֵ֥י בְכִ֖י אֵ֥בֶל מֹשֶֽׁה׃",
+          "counts": {
+            "all": 125,
+            "Rashi": 2,
+            "Commentary": 33,
+            "Midrash": 27,
+            "Talmud": 9,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 5,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Deuteronomy 34:9",
+          "hebrewText": "וִיהוֹשֻׁ֣עַ בִּן־נ֗וּן מָלֵא֙ ר֣וּחַ חׇכְמָ֔ה כִּֽי־סָמַ֥ךְ מֹשֶׁ֛ה אֶת־יָדָ֖יו עָלָ֑יו וַיִּשְׁמְע֨וּ אֵלָ֤יו בְּנֵֽי־יִשְׂרָאֵל֙ וַֽיַּעֲשׂ֔וּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+          "counts": {
+            "all": 92,
+            "Rashi": 0,
+            "Commentary": 20,
+            "Midrash": 28,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Deuteronomy 34:10",
+          "hebrewText": "וְלֹא־קָ֨ם נָבִ֥יא ע֛וֹד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ יְדָע֣וֹ יְהֹוָ֔ה פָּנִ֖ים אֶל־פָּנִֽים׃",
+          "counts": {
+            "all": 265,
+            "Rashi": 2,
+            "Commentary": 44,
+            "Midrash": 37,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 13,
+            "Musar": 11,
+            "Chasidut": 38,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Deuteronomy 34:11",
+          "hebrewText": "לְכׇל־הָ֨אֹתֹ֜ת וְהַמּוֹפְתִ֗ים אֲשֶׁ֤ר שְׁלָחוֹ֙ יְהֹוָ֔ה לַעֲשׂ֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם לְפַרְעֹ֥ה וּלְכׇל־עֲבָדָ֖יו וּלְכׇל־אַרְצֽוֹ׃",
+          "counts": {
+            "all": 48,
+            "Rashi": 0,
+            "Commentary": 22,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 5,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 34:12",
+          "hebrewText": "וּלְכֹל֙ הַיָּ֣ד הַחֲזָקָ֔ה וּלְכֹ֖ל הַמּוֹרָ֣א הַגָּד֑וֹל אֲשֶׁר֙ עָשָׂ֣ה מֹשֶׁ֔ה לְעֵינֵ֖י כׇּל־יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 214,
+            "Rashi": 3,
+            "Commentary": 95,
+            "Midrash": 21,
+            "Talmud": 4,
+            "Halakhah": 2,
+            "Kabbalah": 13,
+            "Musar": 3,
+            "Chasidut": 34,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

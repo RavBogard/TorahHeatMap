@@ -1,0 +1,1327 @@
+{
+  "name": "Terumah",
+  "heName": "תרומה",
+  "ref": "Exodus 25:1-27:19",
+  "book": "Exodus",
+  "data": [
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 25:1",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 62,
+            "Rashi": 0,
+            "Commentary": 39,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 25:2",
+          "hebrewText": "דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כׇּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרוּמָתִֽי׃",
+          "counts": {
+            "all": 398,
+            "Rashi": 7,
+            "Commentary": 121,
+            "Midrash": 48,
+            "Talmud": 5,
+            "Halakhah": 7,
+            "Kabbalah": 18,
+            "Musar": 11,
+            "Chasidut": 96,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 25:3",
+          "hebrewText": "וְזֹאת֙ הַתְּרוּמָ֔ה אֲשֶׁ֥ר תִּקְח֖וּ מֵאִתָּ֑ם זָהָ֥ב וָכֶ֖סֶף וּנְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 126,
+            "Rashi": 1,
+            "Commentary": 51,
+            "Midrash": 24,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 10,
+            "Musar": 2,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 25:4",
+          "hebrewText": "וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ וְעִזִּֽים׃",
+          "counts": {
+            "all": 99,
+            "Rashi": 7,
+            "Commentary": 57,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 25:5",
+          "hebrewText": "וְעֹרֹ֨ת אֵילִ֧ם מְאׇדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים וַעֲצֵ֥י שִׁטִּֽים׃",
+          "counts": {
+            "all": 91,
+            "Rashi": 3,
+            "Commentary": 59,
+            "Midrash": 3,
+            "Talmud": 4,
+            "Halakhah": 2,
+            "Kabbalah": 5,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 25:6",
+          "hebrewText": "שֶׁ֖מֶן לַמָּאֹ֑ר בְּשָׂמִים֙ לְשֶׁ֣מֶן הַמִּשְׁחָ֔ה וְלִקְטֹ֖רֶת הַסַּמִּֽים׃",
+          "counts": {
+            "all": 82,
+            "Rashi": 3,
+            "Commentary": 52,
+            "Midrash": 7,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 25:7",
+          "hebrewText": "אַבְנֵי־שֹׁ֕הַם וְאַבְנֵ֖י מִלֻּאִ֑ים לָאֵפֹ֖ד וְלַחֹֽשֶׁן׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 5,
+            "Commentary": 43,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 25:8",
+          "hebrewText": "וְעָ֥שׂוּ לִ֖י מִקְדָּ֑שׁ וְשָׁכַנְתִּ֖י בְּתוֹכָֽם׃",
+          "counts": {
+            "all": 459,
+            "Rashi": 1,
+            "Commentary": 85,
+            "Midrash": 95,
+            "Talmud": 5,
+            "Halakhah": 13,
+            "Kabbalah": 19,
+            "Musar": 31,
+            "Chasidut": 108,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 25:9",
+          "hebrewText": "כְּכֹ֗ל אֲשֶׁ֤ר אֲנִי֙ מַרְאֶ֣ה אוֹתְךָ֔ אֵ֚ת תַּבְנִ֣ית הַמִּשְׁכָּ֔ן וְאֵ֖ת תַּבְנִ֣ית כׇּל־כֵּלָ֑יו וְכֵ֖ן תַּעֲשֽׂוּ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 140,
+            "Rashi": 2,
+            "Commentary": 71,
+            "Midrash": 6,
+            "Talmud": 5,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 25:10",
+          "hebrewText": "וְעָשׂ֥וּ אֲר֖וֹן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+          "counts": {
+            "all": 183,
+            "Rashi": 4,
+            "Commentary": 70,
+            "Midrash": 31,
+            "Talmud": 10,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 25:11",
+          "hebrewText": "וְצִפִּיתָ֤ אֹתוֹ֙ זָהָ֣ב טָה֔וֹר מִבַּ֥יִת וּמִח֖וּץ תְּצַפֶּ֑נּוּ וְעָשִׂ֧יתָ עָלָ֛יו זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+          "counts": {
+            "all": 139,
+            "Rashi": 4,
+            "Commentary": 61,
+            "Midrash": 14,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 25:12",
+          "hebrewText": "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+          "counts": {
+            "all": 79,
+            "Rashi": 6,
+            "Commentary": 51,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 25:13",
+          "hebrewText": "וְעָשִׂ֥יתָ בַדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָֽב׃",
+          "counts": {
+            "all": 25,
+            "Rashi": 1,
+            "Commentary": 10,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 25:14",
+          "hebrewText": "וְהֵבֵאתָ֤ אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֥את אֶת־הָאָרֹ֖ן בָּהֶֽם׃",
+          "counts": {
+            "all": 21,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 25:15",
+          "hebrewText": "בְּטַבְּעֹת֙ הָאָרֹ֔ן יִהְי֖וּ הַבַּדִּ֑ים לֹ֥א יָסֻ֖רוּ מִמֶּֽנּוּ׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 2,
+            "Commentary": 26,
+            "Midrash": 8,
+            "Talmud": 5,
+            "Halakhah": 7,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 25:16",
+          "hebrewText": "וְנָתַתָּ֖ אֶל־הָאָרֹ֑ן אֵ֚ת הָעֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+          "counts": {
+            "all": 65,
+            "Rashi": 2,
+            "Commentary": 33,
+            "Midrash": 4,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 25:17",
+          "hebrewText": "וְעָשִׂ֥יתָ כַפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֙צִי֙ אׇרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רׇחְבָּֽהּ׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 3,
+            "Commentary": 49,
+            "Midrash": 5,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 25:18",
+          "hebrewText": "וְעָשִׂ֛יתָ שְׁנַ֥יִם כְּרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ תַּעֲשֶׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
+          "counts": {
+            "all": 96,
+            "Rashi": 6,
+            "Commentary": 50,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 25:19",
+          "hebrewText": "וַ֠עֲשֵׂ֠ה כְּר֨וּב אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־הַכַּפֹּ֛רֶת תַּעֲשׂ֥וּ אֶת־הַכְּרֻבִ֖ים עַל־שְׁנֵ֥י קְצוֹתָֽיו׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 2,
+            "Commentary": 21,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 25:20",
+          "hebrewText": "וְהָי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו אֶ֨ל־הַכַּפֹּ֔רֶת יִהְי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃",
+          "counts": {
+            "all": 141,
+            "Rashi": 6,
+            "Commentary": 35,
+            "Midrash": 12,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 18,
+            "Musar": 9,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 25:21",
+          "hebrewText": "וְנָתַתָּ֧ אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָ֑עְלָה וְאֶל־הָ֣אָרֹ֔ן תִּתֵּן֙ אֶת־הָ֣עֵדֻ֔ת אֲשֶׁ֥ר אֶתֵּ֖ן אֵלֶֽיךָ׃",
+          "counts": {
+            "all": 85,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 4,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 25:22",
+          "hebrewText": "וְנוֹעַדְתִּ֣י לְךָ֮ שָׁם֒ וְדִבַּרְתִּ֨י אִתְּךָ֜ מֵעַ֣ל הַכַּפֹּ֗רֶת מִבֵּין֙ שְׁנֵ֣י הַכְּרֻבִ֔ים אֲשֶׁ֖ר עַל־אֲר֣וֹן הָעֵדֻ֑ת אֵ֣ת כׇּל־אֲשֶׁ֧ר אֲצַוֶּ֛ה אוֹתְךָ֖ אֶל־בְּנֵ֥י יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 153,
+            "Rashi": 10,
+            "Commentary": 40,
+            "Midrash": 27,
+            "Talmud": 6,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 25:23",
+          "hebrewText": "וְעָשִׂ֥יתָ שֻׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+          "counts": {
+            "all": 90,
+            "Rashi": 1,
+            "Commentary": 42,
+            "Midrash": 6,
+            "Talmud": 2,
+            "Halakhah": 3,
+            "Kabbalah": 5,
+            "Musar": 0,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 25:24",
+          "hebrewText": "וְצִפִּיתָ֥ אֹת֖וֹ זָהָ֣ב טָה֑וֹר וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+          "counts": {
+            "all": 42,
+            "Rashi": 2,
+            "Commentary": 19,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 25:25",
+          "hebrewText": "וְעָשִׂ֨יתָ לּ֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וְעָשִׂ֧יתָ זֵר־זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 2,
+            "Commentary": 22,
+            "Midrash": 3,
+            "Talmud": 6,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 25:26",
+          "hebrewText": "וְעָשִׂ֣יתָ לּ֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וְנָתַתָּ֙ אֶת־הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 25:27",
+          "hebrewText": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת תִּהְיֶ֖יןָ הַטַּבָּעֹ֑ת לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 3,
+            "Commentary": 23,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 25:28",
+          "hebrewText": "וְעָשִׂ֤יתָ אֶת־הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֥ אֹתָ֖ם זָהָ֑ב וְנִשָּׂא־בָ֖ם אֶת־הַשֻּׁלְחָֽן׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 2,
+            "Commentary": 12,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 25:29",
+          "hebrewText": "וְעָשִׂ֨יתָ קְּעָרֹתָ֜יו וְכַפֹּתָ֗יו וּקְשׂוֹתָיו֙ וּמְנַקִּיֹּתָ֔יו אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֥ב טָה֖וֹר תַּעֲשֶׂ֥ה אֹתָֽם׃",
+          "counts": {
+            "all": 161,
+            "Rashi": 7,
+            "Commentary": 98,
+            "Midrash": 13,
+            "Talmud": 2,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Exodus 25:30",
+          "hebrewText": "וְנָתַתָּ֧ עַֽל־הַשֻּׁלְחָ֛ן לֶ֥חֶם פָּנִ֖ים לְפָנַ֥י תָּמִֽיד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 112,
+            "Rashi": 3,
+            "Commentary": 26,
+            "Midrash": 8,
+            "Talmud": 23,
+            "Halakhah": 9,
+            "Kabbalah": 3,
+            "Musar": 3,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Exodus 25:31",
+          "hebrewText": "וְעָשִׂ֥יתָ מְנֹרַ֖ת זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה תֵּעָשֶׂ֤ה<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בספרי ספרד ואשכנז תֵּיעָשֶׂ֤ה)</i> הַמְּנוֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה יִהְיֽוּ׃",
+          "counts": {
+            "all": 211,
+            "Rashi": 15,
+            "Commentary": 102,
+            "Midrash": 25,
+            "Talmud": 11,
+            "Halakhah": 9,
+            "Kabbalah": 3,
+            "Musar": 5,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Exodus 25:32",
+          "hebrewText": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה&thinsp;<b>׀</b> קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 2,
+            "Commentary": 12,
+            "Midrash": 4,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Exodus 25:33",
+          "hebrewText": "שְׁלֹשָׁ֣ה גְ֠בִעִ֠ים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶ֒רַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בַּקָּנֶ֥ה הָאֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+          "counts": {
+            "all": 48,
+            "Rashi": 6,
+            "Commentary": 22,
+            "Midrash": 2,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Exodus 25:34",
+          "hebrewText": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
+          "counts": {
+            "all": 47,
+            "Rashi": 4,
+            "Commentary": 17,
+            "Midrash": 4,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Exodus 25:35",
+          "hebrewText": "וְכַפְתֹּ֡ר תַּ֩חַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּחַת־שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+          "counts": {
+            "all": 22,
+            "Rashi": 1,
+            "Commentary": 10,
+            "Midrash": 2,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Exodus 25:36",
+          "hebrewText": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה יִהְי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 0,
+            "Commentary": 14,
+            "Midrash": 1,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Exodus 25:37",
+          "hebrewText": "וְעָשִׂ֥יתָ אֶת־נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וְהֶֽעֱלָה֙ אֶת־נֵ֣רֹתֶ֔יהָ וְהֵאִ֖יר עַל־עֵ֥בֶר פָּנֶֽיהָ׃",
+          "counts": {
+            "all": 68,
+            "Rashi": 2,
+            "Commentary": 37,
+            "Midrash": 6,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Exodus 25:38",
+          "hebrewText": "וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃",
+          "counts": {
+            "all": 41,
+            "Rashi": 5,
+            "Commentary": 20,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Exodus 25:39",
+          "hebrewText": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר יַעֲשֶׂ֣ה אֹתָ֑הּ אֵ֥ת כׇּל־הַכֵּלִ֖ים הָאֵֽלֶּה׃",
+          "counts": {
+            "all": 116,
+            "Rashi": 2,
+            "Commentary": 90,
+            "Midrash": 3,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Exodus 25:40",
+          "hebrewText": "וּרְאֵ֖ה וַעֲשֵׂ֑ה בְּתַ֨בְנִיתָ֔ם אֲשֶׁר־אַתָּ֥ה מׇרְאֶ֖ה בָּהָֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 106,
+            "Rashi": 3,
+            "Commentary": 39,
+            "Midrash": 23,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 6,
+            "Musar": 2,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 26:1",
+          "hebrewText": "וְאֶת־הַמִּשְׁכָּ֥ן תַּעֲשֶׂ֖ה עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב תַּעֲשֶׂ֥ה אֹתָֽם׃",
+          "counts": {
+            "all": 157,
+            "Rashi": 6,
+            "Commentary": 77,
+            "Midrash": 19,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 6,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 26:2",
+          "hebrewText": "אֹ֣רֶךְ&thinsp;<b>׀</b> הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה וְרֹ֙חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֥ה אַחַ֖ת לְכׇל־הַיְרִיעֹֽת׃",
+          "counts": {
+            "all": 32,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 26:3",
+          "hebrewText": "חֲמֵ֣שׁ הַיְרִיעֹ֗ת תִּֽהְיֶ֙יןָ֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָ֑הּ וְחָמֵ֤שׁ יְרִיעֹת֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָֽהּ׃",
+          "counts": {
+            "all": 41,
+            "Rashi": 2,
+            "Commentary": 14,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 26:4",
+          "hebrewText": "וְעָשִׂ֜יתָ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָאֶחָ֔ת מִקָּצָ֖ה בַּחֹבָ֑רֶת וְכֵ֤ן תַּעֲשֶׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃",
+          "counts": {
+            "all": 44,
+            "Rashi": 4,
+            "Commentary": 20,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 26:5",
+          "hebrewText": "חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת תַּעֲשֶׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָֽהּ׃",
+          "counts": {
+            "all": 54,
+            "Rashi": 1,
+            "Commentary": 29,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 26:6",
+          "hebrewText": "וְעָשִׂ֕יתָ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וְחִבַּרְתָּ֨ אֶת־הַיְרִיעֹ֜ת אִשָּׁ֤ה אֶל־אֲחֹתָהּ֙ בַּקְּרָסִ֔ים וְהָיָ֥ה הַמִּשְׁכָּ֖ן אֶחָֽד׃",
+          "counts": {
+            "all": 44,
+            "Rashi": 2,
+            "Commentary": 16,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 26:7",
+          "hebrewText": "וְעָשִׂ֙יתָ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־הַמִּשְׁכָּ֑ן עַשְׁתֵּי־עֶשְׂרֵ֥ה יְרִיעֹ֖ת תַּעֲשֶׂ֥ה אֹתָֽם׃",
+          "counts": {
+            "all": 71,
+            "Rashi": 2,
+            "Commentary": 21,
+            "Midrash": 17,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 26:8",
+          "hebrewText": "אֹ֣רֶךְ&thinsp;<b>׀</b> הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֙חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃",
+          "counts": {
+            "all": 25,
+            "Rashi": 1,
+            "Commentary": 9,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 26:9",
+          "hebrewText": "וְחִבַּרְתָּ֞ אֶת־חֲמֵ֤שׁ הַיְרִיעֹת֙ לְבָ֔ד וְאֶת־שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְכָפַלְתָּ֙ אֶת־הַיְרִיעָ֣ה הַשִּׁשִּׁ֔ית אֶל־מ֖וּל פְּנֵ֥י הָאֹֽהֶל׃",
+          "counts": {
+            "all": 53,
+            "Rashi": 3,
+            "Commentary": 24,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 26:10",
+          "hebrewText": "וְעָשִׂ֜יתָ חֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת הַקִּיצֹנָ֖ה בַּחֹבָ֑רֶת וַחֲמִשִּׁ֣ים לֻֽלָאֹ֗ת עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃",
+          "counts": {
+            "all": 18,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 26:11",
+          "hebrewText": "וְעָשִׂ֛יתָ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים וְהֵבֵאתָ֤ אֶת־הַקְּרָסִים֙ בַּלֻּ֣לָאֹ֔ת וְחִבַּרְתָּ֥ אֶת־הָאֹ֖הֶל וְהָיָ֥ה אֶחָֽד׃",
+          "counts": {
+            "all": 22,
+            "Rashi": 0,
+            "Commentary": 5,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 26:12",
+          "hebrewText": "וְסֶ֙רַח֙ הָעֹדֵ֔ף בִּירִיעֹ֖ת הָאֹ֑הֶל חֲצִ֤י הַיְרִיעָה֙ הָעֹדֶ֔פֶת תִּסְרַ֕ח עַ֖ל אֲחֹרֵ֥י הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 47,
+            "Rashi": 6,
+            "Commentary": 16,
+            "Midrash": 4,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 26:13",
+          "hebrewText": "וְהָאַמָּ֨ה מִזֶּ֜ה וְהָאַמָּ֤ה מִזֶּה֙ בָּעֹדֵ֔ף בְּאֹ֖רֶךְ יְרִיעֹ֣ת הָאֹ֑הֶל יִהְיֶ֨ה סָר֜וּחַ עַל־צִדֵּ֧י הַמִּשְׁכָּ֛ן מִזֶּ֥ה וּמִזֶּ֖ה לְכַסֹּתֽוֹ׃",
+          "counts": {
+            "all": 36,
+            "Rashi": 3,
+            "Commentary": 17,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 26:14",
+          "hebrewText": "וְעָשִׂ֤יתָ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאׇדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 48,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 4,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 26:15",
+          "hebrewText": "וְעָשִׂ֥יתָ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃",
+          "counts": {
+            "all": 112,
+            "Rashi": 4,
+            "Commentary": 46,
+            "Midrash": 24,
+            "Talmud": 3,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 26:16",
+          "hebrewText": "עֶ֥שֶׂר אַמּ֖וֹת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 3,
+            "Commentary": 15,
+            "Midrash": 7,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 7,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 26:17",
+          "hebrewText": "שְׁתֵּ֣י יָד֗וֹת לַקֶּ֙רֶשׁ֙ הָאֶחָ֔ד מְשֻׁ֨לָּבֹ֔ת אִשָּׁ֖ה אֶל־אֲחֹתָ֑הּ כֵּ֣ן תַּעֲשֶׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 57,
+            "Rashi": 3,
+            "Commentary": 37,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 26:18",
+          "hebrewText": "וְעָשִׂ֥יתָ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֶשְׂרִ֣ים קֶ֔רֶשׁ לִפְאַ֖ת נֶ֥גְבָּה תֵימָֽנָה׃",
+          "counts": {
+            "all": 28,
+            "Rashi": 1,
+            "Commentary": 13,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 26:19",
+          "hebrewText": "וְאַרְבָּעִים֙ אַדְנֵי־כֶ֔סֶף תַּעֲשֶׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקָּ֑רֶשׁ שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃",
+          "counts": {
+            "all": 20,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 26:20",
+          "hebrewText": "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עֶשְׂרִ֖ים קָֽרֶשׁ׃",
+          "counts": {
+            "all": 34,
+            "Rashi": 3,
+            "Commentary": 3,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 26:21",
+          "hebrewText": "וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָֽאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 26:22",
+          "hebrewText": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה תַּעֲשֶׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 3,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 26:23",
+          "hebrewText": "וּשְׁנֵ֤י קְרָשִׁים֙ תַּעֲשֶׂ֔ה לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃",
+          "counts": {
+            "all": 20,
+            "Rashi": 1,
+            "Commentary": 8,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 26:24",
+          "hebrewText": "וְיִֽהְי֣וּ תֹֽאֲמִם֮ מִלְּמַ֒טָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ עַל־רֹאשׁ֔וֹ אֶל־הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן יִהְיֶ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֥י הַמִּקְצֹעֹ֖ת יִהְיֽוּ׃",
+          "counts": {
+            "all": 69,
+            "Rashi": 5,
+            "Commentary": 38,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 5,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 26:25",
+          "hebrewText": "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 1,
+            "Commentary": 6,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 26:26",
+          "hebrewText": "וְעָשִׂ֥יתָ בְרִיחִ֖ם עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הָאֶחָֽד׃",
+          "counts": {
+            "all": 33,
+            "Rashi": 3,
+            "Commentary": 19,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 26:27",
+          "hebrewText": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֣ה בְרִיחִ֗ם לְקַרְשֵׁי֙ צֶ֣לַע הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
+          "counts": {
+            "all": 17,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 26:28",
+          "hebrewText": "וְהַבְּרִ֥יחַ הַתִּיכֹ֖ן בְּת֣וֹךְ הַקְּרָשִׁ֑ים מַבְרִ֕חַ מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 0,
+            "Commentary": 14,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 13,
+            "Musar": 1,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 26:29",
+          "hebrewText": "וְֽאֶת־הַקְּרָשִׁ֞ים תְּצַפֶּ֣ה זָהָ֗ב וְאֶת־טַבְּעֹֽתֵיהֶם֙ תַּעֲשֶׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם וְצִפִּיתָ֥ אֶת־הַבְּרִיחִ֖ם זָהָֽב׃",
+          "counts": {
+            "all": 31,
+            "Rashi": 4,
+            "Commentary": 14,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Exodus 26:30",
+          "hebrewText": "וַהֲקֵמֹתָ֖ אֶת־הַמִּשְׁכָּ֑ן כְּמִ֨שְׁפָּט֔וֹ אֲשֶׁ֥ר הׇרְאֵ֖יתָ בָּהָֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 58,
+            "Rashi": 2,
+            "Commentary": 27,
+            "Midrash": 4,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Exodus 26:31",
+          "hebrewText": "וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 5,
+            "Commentary": 33,
+            "Midrash": 8,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Exodus 26:32",
+          "hebrewText": "וְנָתַתָּ֣ה אֹתָ֗הּ עַל־אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים מְצֻפִּ֣ים זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב עַל־אַרְבָּעָ֖ה אַדְנֵי־כָֽסֶף׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 1,
+            "Commentary": 16,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Exodus 26:33",
+          "hebrewText": "וְנָתַתָּ֣ה אֶת־הַפָּרֹ֘כֶת֮ תַּ֣חַת הַקְּרָסִים֒ וְהֵבֵאתָ֥ שָׁ֙מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְהִבְדִּילָ֤ה הַפָּרֹ֙כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים׃",
+          "counts": {
+            "all": 116,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 16,
+            "Talmud": 4,
+            "Halakhah": 3,
+            "Kabbalah": 5,
+            "Musar": 6,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Exodus 26:34",
+          "hebrewText": "וְנָתַתָּ֙ אֶת־הַכַּפֹּ֔רֶת עַ֖ל אֲר֣וֹן הָעֵדֻ֑ת בְּקֹ֖דֶשׁ הַקֳּדָשִֽׁים׃",
+          "counts": {
+            "all": 16,
+            "Rashi": 0,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Exodus 26:35",
+          "hebrewText": "וְשַׂמְתָּ֤ אֶת־הַשֻּׁלְחָן֙ מִח֣וּץ לַפָּרֹ֔כֶת וְאֶת־הַמְּנֹרָה֙ נֹ֣כַח הַשֻּׁלְחָ֔ן עַ֛ל צֶ֥לַע הַמִּשְׁכָּ֖ן תֵּימָ֑נָה וְהַ֨שֻּׁלְחָ֔ן תִּתֵּ֖ן עַל־צֶ֥לַע צָפֽוֹן׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 4,
+            "Commentary": 20,
+            "Midrash": 8,
+            "Talmud": 7,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Exodus 26:36",
+          "hebrewText": "וְעָשִׂ֤יתָ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
+          "counts": {
+            "all": 63,
+            "Rashi": 3,
+            "Commentary": 39,
+            "Midrash": 3,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Exodus 26:37",
+          "hebrewText": "וְעָשִׂ֣יתָ לַמָּסָ֗ךְ חֲמִשָּׁה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וְצִפִּיתָ֤ אֹתָם֙ זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וְיָצַקְתָּ֣ לָהֶ֔ם חֲמִשָּׁ֖ה אַדְנֵ֥י נְחֹֽשֶׁת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 18,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

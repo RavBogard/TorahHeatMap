@@ -1,0 +1,897 @@
+{
+  "name": "Ha'azinu",
+  "heName": "האזינו",
+  "ref": "Deuteronomy 32:1-32:52",
+  "book": "Deuteronomy",
+  "data": [
+    {
+      "chapter": 32,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Deuteronomy 32:1",
+          "hebrewText": "הַאֲזִ֥ינוּ הַשָּׁמַ֖יִם וַאֲדַבֵּ֑רָה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְתִשְׁמַ֥ע הָאָ֖רֶץ אִמְרֵי־פִֽי׃",
+          "counts": {
+            "all": 316,
+            "Rashi": 5,
+            "Commentary": 123,
+            "Midrash": 70,
+            "Talmud": 3,
+            "Halakhah": 6,
+            "Kabbalah": 5,
+            "Musar": 2,
+            "Chasidut": 50,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Deuteronomy 32:2",
+          "hebrewText": "יַעֲרֹ֤ף כַּמָּטָר֙ לִקְחִ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;תִּזַּ֥ל כַּטַּ֖ל אִמְרָתִ֑י כִּשְׂעִירִ֣ם עֲלֵי־דֶ֔שֶׁא&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְכִרְבִיבִ֖ים עֲלֵי־עֵֽשֶׂב׃",
+          "counts": {
+            "all": 356,
+            "Rashi": 12,
+            "Commentary": 121,
+            "Midrash": 82,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 6,
+            "Chasidut": 41,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Deuteronomy 32:3",
+          "hebrewText": "כִּ֛י שֵׁ֥ם יְהֹוָ֖ה אֶקְרָ֑א&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;הָב֥וּ גֹ֖דֶל לֵאלֹהֵֽינוּ׃",
+          "counts": {
+            "all": 210,
+            "Rashi": 1,
+            "Commentary": 76,
+            "Midrash": 30,
+            "Talmud": 5,
+            "Halakhah": 8,
+            "Kabbalah": 9,
+            "Musar": 2,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Deuteronomy 32:4",
+          "hebrewText": "הַצּוּר֙ תָּמִ֣ים פׇּֽעֳל֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;כִּ֥י כׇל־דְּרָכָ֖יו מִשְׁפָּ֑ט אֵ֤ל אֱמוּנָה֙ וְאֵ֣ין עָ֔וֶל&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;צַדִּ֥יק וְיָשָׁ֖ר הֽוּא׃",
+          "counts": {
+            "all": 409,
+            "Rashi": 5,
+            "Commentary": 108,
+            "Midrash": 73,
+            "Talmud": 5,
+            "Halakhah": 2,
+            "Kabbalah": 33,
+            "Musar": 26,
+            "Chasidut": 23,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Deuteronomy 32:5",
+          "hebrewText": "שִׁחֵ֥ת ל֛וֹ לֹ֖א בָּנָ֣יו מוּמָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;דּ֥וֹר עִקֵּ֖שׁ וּפְתַלְתֹּֽל׃",
+          "counts": {
+            "all": 159,
+            "Rashi": 9,
+            "Commentary": 78,
+            "Midrash": 18,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 3,
+            "Musar": 5,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Deuteronomy 32:6",
+          "hebrewText": "<big>הַ</big> לְיְהֹוָה֙<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בספרי תימן <big>הַֽ</big>לְיהֹוָה֙ בתיבה אחת)</i> תִּגְמְלוּ־זֹ֔את&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עַ֥ם נָבָ֖ל וְלֹ֣א חָכָ֑ם הֲלוֹא־הוּא֙ אָבִ֣יךָ קָּנֶ֔ךָ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ה֥וּא עָשְׂךָ֖ וַֽיְכֹנְנֶֽךָ׃",
+          "counts": {
+            "all": 315,
+            "Rashi": 6,
+            "Commentary": 119,
+            "Midrash": 38,
+            "Talmud": 4,
+            "Halakhah": 4,
+            "Kabbalah": 18,
+            "Musar": 15,
+            "Chasidut": 19,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Deuteronomy 32:7",
+          "hebrewText": "זְכֹר֙ יְמ֣וֹת עוֹלָ֔ם בִּ֖ינוּ שְׁנ֣וֹת דֹּר־וָדֹ֑ר&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;שְׁאַ֤ל אָבִ֙יךָ֙ וְיַגֵּ֔דְךָ זְקֵנֶ֖יךָ וְיֹ֥אמְרוּ לָֽךְ׃",
+          "counts": {
+            "all": 195,
+            "Rashi": 5,
+            "Commentary": 65,
+            "Midrash": 26,
+            "Talmud": 9,
+            "Halakhah": 8,
+            "Kabbalah": 7,
+            "Musar": 3,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Deuteronomy 32:8",
+          "hebrewText": "בְּהַנְחֵ֤ל עֶלְיוֹן֙ גּוֹיִ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;בְּהַפְרִיד֖וֹ בְּנֵ֣י אָדָ֑ם יַצֵּב֙ גְּבֻלֹ֣ת עַמִּ֔ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;לְמִסְפַּ֖ר בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 210,
+            "Rashi": 4,
+            "Commentary": 77,
+            "Midrash": 45,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 12,
+            "Musar": 2,
+            "Chasidut": 17,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Deuteronomy 32:9",
+          "hebrewText": "כִּ֛י חֵ֥לֶק יְהֹוָ֖ה עַמּ֑וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יַעֲקֹ֖ב חֶ֥בֶל נַחֲלָתֽוֹ׃",
+          "counts": {
+            "all": 304,
+            "Rashi": 2,
+            "Commentary": 42,
+            "Midrash": 54,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 42,
+            "Musar": 20,
+            "Chasidut": 59,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Deuteronomy 32:10",
+          "hebrewText": "יִמְצָאֵ֙הוּ֙ בְּאֶ֣רֶץ מִדְבָּ֔ר&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וּבְתֹ֖הוּ יְלֵ֣ל יְשִׁמֹ֑ן יְסֹבְבֶ֙נְהוּ֙ יְב֣וֹנְנֵ֔הוּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יִצְּרֶ֖נְהוּ כְּאִישׁ֥וֹן עֵינֽוֹ׃",
+          "counts": {
+            "all": 228,
+            "Rashi": 7,
+            "Commentary": 125,
+            "Midrash": 31,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Deuteronomy 32:11",
+          "hebrewText": "כְּנֶ֙שֶׁר֙ יָעִ֣יר קִנּ֔וֹ עַל־גּוֹזָלָ֖יו יְרַחֵ֑ף&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יִפְרֹ֤שׂ כְּנָפָיו֙ יִקָּחֵ֔הוּ יִשָּׂאֵ֖הוּ עַל־אֶבְרָתֽוֹ׃",
+          "counts": {
+            "all": 195,
+            "Rashi": 6,
+            "Commentary": 65,
+            "Midrash": 26,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 17,
+            "Musar": 4,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 32:12",
+          "hebrewText": "יְהֹוָ֖ה בָּדָ֣ד יַנְחֶ֑נּוּ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְאֵ֥ין עִמּ֖וֹ אֵ֥ל נֵכָֽר׃",
+          "counts": {
+            "all": 156,
+            "Rashi": 4,
+            "Commentary": 58,
+            "Midrash": 42,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 12,
+            "Musar": 3,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Deuteronomy 32:13",
+          "hebrewText": "יַרְכִּבֵ֙הוּ֙ עַל־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[בָּ֣מֳתֵי]</span> <span class=\"mam-kq-k\">(במותי)</span></span> אָ֔רֶץ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיֹּאכַ֖ל תְּנוּבֹ֣ת שָׂדָ֑י וַיֵּנִקֵ֤הֽוּ דְבַשׁ֙ מִסֶּ֔לַע&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְשֶׁ֖מֶן מֵחַלְמִ֥ישׁ צֽוּר׃",
+          "counts": {
+            "all": 244,
+            "Rashi": 9,
+            "Commentary": 98,
+            "Midrash": 70,
+            "Talmud": 3,
+            "Halakhah": 3,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Deuteronomy 32:14",
+          "hebrewText": "חֶמְאַ֨ת בָּקָ֜ר וַחֲלֵ֣ב צֹ֗אן&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עִם־חֵ֨לֶב כָּרִ֜ים וְאֵילִ֤ים בְּנֵֽי־בָשָׁן֙ וְעַתּוּדִ֔ים&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עִם־חֵ֖לֶב כִּלְי֣וֹת חִטָּ֑ה וְדַם־עֵנָ֖ב תִּשְׁתֶּה־חָֽמֶר׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 191,
+            "Rashi": 13,
+            "Commentary": 92,
+            "Midrash": 16,
+            "Talmud": 5,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Deuteronomy 32:15",
+          "hebrewText": "וַיִּשְׁמַ֤ן יְשֻׁרוּן֙ וַיִּבְעָ֔ט שָׁמַ֖נְתָּ עָבִ֣יתָ כָּשִׂ֑יתָ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַיִּטֹּשׁ֙ אֱל֣וֹהַּ עָשָׂ֔הוּ וַיְנַבֵּ֖ל צ֥וּר יְשֻׁעָתֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 255,
+            "Rashi": 6,
+            "Commentary": 72,
+            "Midrash": 39,
+            "Talmud": 1,
+            "Halakhah": 4,
+            "Kabbalah": 5,
+            "Musar": 7,
+            "Chasidut": 22,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Deuteronomy 32:16",
+          "hebrewText": "יַקְנִאֻ֖הוּ בְּזָרִ֑ים בְּתוֹעֵבֹ֖ת יַכְעִיסֻֽהוּ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 53,
+            "Rashi": 2,
+            "Commentary": 27,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Deuteronomy 32:17",
+          "hebrewText": "יִזְבְּח֗וּ לַשֵּׁדִים֙ לֹ֣א אֱלֹ֔הַּ אֱלֹהִ֖ים לֹ֣א יְדָע֑וּם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;חֲדָשִׁים֙ מִקָּרֹ֣ב בָּ֔אוּ לֹ֥א שְׂעָר֖וּם אֲבֹתֵיכֶֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 150,
+            "Rashi": 5,
+            "Commentary": 72,
+            "Midrash": 20,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Deuteronomy 32:18",
+          "hebrewText": "צ֥וּר יְלָדְךָ֖ תֶּ֑שִׁ<small>י</small> וַתִּשְׁכַּ֖ח אֵ֥ל מְחֹלְלֶֽךָ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 204,
+            "Rashi": 3,
+            "Commentary": 63,
+            "Midrash": 40,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 22,
+            "Musar": 8,
+            "Chasidut": 18,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Deuteronomy 32:19",
+          "hebrewText": "וַיַּ֥רְא יְהֹוָ֖ה וַיִּנְאָ֑ץ מִכַּ֥עַס בָּנָ֖יו וּבְנֹתָֽיו׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 68,
+            "Rashi": 0,
+            "Commentary": 29,
+            "Midrash": 8,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Deuteronomy 32:20",
+          "hebrewText": "וַיֹּ֗אמֶר אַסְתִּ֤ירָה פָנַי֙ מֵהֶ֔ם אֶרְאֶ֖ה מָ֣ה אַחֲרִיתָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;כִּ֣י ד֤וֹר תַּהְפֻּכֹת֙ הֵ֔מָּה בָּנִ֖ים לֹא־אֵמֻ֥ן בָּֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 201,
+            "Rashi": 5,
+            "Commentary": 81,
+            "Midrash": 28,
+            "Talmud": 3,
+            "Halakhah": 3,
+            "Kabbalah": 6,
+            "Musar": 4,
+            "Chasidut": 22,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Deuteronomy 32:21",
+          "hebrewText": "הֵ֚ם קִנְא֣וּנִי בְלֹא־אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַֽאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא־עָ֔ם בְּג֥וֹי נָבָ֖ל אַכְעִיסֵֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 123,
+            "Rashi": 8,
+            "Commentary": 58,
+            "Midrash": 16,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Deuteronomy 32:22",
+          "hebrewText": "כִּי־אֵשׁ֙ קָדְחָ֣ה בְאַפִּ֔י וַתִּיקַ֖ד עַד־שְׁא֣וֹל תַּחְתִּ֑ית&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וַתֹּ֤אכַל אֶ֙רֶץ֙ וִֽיבֻלָ֔הּ וַתְּלַהֵ֖ט מוֹסְדֵ֥י הָרִֽים׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 112,
+            "Rashi": 10,
+            "Commentary": 50,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Deuteronomy 32:23",
+          "hebrewText": "אַסְפֶּ֥ה עָלֵ֖ימוֹ רָע֑וֹת חִצַּ֖י אֲכַלֶּה־בָּֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 83,
+            "Rashi": 2,
+            "Commentary": 34,
+            "Midrash": 20,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Deuteronomy 32:24",
+          "hebrewText": "מְזֵ֥י רָעָ֛ב וּלְחֻ֥מֵי רֶ֖שֶׁף וְקֶ֣טֶב מְרִירִ֑י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְשֶׁן־בְּהֵמֹת֙ אֲשַׁלַּח־בָּ֔ם עִם־חֲמַ֖ת זֹחֲלֵ֥י עָפָֽר׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 216,
+            "Rashi": 12,
+            "Commentary": 75,
+            "Midrash": 37,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 5,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Deuteronomy 32:25",
+          "hebrewText": "מִחוּץ֙ תְּשַׁכֶּל־חֶ֔רֶב וּמֵחֲדָרִ֖ים אֵימָ֑ה גַּם־בָּחוּר֙ גַּם־בְּתוּלָ֔ה יוֹנֵ֖ק עִם־אִ֥ישׁ שֵׂיבָֽה׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 104,
+            "Rashi": 6,
+            "Commentary": 35,
+            "Midrash": 27,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Deuteronomy 32:26",
+          "hebrewText": "אָמַ֖רְתִּי אַפְאֵיהֶ֑ם אַשְׁבִּ֥יתָה מֵאֱנ֖וֹשׁ זִכְרָֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 87,
+            "Rashi": 1,
+            "Commentary": 41,
+            "Midrash": 16,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Deuteronomy 32:27",
+          "hebrewText": "לוּלֵ֗י כַּ֤עַס אוֹיֵב֙ אָג֔וּר פֶּֽן־יְנַכְּר֖וּ צָרֵ֑ימוֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;פֶּן־יֹֽאמְרוּ֙ יָדֵ֣נוּ רָ֔מָה וְלֹ֥א יְהֹוָ֖ה פָּעַ֥ל כׇּל־זֹֽאת׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 100,
+            "Rashi": 3,
+            "Commentary": 40,
+            "Midrash": 18,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Deuteronomy 32:28",
+          "hebrewText": "כִּי־ג֛וֹי אֹבַ֥ד עֵצ֖וֹת הֵ֑מָּה וְאֵ֥ין בָּהֶ֖ם תְּבוּנָֽה׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 70,
+            "Rashi": 2,
+            "Commentary": 31,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Deuteronomy 32:29",
+          "hebrewText": "ל֥וּ חָכְמ֖וּ יַשְׂכִּ֣ילוּ זֹ֑את יָבִ֖ינוּ לְאַחֲרִיתָֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 97,
+            "Rashi": 2,
+            "Commentary": 30,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 27,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Deuteronomy 32:30",
+          "hebrewText": "אֵיכָ֞ה יִרְדֹּ֤ף אֶחָד֙ אֶ֔לֶף וּשְׁנַ֖יִם יָנִ֣יסוּ רְבָבָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אִם־לֹא֙ כִּֽי־צוּרָ֣ם מְכָרָ֔ם וַֽיהֹוָ֖ה הִסְגִּירָֽם׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 141,
+            "Rashi": 4,
+            "Commentary": 42,
+            "Midrash": 34,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 3,
+            "Musar": 4,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Deuteronomy 32:31",
+          "hebrewText": "כִּ֛י לֹ֥א כְצוּרֵ֖נוּ צוּרָ֑ם וְאֹיְבֵ֖ינוּ פְּלִילִֽים׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 78,
+            "Rashi": 4,
+            "Commentary": 36,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Deuteronomy 32:32",
+          "hebrewText": "כִּֽי־מִגֶּ֤פֶן סְדֹם֙ גַּפְנָ֔ם וּמִשַּׁדְמֹ֖ת עֲמֹרָ֑ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;עֲנָבֵ֙מוֹ֙ עִנְּבֵי־ר֔וֹשׁ אַשְׁכְּלֹ֥ת מְרֹרֹ֖ת לָֽמוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 111,
+            "Rashi": 4,
+            "Commentary": 48,
+            "Midrash": 20,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 3,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Deuteronomy 32:33",
+          "hebrewText": "חֲמַ֥ת תַּנִּינִ֖ם יֵינָ֑ם וְרֹ֥אשׁ פְּתָנִ֖ים אַכְזָֽר׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 69,
+            "Rashi": 4,
+            "Commentary": 25,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Deuteronomy 32:34",
+          "hebrewText": "הֲלֹא־ה֖וּא כָּמֻ֣ס עִמָּדִ֑י חָת֖וּם בְּאוֹצְרֹתָֽי׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 101,
+            "Rashi": 4,
+            "Commentary": 38,
+            "Midrash": 22,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Deuteronomy 32:35",
+          "hebrewText": "לִ֤י נָקָם֙ וְשִׁלֵּ֔ם לְעֵ֖ת תָּמ֣וּט רַגְלָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;כִּ֤י קָרוֹב֙ י֣וֹם אֵידָ֔ם וְחָ֖שׁ עֲתִדֹ֥ת לָֽמוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 163,
+            "Rashi": 5,
+            "Commentary": 82,
+            "Midrash": 20,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Deuteronomy 32:36",
+          "hebrewText": "כִּֽי־יָדִ֤ין יְהֹוָה֙ עַמּ֔וֹ וְעַל־עֲבָדָ֖יו יִתְנֶחָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;כִּ֤י יִרְאֶה֙ כִּֽי־אָ֣זְלַת יָ֔ד וְאֶ֖פֶס עָצ֥וּר וְעָזֽוּב׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 179,
+            "Rashi": 17,
+            "Commentary": 82,
+            "Midrash": 22,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Deuteronomy 32:37",
+          "hebrewText": "וְאָמַ֖ר אֵ֣י אֱלֹהֵ֑ימוֹ צ֖וּר חָסָ֥יוּ בֽוֹ׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 85,
+            "Rashi": 2,
+            "Commentary": 29,
+            "Midrash": 23,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Deuteronomy 32:38",
+          "hebrewText": "אֲשֶׁ֨ר חֵ֤לֶב זְבָחֵ֙ימוֹ֙ יֹאכֵ֔לוּ יִשְׁתּ֖וּ יֵ֣ין נְסִיכָ֑ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;יָק֙וּמוּ֙ וְיַעְזְרֻכֶ֔ם יְהִ֥י עֲלֵיכֶ֖ם סִתְרָֽה׃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 99,
+            "Rashi": 3,
+            "Commentary": 44,
+            "Midrash": 8,
+            "Talmud": 2,
+            "Halakhah": 12,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Deuteronomy 32:39",
+          "hebrewText": "רְא֣וּ&thinsp;<b>׀</b> עַתָּ֗ה כִּ֣י אֲנִ֤י אֲנִי֙ ה֔וּא וְאֵ֥ין אֱלֹהִ֖ים עִמָּדִ֑י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;אֲנִ֧י אָמִ֣ית וַאֲחַיֶּ֗ה מָחַ֙צְתִּי֙ וַאֲנִ֣י אֶרְפָּ֔א&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְאֵ֥ין מִיָּדִ֖י מַצִּֽיל׃",
+          "counts": {
+            "all": 294,
+            "Rashi": 6,
+            "Commentary": 95,
+            "Midrash": 50,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 29,
+            "Musar": 4,
+            "Chasidut": 30,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Deuteronomy 32:40",
+          "hebrewText": "כִּֽי־אֶשָּׂ֥א אֶל־שָׁמַ֖יִם יָדִ֑י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְאָמַ֕רְתִּי חַ֥י אָנֹכִ֖י לְעֹלָֽם׃",
+          "counts": {
+            "all": 96,
+            "Rashi": 2,
+            "Commentary": 46,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 41,
+          "ref": "Deuteronomy 32:41",
+          "hebrewText": "אִם־שַׁנּוֹתִי֙ בְּרַ֣ק חַרְבִּ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְתֹאחֵ֥ז בְּמִשְׁפָּ֖ט יָדִ֑י אָשִׁ֤יב נָקָם֙ לְצָרָ֔י&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְלִמְשַׂנְאַ֖י אֲשַׁלֵּֽם׃",
+          "counts": {
+            "all": 150,
+            "Rashi": 6,
+            "Commentary": 63,
+            "Midrash": 33,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 3,
+            "Musar": 4,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 42,
+          "ref": "Deuteronomy 32:42",
+          "hebrewText": "אַשְׁכִּ֤יר חִצַּי֙ מִדָּ֔ם&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְחַרְבִּ֖י תֹּאכַ֣ל בָּשָׂ֑ר מִדַּ֤ם חָלָל֙ וְשִׁבְיָ֔ה&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;מֵרֹ֖אשׁ פַּרְע֥וֹת אוֹיֵֽב׃",
+          "counts": {
+            "all": 130,
+            "Rashi": 5,
+            "Commentary": 74,
+            "Midrash": 18,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 43,
+          "ref": "Deuteronomy 32:43",
+          "hebrewText": "הַרְנִ֤ינוּ גוֹיִם֙ עַמּ֔וֹ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;כִּ֥י דַם־עֲבָדָ֖יו יִקּ֑וֹם וְנָקָם֙ יָשִׁ֣יב לְצָרָ֔יו&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;וְכִפֶּ֥ר אַדְמָת֖וֹ עַמּֽוֹ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 236,
+            "Rashi": 22,
+            "Commentary": 122,
+            "Midrash": 50,
+            "Talmud": 3,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 44,
+          "ref": "Deuteronomy 32:44",
+          "hebrewText": "וַיָּבֹ֣א מֹשֶׁ֗ה וַיְדַבֵּ֛ר אֶת־כׇּל־דִּבְרֵ֥י הַשִּׁירָֽה־הַזֹּ֖את בְּאׇזְנֵ֣י הָעָ֑ם ה֖וּא וְהוֹשֵׁ֥עַ בִּן־נֽוּן׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 1,
+            "Commentary": 45,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 45,
+          "ref": "Deuteronomy 32:45",
+          "hebrewText": "וַיְכַ֣ל מֹשֶׁ֗ה לְדַבֵּ֛ר אֶת־כׇּל־הַדְּבָרִ֥ים הָאֵ֖לֶּה אֶל־כׇּל־יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 46,
+          "ref": "Deuteronomy 32:46",
+          "hebrewText": "וַיֹּ֤אמֶר אֲלֵהֶם֙ שִׂ֣ימוּ לְבַבְכֶ֔ם לְכׇ֨ל־הַדְּבָרִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י מֵעִ֥יד בָּכֶ֖ם הַיּ֑וֹם אֲשֶׁ֤ר תְּצַוֻּם֙ אֶת־בְּנֵיכֶ֔ם לִשְׁמֹ֣ר לַעֲשׂ֔וֹת אֶת־כׇּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃",
+          "counts": {
+            "all": 51,
+            "Rashi": 2,
+            "Commentary": 23,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 47,
+          "ref": "Deuteronomy 32:47",
+          "hebrewText": "כִּ֠י לֹא־דָבָ֨ר רֵ֥ק הוּא֙ מִכֶּ֔ם כִּי־ה֖וּא חַיֵּיכֶ֑ם וּבַדָּבָ֣ר הַזֶּ֗ה תַּאֲרִ֤יכוּ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת־הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּֽהּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 147,
+            "Rashi": 1,
+            "Commentary": 39,
+            "Midrash": 31,
+            "Talmud": 6,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 9,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 48,
+          "ref": "Deuteronomy 32:48",
+          "hebrewText": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּעֶ֛צֶם הַיּ֥וֹם הַזֶּ֖ה לֵאמֹֽר׃",
+          "counts": {
+            "all": 49,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 49,
+          "ref": "Deuteronomy 32:49",
+          "hebrewText": "עֲלֵ֡ה אֶל־הַר֩ הָעֲבָרִ֨ים הַזֶּ֜ה הַר־נְב֗וֹ אֲשֶׁר֙ בְּאֶ֣רֶץ מוֹאָ֔ב אֲשֶׁ֖ר עַל־פְּנֵ֣י יְרֵח֑וֹ וּרְאֵה֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁ֨ר אֲנִ֥י נֹתֵ֛ן לִבְנֵ֥י יִשְׂרָאֵ֖ל לַאֲחֻזָּֽה׃",
+          "counts": {
+            "all": 93,
+            "Rashi": 0,
+            "Commentary": 23,
+            "Midrash": 31,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 50,
+          "ref": "Deuteronomy 32:50",
+          "hebrewText": "וּמֻ֗ת בָּהָר֙ אֲשֶׁ֤ר אַתָּה֙ עֹלֶ֣ה שָׁ֔מָּה וְהֵאָסֵ֖ף אֶל־עַמֶּ֑יךָ כַּֽאֲשֶׁר־מֵ֞ת אַהֲרֹ֤ן אָחִ֙יךָ֙ בְּהֹ֣ר הָהָ֔ר וַיֵּאָ֖סֶף אֶל־עַמָּֽיו׃",
+          "counts": {
+            "all": 80,
+            "Rashi": 5,
+            "Commentary": 37,
+            "Midrash": 10,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 51,
+          "ref": "Deuteronomy 32:51",
+          "hebrewText": "עַל֩ אֲשֶׁ֨ר מְעַלְתֶּ֜ם בִּ֗י בְּתוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל בְּמֵֽי־מְרִיבַ֥ת קָדֵ֖שׁ מִדְבַּר־צִ֑ן עַ֣ל אֲשֶׁ֤ר לֹֽא־קִדַּשְׁתֶּם֙ אוֹתִ֔י בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 86,
+            "Rashi": 3,
+            "Commentary": 24,
+            "Midrash": 16,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 52,
+          "ref": "Deuteronomy 32:52",
+          "hebrewText": "כִּ֥י מִנֶּ֖גֶד תִּרְאֶ֣ה אֶת־הָאָ֑רֶץ וְשָׁ֙מָּה֙ לֹ֣א תָב֔וֹא אֶל־הָאָ֕רֶץ אֲשֶׁר־אֲנִ֥י נֹתֵ֖ן לִבְנֵ֥י יִשְׂרָאֵֽל׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 59,
+            "Rashi": 3,
+            "Commentary": 30,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

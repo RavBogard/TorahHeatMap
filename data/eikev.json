@@ -1,0 +1,1920 @@
+{
+  "name": "Eikev",
+  "heName": "עקב",
+  "ref": "Deuteronomy 7:12-11:25",
+  "book": "Deuteronomy",
+  "data": [
+    {
+      "chapter": 7,
+      "verses": [
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 7:12",
+          "hebrewText": "וְהָיָ֣ה&thinsp;<b>׀</b> עֵ֣קֶב תִּשְׁמְע֗וּן אֵ֤ת הַמִּשְׁפָּטִים֙ הָאֵ֔לֶּה וּשְׁמַרְתֶּ֥ם וַעֲשִׂיתֶ֖ם אֹתָ֑ם וְשָׁמַר֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ לְךָ֗ אֶֽת־הַבְּרִית֙ וְאֶת־הַחֶ֔סֶד אֲשֶׁ֥ר נִשְׁבַּ֖ע לַאֲבֹתֶֽיךָ׃",
+          "counts": {
+            "all": 347,
+            "Rashi": 6,
+            "Commentary": 125,
+            "Midrash": 38,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 6,
+            "Chasidut": 108,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Deuteronomy 7:13",
+          "hebrewText": "וַאֲהֵ֣בְךָ֔ וּבֵרַכְךָ֖ וְהִרְבֶּ֑ךָ וּבֵרַ֣ךְ פְּרִֽי־בִטְנְךָ֣ וּפְרִֽי־אַ֠דְמָתֶ֠ךָ דְּגָ֨נְךָ֜ וְתִירֹשְׁךָ֣ וְיִצְהָרֶ֗ךָ שְׁגַר־אֲלָפֶ֙יךָ֙ וְעַשְׁתְּרֹ֣ת צֹאנֶ֔ךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃",
+          "counts": {
+            "all": 137,
+            "Rashi": 6,
+            "Commentary": 56,
+            "Midrash": 14,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Deuteronomy 7:14",
+          "hebrewText": "בָּר֥וּךְ תִּֽהְיֶ֖ה מִכׇּל־הָעַמִּ֑ים לֹא־יִהְיֶ֥ה בְךָ֛ עָקָ֥ר וַֽעֲקָרָ֖ה וּבִבְהֶמְתֶּֽךָ׃",
+          "counts": {
+            "all": 95,
+            "Rashi": 1,
+            "Commentary": 28,
+            "Midrash": 15,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 4,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Deuteronomy 7:15",
+          "hebrewText": "וְהֵסִ֧יר יְהֹוָ֛ה מִמְּךָ֖ כׇּל־חֹ֑לִי וְכׇל־מַדְוֵי֩ מִצְרַ֨יִם הָרָעִ֜ים אֲשֶׁ֣ר יָדַ֗עְתָּ לֹ֤א יְשִׂימָם֙ בָּ֔ךְ וּנְתָנָ֖ם בְּכׇל־שֹׂנְאֶֽיךָ׃",
+          "counts": {
+            "all": 100,
+            "Rashi": 0,
+            "Commentary": 37,
+            "Midrash": 9,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Deuteronomy 7:16",
+          "hebrewText": "וְאָכַלְתָּ֣ אֶת־כׇּל־הָֽעַמִּ֗ים אֲשֶׁ֨ר יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ נֹתֵ֣ן לָ֔ךְ לֹא־תָח֥וֹס עֵֽינְךָ֖ עֲלֵיהֶ֑ם וְלֹ֤א תַעֲבֹד֙ אֶת־אֱלֹ֣הֵיהֶ֔ם כִּֽי־מוֹקֵ֥שׁ ה֖וּא לָֽךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 81,
+            "Rashi": 2,
+            "Commentary": 36,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Deuteronomy 7:17",
+          "hebrewText": "כִּ֤י תֹאמַר֙ בִּלְבָ֣בְךָ֔ רַבִּ֛ים הַגּוֹיִ֥ם הָאֵ֖לֶּה מִמֶּ֑נִּי אֵיכָ֥ה אוּכַ֖ל לְהוֹרִישָֽׁם׃",
+          "counts": {
+            "all": 62,
+            "Rashi": 4,
+            "Commentary": 26,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Deuteronomy 7:18",
+          "hebrewText": "לֹ֥א תִירָ֖א מֵהֶ֑ם זָכֹ֣ר תִּזְכֹּ֗ר אֵ֤ת אֲשֶׁר־עָשָׂה֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לְפַרְעֹ֖ה וּלְכׇל־מִצְרָֽיִם׃",
+          "counts": {
+            "all": 25,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Deuteronomy 7:19",
+          "hebrewText": "הַמַּסֹּ֨ת הַגְּדֹלֹ֜ת אֲשֶׁר־רָא֣וּ עֵינֶ֗יךָ וְהָאֹתֹ֤ת וְהַמֹּֽפְתִים֙ וְהַיָּ֤ד הַחֲזָקָה֙ וְהַזְּרֹ֣עַ הַנְּטוּיָ֔ה אֲשֶׁ֥ר הוֹצִֽאֲךָ֖ יְהֹוָ֣ה אֱלֹהֶ֑יךָ כֵּֽן־יַעֲשֶׂ֞ה יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ לְכׇל־הָ֣עַמִּ֔ים אֲשֶׁר־אַתָּ֥ה יָרֵ֖א מִפְּנֵיהֶֽם׃",
+          "counts": {
+            "all": 47,
+            "Rashi": 5,
+            "Commentary": 27,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Deuteronomy 7:20",
+          "hebrewText": "וְגַם֙ אֶת־הַצִּרְעָ֔ה יְשַׁלַּ֛ח יְהֹוָ֥ה אֱלֹהֶ֖יךָ בָּ֑ם עַד־אֲבֹ֗ד הַנִּשְׁאָרִ֛ים וְהַנִּסְתָּרִ֖ים מִפָּנֶֽיךָ׃",
+          "counts": {
+            "all": 52,
+            "Rashi": 1,
+            "Commentary": 22,
+            "Midrash": 4,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Deuteronomy 7:21",
+          "hebrewText": "לֹ֥א תַעֲרֹ֖ץ מִפְּנֵיהֶ֑ם כִּֽי־יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בְּקִרְבֶּ֔ךָ אֵ֥ל גָּד֖וֹל וְנוֹרָֽא׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 0,
+            "Commentary": 15,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 4,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Deuteronomy 7:22",
+          "hebrewText": "וְנָשַׁל֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ אֶת־הַגּוֹיִ֥ם הָאֵ֛ל מִפָּנֶ֖יךָ מְעַ֣ט מְעָ֑ט לֹ֤א תוּכַל֙ כַּלֹּתָ֣ם מַהֵ֔ר פֶּן־תִּרְבֶּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 2,
+            "Commentary": 26,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Deuteronomy 7:23",
+          "hebrewText": "וּנְתָנָ֛ם יְהֹוָ֥ה אֱלֹהֶ֖יךָ לְפָנֶ֑יךָ וְהָמָם֙ מְהוּמָ֣ה גְדֹלָ֔ה עַ֖ד הִשָּׁמְדָֽם׃",
+          "counts": {
+            "all": 35,
+            "Rashi": 1,
+            "Commentary": 11,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Deuteronomy 7:24",
+          "hebrewText": "וְנָתַ֤ן מַלְכֵיהֶם֙ בְּיָדֶ֔ךָ וְהַאֲבַדְתָּ֣ אֶת־שְׁמָ֔ם מִתַּ֖חַת הַשָּׁמָ֑יִם לֹֽא־יִתְיַצֵּ֥ב אִישׁ֙ בְּפָנֶ֔יךָ עַ֥ד הִשְׁמִֽדְךָ֖ אֹתָֽם׃",
+          "counts": {
+            "all": 41,
+            "Rashi": 0,
+            "Commentary": 19,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Deuteronomy 7:25",
+          "hebrewText": "פְּסִילֵ֥י אֱלֹהֵיהֶ֖ם תִּשְׂרְפ֣וּן בָּאֵ֑שׁ לֹֽא־תַחְמֹד֩ כֶּ֨סֶף וְזָהָ֤ב עֲלֵיהֶם֙ וְלָקַחְתָּ֣ לָ֔ךְ פֶּ֚ן תִּוָּקֵ֣שׁ בּ֔וֹ כִּ֧י תוֹעֲבַ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ הֽוּא׃",
+          "counts": {
+            "all": 151,
+            "Rashi": 0,
+            "Commentary": 39,
+            "Midrash": 7,
+            "Talmud": 11,
+            "Halakhah": 21,
+            "Kabbalah": 8,
+            "Musar": 3,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Deuteronomy 7:26",
+          "hebrewText": "וְלֹא־תָבִ֤יא תֽוֹעֵבָה֙ אֶל־בֵּיתֶ֔ךָ וְהָיִ֥יתָ חֵ֖רֶם כָּמֹ֑הוּ שַׁקֵּ֧ץ&thinsp;<small>׀</small>&thinsp;תְּשַׁקְּצֶ֛נּוּ וְתַעֵ֥ב&thinsp;<small>׀</small>&thinsp;תְּֽתַעֲבֶ֖נּוּ כִּי־חֵ֥רֶם הֽוּא׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 164,
+            "Rashi": 1,
+            "Commentary": 26,
+            "Midrash": 18,
+            "Talmud": 23,
+            "Halakhah": 18,
+            "Kabbalah": 5,
+            "Musar": 6,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Deuteronomy 8:1",
+          "hebrewText": "כׇּל־הַמִּצְוָ֗ה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם תִּשְׁמְר֣וּן לַעֲשׂ֑וֹת לְמַ֨עַן תִּֽחְי֜וּן וּרְבִיתֶ֗ם וּבָאתֶם֙ וִֽירִשְׁתֶּ֣ם אֶת־הָאָ֔רֶץ אֲשֶׁר־נִשְׁבַּ֥ע יְהֹוָ֖ה לַאֲבֹתֵיכֶֽם׃",
+          "counts": {
+            "all": 101,
+            "Rashi": 2,
+            "Commentary": 49,
+            "Midrash": 11,
+            "Talmud": 2,
+            "Halakhah": 4,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Deuteronomy 8:2",
+          "hebrewText": "וְזָכַרְתָּ֣ אֶת־כׇּל־הַדֶּ֗רֶךְ אֲשֶׁ֨ר הוֹלִֽיכְךָ֜ יְהֹוָ֧ה אֱלֹהֶ֛יךָ זֶ֛ה אַרְבָּעִ֥ים שָׁנָ֖ה בַּמִּדְבָּ֑ר לְמַ֨עַן עַנֹּֽתְךָ֜ לְנַסֹּֽתְךָ֗ לָדַ֜עַת אֶת־אֲשֶׁ֧ר בִּֽלְבָבְךָ֛ הֲתִשְׁמֹ֥ר <span class=\"mam-kq-trivial\">מִצְוֺתָ֖ו</span> אִם־לֹֽא׃",
+          "counts": {
+            "all": 101,
+            "Rashi": 1,
+            "Commentary": 41,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 4,
+            "Kabbalah": 0,
+            "Musar": 3,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Deuteronomy 8:3",
+          "hebrewText": "וַֽיְעַנְּךָ֮ וַיַּרְעִבֶ֒ךָ֒ וַיַּאֲכִֽלְךָ֤ אֶת־הַמָּן֙ אֲשֶׁ֣ר לֹא־יָדַ֔עְתָּ וְלֹ֥א יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן הוֹדִֽיעֲךָ֗ כִּ֠י לֹ֣א עַל־הַלֶּ֤חֶם לְבַדּוֹ֙ יִחְיֶ֣ה הָֽאָדָ֔ם כִּ֛י עַל־כׇּל־מוֹצָ֥א פִֽי־יְהֹוָ֖ה יִחְיֶ֥ה הָאָדָֽם׃",
+          "counts": {
+            "all": 254,
+            "Rashi": 1,
+            "Commentary": 55,
+            "Midrash": 16,
+            "Talmud": 6,
+            "Halakhah": 4,
+            "Kabbalah": 21,
+            "Musar": 25,
+            "Chasidut": 42,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Deuteronomy 8:4",
+          "hebrewText": "שִׂמְלָ֨תְךָ֜ לֹ֤א בָֽלְתָה֙ מֵֽעָלֶ֔יךָ וְרַגְלְךָ֖ לֹ֣א בָצֵ֑קָה זֶ֖ה אַרְבָּעִ֥ים שָׁנָֽה׃",
+          "counts": {
+            "all": 99,
+            "Rashi": 2,
+            "Commentary": 46,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Deuteronomy 8:5",
+          "hebrewText": "וְיָדַעְתָּ֖ עִם־לְבָבֶ֑ךָ כִּ֗י כַּאֲשֶׁ֨ר יְיַסֵּ֥ר אִישׁ֙ אֶת־בְּנ֔וֹ יְהֹוָ֥ה אֱלֹהֶ֖יךָ מְיַסְּרֶֽךָּ׃",
+          "counts": {
+            "all": 139,
+            "Rashi": 0,
+            "Commentary": 32,
+            "Midrash": 23,
+            "Talmud": 1,
+            "Halakhah": 6,
+            "Kabbalah": 11,
+            "Musar": 11,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Deuteronomy 8:6",
+          "hebrewText": "וְשָׁ֣מַרְתָּ֔ אֶת־מִצְוֺ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ לָלֶ֥כֶת בִּדְרָכָ֖יו וּלְיִרְאָ֥ה אֹתֽוֹ׃",
+          "counts": {
+            "all": 31,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Deuteronomy 8:7",
+          "hebrewText": "כִּ֚י יְהֹוָ֣ה אֱלֹהֶ֔יךָ מְבִֽיאֲךָ֖ אֶל־אֶ֣רֶץ טוֹבָ֑ה אֶ֚רֶץ נַ֣חֲלֵי מָ֔יִם עֲיָנֹת֙ וּתְהֹמֹ֔ת יֹצְאִ֥ים בַּבִּקְעָ֖ה וּבָהָֽר׃",
+          "counts": {
+            "all": 108,
+            "Rashi": 0,
+            "Commentary": 30,
+            "Midrash": 32,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Deuteronomy 8:8",
+          "hebrewText": "אֶ֤רֶץ חִטָּה֙ וּשְׂעֹרָ֔ה וְגֶ֥פֶן וּתְאֵנָ֖ה וְרִמּ֑וֹן אֶֽרֶץ־זֵ֥ית שֶׁ֖מֶן וּדְבָֽשׁ׃",
+          "counts": {
+            "all": 164,
+            "Rashi": 6,
+            "Commentary": 37,
+            "Midrash": 12,
+            "Talmud": 12,
+            "Halakhah": 14,
+            "Kabbalah": 3,
+            "Musar": 5,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Deuteronomy 8:9",
+          "hebrewText": "אֶ֗רֶץ אֲשֶׁ֨ר לֹ֤א בְמִסְכֵּנֻת֙ תֹּֽאכַל־בָּ֣הּ לֶ֔חֶם לֹֽא־תֶחְסַ֥ר כֹּ֖ל בָּ֑הּ אֶ֚רֶץ אֲשֶׁ֣ר אֲבָנֶ֣יהָ בַרְזֶ֔ל וּמֵהֲרָרֶ֖יהָ תַּחְצֹ֥ב נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 132,
+            "Rashi": 0,
+            "Commentary": 46,
+            "Midrash": 8,
+            "Talmud": 6,
+            "Halakhah": 3,
+            "Kabbalah": 9,
+            "Musar": 1,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Deuteronomy 8:10",
+          "hebrewText": "וְאָכַלְתָּ֖ וְשָׂבָ֑עְתָּ וּבֵֽרַכְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ עַל־הָאָ֥רֶץ הַטֹּבָ֖ה אֲשֶׁ֥ר נָֽתַן־לָֽךְ׃",
+          "counts": {
+            "all": 283,
+            "Rashi": 9,
+            "Commentary": 69,
+            "Midrash": 21,
+            "Talmud": 20,
+            "Halakhah": 41,
+            "Kabbalah": 10,
+            "Musar": 8,
+            "Chasidut": 23,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Deuteronomy 8:11",
+          "hebrewText": "הִשָּׁ֣מֶר לְךָ֔ פֶּן־תִּשְׁכַּ֖ח אֶת־יְהֹוָ֣ה אֱלֹהֶ֑יךָ לְבִלְתִּ֨י שְׁמֹ֤ר מִצְוֺתָיו֙ וּמִשְׁפָּטָ֣יו וְחֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃",
+          "counts": {
+            "all": 40,
+            "Rashi": 0,
+            "Commentary": 11,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 7,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 8:12",
+          "hebrewText": "פֶּן־תֹּאכַ֖ל וְשָׂבָ֑עְתָּ וּבָתִּ֥ים טֹבִ֛ים תִּבְנֶ֖ה וְיָשָֽׁבְתָּ׃",
+          "counts": {
+            "all": 59,
+            "Rashi": 1,
+            "Commentary": 14,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 6,
+            "Chasidut": 18,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Deuteronomy 8:13",
+          "hebrewText": "וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה־לָּ֑ךְ וְכֹ֥ל אֲשֶׁר־לְךָ֖ יִרְבֶּֽה׃",
+          "counts": {
+            "all": 31,
+            "Rashi": 1,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Deuteronomy 8:14",
+          "hebrewText": "וְרָ֖ם לְבָבֶ֑ךָ וְשָֽׁכַחְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ הַמּוֹצִיאֲךָ֛ מֵאֶ֥רֶץ מִצְרַ֖יִם מִבֵּ֥ית עֲבָדִֽים׃",
+          "counts": {
+            "all": 110,
+            "Rashi": 1,
+            "Commentary": 16,
+            "Midrash": 10,
+            "Talmud": 3,
+            "Halakhah": 4,
+            "Kabbalah": 3,
+            "Musar": 14,
+            "Chasidut": 34,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Deuteronomy 8:15",
+          "hebrewText": "הַמּוֹלִ֨יכְךָ֜ בַּמִּדְבָּ֣ר&thinsp;<b>׀</b> הַגָּדֹ֣ל וְהַנּוֹרָ֗א נָחָ֤שׁ&thinsp;<small>׀</small>&thinsp;שָׂרָף֙ וְעַקְרָ֔ב וְצִמָּא֖וֹן אֲשֶׁ֣ר אֵֽין־מָ֑יִם הַמּוֹצִ֤יא לְךָ֙ מַ֔יִם מִצּ֖וּר הַֽחַלָּמִֽישׁ׃",
+          "counts": {
+            "all": 137,
+            "Rashi": 3,
+            "Commentary": 19,
+            "Midrash": 32,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 7,
+            "Musar": 3,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Deuteronomy 8:16",
+          "hebrewText": "הַמַּאֲכִ֨לְךָ֥ מָן֙ בַּמִּדְבָּ֔ר אֲשֶׁ֥ר לֹא־יָדְע֖וּן אֲבֹתֶ֑יךָ לְמַ֣עַן עַנֹּֽתְךָ֗ וּלְמַ֙עַן֙ נַסֹּתֶ֔ךָ לְהֵיטִֽבְךָ֖ בְּאַחֲרִיתֶֽךָ׃",
+          "counts": {
+            "all": 79,
+            "Rashi": 0,
+            "Commentary": 19,
+            "Midrash": 11,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 6,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Deuteronomy 8:17",
+          "hebrewText": "וְאָמַרְתָּ֖ בִּלְבָבֶ֑ךָ כֹּחִי֙ וְעֹ֣צֶם יָדִ֔י עָ֥שָׂה לִ֖י אֶת־הַחַ֥יִל הַזֶּֽה׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 4,
+            "Commentary": 11,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 4,
+            "Chasidut": 15,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Deuteronomy 8:18",
+          "hebrewText": "וְזָֽכַרְתָּ֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ כִּ֣י ה֗וּא הַנֹּתֵ֥ן לְךָ֛ כֹּ֖חַ לַעֲשׂ֣וֹת חָ֑יִל לְמַ֨עַן הָקִ֧ים אֶת־בְּרִית֛וֹ אֲשֶׁר־נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ כַּיּ֥וֹם הַזֶּֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 93,
+            "Rashi": 0,
+            "Commentary": 28,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 8,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Deuteronomy 8:19",
+          "hebrewText": "וְהָיָ֗ה אִם־שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם הַעִדֹ֤תִי בָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּן׃",
+          "counts": {
+            "all": 55,
+            "Rashi": 3,
+            "Commentary": 18,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Deuteronomy 8:20",
+          "hebrewText": "כַּגּוֹיִ֗ם אֲשֶׁ֤ר יְהֹוָה֙ מַאֲבִ֣יד מִפְּנֵיכֶ֔ם כֵּ֖ן תֹּאבֵד֑וּן עֵ֚קֶב לֹ֣א תִשְׁמְע֔וּן בְּק֖וֹל יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 22,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Deuteronomy 9:1",
+          "hebrewText": "שְׁמַ֣ע יִשְׂרָאֵ֗ל אַתָּ֨ה עֹבֵ֤ר הַיּוֹם֙ אֶת־הַיַּרְדֵּ֔ן לָבֹא֙ לָרֶ֣שֶׁת גּוֹיִ֔ם גְּדֹלִ֥ים וַעֲצֻמִ֖ים מִמֶּ֑ךָּ עָרִ֛ים גְּדֹלֹ֥ת וּבְצֻרֹ֖ת בַּשָּׁמָֽיִם׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 1,
+            "Commentary": 35,
+            "Midrash": 7,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Deuteronomy 9:2",
+          "hebrewText": "עַֽם־גָּד֥וֹל וָרָ֖ם בְּנֵ֣י עֲנָקִ֑ים אֲשֶׁ֨ר אַתָּ֤ה יָדַ֙עְתָּ֙ וְאַתָּ֣ה שָׁמַ֔עְתָּ מִ֣י יִתְיַצֵּ֔ב לִפְנֵ֖י בְּנֵ֥י עֲנָֽק׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Deuteronomy 9:3",
+          "hebrewText": "וְיָדַעְתָּ֣ הַיּ֗וֹם כִּי֩ יְהֹוָ֨ה אֱלֹהֶ֜יךָ הֽוּא־הָעֹבֵ֤ר לְפָנֶ֙יךָ֙ אֵ֣שׁ אֹֽכְלָ֔ה ה֧וּא יַשְׁמִידֵ֛ם וְה֥וּא יַכְנִיעֵ֖ם לְפָנֶ֑יךָ וְהֽוֹרַשְׁתָּ֤ם וְהַֽאֲבַדְתָּם֙ מַהֵ֔ר כַּאֲשֶׁ֛ר דִּבֶּ֥ר יְהֹוָ֖ה לָֽךְ׃",
+          "counts": {
+            "all": 52,
+            "Rashi": 0,
+            "Commentary": 21,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Deuteronomy 9:4",
+          "hebrewText": "אַל־תֹּאמַ֣ר בִּלְבָבְךָ֗ בַּהֲדֹ֣ף יְהֹוָה֩ אֱלֹהֶ֨יךָ אֹתָ֥ם&thinsp;<small>׀</small>&thinsp;מִלְּפָנֶ֘יךָ֮ לֵאמֹר֒ בְּצִדְקָתִי֙ הֱבִיאַ֣נִי יְהֹוָ֔ה לָרֶ֖שֶׁת אֶת־הָאָ֣רֶץ הַזֹּ֑את וּבְרִשְׁעַת֙ הַגּוֹיִ֣ם הָאֵ֔לֶּה יְהֹוָ֖ה מוֹרִישָׁ֥ם מִפָּנֶֽיךָ׃",
+          "counts": {
+            "all": 62,
+            "Rashi": 2,
+            "Commentary": 34,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Deuteronomy 9:5",
+          "hebrewText": "לֹ֣א בְצִדְקָתְךָ֗ וּבְיֹ֙שֶׁר֙ לְבָ֣בְךָ֔ אַתָּ֥ה בָ֖א לָרֶ֣שֶׁת אֶת־אַרְצָ֑ם כִּ֞י בְּרִשְׁעַ֣ת&thinsp;<b>׀</b> הַגּוֹיִ֣ם הָאֵ֗לֶּה יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ מוֹרִישָׁ֣ם מִפָּנֶ֔יךָ וּלְמַ֜עַן הָקִ֣ים אֶת־הַדָּבָ֗ר אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהֹוָה֙ לַאֲבֹתֶ֔יךָ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹֽב׃",
+          "counts": {
+            "all": 61,
+            "Rashi": 1,
+            "Commentary": 21,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Deuteronomy 9:6",
+          "hebrewText": "וְיָדַעְתָּ֗ כִּ֠י לֹ֤א בְצִדְקָֽתְךָ֙ יְהֹוָ֣ה אֱ֠לֹהֶ֠יךָ נֹתֵ֨ן לְךָ֜ אֶת־הָאָ֧רֶץ הַטּוֹבָ֛ה הַזֹּ֖את לְרִשְׁתָּ֑הּ כִּ֥י עַם־קְשֵׁה־עֹ֖רֶף אָֽתָּה׃",
+          "counts": {
+            "all": 28,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Deuteronomy 9:7",
+          "hebrewText": "זְכֹר֙ אַל־תִּשְׁכַּ֔ח אֵ֧ת אֲשֶׁר־הִקְצַ֛פְתָּ אֶת־יְהֹוָ֥ה אֱלֹהֶ֖יךָ בַּמִּדְבָּ֑ר לְמִן־הַיּ֞וֹם אֲשֶׁר־יָצָ֣אתָ&thinsp;<b>׀</b> מֵאֶ֣רֶץ מִצְרַ֗יִם עַד־בֹּֽאֲכֶם֙ עַד־הַמָּק֣וֹם הַזֶּ֔ה מַמְרִ֥ים הֱיִיתֶ֖ם עִם־יְהֹוָֽה׃",
+          "counts": {
+            "all": 70,
+            "Rashi": 6,
+            "Commentary": 18,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 5,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Deuteronomy 9:8",
+          "hebrewText": "וּבְחֹרֵ֥ב הִקְצַפְתֶּ֖ם אֶת־יְהֹוָ֑ה וַיִּתְאַנַּ֧ף יְהֹוָ֛ה בָּכֶ֖ם לְהַשְׁמִ֥יד אֶתְכֶֽם׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Deuteronomy 9:9",
+          "hebrewText": "בַּעֲלֹתִ֣י הָהָ֗רָה לָקַ֜חַת לוּחֹ֤ת הָֽאֲבָנִים֙ לוּחֹ֣ת הַבְּרִ֔ית אֲשֶׁר־כָּרַ֥ת יְהֹוָ֖ה עִמָּכֶ֑ם וָאֵשֵׁ֣ב בָּהָ֗ר אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔לְתִּי וּמַ֖יִם לֹ֥א שָׁתִֽיתִי׃",
+          "counts": {
+            "all": 102,
+            "Rashi": 2,
+            "Commentary": 34,
+            "Midrash": 19,
+            "Talmud": 2,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 5,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Deuteronomy 9:10",
+          "hebrewText": "וַיִּתֵּ֨ן יְהֹוָ֜ה אֵלַ֗י אֶת־שְׁנֵי֙ לוּחֹ֣ת הָֽאֲבָנִ֔ים כְּתֻבִ֖ים בְּאֶצְבַּ֣ע אֱלֹהִ֑ים וַעֲלֵיהֶ֗ם כְּֽכׇל־הַדְּבָרִ֡ים אֲשֶׁ֣ר דִּבֶּר֩ יְהֹוָ֨ה עִמָּכֶ֥ם בָּהָ֛ר מִתּ֥וֹךְ הָאֵ֖שׁ בְּי֥וֹם הַקָּהָֽל׃",
+          "counts": {
+            "all": 63,
+            "Rashi": 1,
+            "Commentary": 21,
+            "Midrash": 10,
+            "Talmud": 4,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Deuteronomy 9:11",
+          "hebrewText": "וַיְהִ֗י מִקֵּץ֙ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה נָתַ֨ן יְהֹוָ֜ה אֵלַ֗י אֶת־שְׁנֵ֛י לֻחֹ֥ת הָאֲבָנִ֖ים לֻח֥וֹת הַבְּרִֽית׃",
+          "counts": {
+            "all": 25,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 9:12",
+          "hebrewText": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֵלַ֗י ק֣וּם רֵ֤ד מַהֵר֙ מִזֶּ֔ה כִּ֚י שִׁחֵ֣ת עַמְּךָ֔ אֲשֶׁ֥ר הוֹצֵ֖אתָ מִמִּצְרָ֑יִם סָ֣רוּ מַהֵ֗ר מִן־הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֥וּ לָהֶ֖ם מַסֵּכָֽה׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Deuteronomy 9:13",
+          "hebrewText": "וַיֹּ֥אמֶר יְהֹוָ֖ה אֵלַ֣י לֵאמֹ֑ר רָאִ֙יתִי֙ אֶת־הָעָ֣ם הַזֶּ֔ה וְהִנֵּ֥ה עַם־קְשֵׁה־עֹ֖רֶף הֽוּא׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 0,
+            "Commentary": 5,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Deuteronomy 9:14",
+          "hebrewText": "הֶ֤רֶף מִמֶּ֙נִּי֙ וְאַשְׁמִידֵ֔ם וְאֶמְחֶ֣ה אֶת־שְׁמָ֔ם מִתַּ֖חַת הַשָּׁמָ֑יִם וְאֶֽעֱשֶׂה֙ אֽוֹתְךָ֔ לְגוֹי־עָצ֥וּם וָרָ֖ב מִמֶּֽנּוּ׃",
+          "counts": {
+            "all": 83,
+            "Rashi": 1,
+            "Commentary": 12,
+            "Midrash": 33,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Deuteronomy 9:15",
+          "hebrewText": "וָאֵ֗פֶן וָֽאֵרֵד֙ מִן־הָהָ֔ר וְהָהָ֖ר בֹּעֵ֣ר בָּאֵ֑שׁ וּשְׁנֵי֙ לוּחֹ֣ת הַבְּרִ֔ית עַ֖ל שְׁתֵּ֥י יָדָֽי׃",
+          "counts": {
+            "all": 52,
+            "Rashi": 0,
+            "Commentary": 16,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Deuteronomy 9:16",
+          "hebrewText": "וָאֵ֗רֶא וְהִנֵּ֤ה חֲטָאתֶם֙ לַיהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם עֲשִׂיתֶ֣ם לָכֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה סַרְתֶּ֣ם מַהֵ֔ר מִן־הַדֶּ֕רֶךְ אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶתְכֶֽם׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 0,
+            "Commentary": 5,
+            "Midrash": 4,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Deuteronomy 9:17",
+          "hebrewText": "וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָאֲשַׁבְּרֵ֖ם לְעֵינֵיכֶֽם׃",
+          "counts": {
+            "all": 72,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 12,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Deuteronomy 9:18",
+          "hebrewText": "וָֽאֶתְנַפַּל֩ לִפְנֵ֨י יְהֹוָ֜ה כָּרִאשֹׁנָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔לְתִּי וּמַ֖יִם לֹ֣א שָׁתִ֑יתִי עַ֤ל כׇּל־חַטַּאתְכֶם֙ אֲשֶׁ֣ר חֲטָאתֶ֔ם לַעֲשׂ֥וֹת הָרַ֛ע בְּעֵינֵ֥י יְהֹוָ֖ה לְהַכְעִיסֽוֹ׃",
+          "counts": {
+            "all": 97,
+            "Rashi": 3,
+            "Commentary": 40,
+            "Midrash": 17,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Deuteronomy 9:19",
+          "hebrewText": "כִּ֣י יָגֹ֗רְתִּי מִפְּנֵ֤י הָאַף֙ וְהַ֣חֵמָ֔ה אֲשֶׁ֨ר קָצַ֧ף יְהֹוָ֛ה עֲלֵיכֶ֖ם לְהַשְׁמִ֣יד אֶתְכֶ֑ם וַיִּשְׁמַ֤ע יְהֹוָה֙ אֵלַ֔י גַּ֖ם בַּפַּ֥עַם הַהִֽוא׃",
+          "counts": {
+            "all": 87,
+            "Rashi": 0,
+            "Commentary": 19,
+            "Midrash": 30,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 6,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Deuteronomy 9:20",
+          "hebrewText": "וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהֹוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם־בְּעַ֥ד אַהֲרֹ֖ן בָּעֵ֥ת הַהִֽוא׃",
+          "counts": {
+            "all": 97,
+            "Rashi": 4,
+            "Commentary": 26,
+            "Midrash": 32,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Deuteronomy 9:21",
+          "hebrewText": "וְֽאֶת־חַטַּאתְכֶ֞ם אֲשֶׁר־עֲשִׂיתֶ֣ם אֶת־הָעֵ֗גֶל לָקַ֘חְתִּי֮ וָאֶשְׂרֹ֣ף אֹת֣וֹ&thinsp;<small>׀</small>&thinsp;בָּאֵשׁ֒ וָאֶכֹּ֨ת אֹת֤וֹ טָחוֹן֙ הֵיטֵ֔ב עַ֥ד אֲשֶׁר־דַּ֖ק לְעָפָ֑ר וָֽאַשְׁלִךְ֙ אֶת־עֲפָר֔וֹ אֶל־הַנַּ֖חַל הַיֹּרֵ֥ד מִן־הָהָֽר׃",
+          "counts": {
+            "all": 94,
+            "Rashi": 5,
+            "Commentary": 30,
+            "Midrash": 5,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Deuteronomy 9:22",
+          "hebrewText": "וּבְתַבְעֵרָה֙ וּבְמַסָּ֔ה וּבְקִבְרֹ֖ת הַֽתַּאֲוָ֑ה מַקְצִפִ֥ים הֱיִיתֶ֖ם אֶת־יְהֹוָֽה׃",
+          "counts": {
+            "all": 57,
+            "Rashi": 0,
+            "Commentary": 24,
+            "Midrash": 7,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Deuteronomy 9:23",
+          "hebrewText": "וּבִשְׁלֹ֨חַ יְהֹוָ֜ה אֶתְכֶ֗ם מִקָּדֵ֤שׁ בַּרְנֵ֙עַ֙ לֵאמֹ֔ר עֲלוּ֙ וּרְשׁ֣וּ אֶת־הָאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לָכֶ֑ם וַתַּמְר֗וּ אֶת־פִּ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם וְלֹ֤א הֶֽאֱמַנְתֶּם֙ ל֔וֹ וְלֹ֥א שְׁמַעְתֶּ֖ם בְּקֹלֽוֹ׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Deuteronomy 9:24",
+          "hebrewText": "מַמְרִ֥ים הֱיִיתֶ֖ם עִם־יְהֹוָ֑ה מִיּ֖וֹם דַּעְתִּ֥י אֶתְכֶֽם׃",
+          "counts": {
+            "all": 28,
+            "Rashi": 3,
+            "Commentary": 10,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Deuteronomy 9:25",
+          "hebrewText": "וָֽאֶתְנַפַּ֞ל לִפְנֵ֣י יְהֹוָ֗ה אֵ֣ת אַרְבָּעִ֥ים הַיּ֛וֹם וְאֶת־אַרְבָּעִ֥ים הַלַּ֖יְלָה אֲשֶׁ֣ר הִתְנַפָּ֑לְתִּי כִּֽי־אָמַ֥ר יְהֹוָ֖ה לְהַשְׁמִ֥יד אֶתְכֶֽם׃",
+          "counts": {
+            "all": 57,
+            "Rashi": 1,
+            "Commentary": 23,
+            "Midrash": 11,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Deuteronomy 9:26",
+          "hebrewText": "וָאֶתְפַּלֵּ֣ל אֶל־יְהֹוָה֮ וָאֹמַר֒ אֲדֹנָ֣י יֱהֹוִ֗ה אַל־תַּשְׁחֵ֤ת עַמְּךָ֙ וְנַחֲלָ֣תְךָ֔ אֲשֶׁ֥ר פָּדִ֖יתָ בְּגׇדְלֶ֑ךָ אֲשֶׁר־הוֹצֵ֥אתָ מִמִּצְרַ֖יִם בְּיָ֥ד חֲזָקָֽה׃",
+          "counts": {
+            "all": 52,
+            "Rashi": 0,
+            "Commentary": 20,
+            "Midrash": 9,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Deuteronomy 9:27",
+          "hebrewText": "זְכֹר֙ לַעֲבָדֶ֔יךָ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹ֑ב אַל־תֵּ֗פֶן אֶל־קְשִׁי֙ הָעָ֣ם הַזֶּ֔ה וְאֶל־רִשְׁע֖וֹ וְאֶל־חַטָּאתֽוֹ׃",
+          "counts": {
+            "all": 63,
+            "Rashi": 0,
+            "Commentary": 15,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Deuteronomy 9:28",
+          "hebrewText": "פֶּן־יֹאמְר֗וּ הָאָ֘רֶץ֮ אֲשֶׁ֣ר הוֹצֵאתָ֣נוּ מִשָּׁם֒ מִבְּלִי֙ יְכֹ֣לֶת יְהֹוָ֔ה לַהֲבִיאָ֕ם אֶל־הָאָ֖רֶץ אֲשֶׁר־דִּבֶּ֣ר לָהֶ֑ם וּמִשִּׂנְאָת֣וֹ אוֹתָ֔ם הוֹצִיאָ֖ם לַהֲמִתָ֥ם בַּמִּדְבָּֽר׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 1,
+            "Commentary": 13,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Deuteronomy 9:29",
+          "hebrewText": "וְהֵ֥ם עַמְּךָ֖ וְנַחֲלָתֶ֑ךָ אֲשֶׁ֤ר הוֹצֵ֙אתָ֙ בְּכֹחֲךָ֣ הַגָּדֹ֔ל וּבִֽזְרֹעֲךָ֖ הַנְּטוּיָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 47,
+            "Rashi": 0,
+            "Commentary": 16,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Deuteronomy 10:1",
+          "hebrewText": "בָּעֵ֨ת הַהִ֜וא אָמַ֧ר יְהֹוָ֣ה אֵלַ֗י פְּסׇל־לְךָ֞ שְׁנֵֽי־לוּחֹ֤ת אֲבָנִים֙ כָּרִ֣אשֹׁנִ֔ים וַעֲלֵ֥ה אֵלַ֖י הָהָ֑רָה וְעָשִׂ֥יתָ לְּךָ֖ אֲר֥וֹן עֵֽץ׃",
+          "counts": {
+            "all": 129,
+            "Rashi": 2,
+            "Commentary": 52,
+            "Midrash": 30,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Deuteronomy 10:2",
+          "hebrewText": "וְאֶכְתֹּב֙ עַל־הַלֻּחֹ֔ת אֶ֨ת־הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל־הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֣ר שִׁבַּ֑רְתָּ וְשַׂמְתָּ֖ם בָּאָרֽוֹן׃",
+          "counts": {
+            "all": 58,
+            "Rashi": 1,
+            "Commentary": 16,
+            "Midrash": 9,
+            "Talmud": 8,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Deuteronomy 10:3",
+          "hebrewText": "וָאַ֤עַשׂ אֲרוֹן֙ עֲצֵ֣י שִׁטִּ֔ים וָאֶפְסֹ֛ל שְׁנֵי־לֻחֹ֥ת אֲבָנִ֖ים כָּרִאשֹׁנִ֑ים וָאַ֣עַל הָהָ֔רָה וּשְׁנֵ֥י הַלֻּחֹ֖ת בְּיָדִֽי׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Deuteronomy 10:4",
+          "hebrewText": "וַיִּכְתֹּ֨ב עַֽל־הַלֻּחֹ֜ת כַּמִּכְתָּ֣ב הָרִאשׁ֗וֹן אֵ֚ת עֲשֶׂ֣רֶת הַדְּבָרִ֔ים אֲשֶׁ֣ר דִּבֶּר֩ יְהֹוָ֨ה אֲלֵיכֶ֥ם בָּהָ֛ר מִתּ֥וֹךְ הָאֵ֖שׁ בְּי֣וֹם הַקָּהָ֑ל וַיִּתְּנֵ֥ם יְהֹוָ֖ה אֵלָֽי׃",
+          "counts": {
+            "all": 33,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Deuteronomy 10:5",
+          "hebrewText": "וָאֵ֗פֶן וָֽאֵרֵד֙ מִן־הָהָ֔ר וָֽאָשִׂם֙ אֶת־הַלֻּחֹ֔ת בָּאָר֖וֹן אֲשֶׁ֣ר עָשִׂ֑יתִי וַיִּ֣הְיוּ שָׁ֔ם כַּאֲשֶׁ֥ר צִוַּ֖נִי יְהֹוָֽה׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Deuteronomy 10:6",
+          "hebrewText": "וּבְנֵ֣י יִשְׂרָאֵ֗ל נָ֥סְע֛וּ מִבְּאֵרֹ֥ת בְּנֵי־יַעֲקָ֖ן מוֹסֵרָ֑ה שָׁ֣ם מֵ֤ת אַהֲרֹן֙ וַיִּקָּבֵ֣ר שָׁ֔ם וַיְכַהֵ֛ן אֶלְעָזָ֥ר בְּנ֖וֹ תַּחְתָּֽיו׃",
+          "counts": {
+            "all": 86,
+            "Rashi": 3,
+            "Commentary": 42,
+            "Midrash": 13,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Deuteronomy 10:7",
+          "hebrewText": "מִשָּׁ֥ם נָסְע֖וּ הַגֻּדְגֹּ֑דָה וּמִן־הַגֻּדְגֹּ֣דָה יׇטְבָ֔תָה אֶ֖רֶץ נַ֥חֲלֵי מָֽיִם׃",
+          "counts": {
+            "all": 26,
+            "Rashi": 1,
+            "Commentary": 12,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Deuteronomy 10:8",
+          "hebrewText": "בָּעֵ֣ת הַהִ֗וא הִבְדִּ֤יל יְהֹוָה֙ אֶת־שֵׁ֣בֶט הַלֵּוִ֔י לָשֵׂ֖את אֶת־אֲר֣וֹן בְּרִית־יְהֹוָ֑ה לַעֲמֹד֩ לִפְנֵ֨י יְהֹוָ֤ה לְשָֽׁרְתוֹ֙ וּלְבָרֵ֣ךְ בִּשְׁמ֔וֹ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+          "counts": {
+            "all": 135,
+            "Rashi": 6,
+            "Commentary": 56,
+            "Midrash": 12,
+            "Talmud": 7,
+            "Halakhah": 7,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Deuteronomy 10:9",
+          "hebrewText": "עַל־כֵּ֞ן לֹֽא־הָיָ֧ה לְלֵוִ֛י חֵ֥לֶק וְנַחֲלָ֖ה עִם־אֶחָ֑יו יְהֹוָה֙ ה֣וּא נַחֲלָת֔וֹ כַּאֲשֶׁ֥ר דִּבֶּ֛ר יְהֹוָ֥ה אֱלֹהֶ֖יךָ לֽוֹ׃",
+          "counts": {
+            "all": 54,
+            "Rashi": 3,
+            "Commentary": 22,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Deuteronomy 10:10",
+          "hebrewText": "וְאָנֹכִ֞י עָמַ֣דְתִּי בָהָ֗ר כַּיָּמִים֙ הָרִ֣אשֹׁנִ֔ים אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה וַיִּשְׁמַ֨ע יְהֹוָ֜ה אֵלַ֗י גַּ֚ם בַּפַּ֣עַם הַהִ֔וא לֹא־אָבָ֥ה יְהֹוָ֖ה הַשְׁחִיתֶֽךָ׃",
+          "counts": {
+            "all": 72,
+            "Rashi": 4,
+            "Commentary": 38,
+            "Midrash": 8,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Deuteronomy 10:11",
+          "hebrewText": "וַיֹּ֤אמֶר יְהֹוָה֙ אֵלַ֔י ק֛וּם לֵ֥ךְ לְמַסַּ֖ע לִפְנֵ֣י הָעָ֑ם וְיָבֹ֙אוּ֙ וְיִֽירְשׁ֣וּ אֶת־הָאָ֔רֶץ אֲשֶׁר־נִשְׁבַּ֥עְתִּי לַאֲבֹתָ֖ם לָתֵ֥ת לָהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 32,
+            "Rashi": 1,
+            "Commentary": 18,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 10:12",
+          "hebrewText": "וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהֹוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמָּ֑ךְ כִּ֣י אִם־לְ֠יִרְאָ֠ה אֶת־יְהֹוָ֨ה אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכׇל־דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹת֔וֹ וְלַֽעֲבֹד֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכׇל־לְבָבְךָ֖ וּבְכׇל־נַפְשֶֽׁךָ׃",
+          "counts": {
+            "all": 404,
+            "Rashi": 3,
+            "Commentary": 72,
+            "Midrash": 37,
+            "Talmud": 8,
+            "Halakhah": 20,
+            "Kabbalah": 17,
+            "Musar": 37,
+            "Chasidut": 118,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Deuteronomy 10:13",
+          "hebrewText": "לִשְׁמֹ֞ר אֶת־מִצְוֺ֤ת יְהֹוָה֙ וְאֶת־חֻקֹּתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לְט֖וֹב לָֽךְ׃",
+          "counts": {
+            "all": 31,
+            "Rashi": 1,
+            "Commentary": 8,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Deuteronomy 10:14",
+          "hebrewText": "הֵ֚ן לַיהֹוָ֣ה אֱלֹהֶ֔יךָ הַשָּׁמַ֖יִם וּשְׁמֵ֣י הַשָּׁמָ֑יִם הָאָ֖רֶץ וְכׇל־אֲשֶׁר־בָּֽהּ׃",
+          "counts": {
+            "all": 87,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 25,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 4,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Deuteronomy 10:15",
+          "hebrewText": "רַ֧ק בַּאֲבֹתֶ֛יךָ חָשַׁ֥ק יְהֹוָ֖ה לְאַהֲבָ֣ה אוֹתָ֑ם וַיִּבְחַ֞ר בְּזַרְעָ֣ם אַחֲרֵיהֶ֗ם בָּכֶ֛ם מִכׇּל־הָעַמִּ֖ים כַּיּ֥וֹם הַזֶּֽה׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 1,
+            "Commentary": 23,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 13,
+            "Musar": 3,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Deuteronomy 10:16",
+          "hebrewText": "וּמַלְתֶּ֕ם אֵ֖ת עׇרְלַ֣ת לְבַבְכֶ֑ם וְעׇ֨רְפְּכֶ֔ם לֹ֥א תַקְשׁ֖וּ עֽוֹד׃",
+          "counts": {
+            "all": 112,
+            "Rashi": 1,
+            "Commentary": 28,
+            "Midrash": 14,
+            "Talmud": 2,
+            "Halakhah": 6,
+            "Kabbalah": 5,
+            "Musar": 5,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Deuteronomy 10:17",
+          "hebrewText": "כִּ֚י יְהֹוָ֣ה אֱלֹֽהֵיכֶ֔ם ה֚וּא אֱלֹהֵ֣י הָֽאֱלֹהִ֔ים וַאֲדֹנֵ֖י הָאֲדֹנִ֑ים הָאֵ֨ל הַגָּדֹ֤ל הַגִּבֹּר֙ וְהַנּוֹרָ֔א אֲשֶׁר֙ לֹא־יִשָּׂ֣א פָנִ֔ים וְלֹ֥א יִקַּ֖ח שֹֽׁחַד׃",
+          "counts": {
+            "all": 303,
+            "Rashi": 8,
+            "Commentary": 67,
+            "Midrash": 44,
+            "Talmud": 11,
+            "Halakhah": 8,
+            "Kabbalah": 13,
+            "Musar": 15,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Deuteronomy 10:18",
+          "hebrewText": "עֹשֶׂ֛ה מִשְׁפַּ֥ט יָת֖וֹם וְאַלְמָנָ֑ה וְאֹהֵ֣ב גֵּ֔ר לָ֥תֶת ל֖וֹ לֶ֥חֶם וְשִׂמְלָֽה׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 2,
+            "Commentary": 27,
+            "Midrash": 15,
+            "Talmud": 2,
+            "Halakhah": 4,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Deuteronomy 10:19",
+          "hebrewText": "וַאֲהַבְתֶּ֖ם אֶת־הַגֵּ֑ר כִּֽי־גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 2,
+            "Commentary": 15,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 15,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Deuteronomy 10:20",
+          "hebrewText": "אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א אֹת֣וֹ תַעֲבֹ֑ד וּב֣וֹ תִדְבָּ֔ק וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ׃",
+          "counts": {
+            "all": 265,
+            "Rashi": 1,
+            "Commentary": 36,
+            "Midrash": 18,
+            "Talmud": 4,
+            "Halakhah": 40,
+            "Kabbalah": 20,
+            "Musar": 16,
+            "Chasidut": 85,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Deuteronomy 10:21",
+          "hebrewText": "ה֥וּא תְהִלָּתְךָ֖ וְה֣וּא אֱלֹהֶ֑יךָ אֲשֶׁר־עָשָׂ֣ה אִתְּךָ֗ אֶת־הַגְּדֹלֹ֤ת וְאֶת־הַנּֽוֹרָאֹת֙ הָאֵ֔לֶּה אֲשֶׁ֥ר רָא֖וּ עֵינֶֽיךָ׃",
+          "counts": {
+            "all": 57,
+            "Rashi": 0,
+            "Commentary": 28,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Deuteronomy 10:22",
+          "hebrewText": "בְּשִׁבְעִ֣ים נֶ֔פֶשׁ יָרְד֥וּ אֲבֹתֶ֖יךָ מִצְרָ֑יְמָה וְעַתָּ֗ה שָֽׂמְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹֽב׃",
+          "counts": {
+            "all": 93,
+            "Rashi": 0,
+            "Commentary": 11,
+            "Midrash": 32,
+            "Talmud": 0,
+            "Halakhah": 4,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Deuteronomy 11:1",
+          "hebrewText": "וְאָ֣הַבְתָּ֔ אֵ֖ת יְהֹוָ֣ה אֱלֹהֶ֑יךָ וְשָׁמַרְתָּ֣ מִשְׁמַרְתּ֗וֹ וְחֻקֹּתָ֧יו וּמִשְׁפָּטָ֛יו וּמִצְוֺתָ֖יו כׇּל־הַיָּמִֽים׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 0,
+            "Commentary": 16,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Deuteronomy 11:2",
+          "hebrewText": "וִֽידַעְתֶּם֮ הַיּוֹם֒ כִּ֣י&thinsp;<b>׀</b> לֹ֣א אֶת־בְּנֵיכֶ֗ם אֲשֶׁ֤ר לֹֽא־יָדְעוּ֙ וַאֲשֶׁ֣ר לֹא־רָא֔וּ אֶת־מוּסַ֖ר יְהֹוָ֣ה אֱלֹהֵיכֶ֑ם אֶת־גׇּדְל֕וֹ אֶת־יָדוֹ֙ הַחֲזָקָ֔ה וּזְרֹע֖וֹ הַנְּטוּיָֽה׃",
+          "counts": {
+            "all": 60,
+            "Rashi": 2,
+            "Commentary": 40,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Deuteronomy 11:3",
+          "hebrewText": "וְאֶת־אֹֽתֹתָיו֙ וְאֶֽת־מַעֲשָׂ֔יו אֲשֶׁ֥ר עָשָׂ֖ה בְּת֣וֹךְ מִצְרָ֑יִם לְפַרְעֹ֥ה מֶֽלֶךְ־מִצְרַ֖יִם וּלְכׇל־אַרְצֽוֹ׃",
+          "counts": {
+            "all": 23,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Deuteronomy 11:4",
+          "hebrewText": "וַאֲשֶׁ֣ר עָשָׂה֩ לְחֵ֨יל מִצְרַ֜יִם לְסוּסָ֣יו וּלְרִכְבּ֗וֹ אֲשֶׁ֨ר הֵצִ֜יף אֶת־מֵ֤י יַם־סוּף֙ עַל־פְּנֵיהֶ֔ם בְּרׇדְפָ֖ם אַחֲרֵיכֶ֑ם וַיְאַבְּדֵ֣ם יְהֹוָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה׃",
+          "counts": {
+            "all": 45,
+            "Rashi": 1,
+            "Commentary": 18,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Deuteronomy 11:5",
+          "hebrewText": "וַאֲשֶׁ֥ר עָשָׂ֛ה לָכֶ֖ם בַּמִּדְבָּ֑ר עַד־בֹּאֲכֶ֖ם עַד־הַמָּק֥וֹם הַזֶּֽה׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Deuteronomy 11:6",
+          "hebrewText": "וַאֲשֶׁ֨ר עָשָׂ֜ה לְדָתָ֣ן וְלַאֲבִירָ֗ם בְּנֵ֣י אֱלִיאָב֮ בֶּן־רְאוּבֵן֒ אֲשֶׁ֨ר פָּצְתָ֤ה הָאָ֙רֶץ֙ אֶת־פִּ֔יהָ וַתִּבְלָעֵ֥ם וְאֶת־בָּתֵּיהֶ֖ם וְאֶת־אׇהֳלֵיהֶ֑ם וְאֵ֤ת כׇּל־הַיְקוּם֙ אֲשֶׁ֣ר בְּרַגְלֵיהֶ֔ם בְּקֶ֖רֶב כׇּל־יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 108,
+            "Rashi": 2,
+            "Commentary": 28,
+            "Midrash": 10,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Deuteronomy 11:7",
+          "hebrewText": "כִּ֤י עֵֽינֵיכֶם֙ הָֽרֹאֹ֔ת אֶת־כׇּל־מַעֲשֵׂ֥ה יְהֹוָ֖ה הַגָּדֹ֑ל אֲשֶׁ֖ר עָשָֽׂה׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 1,
+            "Commentary": 13,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Deuteronomy 11:8",
+          "hebrewText": "וּשְׁמַרְתֶּם֙ אֶת־כׇּל־הַמִּצְוָ֔ה אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לְמַ֣עַן תֶּחֶזְק֗וּ וּבָאתֶם֙ וִֽירִשְׁתֶּ֣ם אֶת־הָאָ֔רֶץ אֲשֶׁ֥ר אַתֶּ֛ם עֹבְרִ֥ים שָׁ֖מָּה לְרִשְׁתָּֽהּ׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 21,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Deuteronomy 11:9",
+          "hebrewText": "וּלְמַ֨עַן תַּאֲרִ֤יכוּ יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁר֩ נִשְׁבַּ֨ע יְהֹוָ֧ה לַאֲבֹתֵיכֶ֛ם לָתֵ֥ת לָהֶ֖ם וּלְזַרְעָ֑ם אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 25,
+            "Rashi": 1,
+            "Commentary": 4,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Deuteronomy 11:10",
+          "hebrewText": "כִּ֣י הָאָ֗רֶץ אֲשֶׁ֨ר אַתָּ֤ה בָא־שָׁ֙מָּה֙ לְרִשְׁתָּ֔הּ לֹ֣א כְאֶ֤רֶץ מִצְרַ֙יִם֙ הִ֔וא אֲשֶׁ֥ר יְצָאתֶ֖ם מִשָּׁ֑ם אֲשֶׁ֤ר תִּזְרַע֙ אֶֽת־זַרְעֲךָ֔ וְהִשְׁקִ֥יתָ בְרַגְלְךָ֖ כְּגַ֥ן הַיָּרָֽק׃",
+          "counts": {
+            "all": 159,
+            "Rashi": 5,
+            "Commentary": 68,
+            "Midrash": 46,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Deuteronomy 11:11",
+          "hebrewText": "וְהָאָ֗רֶץ אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֥ים שָׁ֙מָּה֙ לְרִשְׁתָּ֔הּ אֶ֥רֶץ הָרִ֖ים וּבְקָעֹ֑ת לִמְטַ֥ר הַשָּׁמַ֖יִם תִּשְׁתֶּה־מָּֽיִם׃",
+          "counts": {
+            "all": 125,
+            "Rashi": 2,
+            "Commentary": 29,
+            "Midrash": 48,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 7,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Deuteronomy 11:12",
+          "hebrewText": "אֶ֕רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ דֹּרֵ֣שׁ אֹתָ֑הּ תָּמִ֗יד עֵינֵ֨י יְהֹוָ֤ה אֱלֹהֶ֙יךָ֙ בָּ֔הּ מֵֽרֵשִׁית֙ הַשָּׁנָ֔ה וְעַ֖ד אַחֲרִ֥ית שָׁנָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 306,
+            "Rashi": 5,
+            "Commentary": 57,
+            "Midrash": 68,
+            "Talmud": 9,
+            "Halakhah": 7,
+            "Kabbalah": 23,
+            "Musar": 10,
+            "Chasidut": 52,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Deuteronomy 11:13",
+          "hebrewText": "וְהָיָ֗ה אִם־שָׁמֹ֤עַ תִּשְׁמְעוּ֙ אֶל־מִצְוֺתַ֔י אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּ֑וֹם לְאַהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹֽהֵיכֶם֙ וּלְעׇבְד֔וֹ בְּכׇל־לְבַבְכֶ֖ם וּבְכׇל־נַפְשְׁכֶֽם׃",
+          "counts": {
+            "all": 330,
+            "Rashi": 6,
+            "Commentary": 88,
+            "Midrash": 61,
+            "Talmud": 4,
+            "Halakhah": 29,
+            "Kabbalah": 9,
+            "Musar": 18,
+            "Chasidut": 37,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Deuteronomy 11:14",
+          "hebrewText": "וְנָתַתִּ֧י מְטַֽר־אַרְצְכֶ֛ם בְּעִתּ֖וֹ יוֹרֶ֣ה וּמַלְק֑וֹשׁ וְאָסַפְתָּ֣ דְגָנֶ֔ךָ וְתִירֹֽשְׁךָ֖ וְיִצְהָרֶֽךָ׃",
+          "counts": {
+            "all": 201,
+            "Rashi": 8,
+            "Commentary": 71,
+            "Midrash": 38,
+            "Talmud": 10,
+            "Halakhah": 4,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 21,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Deuteronomy 11:15",
+          "hebrewText": "וְנָתַתִּ֛י עֵ֥שֶׂב בְּשָׂדְךָ֖ לִבְהֶמְתֶּ֑ךָ וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ׃",
+          "counts": {
+            "all": 113,
+            "Rashi": 3,
+            "Commentary": 36,
+            "Midrash": 20,
+            "Talmud": 6,
+            "Halakhah": 10,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Deuteronomy 11:16",
+          "hebrewText": "הִשָּֽׁמְר֣וּ לָכֶ֔ם פֶּ֥ן יִפְתֶּ֖ה לְבַבְכֶ֑ם וְסַרְתֶּ֗ם וַעֲבַדְתֶּם֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וְהִשְׁתַּחֲוִיתֶ֖ם לָהֶֽם׃",
+          "counts": {
+            "all": 161,
+            "Rashi": 4,
+            "Commentary": 35,
+            "Midrash": 55,
+            "Talmud": 2,
+            "Halakhah": 4,
+            "Kabbalah": 6,
+            "Musar": 5,
+            "Chasidut": 19,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Deuteronomy 11:17",
+          "hebrewText": "וְחָרָ֨ה אַף־יְהֹוָ֜ה בָּכֶ֗ם וְעָצַ֤ר אֶת־הַשָּׁמַ֙יִם֙ וְלֹֽא־יִהְיֶ֣ה מָטָ֔ר וְהָ֣אֲדָמָ֔ה לֹ֥א תִתֵּ֖ן אֶת־יְבוּלָ֑הּ וַאֲבַדְתֶּ֣ם מְהֵרָ֗ה מֵעַל֙ הָאָ֣רֶץ הַטֹּבָ֔ה אֲשֶׁ֥ר יְהֹוָ֖ה נֹתֵ֥ן לָכֶֽם׃",
+          "counts": {
+            "all": 215,
+            "Rashi": 7,
+            "Commentary": 54,
+            "Midrash": 83,
+            "Talmud": 6,
+            "Halakhah": 1,
+            "Kabbalah": 7,
+            "Musar": 5,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Deuteronomy 11:18",
+          "hebrewText": "וְשַׂמְתֶּם֙ אֶת־דְּבָרַ֣י אֵ֔לֶּה עַל־לְבַבְכֶ֖ם וְעַֽל־נַפְשְׁכֶ֑ם וּקְשַׁרְתֶּ֨ם אֹתָ֤ם לְאוֹת֙ עַל־יֶדְכֶ֔ם וְהָי֥וּ לְטוֹטָפֹ֖ת בֵּ֥ין עֵינֵיכֶֽם׃",
+          "counts": {
+            "all": 143,
+            "Rashi": 2,
+            "Commentary": 42,
+            "Midrash": 21,
+            "Talmud": 13,
+            "Halakhah": 10,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Deuteronomy 11:19",
+          "hebrewText": "וְלִמַּדְתֶּ֥ם אֹתָ֛ם אֶת־בְּנֵיכֶ֖ם לְדַבֵּ֣ר בָּ֑ם בְּשִׁבְתְּךָ֤ בְּבֵיתֶ֙ךָ֙ וּבְלֶכְתְּךָ֣ בַדֶּ֔רֶךְ וּֽבְשׇׁכְבְּךָ֖ וּבְקוּמֶֽךָ׃",
+          "counts": {
+            "all": 161,
+            "Rashi": 7,
+            "Commentary": 37,
+            "Midrash": 23,
+            "Talmud": 14,
+            "Halakhah": 22,
+            "Kabbalah": 3,
+            "Musar": 10,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Deuteronomy 11:20",
+          "hebrewText": "וּכְתַבְתָּ֛ם עַל־מְזוּז֥וֹת בֵּיתֶ֖ךָ וּבִשְׁעָרֶֽיךָ׃",
+          "counts": {
+            "all": 53,
+            "Rashi": 0,
+            "Commentary": 11,
+            "Midrash": 4,
+            "Talmud": 11,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Deuteronomy 11:21",
+          "hebrewText": "לְמַ֨עַן יִרְבּ֤וּ יְמֵיכֶם֙ וִימֵ֣י בְנֵיכֶ֔ם עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁ֨ר נִשְׁבַּ֧ע יְהֹוָ֛ה לַאֲבֹתֵיכֶ֖ם לָתֵ֣ת לָהֶ֑ם כִּימֵ֥י הַשָּׁמַ֖יִם עַל־הָאָֽרֶץ<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בספרי תימן הָאָֽרֶ<big>ץ</big> בצד״י גדולה)</i>׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 194,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 53,
+            "Talmud": 18,
+            "Halakhah": 8,
+            "Kabbalah": 2,
+            "Musar": 7,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Deuteronomy 11:22",
+          "hebrewText": "כִּי֩ אִם־שָׁמֹ֨ר תִּשְׁמְר֜וּן אֶת־כׇּל־הַמִּצְוָ֣ה הַזֹּ֗את אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם לַעֲשֹׂתָ֑הּ לְאַהֲבָ֞ה אֶת־יְהֹוָ֧ה אֱלֹהֵיכֶ֛ם לָלֶ֥כֶת בְּכׇל־דְּרָכָ֖יו וּלְדׇבְקָה־בֽוֹ׃",
+          "counts": {
+            "all": 210,
+            "Rashi": 3,
+            "Commentary": 71,
+            "Midrash": 59,
+            "Talmud": 0,
+            "Halakhah": 9,
+            "Kabbalah": 7,
+            "Musar": 4,
+            "Chasidut": 30,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Deuteronomy 11:23",
+          "hebrewText": "וְהוֹרִ֧ישׁ יְהֹוָ֛ה אֶת־כׇּל־הַגּוֹיִ֥ם הָאֵ֖לֶּה מִלִּפְנֵיכֶ֑ם וִֽירִשְׁתֶּ֣ם גּוֹיִ֔ם גְּדֹלִ֥ים וַעֲצֻמִ֖ים מִכֶּֽם׃",
+          "counts": {
+            "all": 43,
+            "Rashi": 2,
+            "Commentary": 18,
+            "Midrash": 15,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Deuteronomy 11:24",
+          "hebrewText": "כׇּל־הַמָּק֗וֹם אֲשֶׁ֨ר תִּדְרֹ֧ךְ כַּֽף־רַגְלְכֶ֛ם בּ֖וֹ לָכֶ֣ם יִהְיֶ֑ה מִן־הַמִּדְבָּ֨ר וְהַלְּבָנ֜וֹן מִן־הַנָּהָ֣ר נְהַר־פְּרָ֗ת וְעַד֙ הַיָּ֣ם הָאַֽחֲר֔וֹן יִהְיֶ֖ה גְּבֻלְכֶֽם׃",
+          "counts": {
+            "all": 85,
+            "Rashi": 4,
+            "Commentary": 29,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 6,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Deuteronomy 11:25",
+          "hebrewText": "לֹא־יִתְיַצֵּ֥ב אִ֖ישׁ בִּפְנֵיכֶ֑ם פַּחְדְּכֶ֨ם וּמוֹרַֽאֲכֶ֜ם יִתֵּ֣ן&thinsp;<b>׀</b> יְהֹוָ֣ה אֱלֹֽהֵיכֶ֗ם עַל־פְּנֵ֤י כׇל־הָאָ֙רֶץ֙ אֲשֶׁ֣ר תִּדְרְכוּ־בָ֔הּ כַּאֲשֶׁ֖ר דִּבֶּ֥ר לָכֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 67,
+            "Rashi": 3,
+            "Commentary": 26,
+            "Midrash": 20,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -979,6 +979,657 @@
       ]
     },
     {
+      "chapter": 42,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 42:1",
+          "hebrewText": "וַיַּ֣רְא יַעֲקֹ֔ב כִּ֥י יֶשׁ־שֶׁ֖בֶר בְּמִצְרָ֑יִם וַיֹּ֤אמֶר יַעֲקֹב֙ לְבָנָ֔יו לָ֖מָּה תִּתְרָאֽוּ׃",
+          "counts": {
+            "all": 169,
+            "Rashi": 2,
+            "Commentary": 84,
+            "Midrash": 38,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 7,
+            "Musar": 3,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 42:2",
+          "hebrewText": "וַיֹּ֕אמֶר הִנֵּ֣ה שָׁמַ֔עְתִּי כִּ֥י יֶשׁ־שֶׁ֖בֶר בְּמִצְרָ֑יִם רְדוּ־שָׁ֙מָּה֙ וְשִׁבְרוּ־לָ֣נוּ מִשָּׁ֔ם וְנִחְיֶ֖ה וְלֹ֥א נָמֽוּת׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 2,
+            "Commentary": 30,
+            "Midrash": 15,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 42:3",
+          "hebrewText": "וַיֵּרְד֥וּ אֲחֵֽי־יוֹסֵ֖ף עֲשָׂרָ֑ה לִשְׁבֹּ֥ר בָּ֖ר מִמִּצְרָֽיִם׃",
+          "counts": {
+            "all": 61,
+            "Rashi": 3,
+            "Commentary": 27,
+            "Midrash": 17,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 42:4",
+          "hebrewText": "וְאֶת־בִּנְיָמִין֙ אֲחִ֣י יוֹסֵ֔ף לֹא־שָׁלַ֥ח יַעֲקֹ֖ב אֶת־אֶחָ֑יו כִּ֣י אָמַ֔ר פֶּן־יִקְרָאֶ֖נּוּ אָסֽוֹן׃",
+          "counts": {
+            "all": 53,
+            "Rashi": 5,
+            "Commentary": 25,
+            "Midrash": 6,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 42:5",
+          "hebrewText": "וַיָּבֹ֙אוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לִשְׁבֹּ֖ר בְּת֣וֹךְ הַבָּאִ֑ים כִּֽי־הָיָ֥ה הָרָעָ֖ב בְּאֶ֥רֶץ כְּנָֽעַן׃",
+          "counts": {
+            "all": 48,
+            "Rashi": 1,
+            "Commentary": 20,
+            "Midrash": 7,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 42:6",
+          "hebrewText": "וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל־הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכׇל־עַ֣ם הָאָ֑רֶץ וַיָּבֹ֙אוּ֙ אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ־ל֥וֹ אַפַּ֖יִם אָֽרְצָה׃",
+          "counts": {
+            "all": 136,
+            "Rashi": 1,
+            "Commentary": 32,
+            "Midrash": 35,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 4,
+            "Chasidut": 26,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 42:7",
+          "hebrewText": "וַיַּ֥רְא יוֹסֵ֛ף אֶת־אֶחָ֖יו וַיַּכִּרֵ֑ם וַיִּתְנַכֵּ֨ר אֲלֵיהֶ֜ם וַיְדַבֵּ֧ר אִתָּ֣ם קָשׁ֗וֹת וַיֹּ֤אמֶר אֲלֵהֶם֙ מֵאַ֣יִן בָּאתֶ֔ם וַיֹּ֣אמְר֔וּ מֵאֶ֥רֶץ כְּנַ֖עַן לִשְׁבׇּר־אֹֽכֶל׃",
+          "counts": {
+            "all": 107,
+            "Rashi": 3,
+            "Commentary": 63,
+            "Midrash": 17,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 42:8",
+          "hebrewText": "וַיַּכֵּ֥ר יוֹסֵ֖ף אֶת־אֶחָ֑יו וְהֵ֖ם לֹ֥א הִכִּרֻֽהוּ׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 3,
+            "Commentary": 40,
+            "Midrash": 13,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 42:9",
+          "hebrewText": "וַיִּזְכֹּ֣ר יוֹסֵ֔ף אֵ֚ת הַחֲלֹמ֔וֹת אֲשֶׁ֥ר חָלַ֖ם לָהֶ֑ם וַיֹּ֤אמֶר אֲלֵהֶם֙ מְרַגְּלִ֣ים אַתֶּ֔ם לִרְא֛וֹת אֶת־עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶֽם׃",
+          "counts": {
+            "all": 109,
+            "Rashi": 4,
+            "Commentary": 53,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 17,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Genesis 42:10",
+          "hebrewText": "וַיֹּאמְר֥וּ אֵלָ֖יו לֹ֣א אֲדֹנִ֑י וַעֲבָדֶ֥יךָ בָּ֖אוּ לִשְׁבׇּר־אֹֽכֶל׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 1,
+            "Commentary": 20,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Genesis 42:11",
+          "hebrewText": "כֻּלָּ֕נוּ בְּנֵ֥י אִישׁ־אֶחָ֖ד נָ֑חְנוּ כֵּנִ֣ים אֲנַ֔חְנוּ לֹא־הָי֥וּ עֲבָדֶ֖יךָ מְרַגְּלִֽים׃",
+          "counts": {
+            "all": 86,
+            "Rashi": 2,
+            "Commentary": 43,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 6,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Genesis 42:12",
+          "hebrewText": "וַיֹּ֖אמֶר אֲלֵהֶ֑ם לֹ֕א כִּֽי־עֶרְוַ֥ת הָאָ֖רֶץ בָּאתֶ֥ם לִרְאֽוֹת׃",
+          "counts": {
+            "all": 33,
+            "Rashi": 1,
+            "Commentary": 16,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Genesis 42:13",
+          "hebrewText": "וַיֹּאמְר֗וּ שְׁנֵ֣ים עָשָׂר֩ עֲבָדֶ֨יךָ אַחִ֧ים&thinsp;<small>׀</small>&thinsp;אֲנַ֛חְנוּ בְּנֵ֥י אִישׁ־אֶחָ֖ד בְּאֶ֣רֶץ כְּנָ֑עַן וְהִנֵּ֨ה הַקָּטֹ֤ן אֶת־אָבִ֙ינוּ֙ הַיּ֔וֹם וְהָאֶחָ֖ד אֵינֶֽנּוּ׃",
+          "counts": {
+            "all": 65,
+            "Rashi": 1,
+            "Commentary": 24,
+            "Midrash": 13,
+            "Talmud": 6,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Genesis 42:14",
+          "hebrewText": "וַיֹּ֥אמֶר אֲלֵהֶ֖ם יוֹסֵ֑ף ה֗וּא אֲשֶׁ֨ר דִּבַּ֧רְתִּי אֲלֵכֶ֛ם לֵאמֹ֖ר מְרַגְּלִ֥ים אַתֶּֽם׃",
+          "counts": {
+            "all": 40,
+            "Rashi": 1,
+            "Commentary": 24,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Genesis 42:15",
+          "hebrewText": "בְּזֹ֖את תִּבָּחֵ֑נוּ חֵ֤י פַרְעֹה֙ אִם־תֵּצְא֣וּ מִזֶּ֔ה כִּ֧י אִם־בְּב֛וֹא אֲחִיכֶ֥ם הַקָּטֹ֖ן הֵֽנָּה׃",
+          "counts": {
+            "all": 85,
+            "Rashi": 2,
+            "Commentary": 42,
+            "Midrash": 15,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Genesis 42:16",
+          "hebrewText": "שִׁלְח֨וּ מִכֶּ֣ם אֶחָד֮ וְיִקַּ֣ח אֶת־אֲחִיכֶם֒ וְאַתֶּם֙ הֵאָ֣סְר֔וּ וְיִבָּֽחֲנוּ֙ דִּבְרֵיכֶ֔ם הַֽאֱמֶ֖ת אִתְּכֶ֑ם וְאִם־לֹ֕א חֵ֣י פַרְעֹ֔ה כִּ֥י מְרַגְּלִ֖ים אַתֶּֽם׃",
+          "counts": {
+            "all": 57,
+            "Rashi": 2,
+            "Commentary": 23,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Genesis 42:17",
+          "hebrewText": "וַיֶּאֱסֹ֥ף אֹתָ֛ם אֶל־מִשְׁמָ֖ר שְׁלֹ֥שֶׁת יָמִֽים׃",
+          "counts": {
+            "all": 44,
+            "Rashi": 2,
+            "Commentary": 20,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Genesis 42:18",
+          "hebrewText": "וַיֹּ֨אמֶר אֲלֵהֶ֤ם יוֹסֵף֙ בַּיּ֣וֹם הַשְּׁלִישִׁ֔י זֹ֥את עֲשׂ֖וּ וִֽחְי֑וּ אֶת־הָאֱלֹהִ֖ים אֲנִ֥י יָרֵֽא׃",
+          "counts": {
+            "all": 90,
+            "Rashi": 0,
+            "Commentary": 21,
+            "Midrash": 34,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Genesis 42:19",
+          "hebrewText": "אִם־כֵּנִ֣ים אַתֶּ֔ם אֲחִיכֶ֣ם אֶחָ֔ד יֵאָסֵ֖ר בְּבֵ֣ית מִשְׁמַרְכֶ֑ם וְאַתֶּם֙ לְכ֣וּ הָבִ֔יאוּ שֶׁ֖בֶר רַעֲב֥וֹן בָּתֵּיכֶֽם׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 3,
+            "Commentary": 34,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 42:20",
+          "hebrewText": "וְאֶת־אֲחִיכֶ֤ם הַקָּטֹן֙ תָּבִ֣יאוּ אֵלַ֔י וְיֵאָמְנ֥וּ דִבְרֵיכֶ֖ם וְלֹ֣א תָמ֑וּתוּ וַיַּעֲשׂוּ־כֵֽן׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 1,
+            "Commentary": 21,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 42:21",
+          "hebrewText": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־אָחִ֗יו אֲבָל֮ אֲשֵׁמִ֣ים&thinsp;<small>׀</small>&thinsp;אֲנַ֘חְנוּ֮ עַל־אָחִ֒ינוּ֒ אֲשֶׁ֨ר רָאִ֜ינוּ צָרַ֥ת נַפְשׁ֛וֹ בְּהִתְחַֽנְנ֥וֹ אֵלֵ֖ינוּ וְלֹ֣א שָׁמָ֑עְנוּ עַל־כֵּן֙ בָּ֣אָה אֵלֵ֔ינוּ הַצָּרָ֖ה הַזֹּֽאת׃",
+          "counts": {
+            "all": 113,
+            "Rashi": 4,
+            "Commentary": 49,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 3,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Genesis 42:22",
+          "hebrewText": "וַיַּ֩עַן֩ רְאוּבֵ֨ן אֹתָ֜ם לֵאמֹ֗ר הֲלוֹא֩ אָמַ֨רְתִּי אֲלֵיכֶ֧ם&thinsp;<small>׀</small>&thinsp;לֵאמֹ֛ר אַל־תֶּחֶטְא֥וּ בַיֶּ֖לֶד וְלֹ֣א שְׁמַעְתֶּ֑ם וְגַם־דָּמ֖וֹ הִנֵּ֥ה נִדְרָֽשׁ׃",
+          "counts": {
+            "all": 71,
+            "Rashi": 1,
+            "Commentary": 37,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Genesis 42:23",
+          "hebrewText": "וְהֵם֙ לֹ֣א יָֽדְע֔וּ כִּ֥י שֹׁמֵ֖עַ יוֹסֵ֑ף כִּ֥י הַמֵּלִ֖יץ בֵּינֹתָֽם׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 6,
+            "Commentary": 35,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Genesis 42:24",
+          "hebrewText": "וַיִּסֹּ֥ב מֵֽעֲלֵיהֶ֖ם וַיֵּ֑בְךְּ וַיָּ֤שׇׁב אֲלֵהֶם֙ וַיְדַבֵּ֣ר אֲלֵהֶ֔ם וַיִּקַּ֤ח מֵֽאִתָּם֙ אֶת־שִׁמְע֔וֹן וַיֶּאֱסֹ֥ר אֹת֖וֹ לְעֵינֵיהֶֽם׃",
+          "counts": {
+            "all": 97,
+            "Rashi": 4,
+            "Commentary": 48,
+            "Midrash": 27,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Genesis 42:25",
+          "hebrewText": "וַיְצַ֣ו יוֹסֵ֗ף וַיְמַלְא֣וּ אֶת־כְּלֵיהֶם֮ בָּר֒ וּלְהָשִׁ֤יב כַּסְפֵּיהֶם֙ אִ֣ישׁ אֶל־שַׂקּ֔וֹ וְלָתֵ֥ת לָהֶ֛ם צֵדָ֖ה לַדָּ֑רֶךְ וַיַּ֥עַשׂ לָהֶ֖ם כֵּֽן׃",
+          "counts": {
+            "all": 68,
+            "Rashi": 1,
+            "Commentary": 33,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Genesis 42:26",
+          "hebrewText": "וַיִּשְׂא֥וּ אֶת־שִׁבְרָ֖ם עַל־חֲמֹרֵיהֶ֑ם וַיֵּלְכ֖וּ מִשָּֽׁם׃",
+          "counts": {
+            "all": 23,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Genesis 42:27",
+          "hebrewText": "וַיִּפְתַּ֨ח הָאֶחָ֜ד אֶת־שַׂקּ֗וֹ לָתֵ֥ת מִסְפּ֛וֹא לַחֲמֹר֖וֹ בַּמָּל֑וֹן וַיַּרְא֙ אֶת־כַּסְפּ֔וֹ וְהִנֵּה־ה֖וּא בְּפִ֥י אַמְתַּחְתּֽוֹ׃",
+          "counts": {
+            "all": 60,
+            "Rashi": 3,
+            "Commentary": 31,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Genesis 42:28",
+          "hebrewText": "וַיֹּ֤אמֶר אֶל־אֶחָיו֙ הוּשַׁ֣ב כַּסְפִּ֔י וְגַ֖ם הִנֵּ֣ה בְאַמְתַּחְתִּ֑י וַיֵּצֵ֣א לִבָּ֗ם וַיֶּֽחֶרְד֞וּ אִ֤ישׁ אֶל־אָחִיו֙ לֵאמֹ֔ר מַה־זֹּ֛את עָשָׂ֥ה אֱלֹהִ֖ים לָֽנוּ׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 3,
+            "Commentary": 34,
+            "Midrash": 13,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Genesis 42:29",
+          "hebrewText": "וַיָּבֹ֛אוּ אֶל־יַעֲקֹ֥ב אֲבִיהֶ֖ם אַ֣רְצָה כְּנָ֑עַן וַיַּגִּ֣ידוּ ל֔וֹ אֵ֛ת כׇּל־הַקֹּרֹ֥ת אֹתָ֖ם לֵאמֹֽר׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Genesis 42:30",
+          "hebrewText": "דִּ֠בֶּ֠ר הָאִ֨ישׁ אֲדֹנֵ֥י הָאָ֛רֶץ אִתָּ֖נוּ קָשׁ֑וֹת וַיִּתֵּ֣ן אֹתָ֔נוּ כִּֽמְרַגְּלִ֖ים אֶת־הָאָֽרֶץ׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 3,
+            "Commentary": 5,
+            "Midrash": 27,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Genesis 42:31",
+          "hebrewText": "וַנֹּ֥אמֶר אֵלָ֖יו כֵּנִ֣ים אֲנָ֑חְנוּ לֹ֥א הָיִ֖ינוּ מְרַגְּלִֽים׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Genesis 42:32",
+          "hebrewText": "שְׁנֵים־עָשָׂ֥ר אֲנַ֛חְנוּ אַחִ֖ים בְּנֵ֣י אָבִ֑ינוּ הָאֶחָ֣ד אֵינֶ֔נּוּ וְהַקָּטֹ֥ן הַיּ֛וֹם אֶת־אָבִ֖ינוּ בְּאֶ֥רֶץ כְּנָֽעַן׃",
+          "counts": {
+            "all": 19,
+            "Rashi": 1,
+            "Commentary": 7,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Genesis 42:33",
+          "hebrewText": "וַיֹּ֣אמֶר אֵלֵ֗ינוּ הָאִישׁ֙ אֲדֹנֵ֣י הָאָ֔רֶץ בְּזֹ֣את אֵדַ֔ע כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֲחִיכֶ֤ם הָֽאֶחָד֙ הַנִּ֣יחוּ אִתִּ֔י וְאֶת־רַעֲב֥וֹן בָּתֵּיכֶ֖ם קְח֥וּ וָלֵֽכוּ׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Genesis 42:34",
+          "hebrewText": "וְ֠הָבִ֠יאוּ אֶת־אֲחִיכֶ֣ם הַקָּטֹן֮ אֵלַי֒ וְאֵֽדְעָ֗ה כִּ֣י לֹ֤א מְרַגְּלִים֙ אַתֶּ֔ם כִּ֥י כֵנִ֖ים אַתֶּ֑ם אֶת־אֲחִיכֶם֙ אֶתֵּ֣ן לָכֶ֔ם וְאֶת־הָאָ֖רֶץ תִּסְחָֽרוּ׃",
+          "counts": {
+            "all": 35,
+            "Rashi": 1,
+            "Commentary": 19,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Genesis 42:35",
+          "hebrewText": "וַיְהִ֗י הֵ֚ם מְרִיקִ֣ים שַׂקֵּיהֶ֔ם וְהִנֵּה־אִ֥ישׁ צְרוֹר־כַּסְפּ֖וֹ בְּשַׂקּ֑וֹ וַיִּרְא֞וּ אֶת־צְרֹר֧וֹת כַּסְפֵּיהֶ֛ם הֵ֥מָּה וַאֲבִיהֶ֖ם וַיִּירָֽאוּ׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 4,
+            "Commentary": 17,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Genesis 42:36",
+          "hebrewText": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יַעֲקֹ֣ב אֲבִיהֶ֔ם אֹתִ֖י שִׁכַּלְתֶּ֑ם יוֹסֵ֤ף אֵינֶ֙נּוּ֙ וְשִׁמְע֣וֹן אֵינֶ֔נּוּ וְאֶת־בִּנְיָמִ֣ן תִּקָּ֔חוּ עָלַ֖י הָי֥וּ כֻלָּֽנָה׃",
+          "counts": {
+            "all": 83,
+            "Rashi": 2,
+            "Commentary": 43,
+            "Midrash": 14,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Genesis 42:37",
+          "hebrewText": "וַיֹּ֤אמֶר רְאוּבֵן֙ אֶל־אָבִ֣יו לֵאמֹ֔ר אֶת־שְׁנֵ֤י בָנַי֙ תָּמִ֔ית אִם־לֹ֥א אֲבִיאֶ֖נּוּ אֵלֶ֑יךָ תְּנָ֤ה אֹתוֹ֙ עַל־יָדִ֔י וַאֲנִ֖י אֲשִׁיבֶ֥נּוּ אֵלֶֽיךָ׃",
+          "counts": {
+            "all": 67,
+            "Rashi": 0,
+            "Commentary": 40,
+            "Midrash": 10,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Genesis 42:38",
+          "hebrewText": "וַיֹּ֕אמֶר לֹֽא־יֵרֵ֥ד בְּנִ֖י עִמָּכֶ֑ם כִּֽי־אָחִ֨יו מֵ֜ת וְה֧וּא לְבַדּ֣וֹ נִשְׁאָ֗ר וּקְרָאָ֤הוּ אָסוֹן֙ בַּדֶּ֙רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ־בָ֔הּ וְהוֹרַדְתֶּ֧ם אֶת־שֵׂיבָתִ֛י בְּיָג֖וֹן שְׁאֽוֹלָה׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 2,
+            "Commentary": 34,
+            "Midrash": 15,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
       "chapter": 43,
       "verses": [
         {

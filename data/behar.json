@@ -1,0 +1,987 @@
+{
+  "name": "Behar",
+  "heName": "בהר",
+  "ref": "Leviticus 25:1-26:2",
+  "book": "Leviticus",
+  "data": [
+    {
+      "chapter": 25,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Leviticus 25:1",
+          "hebrewText": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּהַ֥ר סִינַ֖י לֵאמֹֽר׃",
+          "counts": {
+            "all": 112,
+            "Rashi": 1,
+            "Commentary": 59,
+            "Midrash": 14,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Leviticus 25:2",
+          "hebrewText": "דַּבֵּ֞ר אֶל־בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּ֤י תָבֹ֙אוּ֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן לָכֶ֑ם וְשָׁבְתָ֣ה הָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָֽה׃",
+          "counts": {
+            "all": 167,
+            "Rashi": 3,
+            "Commentary": 63,
+            "Midrash": 20,
+            "Talmud": 5,
+            "Halakhah": 13,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 26,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Leviticus 25:3",
+          "hebrewText": "שֵׁ֤שׁ שָׁנִים֙ תִּזְרַ֣ע שָׂדֶ֔ךָ וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְמֹ֣ר כַּרְמֶ֑ךָ וְאָסַפְתָּ֖ אֶת־תְּבוּאָתָֽהּ׃",
+          "counts": {
+            "all": 88,
+            "Rashi": 1,
+            "Commentary": 36,
+            "Midrash": 6,
+            "Talmud": 9,
+            "Halakhah": 4,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Leviticus 25:4",
+          "hebrewText": "וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתוֹן֙ יִהְיֶ֣ה לָאָ֔רֶץ שַׁבָּ֖ת לַיהֹוָ֑ה שָֽׂדְךָ֙ לֹ֣א תִזְרָ֔ע וְכַרְמְךָ֖ לֹ֥א תִזְמֹֽר׃",
+          "counts": {
+            "all": 148,
+            "Rashi": 9,
+            "Commentary": 39,
+            "Midrash": 4,
+            "Talmud": 17,
+            "Halakhah": 19,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Leviticus 25:5",
+          "hebrewText": "אֵ֣ת סְפִ֤יחַ קְצִֽירְךָ֙ לֹ֣א תִקְצ֔וֹר וְאֶת־עִנְּבֵ֥י נְזִירֶ֖ךָ לֹ֣א תִבְצֹ֑ר שְׁנַ֥ת שַׁבָּת֖וֹן יִהְיֶ֥ה לָאָֽרֶץ׃",
+          "counts": {
+            "all": 128,
+            "Rashi": 4,
+            "Commentary": 54,
+            "Midrash": 7,
+            "Talmud": 6,
+            "Halakhah": 20,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Leviticus 25:6",
+          "hebrewText": "וְ֠הָיְתָ֠ה שַׁבַּ֨ת הָאָ֤רֶץ לָכֶם֙ לְאׇכְלָ֔ה לְךָ֖ וּלְעַבְדְּךָ֣ וְלַאֲמָתֶ֑ךָ וְלִשְׂכִֽירְךָ֙ וּלְתוֹשָׁ֣בְךָ֔ הַגָּרִ֖ים עִמָּֽךְ׃",
+          "counts": {
+            "all": 204,
+            "Rashi": 6,
+            "Commentary": 80,
+            "Midrash": 18,
+            "Talmud": 11,
+            "Halakhah": 17,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Leviticus 25:7",
+          "hebrewText": "וְלִ֨בְהֶמְתְּךָ֔ וְלַֽחַיָּ֖ה אֲשֶׁ֣ר בְּאַרְצֶ֑ךָ תִּהְיֶ֥ה כׇל־תְּבוּאָתָ֖הּ לֶאֱכֹֽל׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 97,
+            "Rashi": 4,
+            "Commentary": 35,
+            "Midrash": 8,
+            "Talmud": 10,
+            "Halakhah": 7,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Leviticus 25:8",
+          "hebrewText": "וְסָפַרְתָּ֣ לְךָ֗ שֶׁ֚בַע שַׁבְּתֹ֣ת שָׁנִ֔ים שֶׁ֥בַע שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙ שֶׁ֚בַע שַׁבְּתֹ֣ת הַשָּׁנִ֔ים תֵּ֥שַׁע וְאַרְבָּעִ֖ים שָׁנָֽה׃",
+          "counts": {
+            "all": 117,
+            "Rashi": 2,
+            "Commentary": 55,
+            "Midrash": 7,
+            "Talmud": 4,
+            "Halakhah": 8,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Leviticus 25:9",
+          "hebrewText": "וְהַֽעֲבַרְתָּ֞ שׁוֹפַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשׂ֖וֹר לַחֹ֑דֶשׁ בְּיוֹם֙ הַכִּפֻּרִ֔ים תַּעֲבִ֥ירוּ שׁוֹפָ֖ר בְּכׇל־אַרְצְכֶֽם׃",
+          "counts": {
+            "all": 183,
+            "Rashi": 7,
+            "Commentary": 50,
+            "Midrash": 14,
+            "Talmud": 22,
+            "Halakhah": 26,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Leviticus 25:10",
+          "hebrewText": "וְקִדַּשְׁתֶּ֗ם אֵ֣ת שְׁנַ֤ת הַחֲמִשִּׁים֙ שָׁנָ֔ה וּקְרָאתֶ֥ם דְּר֛וֹר בָּאָ֖רֶץ לְכׇל־יֹשְׁבֶ֑יהָ יוֹבֵ֥ל הִוא֙ תִּהְיֶ֣ה לָכֶ֔ם וְשַׁבְתֶּ֗ם אִ֚ישׁ אֶל־אֲחֻזָּת֔וֹ וְאִ֥ישׁ אֶל־מִשְׁפַּחְתּ֖וֹ תָּשֻֽׁבוּ׃",
+          "counts": {
+            "all": 293,
+            "Rashi": 10,
+            "Commentary": 96,
+            "Midrash": 21,
+            "Talmud": 20,
+            "Halakhah": 20,
+            "Kabbalah": 17,
+            "Musar": 7,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Leviticus 25:11",
+          "hebrewText": "יוֹבֵ֣ל הִ֗וא שְׁנַ֛ת הַחֲמִשִּׁ֥ים שָׁנָ֖ה תִּהְיֶ֣ה לָכֶ֑ם לֹ֣א תִזְרָ֔עוּ וְלֹ֤א תִקְצְרוּ֙ אֶת־סְפִיחֶ֔יהָ וְלֹ֥א תִבְצְר֖וּ אֶת־נְזִרֶֽיהָ׃",
+          "counts": {
+            "all": 103,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 5,
+            "Talmud": 4,
+            "Halakhah": 23,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Leviticus 25:12",
+          "hebrewText": "כִּ֚י יוֹבֵ֣ל הִ֔וא קֹ֖דֶשׁ תִּהְיֶ֣ה לָכֶ֑ם מִ֨ן־הַשָּׂדֶ֔ה תֹּאכְל֖וּ אֶת־תְּבוּאָתָֽהּ׃",
+          "counts": {
+            "all": 93,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 4,
+            "Talmud": 9,
+            "Halakhah": 8,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Leviticus 25:13",
+          "hebrewText": "בִּשְׁנַ֥ת הַיּוֹבֵ֖ל הַזֹּ֑את תָּשֻׁ֕בוּ אִ֖ישׁ אֶל־אֲחֻזָּתֽוֹ׃",
+          "counts": {
+            "all": 95,
+            "Rashi": 1,
+            "Commentary": 25,
+            "Midrash": 15,
+            "Talmud": 10,
+            "Halakhah": 6,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Leviticus 25:14",
+          "hebrewText": "וְכִֽי־תִמְכְּר֤וּ מִמְכָּר֙ לַעֲמִיתֶ֔ךָ א֥וֹ קָנֹ֖ה מִיַּ֣ד עֲמִיתֶ֑ךָ אַל־תּוֹנ֖וּ אִ֥ישׁ אֶת־אָחִֽיו׃",
+          "counts": {
+            "all": 267,
+            "Rashi": 8,
+            "Commentary": 85,
+            "Midrash": 24,
+            "Talmud": 20,
+            "Halakhah": 34,
+            "Kabbalah": 3,
+            "Musar": 7,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Leviticus 25:15",
+          "hebrewText": "בְּמִסְפַּ֤ר שָׁנִים֙ אַחַ֣ר הַיּוֹבֵ֔ל תִּקְנֶ֖ה מֵאֵ֣ת עֲמִיתֶ֑ךָ בְּמִסְפַּ֥ר שְׁנֵֽי־תְבוּאֹ֖ת יִמְכׇּר־לָֽךְ׃",
+          "counts": {
+            "all": 108,
+            "Rashi": 1,
+            "Commentary": 49,
+            "Midrash": 5,
+            "Talmud": 15,
+            "Halakhah": 8,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Leviticus 25:16",
+          "hebrewText": "לְפִ֣י&thinsp;<b>׀</b> רֹ֣ב הַשָּׁנִ֗ים תַּרְבֶּה֙ מִקְנָת֔וֹ וּלְפִי֙ מְעֹ֣ט הַשָּׁנִ֔ים תַּמְעִ֖יט מִקְנָת֑וֹ כִּ֚י מִסְפַּ֣ר תְּבוּאֹ֔ת ה֥וּא מֹכֵ֖ר לָֽךְ׃",
+          "counts": {
+            "all": 53,
+            "Rashi": 2,
+            "Commentary": 25,
+            "Midrash": 4,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Leviticus 25:17",
+          "hebrewText": "וְלֹ֤א תוֹנוּ֙ אִ֣ישׁ אֶת־עֲמִית֔וֹ וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+          "counts": {
+            "all": 155,
+            "Rashi": 2,
+            "Commentary": 37,
+            "Midrash": 11,
+            "Talmud": 7,
+            "Halakhah": 24,
+            "Kabbalah": 12,
+            "Musar": 24,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Leviticus 25:18",
+          "hebrewText": "וַעֲשִׂיתֶם֙ אֶת־חֻקֹּתַ֔י וְאֶת־מִשְׁפָּטַ֥י תִּשְׁמְר֖וּ וַעֲשִׂיתֶ֣ם אֹתָ֑ם וִֽישַׁבְתֶּ֥ם עַל־הָאָ֖רֶץ לָבֶֽטַח׃",
+          "counts": {
+            "all": 63,
+            "Rashi": 1,
+            "Commentary": 39,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Leviticus 25:19",
+          "hebrewText": "וְנָתְנָ֤ה הָאָ֙רֶץ֙ פִּרְיָ֔הּ וַאֲכַלְתֶּ֖ם לָשֹׂ֑בַע וִֽישַׁבְתֶּ֥ם לָבֶ֖טַח עָלֶֽיהָ׃",
+          "counts": {
+            "all": 51,
+            "Rashi": 2,
+            "Commentary": 29,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Leviticus 25:20",
+          "hebrewText": "וְכִ֣י תֹאמְר֔וּ מַה־נֹּאכַ֖ל בַּשָּׁנָ֣ה הַשְּׁבִיעִ֑ת הֵ֚ן לֹ֣א נִזְרָ֔ע וְלֹ֥א נֶאֱסֹ֖ף אֶת־תְּבוּאָתֵֽנוּ׃",
+          "counts": {
+            "all": 83,
+            "Rashi": 3,
+            "Commentary": 49,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Leviticus 25:21",
+          "hebrewText": "וְצִוִּ֤יתִי אֶת־בִּרְכָתִי֙ לָכֶ֔ם בַּשָּׁנָ֖ה הַשִּׁשִּׁ֑ית וְעָשָׂת֙ אֶת־הַתְּבוּאָ֔ה לִשְׁלֹ֖שׁ הַשָּׁנִֽים׃",
+          "counts": {
+            "all": 80,
+            "Rashi": 3,
+            "Commentary": 30,
+            "Midrash": 6,
+            "Talmud": 3,
+            "Halakhah": 6,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Leviticus 25:22",
+          "hebrewText": "וּזְרַעְתֶּ֗ם אֵ֚ת הַשָּׁנָ֣ה הַשְּׁמִינִ֔ת וַאֲכַלְתֶּ֖ם מִן־הַתְּבוּאָ֣ה יָשָׁ֑ן עַ֣ד&thinsp;<b>׀</b> הַשָּׁנָ֣ה הַתְּשִׁיעִ֗ת עַד־בּוֹא֙ תְּב֣וּאָתָ֔הּ תֹּאכְל֖וּ יָשָֽׁן׃",
+          "counts": {
+            "all": 58,
+            "Rashi": 1,
+            "Commentary": 27,
+            "Midrash": 6,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Leviticus 25:23",
+          "hebrewText": "וְהָאָ֗רֶץ לֹ֤א תִמָּכֵר֙ לִצְמִתֻ֔ת כִּי־לִ֖י הָאָ֑רֶץ כִּֽי־גֵרִ֧ים וְתוֹשָׁבִ֛ים אַתֶּ֖ם עִמָּדִֽי׃",
+          "counts": {
+            "all": 197,
+            "Rashi": 5,
+            "Commentary": 59,
+            "Midrash": 20,
+            "Talmud": 7,
+            "Halakhah": 9,
+            "Kabbalah": 1,
+            "Musar": 4,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Leviticus 25:24",
+          "hebrewText": "וּבְכֹ֖ל אֶ֣רֶץ אֲחֻזַּתְכֶ֑ם גְּאֻלָּ֖ה תִּתְּנ֥וּ לָאָֽרֶץ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 71,
+            "Rashi": 1,
+            "Commentary": 30,
+            "Midrash": 3,
+            "Talmud": 4,
+            "Halakhah": 9,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Leviticus 25:25",
+          "hebrewText": "כִּֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲלוֹ֙ הַקָּרֹ֣ב אֵלָ֔יו וְגָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽיו׃",
+          "counts": {
+            "all": 144,
+            "Rashi": 4,
+            "Commentary": 70,
+            "Midrash": 15,
+            "Talmud": 9,
+            "Halakhah": 4,
+            "Kabbalah": 7,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Leviticus 25:26",
+          "hebrewText": "וְאִ֕ישׁ כִּ֛י לֹ֥א יִֽהְיֶה־לּ֖וֹ גֹּאֵ֑ל וְהִשִּׂ֣יגָה יָד֔וֹ וּמָצָ֖א כְּדֵ֥י גְאֻלָּתֽוֹ׃",
+          "counts": {
+            "all": 85,
+            "Rashi": 3,
+            "Commentary": 36,
+            "Midrash": 3,
+            "Talmud": 15,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Leviticus 25:27",
+          "hebrewText": "וְחִשַּׁב֙ אֶת־שְׁנֵ֣י מִמְכָּר֔וֹ וְהֵשִׁיב֙ אֶת־הָ֣עֹדֵ֔ף לָאִ֖ישׁ אֲשֶׁ֣ר מָֽכַר־ל֑וֹ וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃",
+          "counts": {
+            "all": 74,
+            "Rashi": 3,
+            "Commentary": 37,
+            "Midrash": 4,
+            "Talmud": 7,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Leviticus 25:28",
+          "hebrewText": "וְאִ֨ם לֹֽא־מָצְאָ֜ה יָד֗וֹ דֵּי֮ הָשִׁ֣יב לוֹ֒ וְהָיָ֣ה מִמְכָּר֗וֹ בְּיַד֙ הַקֹּנֶ֣ה אֹת֔וֹ עַ֖ד שְׁנַ֣ת הַיּוֹבֵ֑ל וְיָצָא֙ בַּיֹּבֵ֔ל וְשָׁ֖ב לַאֲחֻזָּתֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 72,
+            "Rashi": 3,
+            "Commentary": 39,
+            "Midrash": 4,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Leviticus 25:29",
+          "hebrewText": "וְאִ֗ישׁ כִּֽי־יִמְכֹּ֤ר בֵּית־מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְתָה֙ גְּאֻלָּת֔וֹ עַד־תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽוֹ׃",
+          "counts": {
+            "all": 209,
+            "Rashi": 7,
+            "Commentary": 74,
+            "Midrash": 20,
+            "Talmud": 18,
+            "Halakhah": 10,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Leviticus 25:30",
+          "hebrewText": "וְאִ֣ם לֹֽא־יִגָּאֵ֗ל עַד־מְלֹ֣את לוֹ֮ שָׁנָ֣ה תְמִימָה֒ וְ֠קָ֠ם הַבַּ֨יִת אֲשֶׁר־בָּעִ֜יר אֲשֶׁר־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[ל֣וֹ]</span> <span class=\"mam-kq-k\">(לא)</span></span> חֹמָ֗ה לַצְּמִיתֻ֛ת לַקֹּנֶ֥ה אֹת֖וֹ לְדֹרֹתָ֑יו לֹ֥א יֵצֵ֖א בַּיֹּבֵֽל׃",
+          "counts": {
+            "all": 184,
+            "Rashi": 5,
+            "Commentary": 56,
+            "Midrash": 12,
+            "Talmud": 29,
+            "Halakhah": 5,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Leviticus 25:31",
+          "hebrewText": "וּבָתֵּ֣י הַחֲצֵרִ֗ים אֲשֶׁ֨ר אֵין־לָהֶ֤ם חֹמָה֙ סָבִ֔יב עַל־שְׂדֵ֥ה הָאָ֖רֶץ יֵחָשֵׁ֑ב גְּאֻלָּה֙ תִּהְיֶה־לּ֔וֹ וּבַיֹּבֵ֖ל יֵצֵֽא׃",
+          "counts": {
+            "all": 113,
+            "Rashi": 4,
+            "Commentary": 45,
+            "Midrash": 8,
+            "Talmud": 10,
+            "Halakhah": 3,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Leviticus 25:32",
+          "hebrewText": "וְעָרֵי֙ הַלְוִיִּ֔ם בָּתֵּ֖י עָרֵ֣י אֲחֻזָּתָ֑ם גְּאֻלַּ֥ת עוֹלָ֖ם תִּהְיֶ֥ה לַלְוִיִּֽם׃",
+          "counts": {
+            "all": 65,
+            "Rashi": 3,
+            "Commentary": 24,
+            "Midrash": 4,
+            "Talmud": 5,
+            "Halakhah": 4,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Leviticus 25:33",
+          "hebrewText": "וַאֲשֶׁ֤ר יִגְאַל֙ מִן־הַלְוִיִּ֔ם וְיָצָ֧א מִמְכַּר־בַּ֛יִת וְעִ֥יר אֲחֻזָּת֖וֹ בַּיֹּבֵ֑ל כִּ֣י בָתֵּ֞י עָרֵ֣י הַלְוִיִּ֗ם הִ֚וא אֲחֻזָּתָ֔ם בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 94,
+            "Rashi": 3,
+            "Commentary": 55,
+            "Midrash": 7,
+            "Talmud": 4,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Leviticus 25:34",
+          "hebrewText": "וּֽשְׂדֵ֛ה מִגְרַ֥שׁ עָרֵיהֶ֖ם לֹ֣א יִמָּכֵ֑ר כִּֽי־אֲחֻזַּ֥ת עוֹלָ֛ם ה֖וּא לָהֶֽם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 83,
+            "Rashi": 1,
+            "Commentary": 36,
+            "Midrash": 9,
+            "Talmud": 4,
+            "Halakhah": 10,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Leviticus 25:35",
+          "hebrewText": "וְכִֽי־יָמ֣וּךְ אָחִ֔יךָ וּמָ֥טָה יָד֖וֹ עִמָּ֑ךְ וְהֶֽחֱזַ֣קְתָּ בּ֔וֹ גֵּ֧ר וְתוֹשָׁ֛ב וָחַ֖י עִמָּֽךְ׃",
+          "counts": {
+            "all": 216,
+            "Rashi": 5,
+            "Commentary": 81,
+            "Midrash": 20,
+            "Talmud": 9,
+            "Halakhah": 34,
+            "Kabbalah": 1,
+            "Musar": 7,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Leviticus 25:36",
+          "hebrewText": "אַל־תִּקַּ֤ח מֵֽאִתּוֹ֙ נֶ֣שֶׁךְ וְתַרְבִּ֔ית וְיָרֵ֖אתָ מֵֽאֱלֹהֶ֑יךָ וְחֵ֥י אָחִ֖יךָ עִמָּֽךְ׃",
+          "counts": {
+            "all": 196,
+            "Rashi": 5,
+            "Commentary": 53,
+            "Midrash": 17,
+            "Talmud": 15,
+            "Halakhah": 25,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Leviticus 25:37",
+          "hebrewText": "אֶ֨ת־כַּסְפְּךָ֔ לֹֽא־תִתֵּ֥ן ל֖וֹ בְּנֶ֑שֶׁךְ וּבְמַרְבִּ֖ית לֹא־תִתֵּ֥ן אׇכְלֶֽךָ׃",
+          "counts": {
+            "all": 95,
+            "Rashi": 2,
+            "Commentary": 24,
+            "Midrash": 8,
+            "Talmud": 6,
+            "Halakhah": 15,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Leviticus 25:38",
+          "hebrewText": "אֲנִ֗י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לָתֵ֤ת לָכֶם֙ אֶת־אֶ֣רֶץ כְּנַ֔עַן לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִֽים׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 69,
+            "Rashi": 3,
+            "Commentary": 32,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Leviticus 25:39",
+          "hebrewText": "וְכִֽי־יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־לָ֑ךְ לֹא־תַעֲבֹ֥ד בּ֖וֹ עֲבֹ֥דַת עָֽבֶד׃",
+          "counts": {
+            "all": 120,
+            "Rashi": 3,
+            "Commentary": 45,
+            "Midrash": 14,
+            "Talmud": 4,
+            "Halakhah": 9,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Leviticus 25:40",
+          "hebrewText": "כְּשָׂכִ֥יר כְּתוֹשָׁ֖ב יִהְיֶ֣ה עִמָּ֑ךְ עַד־שְׁנַ֥ת הַיֹּבֵ֖ל יַעֲבֹ֥ד עִמָּֽךְ׃",
+          "counts": {
+            "all": 95,
+            "Rashi": 2,
+            "Commentary": 33,
+            "Midrash": 9,
+            "Talmud": 9,
+            "Halakhah": 7,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 41,
+          "ref": "Leviticus 25:41",
+          "hebrewText": "וְיָצָא֙ מֵֽעִמָּ֔ךְ ה֖וּא וּבָנָ֣יו עִמּ֑וֹ וְשָׁב֙ אֶל־מִשְׁפַּחְתּ֔וֹ וְאֶל־אֲחֻזַּ֥ת אֲבֹתָ֖יו יָשֽׁוּב׃",
+          "counts": {
+            "all": 97,
+            "Rashi": 4,
+            "Commentary": 48,
+            "Midrash": 8,
+            "Talmud": 8,
+            "Halakhah": 5,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 42,
+          "ref": "Leviticus 25:42",
+          "hebrewText": "כִּֽי־עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם לֹ֥א יִמָּכְר֖וּ מִמְכֶּ֥רֶת עָֽבֶד׃",
+          "counts": {
+            "all": 92,
+            "Rashi": 5,
+            "Commentary": 24,
+            "Midrash": 9,
+            "Talmud": 2,
+            "Halakhah": 18,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 43,
+          "ref": "Leviticus 25:43",
+          "hebrewText": "לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָ֑רֶךְ וְיָרֵ֖אתָ מֵאֱלֹהֶֽיךָ׃",
+          "counts": {
+            "all": 46,
+            "Rashi": 1,
+            "Commentary": 17,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 5,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 44,
+          "ref": "Leviticus 25:44",
+          "hebrewText": "וְעַבְדְּךָ֥ וַאֲמָתְךָ֖ אֲשֶׁ֣ר יִהְיוּ־לָ֑ךְ מֵאֵ֣ת הַגּוֹיִ֗ם אֲשֶׁר֙ סְבִיבֹ֣תֵיכֶ֔ם מֵהֶ֥ם תִּקְנ֖וּ עֶ֥בֶד וְאָמָֽה׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 4,
+            "Commentary": 34,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 45,
+          "ref": "Leviticus 25:45",
+          "hebrewText": "וְ֠גַ֠ם מִבְּנֵ֨י הַתּוֹשָׁבִ֜ים הַגָּרִ֤ים עִמָּכֶם֙ מֵהֶ֣ם תִּקְנ֔וּ וּמִמִּשְׁפַּחְתָּם֙ אֲשֶׁ֣ר עִמָּכֶ֔ם אֲשֶׁ֥ר הוֹלִ֖ידוּ בְּאַרְצְכֶ֑ם וְהָי֥וּ לָכֶ֖ם לַֽאֲחֻזָּֽה׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 2,
+            "Commentary": 29,
+            "Midrash": 4,
+            "Talmud": 10,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 46,
+          "ref": "Leviticus 25:46",
+          "hebrewText": "וְהִתְנַחַלְתֶּ֨ם אֹתָ֜ם לִבְנֵיכֶ֤ם אַחֲרֵיכֶם֙ לָרֶ֣שֶׁת אֲחֻזָּ֔ה לְעֹלָ֖ם בָּהֶ֣ם תַּעֲבֹ֑דוּ וּבְאַ֨חֵיכֶ֤ם בְּנֵֽי־יִשְׂרָאֵל֙ אִ֣ישׁ בְּאָחִ֔יו לֹא־תִרְדֶּ֥ה ב֖וֹ בְּפָֽרֶךְ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 218,
+            "Rashi": 10,
+            "Commentary": 56,
+            "Midrash": 19,
+            "Talmud": 27,
+            "Halakhah": 16,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 47,
+          "ref": "Leviticus 25:47",
+          "hebrewText": "וְכִ֣י תַשִּׂ֗יג יַ֣ד גֵּ֤ר וְתוֹשָׁב֙ עִמָּ֔ךְ וּמָ֥ךְ אָחִ֖יךָ עִמּ֑וֹ וְנִמְכַּ֗ר לְגֵ֤ר תּוֹשָׁב֙ עִמָּ֔ךְ א֥וֹ לְעֵ֖קֶר מִשְׁפַּ֥חַת גֵּֽר׃",
+          "counts": {
+            "all": 113,
+            "Rashi": 6,
+            "Commentary": 50,
+            "Midrash": 11,
+            "Talmud": 10,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 48,
+          "ref": "Leviticus 25:48",
+          "hebrewText": "אַחֲרֵ֣י נִמְכַּ֔ר גְּאֻלָּ֖ה תִּהְיֶה־לּ֑וֹ אֶחָ֥ד מֵאֶחָ֖יו יִגְאָלֶֽנּוּ׃",
+          "counts": {
+            "all": 64,
+            "Rashi": 1,
+            "Commentary": 26,
+            "Midrash": 13,
+            "Talmud": 7,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 49,
+          "ref": "Leviticus 25:49",
+          "hebrewText": "אוֹ־דֹד֞וֹ א֤וֹ בֶן־דֹּדוֹ֙ יִגְאָלֶ֔נּוּ אֽוֹ־מִשְּׁאֵ֧ר בְּשָׂר֛וֹ מִמִּשְׁפַּחְתּ֖וֹ יִגְאָלֶ֑נּוּ אֽוֹ־הִשִּׂ֥יגָה יָד֖וֹ וְנִגְאָֽל׃",
+          "counts": {
+            "all": 78,
+            "Rashi": 1,
+            "Commentary": 28,
+            "Midrash": 9,
+            "Talmud": 8,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 50,
+          "ref": "Leviticus 25:50",
+          "hebrewText": "וְחִשַּׁב֙ עִם־קֹנֵ֔הוּ מִשְּׁנַת֙ הִמָּ֣כְרוֹ ל֔וֹ עַ֖ד שְׁנַ֣ת הַיֹּבֵ֑ל וְהָיָ֞ה כֶּ֤סֶף מִמְכָּרוֹ֙ בְּמִסְפַּ֣ר שָׁנִ֔ים כִּימֵ֥י שָׂכִ֖יר יִהְיֶ֥ה עִמּֽוֹ׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 3,
+            "Commentary": 33,
+            "Midrash": 7,
+            "Talmud": 6,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 51,
+          "ref": "Leviticus 25:51",
+          "hebrewText": "אִם־ע֥וֹד רַבּ֖וֹת בַּשָּׁנִ֑ים לְפִיהֶן֙ יָשִׁ֣יב גְּאֻלָּת֔וֹ מִכֶּ֖סֶף מִקְנָתֽוֹ׃",
+          "counts": {
+            "all": 61,
+            "Rashi": 3,
+            "Commentary": 25,
+            "Midrash": 3,
+            "Talmud": 11,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 52,
+          "ref": "Leviticus 25:52",
+          "hebrewText": "וְאִם־מְעַ֞ט נִשְׁאַ֧ר בַּשָּׁנִ֛ים עַד־שְׁנַ֥ת הַיֹּבֵ֖ל וְחִשַּׁב־ל֑וֹ כְּפִ֣י שָׁנָ֔יו יָשִׁ֖יב אֶת־גְּאֻלָּתֽוֹ׃",
+          "counts": {
+            "all": 33,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 2,
+            "Talmud": 6,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 53,
+          "ref": "Leviticus 25:53",
+          "hebrewText": "כִּשְׂכִ֥יר שָׁנָ֛ה בְּשָׁנָ֖ה יִהְיֶ֣ה עִמּ֑וֹ לֹֽא־יִרְדֶּ֥נּֽוּ בְּפֶ֖רֶךְ לְעֵינֶֽיךָ׃",
+          "counts": {
+            "all": 71,
+            "Rashi": 1,
+            "Commentary": 27,
+            "Midrash": 4,
+            "Talmud": 7,
+            "Halakhah": 14,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 54,
+          "ref": "Leviticus 25:54",
+          "hebrewText": "וְאִם־לֹ֥א יִגָּאֵ֖ל בְּאֵ֑לֶּה וְיָצָא֙ בִּשְׁנַ֣ת הַיֹּבֵ֔ל ה֖וּא וּבָנָ֥יו עִמּֽוֹ׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 2,
+            "Commentary": 24,
+            "Midrash": 4,
+            "Talmud": 6,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 55,
+          "ref": "Leviticus 25:55",
+          "hebrewText": "כִּֽי־לִ֤י בְנֵֽי־יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר־הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהֹוָ֥ה אֱלֹהֵיכֶֽם׃",
+          "counts": {
+            "all": 213,
+            "Rashi": 3,
+            "Commentary": 36,
+            "Midrash": 41,
+            "Talmud": 11,
+            "Halakhah": 9,
+            "Kabbalah": 9,
+            "Musar": 13,
+            "Chasidut": 27,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Leviticus 26:1",
+          "hebrewText": "לֹֽא־תַעֲשׂ֨וּ לָכֶ֜ם אֱלִילִ֗ם וּפֶ֤סֶל וּמַצֵּבָה֙ לֹֽא־תָקִ֣ימוּ לָכֶ֔ם וְאֶ֣בֶן מַשְׂכִּ֗ית לֹ֤א תִתְּנוּ֙ בְּאַרְצְכֶ֔ם לְהִֽשְׁתַּחֲוֺ֖ת עָלֶ֑יהָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה אֱלֹהֵיכֶֽם׃",
+          "counts": {
+            "all": 161,
+            "Rashi": 5,
+            "Commentary": 69,
+            "Midrash": 5,
+            "Talmud": 6,
+            "Halakhah": 22,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Leviticus 26:2",
+          "hebrewText": "אֶת־שַׁבְּתֹתַ֣י תִּשְׁמֹ֔רוּ וּמִקְדָּשִׁ֖י תִּירָ֑אוּ אֲנִ֖י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 75,
+            "Rashi": 1,
+            "Commentary": 38,
+            "Midrash": 9,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

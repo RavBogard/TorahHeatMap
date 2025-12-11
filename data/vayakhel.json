@@ -1,0 +1,1502 @@
+{
+  "name": "Vayakhel",
+  "heName": "ויקהל",
+  "ref": "Exodus 35:1-38:20",
+  "book": "Exodus",
+  "data": [
+    {
+      "chapter": 36,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 36:1",
+          "hebrewText": "וְעָשָׂה֩ בְצַלְאֵ֨ל וְאׇהֳלִיאָ֜ב וְכֹ֣ל&thinsp;<b>׀</b> אִ֣ישׁ חֲכַם־לֵ֗ב אֲשֶׁר֩ נָתַ֨ן יְהֹוָ֜ה חׇכְמָ֤ה וּתְבוּנָה֙ בָּהֵ֔מָּה לָדַ֣עַת לַעֲשֹׂ֔ת אֶֽת־כׇּל־מְלֶ֖אכֶת עֲבֹדַ֣ת הַקֹּ֑דֶשׁ לְכֹ֥ל אֲשֶׁר־צִוָּ֖ה יְהֹוָֽה׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 4,
+            "Commentary": 23,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 36:2",
+          "hebrewText": "וַיִּקְרָ֣א מֹשֶׁ֗ה אֶל־בְּצַלְאֵל֮ וְאֶל־אׇֽהֳלִיאָב֒ וְאֶל֙ כׇּל־אִ֣ישׁ חֲכַם־לֵ֔ב אֲשֶׁ֨ר נָתַ֧ן יְהֹוָ֛ה חׇכְמָ֖ה בְּלִבּ֑וֹ כֹּ֚ל אֲשֶׁ֣ר נְשָׂא֣וֹ לִבּ֔וֹ לְקׇרְבָ֥ה אֶל־הַמְּלָאכָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
+          "counts": {
+            "all": 35,
+            "Rashi": 1,
+            "Commentary": 9,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 36:3",
+          "hebrewText": "וַיִּקְח֞וּ מִלִּפְנֵ֣י מֹשֶׁ֗ה אֵ֤ת כׇּל־הַתְּרוּמָה֙ אֲשֶׁ֨ר הֵבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל לִמְלֶ֛אכֶת עֲבֹדַ֥ת הַקֹּ֖דֶשׁ לַעֲשֹׂ֣ת אֹתָ֑הּ וְ֠הֵ֠ם הֵבִ֨יאוּ אֵלָ֥יו ע֛וֹד נְדָבָ֖ה בַּבֹּ֥קֶר בַּבֹּֽקֶר׃",
+          "counts": {
+            "all": 61,
+            "Rashi": 0,
+            "Commentary": 20,
+            "Midrash": 17,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 36:4",
+          "hebrewText": "וַיָּבֹ֙אוּ֙ כׇּל־הַ֣חֲכָמִ֔ים הָעֹשִׂ֕ים אֵ֖ת כׇּל־מְלֶ֣אכֶת הַקֹּ֑דֶשׁ אִֽישׁ־אִ֥ישׁ מִמְּלַאכְתּ֖וֹ אֲשֶׁר־הֵ֥מָּה עֹשִֽׂים׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 2,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 36:5",
+          "hebrewText": "וַיֹּאמְרוּ֙ אֶל־מֹשֶׁ֣ה לֵּאמֹ֔ר מַרְבִּ֥ים הָעָ֖ם לְהָבִ֑יא מִדֵּ֤י הָֽעֲבֹדָה֙ לַמְּלָאכָ֔ה אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה לַעֲשֹׂ֥ת אֹתָֽהּ׃",
+          "counts": {
+            "all": 45,
+            "Rashi": 1,
+            "Commentary": 27,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 36:6",
+          "hebrewText": "וַיְצַ֣ו מֹשֶׁ֗ה וַיַּעֲבִ֨ירוּ ק֥וֹל בַּֽמַּחֲנֶה֮ לֵאמֹר֒ אִ֣ישׁ וְאִשָּׁ֗ה אַל־יַעֲשׂוּ־ע֛וֹד מְלָאכָ֖ה לִתְרוּמַ֣ת הַקֹּ֑דֶשׁ וַיִּכָּלֵ֥א הָעָ֖ם מֵהָבִֽיא׃",
+          "counts": {
+            "all": 113,
+            "Rashi": 7,
+            "Commentary": 34,
+            "Midrash": 12,
+            "Talmud": 7,
+            "Halakhah": 5,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 36:7",
+          "hebrewText": "וְהַמְּלָאכָ֗ה הָיְתָ֥ה דַיָּ֛ם לְכׇל־הַמְּלָאכָ֖ה לַעֲשׂ֣וֹת אֹתָ֑הּ וְהוֹתֵֽר׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 101,
+            "Rashi": 4,
+            "Commentary": 47,
+            "Midrash": 16,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 36:8",
+          "hebrewText": "וַיַּעֲשׂ֨וּ כׇל־חֲכַם־לֵ֜ב בְּעֹשֵׂ֧י הַמְּלָאכָ֛ה אֶת־הַמִּשְׁכָּ֖ן עֶ֣שֶׂר יְרִיעֹ֑ת שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֤לֶת וְאַרְגָּמָן֙ וְתוֹלַ֣עַת שָׁנִ֔י כְּרֻבִ֛ים מַעֲשֵׂ֥ה חֹשֵׁ֖ב עָשָׂ֥ה אֹתָֽם׃",
+          "counts": {
+            "all": 64,
+            "Rashi": 0,
+            "Commentary": 34,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 36:9",
+          "hebrewText": "אֹ֜רֶךְ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁמֹנֶ֤ה וְעֶשְׂרִים֙ בָּֽאַמָּ֔ה וְרֹ֙חַב֙ אַרְבַּ֣ע בָּֽאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֥ה אַחַ֖ת לְכׇל־הַיְרִיעֹֽת׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 36:10",
+          "hebrewText": "וַיְחַבֵּר֙ אֶת־חֲמֵ֣שׁ הַיְרִיעֹ֔ת אַחַ֖ת אֶל־אֶחָ֑ת וְחָמֵ֤שׁ יְרִיעֹת֙ חִבַּ֔ר אַחַ֖ת אֶל־אֶחָֽת׃",
+          "counts": {
+            "all": 13,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 36:11",
+          "hebrewText": "וַיַּ֜עַשׂ לֻֽלְאֹ֣ת תְּכֵ֗לֶת עַ֣ל שְׂפַ֤ת הַיְרִיעָה֙ הָֽאֶחָ֔ת מִקָּצָ֖ה בַּמַּחְבָּ֑רֶת כֵּ֤ן עָשָׂה֙ בִּשְׂפַ֣ת הַיְרִיעָ֔ה הַקִּ֣יצוֹנָ֔ה בַּמַּחְבֶּ֖רֶת הַשֵּׁנִֽית׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 36:12",
+          "hebrewText": "חֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אַחַ֖ת אֶל־אֶחָֽת׃",
+          "counts": {
+            "all": 15,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 36:13",
+          "hebrewText": "וַיַּ֕עַשׂ חֲמִשִּׁ֖ים קַרְסֵ֣י זָהָ֑ב וַיְחַבֵּ֨ר אֶת־הַיְרִיעֹ֜ת אַחַ֤ת אֶל־אַחַת֙ בַּקְּרָסִ֔ים וַיְהִ֥י הַמִּשְׁכָּ֖ן אֶחָֽד׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 36:14",
+          "hebrewText": "וַיַּ֙עַשׂ֙ יְרִיעֹ֣ת עִזִּ֔ים לְאֹ֖הֶל עַל־הַמִּשְׁכָּ֑ן עַשְׁתֵּֽי־עֶשְׂרֵ֥ה יְרִיעֹ֖ת עָשָׂ֥ה אֹתָֽם׃",
+          "counts": {
+            "all": 13,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 36:15",
+          "hebrewText": "אֹ֜רֶךְ הַיְרִיעָ֣ה הָאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְאַרְבַּ֣ע אַמּ֔וֹת רֹ֖חַב הַיְרִיעָ֣ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 36:16",
+          "hebrewText": "וַיְחַבֵּ֛ר אֶת־חֲמֵ֥שׁ הַיְרִיעֹ֖ת לְבָ֑ד וְאֶת־שֵׁ֥שׁ הַיְרִיעֹ֖ת לְבָֽד׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 36:17",
+          "hebrewText": "וַיַּ֜עַשׂ לֻֽלָאֹ֣ת חֲמִשִּׁ֗ים עַ֚ל שְׂפַ֣ת הַיְרִיעָ֔ה הַקִּיצֹנָ֖ה בַּמַּחְבָּ֑רֶת וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ עַל־שְׂפַ֣ת הַיְרִיעָ֔ה הַחֹבֶ֖רֶת הַשֵּׁנִֽית׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 36:18",
+          "hebrewText": "וַיַּ֛עַשׂ קַרְסֵ֥י נְחֹ֖שֶׁת חֲמִשִּׁ֑ים לְחַבֵּ֥ר אֶת־הָאֹ֖הֶל לִהְיֹ֥ת אֶחָֽד׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 36:19",
+          "hebrewText": "וַיַּ֤עַשׂ מִכְסֶה֙ לָאֹ֔הֶל עֹרֹ֥ת אֵילִ֖ם מְאׇדָּמִ֑ים וּמִכְסֵ֛ה עֹרֹ֥ת תְּחָשִׁ֖ים מִלְמָֽעְלָה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 36:20",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֲצֵ֥י שִׁטִּ֖ים עֹמְדִֽים׃",
+          "counts": {
+            "all": 17,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 36:21",
+          "hebrewText": "עֶ֥שֶׂר אַמֹּ֖ת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 2,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 36:22",
+          "hebrewText": "שְׁתֵּ֣י יָדֹ֗ת לַקֶּ֙רֶשׁ֙ הָֽאֶחָ֔ד מְשֻׁ֨לָּבֹ֔ת אַחַ֖ת אֶל־אֶחָ֑ת כֵּ֣ן עָשָׂ֔ה לְכֹ֖ל קַרְשֵׁ֥י הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 36:23",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־הַקְּרָשִׁ֖ים לַמִּשְׁכָּ֑ן עֶשְׂרִ֣ים קְרָשִׁ֔ים לִפְאַ֖ת נֶ֥גֶב תֵּימָֽנָה׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 1,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 36:24",
+          "hebrewText": "וְאַרְבָּעִים֙ אַדְנֵי־כֶ֔סֶף עָשָׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקְּרָשִׁ֑ים שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 36:25",
+          "hebrewText": "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עָשָׂ֖ה עֶשְׂרִ֥ים קְרָשִֽׁים׃",
+          "counts": {
+            "all": 6,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 36:26",
+          "hebrewText": "וְאַרְבָּעִ֥ים אַדְנֵיהֶ֖ם כָּ֑סֶף שְׁנֵ֣י אֲדָנִ֗ים תַּ֚חַת הַקֶּ֣רֶשׁ הָאֶחָ֔ד וּשְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 36:27",
+          "hebrewText": "וּֽלְיַרְכְּתֵ֥י הַמִּשְׁכָּ֖ן יָ֑מָּה עָשָׂ֖ה שִׁשָּׁ֥ה קְרָשִֽׁים׃",
+          "counts": {
+            "all": 8,
+            "Rashi": 1,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 36:28",
+          "hebrewText": "וּשְׁנֵ֤י קְרָשִׁים֙ עָשָׂ֔ה לִמְקֻצְעֹ֖ת הַמִּשְׁכָּ֑ן בַּיַּרְכָתָֽיִם׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 36:29",
+          "hebrewText": "וְהָי֣וּ תוֹאֲמִם֮ מִלְּמַ֒טָּה֒ וְיַחְדָּ֗ו יִהְי֤וּ תַמִּים֙ אֶל־רֹאשׁ֔וֹ אֶל־הַטַּבַּ֖עַת הָאֶחָ֑ת כֵּ֚ן עָשָׂ֣ה לִשְׁנֵיהֶ֔ם לִשְׁנֵ֖י הַמִּקְצֹעֹֽת׃",
+          "counts": {
+            "all": 19,
+            "Rashi": 0,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Exodus 36:30",
+          "hebrewText": "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 1,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Exodus 36:31",
+          "hebrewText": "וַיַּ֥עַשׂ בְּרִיחֵ֖י עֲצֵ֣י שִׁטִּ֑ים חֲמִשָּׁ֕ה לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הָאֶחָֽת׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Exodus 36:32",
+          "hebrewText": "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֤ה בְרִיחִם֙ לְקַרְשֵׁ֣י הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Exodus 36:33",
+          "hebrewText": "וַיַּ֖עַשׂ אֶת־הַבְּרִ֣יחַ הַתִּיכֹ֑ן לִבְרֹ֙חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן־הַקָּצֶ֖ה אֶל־הַקָּצֶֽה׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Exodus 36:34",
+          "hebrewText": "וְֽאֶת־הַקְּרָשִׁ֞ים צִפָּ֣ה זָהָ֗ב וְאֶת־טַבְּעֹתָם֙ עָשָׂ֣ה זָהָ֔ב בָּתִּ֖ים לַבְּרִיחִ֑ם וַיְצַ֥ף אֶת־הַבְּרִיחִ֖ם זָהָֽב׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Exodus 36:35",
+          "hebrewText": "וַיַּ֙עַשׂ֙ אֶת־הַפָּרֹ֔כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב עָשָׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Exodus 36:36",
+          "hebrewText": "וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וַיִּצֹ֣ק לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי־כָֽסֶף׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Exodus 36:37",
+          "hebrewText": "וַיַּ֤עַשׂ מָסָךְ֙ לְפֶ֣תַח הָאֹ֔הֶל תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר מַעֲשֵׂ֖ה רֹקֵֽם׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Exodus 36:38",
+          "hebrewText": "וְאֶת־עַמּוּדָ֤יו חֲמִשָּׁה֙ וְאֶת־וָ֣וֵיהֶ֔ם וְצִפָּ֧ה רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם זָהָ֑ב וְאַדְנֵיהֶ֥ם חֲמִשָּׁ֖ה נְחֹֽשֶׁת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 13,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 37:1",
+          "hebrewText": "וַיַּ֧עַשׂ בְּצַלְאֵ֛ל אֶת־הָאָרֹ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֨יִם וָחֵ֜צִי אׇרְכּ֗וֹ וְאַמָּ֤ה וָחֵ֙צִי֙ רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+          "counts": {
+            "all": 74,
+            "Rashi": 1,
+            "Commentary": 28,
+            "Midrash": 23,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 37:2",
+          "hebrewText": "וַיְצַפֵּ֛הוּ זָהָ֥ב טָה֖וֹר מִבַּ֣יִת וּמִח֑וּץ וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+          "counts": {
+            "all": 16,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 37:3",
+          "hebrewText": "וַיִּצֹ֣ק ל֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־צַלְע֖וֹ הַשֵּׁנִֽית׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 37:4",
+          "hebrewText": "וַיַּ֥עַשׂ בַּדֵּ֖י עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃",
+          "counts": {
+            "all": 6,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 37:5",
+          "hebrewText": "וַיָּבֵ֤א אֶת־הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֖את אֶת־הָאָרֹֽן׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 37:6",
+          "hebrewText": "וַיַּ֥עַשׂ כַּפֹּ֖רֶת זָהָ֣ב טָה֑וֹר אַמָּתַ֤יִם וָחֵ֙צִי֙ אׇרְכָּ֔הּ וְאַמָּ֥ה וָחֵ֖צִי רׇחְבָּֽהּ׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 37:7",
+          "hebrewText": "וַיַּ֛עַשׂ שְׁנֵ֥י כְרֻבִ֖ים זָהָ֑ב מִקְשָׁה֙ עָשָׂ֣ה אֹתָ֔ם מִשְּׁנֵ֖י קְצ֥וֹת הַכַּפֹּֽרֶת׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 37:8",
+          "hebrewText": "כְּרוּב־אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־הַכַּפֹּ֛רֶת עָשָׂ֥ה אֶת־הַכְּרֻבִ֖ים מִשְּׁנֵ֥י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(קצוותו)</span> <span class=\"mam-kq-q\">[קְצוֹתָֽיו]</span></span>׃",
+          "counts": {
+            "all": 18,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 37:9",
+          "hebrewText": "וַיִּהְי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹֽכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־אָחִ֑יו אֶ֨ל־הַכַּפֹּ֔רֶת הָי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 23,
+            "Rashi": 1,
+            "Commentary": 7,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 37:10",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־הַשֻּׁלְחָ֖ן עֲצֵ֣י שִׁטִּ֑ים אַמָּתַ֤יִם אׇרְכּוֹ֙ וְאַמָּ֣ה רׇחְבּ֔וֹ וְאַמָּ֥ה וָחֵ֖צִי קֹמָתֽוֹ׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 37:11",
+          "hebrewText": "וַיְצַ֥ף אֹת֖וֹ זָהָ֣ב טָה֑וֹר וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 37:12",
+          "hebrewText": "וַיַּ֨עַשׂ ל֥וֹ מִסְגֶּ֛רֶת טֹ֖פַח סָבִ֑יב וַיַּ֧עַשׂ זֵר־זָהָ֛ב לְמִסְגַּרְתּ֖וֹ סָבִֽיב׃",
+          "counts": {
+            "all": 8,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 37:13",
+          "hebrewText": "וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת־הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃",
+          "counts": {
+            "all": 8,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 37:14",
+          "hebrewText": "לְעֻמַּת֙ הַמִּסְגֶּ֔רֶת הָי֖וּ הַטַּבָּעֹ֑ת בָּתִּים֙ לַבַּדִּ֔ים לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 37:15",
+          "hebrewText": "וַיַּ֤עַשׂ אֶת־הַבַּדִּים֙ עֲצֵ֣י שִׁטִּ֔ים וַיְצַ֥ף אֹתָ֖ם זָהָ֑ב לָשֵׂ֖את אֶת־הַשֻּׁלְחָֽן׃",
+          "counts": {
+            "all": 6,
+            "Rashi": 1,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 37:16",
+          "hebrewText": "וַיַּ֜עַשׂ אֶֽת־הַכֵּלִ֣ים&thinsp;<b>׀</b> אֲשֶׁ֣ר עַל־הַשֻּׁלְחָ֗ן אֶת־קְעָרֹתָ֤יו וְאֶת־כַּפֹּתָיו֙ וְאֵת֙ מְנַקִּיֹּתָ֔יו וְאֶ֨ת־הַקְּשָׂוֺ֔ת אֲשֶׁ֥ר יֻסַּ֖ךְ בָּהֵ֑ן זָהָ֖ב טָהֽוֹר׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 22,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 37:17",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־הַמְּנֹרָ֖ה זָהָ֣ב טָה֑וֹר מִקְשָׁ֞ה עָשָׂ֤ה אֶת־הַמְּנֹרָה֙ יְרֵכָ֣הּ וְקָנָ֔הּ גְּבִיעֶ֛יהָ כַּפְתֹּרֶ֥יהָ וּפְרָחֶ֖יהָ מִמֶּ֥נָּה הָיֽוּ׃",
+          "counts": {
+            "all": 24,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 37:18",
+          "hebrewText": "וְשִׁשָּׁ֣ה קָנִ֔ים יֹצְאִ֖ים מִצִּדֶּ֑יהָ שְׁלֹשָׁ֣ה&thinsp;<b>׀</b> קְנֵ֣י מְנֹרָ֗ה מִצִּדָּהּ֙ הָֽאֶחָ֔ד וּשְׁלֹשָׁה֙ קְנֵ֣י מְנֹרָ֔ה מִצִּדָּ֖הּ הַשֵּׁנִֽי׃",
+          "counts": {
+            "all": 8,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 37:19",
+          "hebrewText": "שְׁלֹשָׁ֣ה גְ֠בִעִ֠ים מְֽשֻׁקָּדִ֞ים בַּקָּנֶ֣ה הָאֶחָד֮ כַּפְתֹּ֣ר וָפֶ֒רַח֒ וּשְׁלֹשָׁ֣ה גְבִעִ֗ים מְשֻׁקָּדִ֛ים בְּקָנֶ֥ה אֶחָ֖ד כַּפְתֹּ֣ר וָפָ֑רַח כֵּ֚ן לְשֵׁ֣שֶׁת הַקָּנִ֔ים הַיֹּצְאִ֖ים מִן־הַמְּנֹרָֽה׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 37:20",
+          "hebrewText": "וּבַמְּנֹרָ֖ה אַרְבָּעָ֣ה גְבִעִ֑ים מְשֻׁ֨קָּדִ֔ים כַּפְתֹּרֶ֖יהָ וּפְרָחֶֽיהָ׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 37:21",
+          "hebrewText": "וְכַפְתֹּ֡ר תַּ֩חַת֩ שְׁנֵ֨י הַקָּנִ֜ים מִמֶּ֗נָּה וְכַפְתֹּר֙ תַּ֣חַת שְׁנֵ֤י הַקָּנִים֙ מִמֶּ֔נָּה וְכַפְתֹּ֕ר תַּֽחַת־שְׁנֵ֥י הַקָּנִ֖ים מִמֶּ֑נָּה לְשֵׁ֙שֶׁת֙ הַקָּנִ֔ים הַיֹּצְאִ֖ים מִמֶּֽנָּה׃",
+          "counts": {
+            "all": 8,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 37:22",
+          "hebrewText": "כַּפְתֹּרֵיהֶ֥ם וּקְנֹתָ֖ם מִמֶּ֣נָּה הָי֑וּ כֻּלָּ֛הּ מִקְשָׁ֥ה אַחַ֖ת זָהָ֥ב טָהֽוֹר׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 37:23",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־נֵרֹתֶ֖יהָ שִׁבְעָ֑ה וּמַלְקָחֶ֥יהָ וּמַחְתֹּתֶ֖יהָ זָהָ֥ב טָהֽוֹר׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 37:24",
+          "hebrewText": "כִּכָּ֛ר זָהָ֥ב טָה֖וֹר עָשָׂ֣ה אֹתָ֑הּ וְאֵ֖ת כׇּל־כֵּלֶֽיהָ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 37:25",
+          "hebrewText": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הַקְּטֹ֖רֶת עֲצֵ֣י שִׁטִּ֑ים אַמָּ֣ה אׇרְכּוֹ֩ וְאַמָּ֨ה רׇחְבּ֜וֹ רָב֗וּעַ וְאַמָּתַ֙יִם֙ קֹֽמָת֔וֹ מִמֶּ֖נּוּ הָי֥וּ קַרְנֹתָֽיו׃",
+          "counts": {
+            "all": 16,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 37:26",
+          "hebrewText": "וַיְצַ֨ף אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־גַּגּ֧וֹ וְאֶת־קִירֹתָ֛יו סָבִ֖יב וְאֶת־קַרְנֹתָ֑יו וַיַּ֥עַשׂ ל֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 37:27",
+          "hebrewText": "וּשְׁתֵּי֩ טַבְּעֹ֨ת זָהָ֜ב עָֽשָׂה־ל֣וֹ&thinsp;<b>׀</b> מִתַּ֣חַת לְזֵר֗וֹ עַ֚ל שְׁתֵּ֣י צַלְעֹתָ֔יו עַ֖ל שְׁנֵ֣י צִדָּ֑יו לְבָתִּ֣ים לְבַדִּ֔ים לָשֵׂ֥את אֹת֖וֹ בָּהֶֽם׃",
+          "counts": {
+            "all": 12,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 37:28",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃",
+          "counts": {
+            "all": 7,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 37:29",
+          "hebrewText": "וַיַּ֜עַשׂ אֶת־שֶׁ֤מֶן הַמִּשְׁחָה֙ קֹ֔דֶשׁ וְאֶת־קְטֹ֥רֶת הַסַּמִּ֖ים טָה֑וֹר מַעֲשֵׂ֖ה רֹקֵֽחַ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 28,
+            "Rashi": 0,
+            "Commentary": 16,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 38:1",
+          "hebrewText": "וַיַּ֛עַשׂ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה עֲצֵ֣י שִׁטִּ֑ים חָמֵשׁ֩ אַמּ֨וֹת אׇרְכּ֜וֹ וְחָֽמֵשׁ־אַמּ֤וֹת רׇחְבּוֹ֙ רָב֔וּעַ וְשָׁלֹ֥שׁ אַמּ֖וֹת קֹמָתֽוֹ׃",
+          "counts": {
+            "all": 21,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 38:2",
+          "hebrewText": "וַיַּ֣עַשׂ קַרְנֹתָ֗יו עַ֚ל אַרְבַּ֣ע פִּנֹּתָ֔יו מִמֶּ֖נּוּ הָי֣וּ קַרְנֹתָ֑יו וַיְצַ֥ף אֹת֖וֹ נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 8,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 38:3",
+          "hebrewText": "וַיַּ֜עַשׂ אֶֽת־כׇּל־כְּלֵ֣י הַמִּזְבֵּ֗חַ אֶת־הַסִּירֹ֤ת וְאֶת־הַיָּעִים֙ וְאֶת־הַמִּזְרָקֹ֔ת אֶת־הַמִּזְלָגֹ֖ת וְאֶת־הַמַּחְתֹּ֑ת כׇּל־כֵּלָ֖יו עָשָׂ֥ה נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 18,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 38:4",
+          "hebrewText": "וַיַּ֤עַשׂ לַמִּזְבֵּ֙חַ֙ מִכְבָּ֔ר מַעֲשֵׂ֖ה רֶ֣שֶׁת נְחֹ֑שֶׁת תַּ֧חַת כַּרְכֻּבּ֛וֹ מִלְּמַ֖טָּה עַד־חֶצְיֽוֹ׃",
+          "counts": {
+            "all": 23,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 38:5",
+          "hebrewText": "וַיִּצֹ֞ק אַרְבַּ֧ע טַבָּעֹ֛ת בְּאַרְבַּ֥ע הַקְּצָוֺ֖ת לְמִכְבַּ֣ר הַנְּחֹ֑שֶׁת בָּתִּ֖ים לַבַּדִּֽים׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 1,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 38:6",
+          "hebrewText": "וַיַּ֥עַשׂ אֶת־הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם נְחֹֽשֶׁת׃",
+          "counts": {
+            "all": 6,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 38:7",
+          "hebrewText": "וַיָּבֵ֨א אֶת־הַבַּדִּ֜ים בַּטַּבָּעֹ֗ת עַ֚ל צַלְעֹ֣ת הַמִּזְבֵּ֔חַ לָשֵׂ֥את אֹת֖וֹ בָּהֶ֑ם נְב֥וּב לֻחֹ֖ת עָשָׂ֥ה אֹתֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 18,
+            "Rashi": 2,
+            "Commentary": 7,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 38:8",
+          "hebrewText": "וַיַּ֗עַשׂ אֵ֚ת הַכִּיּ֣וֹר נְחֹ֔שֶׁת וְאֵ֖ת כַּנּ֣וֹ נְחֹ֑שֶׁת בְּמַרְאֹת֙ הַצֹּ֣בְאֹ֔ת אֲשֶׁ֣ר צָֽבְא֔וּ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 114,
+            "Rashi": 4,
+            "Commentary": 62,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 6,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 38:9",
+          "hebrewText": "וַיַּ֖עַשׂ אֶת־הֶחָצֵ֑ר לִפְאַ֣ת&thinsp;<b>׀</b> נֶ֣גֶב תֵּימָ֗נָה קַלְעֵ֤י הֶֽחָצֵר֙ שֵׁ֣שׁ מׇשְׁזָ֔ר מֵאָ֖ה בָּאַמָּֽה׃",
+          "counts": {
+            "all": 26,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 38:10",
+          "hebrewText": "עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמּוּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 38:11",
+          "hebrewText": "וְלִפְאַ֤ת צָפוֹן֙ מֵאָ֣ה בָֽאַמָּ֔ה עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָֽעַמּוּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 38:12",
+          "hebrewText": "וְלִפְאַת־יָ֗ם קְלָעִים֙ חֲמִשִּׁ֣ים בָּֽאַמָּ֔ה עַמּוּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָ֑ה וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשׁוּקֵיהֶ֖ם כָּֽסֶף׃",
+          "counts": {
+            "all": 14,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 38:13",
+          "hebrewText": "וְלִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה חֲמִשִּׁ֥ים אַמָּֽה׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 38:14",
+          "hebrewText": "קְלָעִ֛ים חֲמֵשׁ־עֶשְׂרֵ֥ה אַמָּ֖ה אֶל־הַכָּתֵ֑ף עַמּוּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+          "counts": {
+            "all": 11,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 38:15",
+          "hebrewText": "וְלַכָּתֵ֣ף הַשֵּׁנִ֗ית מִזֶּ֤ה וּמִזֶּה֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר קְלָעִ֕ים חֲמֵ֥שׁ עֶשְׂרֵ֖ה אַמָּ֑ה עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃",
+          "counts": {
+            "all": 17,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 38:16",
+          "hebrewText": "כׇּל־קַלְעֵ֧י הֶחָצֵ֛ר סָבִ֖יב שֵׁ֥שׁ מׇשְׁזָֽר׃",
+          "counts": {
+            "all": 6,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 38:17",
+          "hebrewText": "וְהָאֲדָנִ֣ים לָֽעַמֻּדִים֮ נְחֹ֒שֶׁת֒ וָוֵ֨י הָֽעַמּוּדִ֜ים וַחֲשׁוּקֵיהֶם֙ כֶּ֔סֶף וְצִפּ֥וּי רָאשֵׁיהֶ֖ם כָּ֑סֶף וְהֵם֙ מְחֻשָּׁקִ֣ים כֶּ֔סֶף כֹּ֖ל עַמֻּדֵ֥י הֶחָצֵֽר׃",
+          "counts": {
+            "all": 17,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 38:18",
+          "hebrewText": "וּמָסַ֞ךְ שַׁ֤עַר הֶחָצֵר֙ מַעֲשֵׂ֣ה רֹקֵ֔ם תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר וְעֶשְׂרִ֤ים אַמָּה֙ אֹ֔רֶךְ וְקוֹמָ֤ה בְרֹ֙חַב֙ חָמֵ֣שׁ אַמּ֔וֹת לְעֻמַּ֖ת קַלְעֵ֥י הֶחָצֵֽר׃",
+          "counts": {
+            "all": 25,
+            "Rashi": 1,
+            "Commentary": 9,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 38:19",
+          "hebrewText": "וְעַמֻּֽדֵיהֶם֙ אַרְבָּעָ֔ה וְאַדְנֵיהֶ֥ם אַרְבָּעָ֖ה נְחֹ֑שֶׁת וָוֵיהֶ֣ם כֶּ֔סֶף וְצִפּ֧וּי רָאשֵׁיהֶ֛ם וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃",
+          "counts": {
+            "all": 9,
+            "Rashi": 0,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 38:20",
+          "hebrewText": "וְֽכׇל־הַיְתֵדֹ֞ת לַמִּשְׁכָּ֧ן וְלֶחָצֵ֛ר סָבִ֖יב נְחֹֽשֶׁת׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 10,
+            "Rashi": 0,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}
