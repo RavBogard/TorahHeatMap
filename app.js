@@ -790,7 +790,19 @@ async function loadGlobalHeatmap() {
         if (!res.ok) throw new Error('Failed to load summary');
 
         const summary = await res.json();
-        renderGlobalHeatmap(summary);
+
+        // Handle new structure { chapters: {...}, parashot: {...} } or fallback
+        const chapterData = summary.chapters || summary; // Fallback for old structure if any
+        const parashaData = summary.parashot || {};
+
+        renderGlobalHeatmap(chapterData);
+
+        if (summary.parashot) {
+            renderParashaHeatmap(parashaData);
+            const parashaWrapper = document.getElementById('parasha-heatmap-wrapper');
+            if (parashaWrapper) parashaWrapper.style.display = 'block';
+        }
+
         wrapper.style.display = 'block';
     } catch (e) {
         console.warn('Could not load global heatmap', e);
@@ -849,8 +861,78 @@ function renderGlobalHeatmap(summary) {
             cell.onclick = () => {
                 const slug = c.slug;
                 if (slug) {
-                    const parasha = parashot.find(p => getSlugFromName(p.name) === slug);
-                    if (parasha) loadParasha(parasha);
+                    const foundParasha = parashot.find(p => getSlugFromName(p.name) === slug);
+                    if (foundParasha) loadParasha(foundParasha);
+                }
+            };
+
+            cellsContainer.appendChild(cell);
+        });
+
+        row.appendChild(cellsContainer);
+        container.appendChild(row);
+    });
+}
+
+function renderParashaHeatmap(parashaData) {
+    const container = document.getElementById('parasha-heatmap');
+    if (!container) return;
+    container.innerHTML = '';
+
+    // Find max count for scaling (relative to other parashot)
+    let max = 0;
+    Object.values(parashaData).forEach(bookParashot => {
+        bookParashot.forEach(p => {
+            if (p.count > max) max = p.count;
+        });
+    });
+
+    const books = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"];
+
+    books.forEach(book => {
+        const row = document.createElement('div');
+        row.className = 'global-book-row';
+
+        const label = document.createElement('div');
+        label.className = 'global-book-label';
+        label.textContent = book;
+        row.appendChild(label);
+
+        const parashotList = parashaData[book] || [];
+        const cellsContainer = document.createElement('div');
+        cellsContainer.className = 'global-chapters-grid';
+        // We reuse the grid class, but maybe we want wider cells? 
+        // Parasha names are long. Let's stick to small blocks with tooltips for now, 
+        // mirroring the chapter view.
+
+        parashotList.forEach(p => {
+            const cell = document.createElement('div');
+            cell.className = 'global-chapter-cell';
+            // Scale color
+            const ratio = p.count / (max || 1);
+            const lightness = 95 - (ratio * 60); // 95 -> 35
+
+            cell.style.backgroundColor = `hsl(210, 85%, ${lightness}%)`;
+
+            // For parashot, maybe we don't put text inside because names are long?
+            // Or maybe first letter? Or Index? 
+            // Let's leave empty and rely on tooltip, or put first letter.
+            // cell.textContent = p.name[0]; 
+            // Empty is cleaner for a pure heatmap view.
+
+            // Tippy
+            tippy(cell, {
+                content: `<b>${p.name}</b><br>${p.count} commentaries`,
+                allowHTML: true,
+                animation: 'scale'
+            });
+
+            // Interaction
+            cell.onclick = () => {
+                const slug = p.slug;
+                if (slug) {
+                    const foundParasha = parashot.find(param => getSlugFromName(param.name) === slug);
+                    if (foundParasha) loadParasha(foundParasha);
                 }
             };
 
