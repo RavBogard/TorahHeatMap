@@ -75,14 +75,17 @@ body {
   border-bottom: 1px solid var(--border-color);
 }
 
-.logo-area h1 {
-  margin: 0;
-  font-size: 1.25rem;
-  font-weight: 700;
-  background: linear-gradient(135deg, var(--accent-color), #2563eb);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
+.logo-link {
+  display: block;
+  text-decoration: none;
+}
+
+.logo-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: -20px 0;
+  /* Crop top/bottom whitespace from image */
 }
 
 /* Search Container */
@@ -200,6 +203,44 @@ body {
   border-radius: 9999px;
   font-size: 0.875rem;
   font-weight: 500;
+}
+
+/* Commentary Filter */
+.filter-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  width: 100%;
+  max-width: 1000px;
+  background: var(--glass-bg);
+  padding: 12px 16px;
+  border-radius: 10px;
+  border: 1px solid var(--glass-border);
+}
+
+.filter-container label {
+  font-weight: 500;
+  color: var(--text-color);
+  white-space: nowrap;
+}
+
+.category-filter {
+  padding: 8px 12px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--bg-color);
+  color: var(--text-color);
+  font-size: 0.9rem;
+  font-family: inherit;
+  cursor: pointer;
+  min-width: 150px;
+}
+
+.category-filter:focus {
+  outline: none;
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
 }
 
 #heatmap-container {
@@ -366,6 +407,16 @@ body {
 .tooltip-count {
   font-size: 0.9em;
   opacity: 0.9;
+}
+
+.tooltip-hebrew {
+  font-size: 0.95em;
+  margin: 6px 0;
+  line-height: 1.5;
+  color: #e0e0e0;
+  direction: rtl;
+  text-align: right;
+  font-family: 'SBL Hebrew', 'Ezra SIL', 'Times New Roman', serif;
 }
 
 /* Header Actions */

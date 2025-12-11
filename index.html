@@ -24,6 +24,11 @@
         content="Discover which Torah verses have inspired the most commentary throughout Jewish history.">
     <meta property="twitter:image" content="https://torahheatmap.org/og-image.png">
 
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,7 +43,10 @@
     <div class="app-container">
         <div id="sidebar">
             <div class="logo-area">
-                <h1>Torah Heatmap</h1>
+                <a href="#" class="logo-link" onclick="window.location.href=''; return false;"
+                    aria-label="Torah Heatmap Home">
+                    <img src="logo-main.png" alt="Torah Heatmap" class="logo-img">
+                </a>
                 <button id="menu-toggle" aria-label="Toggle Menu">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <line x1="3" y1="12" x2="21" y2="12"></line>
@@ -95,6 +103,22 @@
                 <span class="legend-label">Fewer commentaries</span>
                 <div class="legend-gradient"></div>
                 <span class="legend-label">More commentaries</span>
+            </div>
+
+            <!-- Commentary Filter -->
+            <div id="filter-container" class="filter-container" style="display: none;">
+                <label for="category-filter">Filter by:</label>
+                <select id="category-filter" class="category-filter">
+                    <option value="all">All Commentaries</option>
+                    <option value="Commentary">Commentary</option>
+                    <option value="Midrash">Midrash</option>
+                    <option value="Talmud">Talmud</option>
+                    <option value="Halakhah">Halakhah</option>
+                    <option value="Kabbalah">Kabbalah</option>
+                    <option value="Musar">Musar</option>
+                    <option value="Chassidut">Chasidut</option>
+                    <option value="Modern">Modern</option>
+                </select>
             </div>
 
             <div id="heatmap-container">

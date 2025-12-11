@@ -72,6 +72,11 @@ let thisWeekParasha = null; // Fetched from Hebcal
 let verseData = {}; // { "Genesis 1:1": { text: "...", count: 120 } }
 let maxCount = 0;
 
+// Cached data for filter reprocessing
+let cachedLinks = []; // Raw links data from Sefaria
+let cachedChapterStructure = []; // Chapter structure with Hebrew texts
+let cachedBookName = ''; // Book name for chapter titles
+
 // API Utils
 const API_BASE = 'https://www.sefaria.org/api';
 const HEBCAL_API = 'https://www.hebcal.com/shabbat?cfg=json&geonameid=5128581'; // NYC as default
@@ -142,6 +147,14 @@ function init() {
         });
     }
 
+    // Category Filter
+    const categoryFilter = document.getElementById('category-filter');
+    if (categoryFilter) {
+        categoryFilter.addEventListener('change', () => {
+            applyFilter(categoryFilter.value);
+        });
+    }
+
     // URL Routing: Check for hash on page load
     checkUrlAndLoadParasha();
 
@@ -174,6 +187,51 @@ function filterParashot(query) {
         const visibleItems = section.querySelectorAll('.parasha-item[style*="flex"]');
         section.style.display = visibleItems.length > 0 ? 'block' : 'none';
     });
+}
+
+// Commentary Category Filter
+function applyFilter(category) {
+    if (!cachedLinks.length || !cachedChapterStructure.length) return;
+
+    // Recalculate counts based on category
+    const countsMap = {};
+    maxCount = 0;
+
+    cachedLinks.forEach(res => {
+        if (!res.links) return;
+        res.links.forEach(link => {
+            // Filter by category if not "all"
+            if (category !== 'all' && link.category !== category) return;
+            const ref = link.anchorRef;
+            if (!countsMap[ref]) countsMap[ref] = 0;
+            countsMap[ref]++;
+        });
+    });
+
+    // Rebuild renderData with new counts
+    const renderData = [];
+    cachedChapterStructure.forEach(chap => {
+        const verses = [];
+        for (let v = 0; v < chap.count; v++) {
+            const verseNum = chap.startVerse + v;
+            const verseRef = `${cachedBookName} ${chap.chapter}:${verseNum}`;
+            const count = countsMap[verseRef] || 0;
+            if (count > maxCount) maxCount = count;
+
+            verses.push({
+                verse: verseNum,
+                ref: verseRef,
+                count: count,
+                hebrewText: chap.hebrewTexts?.[v] || ''
+            });
+        }
+        renderData.push({
+            chapter: chap.chapter,
+            verses: verses
+        });
+    });
+
+    renderHeatmap(renderData, cachedBookName);
 }
 
 // Hebcal API - Fetch This Week's Parasha
@@ -328,21 +386,27 @@ async function loadParasha(parasha, updateUrl = true) {
         // The text array is 0-indexed relative to the startChap.
 
         verseData = {};
-        let chapterStructure = []; // { number: 6, verses: 10 } (count)
+        let chapterStructure = []; // { chapter: 6, count: 14, startVerse: 9, hebrewTexts: [...] }
 
+        // Get both English and Hebrew text arrays
         const rawText = Array.isArray(textData.text[0]) ? textData.text : [textData.text];
+        const rawHebrew = Array.isArray(textData.he?.[0]) ? textData.he : [textData.he || []];
 
         rawText.forEach((chapVerses, i) => {
             const chapNum = startChap + i;
+            const hebrewVerses = rawHebrew[i] || [];
             // Filter out empty or null verses if any (sometimes happens with empty jagged arrays?)
             if (Array.isArray(chapVerses)) {
                 const validVerses = chapVerses.filter(v => v !== null && v !== "");
+                // Keep corresponding Hebrew texts (same indices)
+                const validHebrewTexts = hebrewVerses.filter((v, idx) => chapVerses[idx] !== null && chapVerses[idx] !== "");
 
                 chapterStructure.push({
                     chapter: chapNum,
                     count: validVerses.length,
                     // We need to know the starting verse number for the first chapter in the range
-                    startVerse: (i === 0) ? textData.sections[1] : 1
+                    startVerse: (i === 0) ? textData.sections[1] : 1,
+                    hebrewTexts: validHebrewTexts
                 });
             } else {
                 // Single chapter case being treated as array of verses?
@@ -396,7 +460,7 @@ async function loadParasha(parasha, updateUrl = true) {
         // We only want to visualize the Verses that are IN THE PARASHA.
         // Our 'chapterStructure' defines the verses we actually rendered from the Text API.
 
-        chapterStructure.forEach(chap => { // { chapter: 6, count: 14, startVerse: 9 }
+        chapterStructure.forEach(chap => { // { chapter: 6, count: 14, startVerse: 9, hebrewTexts: [...] }
             const verses = [];
             for (let v = 0; v < chap.count; v++) {
                 const verseNum = chap.startVerse + v;
@@ -407,7 +471,8 @@ async function loadParasha(parasha, updateUrl = true) {
                 verses.push({
                     verse: verseNum,
                     ref: verseRef,
-                    count: count
+                    count: count,
+                    hebrewText: chap.hebrewTexts?.[v] || ''
                 });
             }
             renderData.push({
@@ -415,6 +480,17 @@ async function loadParasha(parasha, updateUrl = true) {
                 verses: verses
             });
         });
+
+        // Cache data for filter reprocessing
+        cachedLinks = results;
+        cachedChapterStructure = chapterStructure;
+        cachedBookName = textData.book;
+
+        // Show and reset filter
+        const filterContainer = document.getElementById('filter-container');
+        const categoryFilter = document.getElementById('category-filter');
+        if (filterContainer) filterContainer.style.display = 'flex';
+        if (categoryFilter) categoryFilter.value = 'all';
 
         renderHeatmap(renderData, textData.book);
 
@@ -473,12 +549,14 @@ function renderHeatmap(data, bookName) {
             verseNum.style.color = lightness < 60 ? 'white' : '#1e3a5f';
             cell.appendChild(verseNum);
 
-            // Tooltip
+            // Tooltip with Hebrew text preview
+            const hebrewPreview = truncateHebrew(v.hebrewText, 60);
             tippy(cell, {
                 content: `
                     <div class="tooltip-content">
                         <div class="tooltip-ref">${v.ref}</div>
-                        <div class="tooltip-count">${v.count} commentaries/links</div>
+                        ${hebrewPreview ? `<div class="tooltip-hebrew" dir="rtl">${hebrewPreview}</div>` : ''}
+                        <div class="tooltip-count">${v.count} commentaries</div>
                     </div>
                 `,
                 allowHTML: true,
@@ -556,6 +634,20 @@ function toggleDarkMode() {
         html.setAttribute('data-theme', 'dark');
         localStorage.setItem('theme', 'dark');
     }
+}
+
+// Text Helper Functions
+function truncateHebrew(html, maxLength) {
+    if (!html) return '';
+    // Strip HTML tags
+    const tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    const text = tmp.textContent || tmp.innerText || '';
+    // Truncate and add ellipsis if needed
+    if (text.length > maxLength) {
+        return text.substring(0, maxLength) + '...';
+    }
+    return text;
 }
 
 window.toggleSidebar = toggleSidebar;
