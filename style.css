@@ -300,10 +300,7 @@ body {
   /* Grow to fill available space */
 }
 
-.heatmap-wrapper {
-  margin-top: 20px;
-  width: 100%;
-}
+
 
 .chapter-section {
   margin-bottom: 40px;
@@ -852,12 +849,14 @@ body {
 }
 
 /* Global Heatmap */
-#global-heatmap-wrapper {
+.heatmap-wrapper {
   background: white;
   padding: 24px;
   border-radius: 12px;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
   border: 1px solid #f0f0f0;
+  margin-top: 20px;
+  width: 100%;
 }
 
 .global-book-row {
