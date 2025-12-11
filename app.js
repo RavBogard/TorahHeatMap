@@ -73,9 +73,10 @@ let verseData = {}; // { "Genesis 1:1": { text: "...", count: 120 } }
 let maxCount = 0;
 
 // Cached data for filter reprocessing
-let cachedLinks = []; // Raw links data from Sefaria
-let cachedChapterStructure = []; // Chapter structure with Hebrew texts
+let cachedLinks = []; // Raw links data from Sefaria (Legacy/Fallback)
+let cachedChapterStructure = []; // Chapter structure with Hebrew texts (Legacy/Fallback)
 let cachedBookName = ''; // Book name for chapter titles
+let cachedStaticData = null; // New Static JSON Data
 
 // API Utils
 const API_BASE = 'https://www.sefaria.org/api';
@@ -191,6 +192,37 @@ function filterParashot(query) {
 
 // Commentary Category Filter
 function applyFilter(category) {
+    // 1. Static Data Mode
+    if (cachedStaticData) {
+        maxCount = 0;
+        const renderData = [];
+
+        cachedStaticData.data.forEach(chap => {
+            const verses = [];
+            chap.verses.forEach(v => {
+                // Get count for category, default to 0
+                const count = v.counts[category] || 0;
+
+                if (count > maxCount) maxCount = count;
+
+                verses.push({
+                    verse: v.verse,
+                    ref: v.ref,
+                    count: count,
+                    hebrewText: v.hebrewText
+                });
+            });
+            renderData.push({
+                chapter: chap.chapter,
+                verses: verses
+            });
+        });
+
+        renderHeatmap(renderData, cachedBookName);
+        return;
+    }
+
+    // 2. Legacy/Fallback API Mode
     if (!cachedLinks.length || !cachedChapterStructure.length) return;
 
     // Recalculate counts based on category
@@ -357,7 +389,7 @@ async function loadParasha(parasha, updateUrl = true) {
     heatmapContainer.innerHTML = `
         <div class="loading-container">
             <div class="loading-spinner"></div>
-            <div class="loading-text" id="loading-text">Loading ${parasha.ref}...</div>
+            <div class="loading-text" id="loading-text">Loading ${parasha.name}...</div>
             <div class="loading-progress">
                 <div class="progress-bar" id="progress-bar"></div>
             </div>
@@ -367,11 +399,43 @@ async function loadParasha(parasha, updateUrl = true) {
         </div>
     `;
 
+    // Try to load static data first
+    const slug = getSlugFromName(parasha.name);
+    try {
+        updateLoadingText('Checking for cached data...');
+        const staticRes = await fetch(`data/${slug}.json`);
+
+        if (staticRes.ok) {
+            const staticJson = await staticRes.json();
+
+            // Success! Use static data
+            cachedStaticData = staticJson;
+            cachedBookName = staticJson.book;
+            cachedLinks = []; // Clear legacy cache
+            cachedChapterStructure = [];
+
+            // Show and reset filter
+            const filterContainer = document.getElementById('filter-container');
+            const categoryFilter = document.getElementById('category-filter');
+            if (filterContainer) filterContainer.style.display = 'flex';
+            if (categoryFilter) categoryFilter.value = 'all';
+
+            // Initial Render
+            applyFilter('all');
+            return;
+        }
+    } catch (e) {
+        console.warn('Static data fetch failed, falling back to API', e);
+    }
+
+    // Fallback to Live API
+    cachedStaticData = null;
+
     try {
         // 1. Get the Text to determine structure (Chapters & Verses)
         // We accept the flattening of the text to handle the range
         // context=0 ensures we just get the requested range
-        updateLoadingText('Fetching text structure...');
+        updateLoadingText('Fetching text structure from API...');
         const textData = await get(`/texts/${parasha.ref}?context=0&pad=0`);
 
         // 2. Parse text data into a structure
