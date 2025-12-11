@@ -1,6 +1,7 @@
 :root {
   --bg-color: #f0f2f5;
   --sidebar-bg: #ffffff;
+  --card-bg: #ffffff;
   --text-color: #1a1a1a;
   --accent-color: #3b82f6;
   --border-color: #e5e7eb;
@@ -17,6 +18,7 @@
 [data-theme="dark"] {
   --bg-color: #0f172a;
   --sidebar-bg: #1e293b;
+  --card-bg: #1e293b;
   --text-color: #f1f5f9;
   --accent-color: #60a5fa;
   --border-color: #334155;
@@ -28,6 +30,11 @@
   --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
 }
 
+/* Logo in Dark Mode */
+[data-theme="dark"] .logo-img {
+  filter: brightness(0) invert(1);
+}
+
 /* Smooth transitions for theme switch */
 body,
 #sidebar,
@@ -35,6 +42,7 @@ body,
 .header-container,
 #heatmap-container,
 .site-footer,
+.heatmap-wrapper,
 .verse-cell {
   transition: background-color var(--transition-speed) ease,
     color var(--transition-speed) ease,
@@ -228,7 +236,8 @@ body {
   box-shadow: var(--shadow);
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
+  min-height: 48px;
 }
 
 .header-content h2 {
@@ -850,11 +859,11 @@ body {
 
 /* Global Heatmap */
 .heatmap-wrapper {
-  background: white;
+  background: var(--card-bg);
   padding: 24px;
   border-radius: 12px;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  border: 1px solid #f0f0f0;
+  border: 1px solid var(--border-color);
   margin-top: 20px;
   width: 100%;
 }
