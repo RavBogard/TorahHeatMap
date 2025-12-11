@@ -977,11 +977,11 @@ body {
 }
 
 input:checked+.slider {
-  background-color: var(--primary);
+  background-color: var(--accent-color);
 }
 
 input:focus+.slider {
-  box-shadow: 0 0 1px var(--primary);
+  box-shadow: 0 0 1px var(--accent-color);
 }
 
 input:checked+.slider:before {

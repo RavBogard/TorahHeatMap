@@ -474,6 +474,7 @@ async function loadBook(bookName) {
     // Show Info/Legent
     document.getElementById('info-btn').style.display = 'none'; // Maybe hide info for book view? Or generic info.
     document.getElementById('legend-bar').style.display = 'flex';
+    document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
     document.getElementById('filter-container').style.display = 'flex';
 
     try {
@@ -559,6 +560,7 @@ async function loadParasha(parasha, updateUrl = true) {
     const legendBar = document.getElementById('legend-bar');
     if (infoBtn) infoBtn.style.display = 'flex';
     if (legendBar) legendBar.style.display = 'flex';
+    document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
 
     // Set Active State in Sidebar AND Expand Book
     document.querySelectorAll('.parasha-item').forEach(el => {
@@ -942,6 +944,11 @@ async function loadGlobalHeatmap() {
         }
 
         wrapper.style.display = 'block';
+
+        // Hide Toggle on Homepage
+        const toggleContainer = document.querySelector('.scale-toggle-container');
+        if (toggleContainer) toggleContainer.style.display = 'none';
+
     } catch (e) {
         console.warn('Could not load global heatmap', e);
         wrapper.style.display = 'none';
