@@ -704,7 +704,17 @@ function toggleDarkMode() {
 }
 
 // Text Helper Functions
-return text;
+function truncateHebrew(html, maxLength) {
+    if (!html) return '';
+    // Strip HTML tags
+    const tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    const text = tmp.textContent || tmp.innerText || '';
+    // Truncate and add ellipsis if needed
+    if (text.length > maxLength) {
+        return text.substring(0, maxLength) + '...';
+    }
+    return text;
 }
 
 // Global Heatmap
