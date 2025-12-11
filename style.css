@@ -643,16 +643,30 @@ body {
   }
 
   .logo-area {
-    padding: 12px;
+    padding: 8px 12px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background: var(--sidebar-bg);
-    /* Ensure opaque background when sticky */
   }
 
-  .logo-area h1 {
-    font-size: 1.1rem;
+  /* Smaller logo on mobile */
+  .logo-img {
+    width: auto;
+    height: 36px;
+    margin: 0;
+  }
+
+  /* Hide This Week and Search in header on mobile - they're in hamburger menu */
+  .this-week-container,
+  .search-container {
+    display: none;
+  }
+
+  /* Show them when nav-scroll is open */
+  .nav-scroll.open~.this-week-container,
+  .nav-scroll.open~.search-container {
+    display: block;
   }
 
   #menu-toggle {
