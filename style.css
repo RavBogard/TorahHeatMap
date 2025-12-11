@@ -33,6 +33,7 @@
 /* Logo in Dark Mode */
 [data-theme="dark"] .logo-img {
   filter: brightness(0) invert(1);
+  mix-blend-mode: screen;
 }
 
 /* Smooth transitions for theme switch */
