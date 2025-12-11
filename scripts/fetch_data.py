@@ -169,18 +169,29 @@ def process_parasha(parasha):
             continue
 
         # Aggregate counts
-        counts_map = {} # Ref -> { all: 0, Category: 0 ... }
+        counts_map = {} # Ref -> { all: 0, Category: 0, Rashi: 0 ... }
         
         for link in links_data.get('links', []):
             ref = link['anchorRef']
             if ref not in counts_map:
-                counts_map[ref] = { 'all': 0 }
+                counts_map[ref] = { 'all': 0, 'Rashi': 0 }
                 for c in CATEGORIES:
                     counts_map[ref][c] = 0
             
             counts_map[ref]['all'] += 1
             if link['category'] in CATEGORIES:
                 counts_map[ref][link['category']] += 1
+            
+            # Check for Rashi
+            # collectiveTitle is usually a dict { en: "...", he: "..." }
+            coll_title = link.get('collectiveTitle', {})
+            if isinstance(coll_title, dict):
+                en_title = coll_title.get('en', '')
+            else:
+                en_title = str(coll_title) # Fallback if string
+            
+            if 'Rashi' in en_title:
+                counts_map[ref]['Rashi'] += 1
 
         # Build Verse objects
         verses = []
@@ -188,7 +199,7 @@ def process_parasha(parasha):
             verse_num = chap['startVerse'] + v
             verse_ref = f"{text_data['book']} {chap['chapter']}:{verse_num}"
             
-            counts = counts_map.get(verse_ref, { 'all': 0 })
+            counts = counts_map.get(verse_ref, { 'all': 0, 'Rashi': 0 })
             
             verses.append({
                 'verse': verse_num,

@@ -236,7 +236,15 @@ function applyFilter(category) {
         if (!res.links) return;
         res.links.forEach(link => {
             // Filter by category if not "all"
-            if (category !== 'all' && link.category !== category) return;
+            if (category === 'Rashi') {
+                // Check specific commentator
+                const title = (link.collectiveTitle && link.collectiveTitle.en) ? link.collectiveTitle.en : (link.collectiveTitle || '');
+                if (typeof title === 'string' && !title.includes('Rashi')) return;
+                if (typeof title !== 'string') return; // Should likely match string
+            } else if (category !== 'all' && link.category !== category) {
+                return;
+            }
+
             const ref = link.anchorRef;
             if (!countsMap[ref]) countsMap[ref] = 0;
             countsMap[ref]++;
