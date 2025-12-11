@@ -1,0 +1,1495 @@
+{
+  "name": "Pekudei",
+  "heName": "פקודי",
+  "ref": "Exodus 38:21-40:38",
+  "book": "Exodus",
+  "data": [
+    {
+      "chapter": 38,
+      "verses": [
+        {
+          "verse": 21,
+          "ref": "Exodus 38:21",
+          "hebrewText": "אֵ֣לֶּה פְקוּדֵ֤י הַמִּשְׁכָּן֙ מִשְׁכַּ֣ן הָעֵדֻ֔ת אֲשֶׁ֥ר פֻּקַּ֖ד עַל־פִּ֣י מֹשֶׁ֑ה עֲבֹדַת֙ הַלְוִיִּ֔ם בְּיַד֙ אִֽיתָמָ֔ר בֶּֽן־אַהֲרֹ֖ן הַכֹּהֵֽן׃",
+          "counts": {
+            "all": 269,
+            "Commentary": 120,
+            "Midrash": 39,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 8,
+            "Musar": 3,
+            "Chasidut": 62,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 38:22",
+          "hebrewText": "וּבְצַלְאֵ֛ל בֶּן־אוּרִ֥י בֶן־ח֖וּר לְמַטֵּ֣ה יְהוּדָ֑ה עָשָׂ֕ה אֵ֛ת כׇּל־אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃",
+          "counts": {
+            "all": 67,
+            "Commentary": 31,
+            "Midrash": 9,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 38:23",
+          "hebrewText": "וְאִתּ֗וֹ אׇהֳלִיאָ֞ב בֶּן־אֲחִיסָמָ֛ךְ לְמַטֵּה־דָ֖ן חָרָ֣שׁ וְחֹשֵׁ֑ב וְרֹקֵ֗ם בַּתְּכֵ֙לֶת֙ וּבָֽאַרְגָּמָ֔ן וּבְתוֹלַ֥עַת הַשָּׁנִ֖י וּבַשֵּֽׁשׁ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 46,
+            "Commentary": 4,
+            "Midrash": 16,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 38:24",
+          "hebrewText": "כׇּל־הַזָּהָ֗ב הֶֽעָשׂוּי֙ לַמְּלָאכָ֔ה בְּכֹ֖ל מְלֶ֣אכֶת הַקֹּ֑דֶשׁ וַיְהִ֣י&thinsp;<b>׀</b> זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+          "counts": {
+            "all": 65,
+            "Commentary": 36,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 38:25",
+          "hebrewText": "וְכֶ֛סֶף פְּקוּדֵ֥י הָעֵדָ֖ה מְאַ֣ת כִּכָּ֑ר וְאֶ֩לֶף֩ וּשְׁבַ֨ע מֵא֜וֹת וַחֲמִשָּׁ֧ה וְשִׁבְעִ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+          "counts": {
+            "all": 46,
+            "Commentary": 21,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 38:26",
+          "hebrewText": "בֶּ֚קַע לַגֻּלְגֹּ֔לֶת מַחֲצִ֥ית הַשֶּׁ֖קֶל בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ לְכֹ֨ל הָעֹבֵ֜ר עַל־הַפְּקֻדִ֗ים מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה לְשֵׁשׁ־מֵא֥וֹת אֶ֙לֶף֙ וּשְׁלֹ֣שֶׁת אֲלָפִ֔ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+          "counts": {
+            "all": 77,
+            "Commentary": 24,
+            "Midrash": 9,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 38:27",
+          "hebrewText": "וַיְהִ֗י מְאַת֙ כִּכַּ֣ר הַכֶּ֔סֶף לָצֶ֗קֶת אֵ֚ת אַדְנֵ֣י הַקֹּ֔דֶשׁ וְאֵ֖ת אַדְנֵ֣י הַפָּרֹ֑כֶת מְאַ֧ת אֲדָנִ֛ים לִמְאַ֥ת הַכִּכָּ֖ר כִּכָּ֥ר לָאָֽדֶן׃",
+          "counts": {
+            "all": 48,
+            "Commentary": 16,
+            "Midrash": 2,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 38:28",
+          "hebrewText": "וְאֶת־הָאֶ֜לֶף וּשְׁבַ֤ע הַמֵּאוֹת֙ וַחֲמִשָּׁ֣ה וְשִׁבְעִ֔ים עָשָׂ֥ה וָוִ֖ים לָעַמּוּדִ֑ים וְצִפָּ֥ה רָאשֵׁיהֶ֖ם וְחִשַּׁ֥ק אֹתָֽם׃",
+          "counts": {
+            "all": 39,
+            "Commentary": 16,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 38:29",
+          "hebrewText": "וּנְחֹ֥שֶׁת הַתְּנוּפָ֖ה שִׁבְעִ֣ים כִּכָּ֑ר וְאַלְפַּ֥יִם וְאַרְבַּע־מֵא֖וֹת שָֽׁקֶל׃",
+          "counts": {
+            "all": 28,
+            "Commentary": 12,
+            "Midrash": 2,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Exodus 38:30",
+          "hebrewText": "וַיַּ֣עַשׂ בָּ֗הּ אֶת־אַדְנֵי֙ פֶּ֚תַח אֹ֣הֶל מוֹעֵ֔ד וְאֵת֙ מִזְבַּ֣ח הַנְּחֹ֔שֶׁת וְאֶת־מִכְבַּ֥ר הַנְּחֹ֖שֶׁת אֲשֶׁר־ל֑וֹ וְאֵ֖ת כׇּל־כְּלֵ֥י הַמִּזְבֵּֽחַ׃",
+          "counts": {
+            "all": 14,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Exodus 38:31",
+          "hebrewText": "וְאֶת־אַדְנֵ֤י הֶֽחָצֵר֙ סָבִ֔יב וְאֶת־אַדְנֵ֖י שַׁ֣עַר הֶחָצֵ֑ר וְאֵ֨ת כׇּל־יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־כׇּל־יִתְדֹ֥ת הֶחָצֵ֖ר סָבִֽיב׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 39:1",
+          "hebrewText": "וּמִן־הַתְּכֵ֤לֶת וְהָֽאַרְגָּמָן֙ וְתוֹלַ֣עַת הַשָּׁנִ֔י עָשׂ֥וּ בִגְדֵי־שְׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ וַֽיַּעֲשׂ֞וּ אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 60,
+            "Commentary": 32,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 39:2",
+          "hebrewText": "וַיַּ֖עַשׂ אֶת־הָאֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 8,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 39:3",
+          "hebrewText": "וַֽיְרַקְּע֞וּ אֶת־פַּחֵ֣י הַזָּהָב֮ וְקִצֵּ֣ץ פְּתִילִם֒ לַעֲשׂ֗וֹת בְּת֤וֹךְ הַתְּכֵ֙לֶת֙ וּבְת֣וֹךְ הָֽאַרְגָּמָ֔ן וּבְת֛וֹךְ תּוֹלַ֥עַת הַשָּׁנִ֖י וּבְת֣וֹךְ הַשֵּׁ֑שׁ מַעֲשֵׂ֖ה חֹשֵֽׁב׃",
+          "counts": {
+            "all": 90,
+            "Commentary": 15,
+            "Midrash": 7,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 39:4",
+          "hebrewText": "כְּתֵפֹ֥ת עָֽשׂוּ־ל֖וֹ חֹבְרֹ֑ת עַל־שְׁנֵ֥י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(קצוותו)</span> <span class=\"mam-kq-q\">[קְצוֹתָ֖יו]</span></span> חֻבָּֽר׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 39:5",
+          "hebrewText": "וְחֵ֨שֶׁב אֲפֻדָּת֜וֹ אֲשֶׁ֣ר עָלָ֗יו מִמֶּ֣נּוּ הוּא֮ כְּמַעֲשֵׂ֒הוּ֒ זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מׇשְׁזָ֑ר כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 14,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 39:6",
+          "hebrewText": "וַֽיַּעֲשׂוּ֙ אֶת־אַבְנֵ֣י הַשֹּׁ֔הַם מֻֽסַבֹּ֖ת מִשְׁבְּצֹ֣ת זָהָ֑ב מְפֻתָּחֹת֙ פִּתּוּחֵ֣י חוֹתָ֔ם עַל־שְׁמ֖וֹת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 24,
+            "Commentary": 12,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 39:7",
+          "hebrewText": "וַיָּ֣שֶׂם אֹתָ֗ם עַ֚ל כִּתְפֹ֣ת הָאֵפֹ֔ד אַבְנֵ֥י זִכָּר֖וֹן לִבְנֵ֣י יִשְׂרָאֵ֑ל כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 15,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 39:8",
+          "hebrewText": "וַיַּ֧עַשׂ אֶת־הַחֹ֛שֶׁן מַעֲשֵׂ֥ה חֹשֵׁ֖ב כְּמַעֲשֵׂ֣ה אֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מׇשְׁזָֽר׃",
+          "counts": {
+            "all": 10,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 39:9",
+          "hebrewText": "רָב֧וּעַ הָיָ֛ה כָּפ֖וּל עָשׂ֣וּ אֶת־הַחֹ֑שֶׁן זֶ֧רֶת אׇרְכּ֛וֹ וְזֶ֥רֶת רׇחְבּ֖וֹ כָּפֽוּל׃",
+          "counts": {
+            "all": 13,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 39:10",
+          "hebrewText": "וַיְמַ֨לְאוּ־ב֔וֹ אַרְבָּעָ֖ה ט֣וּרֵי אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 39:11",
+          "hebrewText": "וְהַטּ֖וּר הַשֵּׁנִ֑י נֹ֥פֶךְ סַפִּ֖יר וְיָהֲלֹֽם׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 39:12",
+          "hebrewText": "וְהַטּ֖וּר הַשְּׁלִישִׁ֑י לֶ֥שֶׁם שְׁב֖וֹ וְאַחְלָֽמָה׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 39:13",
+          "hebrewText": "וְהַטּוּר֙ הָֽרְבִיעִ֔י תַּרְשִׁ֥ישׁ שֹׁ֖הַם וְיָשְׁפֵ֑ה מֽוּסַבֹּ֛ת מִשְׁבְּצֹ֥ת זָהָ֖ב בְּמִלֻּאֹתָֽם׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 39:14",
+          "hebrewText": "וְ֠הָאֲבָנִ֠ים עַל־שְׁמֹ֨ת בְּנֵי־יִשְׂרָאֵ֥ל הֵ֛נָּה שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־שְׁמֹתָ֑ם פִּתּוּחֵ֤י חֹתָם֙ אִ֣ישׁ עַל־שְׁמ֔וֹ לִשְׁנֵ֥ים עָשָׂ֖ר שָֽׁבֶט׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 39:15",
+          "hebrewText": "וַיַּעֲשׂ֧וּ עַל־הַחֹ֛שֶׁן שַׁרְשְׁרֹ֥ת גַּבְלֻ֖ת מַעֲשֵׂ֣ה עֲבֹ֑ת זָהָ֖ב טָהֽוֹר׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 39:16",
+          "hebrewText": "וַֽיַּעֲשׂ֗וּ שְׁתֵּי֙ מִשְׁבְּצֹ֣ת זָהָ֔ב וּשְׁתֵּ֖י טַבְּעֹ֣ת זָהָ֑ב וַֽיִּתְּנ֗וּ אֶת־שְׁתֵּי֙ הַטַּבָּעֹ֔ת עַל־שְׁנֵ֖י קְצ֥וֹת הַחֹֽשֶׁן׃",
+          "counts": {
+            "all": 8,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 39:17",
+          "hebrewText": "וַֽיִּתְּנ֗וּ שְׁתֵּי֙ הָעֲבֹתֹ֣ת הַזָּהָ֔ב עַל־שְׁתֵּ֖י הַטַּבָּעֹ֑ת עַל־קְצ֖וֹת הַחֹֽשֶׁן׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 39:18",
+          "hebrewText": "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָֽעֲבֹתֹ֔ת נָתְנ֖וּ עַל־שְׁתֵּ֣י הַֽמִּשְׁבְּצֹ֑ת וַֽיִּתְּנֻ֛ם עַל־כִּתְפֹ֥ת הָאֵפֹ֖ד אֶל־מ֥וּל פָּנָֽיו׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 39:19",
+          "hebrewText": "וַֽיַּעֲשׂ֗וּ שְׁתֵּי֙ טַבְּעֹ֣ת זָהָ֔ב וַיָּשִׂ֕ימוּ עַל־שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃",
+          "counts": {
+            "all": 8,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 39:20",
+          "hebrewText": "וַֽיַּעֲשׂוּ֮ שְׁתֵּ֣י טַבְּעֹ֣ת זָהָב֒ וַֽיִּתְּנֻ֡ם עַל־שְׁתֵּי֩ כִתְפֹ֨ת הָאֵפֹ֤ד מִלְּמַ֙טָּה֙ מִמּ֣וּל פָּנָ֔יו לְעֻמַּ֖ת מַחְבַּרְתּ֑וֹ מִמַּ֕עַל לְחֵ֖שֶׁב הָאֵפֹֽד׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 39:21",
+          "hebrewText": "וַיִּרְכְּס֣וּ אֶת־הַחֹ֡שֶׁן מִטַּבְּעֹתָיו֩ אֶל־טַבְּעֹ֨ת הָאֵפֹ֜ד בִּפְתִ֣יל תְּכֵ֗לֶת לִֽהְיֹת֙ עַל־חֵ֣שֶׁב הָאֵפֹ֔ד וְלֹֽא־יִזַּ֣ח הַחֹ֔שֶׁן מֵעַ֖ל הָאֵפֹ֑ד כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 27,
+            "Commentary": 6,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 39:22",
+          "hebrewText": "וַיַּ֛עַשׂ אֶת־מְעִ֥יל הָאֵפֹ֖ד מַעֲשֵׂ֣ה אֹרֵ֑ג כְּלִ֖יל תְּכֵֽלֶת׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 7,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 39:23",
+          "hebrewText": "וּפִֽי־הַמְּעִ֥יל בְּתוֹכ֖וֹ כְּפִ֣י תַחְרָ֑א שָׂפָ֥ה לְפִ֛יו סָבִ֖יב לֹ֥א יִקָּרֵֽעַ׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 39:24",
+          "hebrewText": "וַֽיַּעֲשׂוּ֙ עַל־שׁוּלֵ֣י הַמְּעִ֔יל רִמּוֹנֵ֕י תְּכֵ֥לֶת וְאַרְגָּמָ֖ן וְתוֹלַ֣עַת שָׁנִ֑י מׇשְׁזָֽר׃",
+          "counts": {
+            "all": 24,
+            "Commentary": 8,
+            "Midrash": 0,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 39:25",
+          "hebrewText": "וַיַּעֲשׂ֥וּ פַעֲמֹנֵ֖י זָהָ֣ב טָה֑וֹר וַיִּתְּנ֨וּ אֶת־הַפַּֽעֲמֹנִ֜ים בְּת֣וֹךְ הָרִמֹּנִ֗ים עַל־שׁוּלֵ֤י הַמְּעִיל֙ סָבִ֔יב בְּת֖וֹךְ הָרִמֹּנִֽים׃",
+          "counts": {
+            "all": 23,
+            "Commentary": 8,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 39:26",
+          "hebrewText": "פַּעֲמֹ֤ן וְרִמֹּן֙ פַּעֲמֹ֣ן וְרִמֹּ֔ן עַל־שׁוּלֵ֥י הַמְּעִ֖יל סָבִ֑יב לְשָׁרֵ֕ת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 22,
+            "Commentary": 6,
+            "Midrash": 0,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 39:27",
+          "hebrewText": "וַֽיַּעֲשׂ֛וּ אֶת־הַכׇּתְנֹ֥ת שֵׁ֖שׁ מַעֲשֵׂ֣ה אֹרֵ֑ג לְאַהֲרֹ֖ן וּלְבָנָֽיו׃",
+          "counts": {
+            "all": 24,
+            "Commentary": 13,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 39:28",
+          "hebrewText": "וְאֵת֙ הַמִּצְנֶ֣פֶת שֵׁ֔שׁ וְאֶת־פַּאֲרֵ֥י הַמִּגְבָּעֹ֖ת שֵׁ֑שׁ וְאֶת־מִכְנְסֵ֥י הַבָּ֖ד שֵׁ֥שׁ מׇשְׁזָֽר׃",
+          "counts": {
+            "all": 51,
+            "Commentary": 19,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 39:29",
+          "hebrewText": "וְֽאֶת־הָאַבְנֵ֞ט שֵׁ֣שׁ מׇשְׁזָ֗ר וּתְכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י מַעֲשֵׂ֣ה רֹקֵ֑ם כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 23,
+            "Commentary": 6,
+            "Midrash": 2,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Exodus 39:30",
+          "hebrewText": "וַֽיַּעֲשׂ֛וּ אֶת־צִ֥יץ נֵֽזֶר־הַקֹּ֖דֶשׁ זָהָ֣ב טָה֑וֹר וַיִּכְתְּב֣וּ עָלָ֗יו מִכְתַּב֙ פִּתּוּחֵ֣י חוֹתָ֔ם קֹ֖דֶשׁ לַיהֹוָֽה׃",
+          "counts": {
+            "all": 42,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Exodus 39:31",
+          "hebrewText": "וַיִּתְּנ֤וּ עָלָיו֙ פְּתִ֣יל תְּכֵ֔לֶת לָתֵ֥ת עַל־הַמִּצְנֶ֖פֶת מִלְמָ֑עְלָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 20,
+            "Commentary": 6,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Exodus 39:32",
+          "hebrewText": "וַתֵּ֕כֶל כׇּל־עֲבֹדַ֕ת מִשְׁכַּ֖ן אֹ֣הֶל מוֹעֵ֑ד וַֽיַּעֲשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 99,
+            "Commentary": 45,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 4,
+            "Musar": 3,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Exodus 39:33",
+          "hebrewText": "וַיָּבִ֤יאוּ אֶת־הַמִּשְׁכָּן֙ אֶל־מֹשֶׁ֔ה אֶת־הָאֹ֖הֶל וְאֶת־כׇּל־כֵּלָ֑יו קְרָסָ֣יו קְרָשָׁ֔יו <span class=\"mam-kq-trivial\">בְּרִיחָ֖ו</span> וְעַמֻּדָ֥יו וַאֲדָנָֽיו׃",
+          "counts": {
+            "all": 72,
+            "Commentary": 31,
+            "Midrash": 14,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 6,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Exodus 39:34",
+          "hebrewText": "וְאֶת־מִכְסֵ֞ה עוֹרֹ֤ת הָֽאֵילִם֙ הַמְאׇדָּמִ֔ים וְאֶת־מִכְסֵ֖ה עֹרֹ֣ת הַתְּחָשִׁ֑ים וְאֵ֖ת פָּרֹ֥כֶת הַמָּסָֽךְ׃",
+          "counts": {
+            "all": 14,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Exodus 39:35",
+          "hebrewText": "אֶת־אֲר֥וֹן הָעֵדֻ֖ת וְאֶת־בַּדָּ֑יו וְאֵ֖ת הַכַּפֹּֽרֶת׃",
+          "counts": {
+            "all": 10,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Exodus 39:36",
+          "hebrewText": "אֶת־הַשֻּׁלְחָן֙ אֶת־כׇּל־כֵּלָ֔יו וְאֵ֖ת לֶ֥חֶם הַפָּנִֽים׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Exodus 39:37",
+          "hebrewText": "אֶת־הַמְּנֹרָ֨ה הַטְּהֹרָ֜ה אֶת־נֵרֹתֶ֗יהָ נֵרֹ֛ת הַמַּֽעֲרָכָ֖ה וְאֶת־כׇּל־כֵּלֶ֑יהָ וְאֵ֖ת שֶׁ֥מֶן הַמָּאֽוֹר׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 10,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Exodus 39:38",
+          "hebrewText": "וְאֵת֙ מִזְבַּ֣ח הַזָּהָ֔ב וְאֵת֙ שֶׁ֣מֶן הַמִּשְׁחָ֔ה וְאֵ֖ת קְטֹ֣רֶת הַסַּמִּ֑ים וְאֵ֕ת מָסַ֖ךְ פֶּ֥תַח הָאֹֽהֶל׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Exodus 39:39",
+          "hebrewText": "אֵ֣ת&thinsp;<b>׀</b> מִזְבַּ֣ח הַנְּחֹ֗שֶׁת וְאֶת־מִכְבַּ֤ר הַנְּחֹ֙שֶׁת֙ אֲשֶׁר־ל֔וֹ אֶת־בַּדָּ֖יו וְאֶת־כׇּל־כֵּלָ֑יו אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּֽוֹ׃",
+          "counts": {
+            "all": 17,
+            "Commentary": 6,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Exodus 39:40",
+          "hebrewText": "אֵת֩ קַלְעֵ֨י הֶחָצֵ֜ר אֶת־עַמֻּדֶ֣יהָ וְאֶת־אֲדָנֶ֗יהָ וְאֶת־הַמָּסָךְ֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר אֶת־מֵיתָרָ֖יו וִיתֵדֹתֶ֑יהָ וְאֵ֗ת כׇּל־כְּלֵ֛י עֲבֹדַ֥ת הַמִּשְׁכָּ֖ן לְאֹ֥הֶל מוֹעֵֽד׃",
+          "counts": {
+            "all": 15,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 41,
+          "ref": "Exodus 39:41",
+          "hebrewText": "אֶת־בִּגְדֵ֥י הַשְּׂרָ֖ד לְשָׁרֵ֣ת בַּקֹּ֑דֶשׁ אֶת־בִּגְדֵ֤י הַקֹּ֙דֶשׁ֙ לְאַהֲרֹ֣ן הַכֹּהֵ֔ן וְאֶת־בִּגְדֵ֥י בָנָ֖יו לְכַהֵֽן׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 42,
+          "ref": "Exodus 39:42",
+          "hebrewText": "כְּכֹ֛ל אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶׁ֑ה כֵּ֤ן עָשׂוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת כׇּל־הָעֲבֹדָֽה׃",
+          "counts": {
+            "all": 23,
+            "Commentary": 11,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 43,
+          "ref": "Exodus 39:43",
+          "hebrewText": "וַיַּ֨רְא מֹשֶׁ֜ה אֶת־כׇּל־הַמְּלָאכָ֗ה וְהִנֵּה֙ עָשׂ֣וּ אֹתָ֔הּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה כֵּ֣ן עָשׂ֑וּ וַיְבָ֥רֶךְ אֹתָ֖ם מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 100,
+            "Commentary": 37,
+            "Midrash": 25,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 4,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Exodus 40:1",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 14,
+            "Commentary": 9,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Exodus 40:2",
+          "hebrewText": "בְּיוֹם־הַחֹ֥דֶשׁ הָרִאשׁ֖וֹן בְּאֶחָ֣ד לַחֹ֑דֶשׁ תָּקִ֕ים אֶת־מִשְׁכַּ֖ן אֹ֥הֶל מוֹעֵֽד׃",
+          "counts": {
+            "all": 68,
+            "Commentary": 28,
+            "Midrash": 8,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Exodus 40:3",
+          "hebrewText": "וְשַׂמְתָּ֣ שָׁ֔ם אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְסַכֹּתָ֥ עַל־הָאָרֹ֖ן אֶת־הַפָּרֹֽכֶת׃",
+          "counts": {
+            "all": 61,
+            "Commentary": 16,
+            "Midrash": 7,
+            "Talmud": 6,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Exodus 40:4",
+          "hebrewText": "וְהֵבֵאתָ֙ אֶת־הַשֻּׁלְחָ֔ן וְעָרַכְתָּ֖ אֶת־עֶרְכּ֑וֹ וְהֵבֵאתָ֙ אֶת־הַמְּנֹרָ֔ה וְהַעֲלֵיתָ֖ אֶת־נֵרֹתֶֽיהָ׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 11,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Exodus 40:5",
+          "hebrewText": "וְנָתַתָּ֞ה אֶת־מִזְבַּ֤ח הַזָּהָב֙ לִקְטֹ֔רֶת לִפְנֵ֖י אֲר֣וֹן הָעֵדֻ֑ת וְשַׂמְתָּ֛ אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 20,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Exodus 40:6",
+          "hebrewText": "וְנָ֣תַתָּ֔ה אֵ֖ת מִזְבַּ֣ח הָעֹלָ֑ה לִפְנֵ֕י פֶּ֖תַח מִשְׁכַּ֥ן אֹֽהֶל־מוֹעֵֽד׃",
+          "counts": {
+            "all": 20,
+            "Commentary": 5,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Exodus 40:7",
+          "hebrewText": "וְנָֽתַתָּ֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וְנָתַתָּ֥ שָׁ֖ם מָֽיִם׃",
+          "counts": {
+            "all": 20,
+            "Commentary": 5,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Exodus 40:8",
+          "hebrewText": "וְשַׂמְתָּ֥ אֶת־הֶחָצֵ֖ר סָבִ֑יב וְנָ֣תַתָּ֔ אֶת־מָסַ֖ךְ שַׁ֥עַר הֶחָצֵֽר׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Exodus 40:9",
+          "hebrewText": "וְלָקַחְתָּ֙ אֶת־שֶׁ֣מֶן הַמִּשְׁחָ֔ה וּמָשַׁחְתָּ֥ אֶת־הַמִּשְׁכָּ֖ן וְאֶת־כׇּל־אֲשֶׁר־בּ֑וֹ וְקִדַּשְׁתָּ֥ אֹת֛וֹ וְאֶת־כׇּל־כֵּלָ֖יו וְהָ֥יָה קֹֽדֶשׁ׃",
+          "counts": {
+            "all": 23,
+            "Commentary": 9,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Exodus 40:10",
+          "hebrewText": "וּמָשַׁחְתָּ֛ אֶת־מִזְבַּ֥ח הָעֹלָ֖ה וְאֶת־כׇּל־כֵּלָ֑יו וְקִדַּשְׁתָּ֙ אֶת־הַמִּזְבֵּ֔חַ וְהָיָ֥ה הַמִּזְבֵּ֖חַ קֹ֥דֶשׁ קׇֽדָשִֽׁים׃",
+          "counts": {
+            "all": 25,
+            "Commentary": 10,
+            "Midrash": 0,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Exodus 40:11",
+          "hebrewText": "וּמָשַׁחְתָּ֥ אֶת־הַכִּיֹּ֖ר וְאֶת־כַּנּ֑וֹ וְקִדַּשְׁתָּ֖ אֹתֽוֹ׃",
+          "counts": {
+            "all": 13,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Exodus 40:12",
+          "hebrewText": "וְהִקְרַבְתָּ֤ אֶֽת־אַהֲרֹן֙ וְאֶת־בָּנָ֔יו אֶל־פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְרָחַצְתָּ֥ אֹתָ֖ם בַּמָּֽיִם׃",
+          "counts": {
+            "all": 10,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Exodus 40:13",
+          "hebrewText": "וְהִלְבַּשְׁתָּ֙ אֶֽת־אַהֲרֹ֔ן אֵ֖ת בִּגְדֵ֣י הַקֹּ֑דֶשׁ וּמָשַׁחְתָּ֥ אֹת֛וֹ וְקִדַּשְׁתָּ֥ אֹת֖וֹ וְכִהֵ֥ן לִֽי׃",
+          "counts": {
+            "all": 13,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Exodus 40:14",
+          "hebrewText": "וְאֶת־בָּנָ֖יו תַּקְרִ֑יב וְהִלְבַּשְׁתָּ֥ אֹתָ֖ם כֻּתֳּנֹֽת׃",
+          "counts": {
+            "all": 14,
+            "Commentary": 3,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Exodus 40:15",
+          "hebrewText": "וּמָשַׁחְתָּ֣ אֹתָ֗ם כַּאֲשֶׁ֤ר מָשַׁ֙חְתָּ֙ אֶת־אֲבִיהֶ֔ם וְכִהֲנ֖וּ לִ֑י וְ֠הָיְתָ֠ה לִהְיֹ֨ת לָהֶ֧ם מׇשְׁחָתָ֛ם לִכְהֻנַּ֥ת עוֹלָ֖ם לְדֹרֹתָֽם׃",
+          "counts": {
+            "all": 34,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Exodus 40:16",
+          "hebrewText": "וַיַּ֖עַשׂ מֹשֶׁ֑ה כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֹת֖וֹ כֵּ֥ן עָשָֽׂה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 13,
+            "Commentary": 8,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Exodus 40:17",
+          "hebrewText": "וַיְהִ֞י בַּחֹ֧דֶשׁ הָרִאשׁ֛וֹן בַּשָּׁנָ֥ה הַשֵּׁנִ֖ית בְּאֶחָ֣ד לַחֹ֑דֶשׁ הוּקַ֖ם הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 105,
+            "Commentary": 19,
+            "Midrash": 23,
+            "Talmud": 10,
+            "Halakhah": 1,
+            "Kabbalah": 7,
+            "Musar": 3,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Exodus 40:18",
+          "hebrewText": "וַיָּ֨קֶם מֹשֶׁ֜ה אֶת־הַמִּשְׁכָּ֗ן וַיִּתֵּן֙ אֶת־אֲדָנָ֔יו וַיָּ֙שֶׂם֙ אֶת־קְרָשָׁ֔יו וַיִּתֵּ֖ן אֶת־בְּרִיחָ֑יו וַיָּ֖קֶם אֶת־עַמּוּדָֽיו׃",
+          "counts": {
+            "all": 54,
+            "Commentary": 18,
+            "Midrash": 6,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Exodus 40:19",
+          "hebrewText": "וַיִּפְרֹ֤שׂ אֶת־הָאֹ֙הֶל֙ עַל־הַמִּשְׁכָּ֔ן וַיָּ֜שֶׂם אֶת־מִכְסֵ֥ה הָאֹ֛הֶל עָלָ֖יו מִלְמָ֑עְלָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 51,
+            "Commentary": 12,
+            "Midrash": 8,
+            "Talmud": 6,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Exodus 40:20",
+          "hebrewText": "וַיִּקַּ֞ח וַיִּתֵּ֤ן אֶת־הָעֵדֻת֙ אֶל־הָ֣אָרֹ֔ן וַיָּ֥שֶׂם אֶת־הַבַּדִּ֖ים עַל־הָאָרֹ֑ן וַיִּתֵּ֧ן אֶת־הַכַּפֹּ֛רֶת עַל־הָאָרֹ֖ן מִלְמָֽעְלָה׃",
+          "counts": {
+            "all": 29,
+            "Commentary": 14,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Exodus 40:21",
+          "hebrewText": "וַיָּבֵ֣א אֶת־הָאָרֹן֮ אֶל־הַמִּשְׁכָּן֒ וַיָּ֗שֶׂם אֵ֚ת פָּרֹ֣כֶת הַמָּסָ֔ךְ וַיָּ֕סֶךְ עַ֖ל אֲר֣וֹן הָעֵד֑וּת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 25,
+            "Commentary": 7,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Exodus 40:22",
+          "hebrewText": "וַיִּתֵּ֤ן אֶת־הַשֻּׁלְחָן֙ בְּאֹ֣הֶל מוֹעֵ֔ד עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן צָפֹ֑נָה מִח֖וּץ לַפָּרֹֽכֶת׃",
+          "counts": {
+            "all": 21,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Exodus 40:23",
+          "hebrewText": "וַיַּעֲרֹ֥ךְ עָלָ֛יו עֵ֥רֶךְ לֶ֖חֶם לִפְנֵ֣י יְהֹוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 22,
+            "Commentary": 10,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Exodus 40:24",
+          "hebrewText": "וַיָּ֤שֶׂם אֶת־הַמְּנֹרָה֙ בְּאֹ֣הֶל מוֹעֵ֔ד נֹ֖כַח הַשֻּׁלְחָ֑ן עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן נֶֽגְבָּה׃",
+          "counts": {
+            "all": 21,
+            "Commentary": 3,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Exodus 40:25",
+          "hebrewText": "וַיַּ֥עַל הַנֵּרֹ֖ת לִפְנֵ֣י יְהֹוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 13,
+            "Commentary": 5,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Exodus 40:26",
+          "hebrewText": "וַיָּ֛שֶׂם אֶת־מִזְבַּ֥ח הַזָּהָ֖ב בְּאֹ֣הֶל מוֹעֵ֑ד לִפְנֵ֖י הַפָּרֹֽכֶת׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 3,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Exodus 40:27",
+          "hebrewText": "וַיַּקְטֵ֥ר עָלָ֖יו קְטֹ֣רֶת סַמִּ֑ים כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 22,
+            "Commentary": 14,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Exodus 40:28",
+          "hebrewText": "וַיָּ֛שֶׂם אֶת־מָסַ֥ךְ הַפֶּ֖תַח לַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Exodus 40:29",
+          "hebrewText": "וְאֵת֙ מִזְבַּ֣ח הָעֹלָ֔ה שָׂ֕ם פֶּ֖תַח מִשְׁכַּ֣ן אֹֽהֶל־מוֹעֵ֑ד וַיַּ֣עַל עָלָ֗יו אֶת־הָעֹלָה֙ וְאֶת־הַמִּנְחָ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 51,
+            "Commentary": 28,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Exodus 40:30",
+          "hebrewText": "וַיָּ֙שֶׂם֙ אֶת־הַכִּיֹּ֔ר בֵּֽין־אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וַיִּתֵּ֥ן שָׁ֛מָּה מַ֖יִם לְרׇחְצָֽה׃",
+          "counts": {
+            "all": 15,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Exodus 40:31",
+          "hebrewText": "וְרָחֲצ֣וּ מִמֶּ֔נּוּ מֹשֶׁ֖ה וְאַהֲרֹ֣ן וּבָנָ֑יו אֶת־יְדֵיהֶ֖ם וְאֶת־רַגְלֵיהֶֽם׃",
+          "counts": {
+            "all": 24,
+            "Commentary": 12,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Exodus 40:32",
+          "hebrewText": "בְּבֹאָ֞ם אֶל־אֹ֣הֶל מוֹעֵ֗ד וּבְקׇרְבָתָ֛ם אֶל־הַמִּזְבֵּ֖חַ יִרְחָ֑צוּ כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 25,
+            "Commentary": 9,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Exodus 40:33",
+          "hebrewText": "וַיָּ֣קֶם אֶת־הֶחָצֵ֗ר סָבִיב֙ לַמִּשְׁכָּ֣ן וְלַמִּזְבֵּ֔חַ וַיִּתֵּ֕ן אֶת־מָסַ֖ךְ שַׁ֣עַר הֶחָצֵ֑ר וַיְכַ֥ל מֹשֶׁ֖ה אֶת־הַמְּלָאכָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 31,
+            "Commentary": 13,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Exodus 40:34",
+          "hebrewText": "וַיְכַ֥ס הֶעָנָ֖ן אֶת־אֹ֣הֶל מוֹעֵ֑ד וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 93,
+            "Commentary": 37,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Exodus 40:35",
+          "hebrewText": "וְלֹא־יָכֹ֣ל מֹשֶׁ֗ה לָבוֹא֙ אֶל־אֹ֣הֶל מוֹעֵ֔ד כִּֽי־שָׁכַ֥ן עָלָ֖יו הֶעָנָ֑ן וּכְב֣וֹד יְהֹוָ֔ה מָלֵ֖א אֶת־הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 126,
+            "Commentary": 29,
+            "Midrash": 31,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 12,
+            "Musar": 1,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Exodus 40:36",
+          "hebrewText": "וּבְהֵעָל֤וֹת הֶֽעָנָן֙ מֵעַ֣ל הַמִּשְׁכָּ֔ן יִסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל בְּכֹ֖ל מַסְעֵיהֶֽם׃",
+          "counts": {
+            "all": 33,
+            "Commentary": 9,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Exodus 40:37",
+          "hebrewText": "וְאִם־לֹ֥א יֵעָלֶ֖ה הֶעָנָ֑ן וְלֹ֣א יִסְע֔וּ עַד־י֖וֹם הֵעָלֹתֽוֹ׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Exodus 40:38",
+          "hebrewText": "כִּי֩ עֲנַ֨ן יְהֹוָ֤ה עַֽל־הַמִּשְׁכָּן֙ יוֹמָ֔ם וְאֵ֕שׁ תִּהְיֶ֥ה לַ֖יְלָה בּ֑וֹ לְעֵינֵ֥י כׇל־בֵּֽית־יִשְׂרָאֵ֖ל בְּכׇל־מַסְעֵיהֶֽם׃",
+          "counts": {
+            "all": 68,
+            "Commentary": 24,
+            "Midrash": 15,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 3,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

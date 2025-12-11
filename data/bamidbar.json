@@ -1,0 +1,2023 @@
+{
+  "name": "Bamidbar",
+  "heName": "במדבר",
+  "ref": "Numbers 1:1-4:20",
+  "book": "Numbers",
+  "data": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Numbers 1:1",
+          "hebrewText": "וַיְדַבֵּ֨ר יְהֹוָ֧ה אֶל־מֹשֶׁ֛ה בְּמִדְבַּ֥ר סִינַ֖י בְּאֹ֣הֶל מוֹעֵ֑ד בְּאֶחָד֩ לַחֹ֨דֶשׁ הַשֵּׁנִ֜י בַּשָּׁנָ֣ה הַשֵּׁנִ֗ית לְצֵאתָ֛ם מֵאֶ֥רֶץ מִצְרַ֖יִם לֵאמֹֽר׃",
+          "counts": {
+            "all": 208,
+            "Commentary": 83,
+            "Midrash": 40,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 34,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Numbers 1:2",
+          "hebrewText": "שְׂא֗וּ אֶת־רֹאשׁ֙ כׇּל־עֲדַ֣ת בְּנֵֽי־יִשְׂרָאֵ֔ל לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמ֔וֹת כׇּל־זָכָ֖ר לְגֻלְגְּלֹתָֽם׃",
+          "counts": {
+            "all": 185,
+            "Commentary": 74,
+            "Midrash": 36,
+            "Talmud": 3,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 3,
+            "Chasidut": 18,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Numbers 1:3",
+          "hebrewText": "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כׇּל־יֹצֵ֥א צָבָ֖א בְּיִשְׂרָאֵ֑ל תִּפְקְד֥וּ אֹתָ֛ם לְצִבְאֹתָ֖ם אַתָּ֥ה וְאַהֲרֹֽן׃",
+          "counts": {
+            "all": 88,
+            "Commentary": 44,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 8,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Numbers 1:4",
+          "hebrewText": "וְאִתְּכֶ֣ם יִהְי֔וּ אִ֥ישׁ אִ֖ישׁ לַמַּטֶּ֑ה אִ֛ישׁ רֹ֥אשׁ לְבֵית־אֲבֹתָ֖יו הֽוּא׃",
+          "counts": {
+            "all": 43,
+            "Commentary": 22,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Numbers 1:5",
+          "hebrewText": "וְאֵ֙לֶּה֙ שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁ֥ר יַֽעַמְד֖וּ אִתְּכֶ֑ם לִרְאוּבֵ֕ן אֱלִיצ֖וּר בֶּן־שְׁדֵיאֽוּר׃",
+          "counts": {
+            "all": 35,
+            "Commentary": 16,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Numbers 1:6",
+          "hebrewText": "לְשִׁמְע֕וֹן שְׁלֻמִיאֵ֖ל בֶּן־צוּרִֽישַׁדָּֽי׃",
+          "counts": {
+            "all": 14,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Numbers 1:7",
+          "hebrewText": "לִֽיהוּדָ֕ה נַחְשׁ֖וֹן בֶּן־עַמִּינָדָֽב׃",
+          "counts": {
+            "all": 15,
+            "Commentary": 3,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Numbers 1:8",
+          "hebrewText": "לְיִ֨שָּׂשכָ֔ר נְתַנְאֵ֖ל בֶּן־צוּעָֽר׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Numbers 1:9",
+          "hebrewText": "לִזְבוּלֻ֕ן אֱלִיאָ֖ב בֶּן־חֵלֹֽן׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Numbers 1:10",
+          "hebrewText": "לִבְנֵ֣י יוֹסֵ֔ף לְאֶפְרַ֕יִם אֱלִישָׁמָ֖ע בֶּן־עַמִּיה֑וּד לִמְנַשֶּׁ֕ה גַּמְלִיאֵ֖ל בֶּן־פְּדָהצֽוּר׃",
+          "counts": {
+            "all": 33,
+            "Commentary": 13,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Numbers 1:11",
+          "hebrewText": "לְבִ֨נְיָמִ֔ן אֲבִידָ֖ן בֶּן־גִּדְעֹנִֽי׃",
+          "counts": {
+            "all": 10,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Numbers 1:12",
+          "hebrewText": "לְדָ֕ן אֲחִיעֶ֖זֶר בֶּן־עַמִּֽישַׁדָּֽי׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 5,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Numbers 1:13",
+          "hebrewText": "לְאָשֵׁ֕ר פַּגְעִיאֵ֖ל בֶּן־עׇכְרָֽן׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Numbers 1:14",
+          "hebrewText": "לְגָ֕ד אֶלְיָסָ֖ף בֶּן־דְּעוּאֵֽל׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Numbers 1:15",
+          "hebrewText": "לְנַ֨פְתָּלִ֔י אֲחִירַ֖ע בֶּן־עֵינָֽן׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 3,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Numbers 1:16",
+          "hebrewText": "אֵ֚לֶּה <span class=\"mam-kq\"><span class=\"mam-kq-k\">(קריאי)</span> <span class=\"mam-kq-q\">[קְרוּאֵ֣י]</span></span> הָעֵדָ֔ה נְשִׂיאֵ֖י מַטּ֣וֹת אֲבוֹתָ֑ם רָאשֵׁ֛י אַלְפֵ֥י יִשְׂרָאֵ֖ל הֵֽם׃",
+          "counts": {
+            "all": 61,
+            "Commentary": 26,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Numbers 1:17",
+          "hebrewText": "וַיִּקַּ֥ח מֹשֶׁ֖ה וְאַהֲרֹ֑ן אֵ֚ת הָאֲנָשִׁ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר נִקְּב֖וּ בְּשֵׁמֹֽת<sup class=\"footnote-marker\">*</sup><i class=\"footnote\">(בספרי ספרד ואשכנז בְּשֵׁמֽוֹת)</i>׃",
+          "counts": {
+            "all": 56,
+            "Commentary": 24,
+            "Midrash": 12,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Numbers 1:18",
+          "hebrewText": "וְאֵ֨ת כׇּל־הָעֵדָ֜ה הִקְהִ֗ילוּ בְּאֶחָד֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י וַיִּתְיַֽלְד֥וּ עַל־מִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמ֗וֹת מִבֶּ֨ן עֶשְׂרִ֥ים שָׁנָ֛ה וָמַ֖עְלָה לְגֻלְגְּלֹתָֽם׃",
+          "counts": {
+            "all": 79,
+            "Commentary": 31,
+            "Midrash": 12,
+            "Talmud": 2,
+            "Halakhah": 6,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Numbers 1:19",
+          "hebrewText": "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶׁ֑ה וַֽיִּפְקְדֵ֖ם בְּמִדְבַּ֥ר סִינָֽי׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 29,
+            "Commentary": 15,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Numbers 1:20",
+          "hebrewText": "וַיִּהְי֤וּ בְנֵֽי־רְאוּבֵן֙ בְּכֹ֣ר יִשְׂרָאֵ֔ל תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֤ר שֵׁמוֹת֙ לְגֻלְגְּלֹתָ֔ם כׇּל־זָכָ֗ר מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 48,
+            "Commentary": 29,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Numbers 1:21",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה רְאוּבֵ֑ן שִׁשָּׁ֧ה וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 14,
+            "Commentary": 4,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Numbers 1:22",
+          "hebrewText": "לִבְנֵ֣י שִׁמְע֔וֹן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם פְּקֻדָ֗יו בְּמִסְפַּ֤ר שֵׁמוֹת֙ לְגֻלְגְּלֹתָ֔ם כׇּל־זָכָ֗ר מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 11,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Numbers 1:23",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה שִׁמְע֑וֹן תִּשְׁעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וּשְׁלֹ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 11,
+            "Commentary": 3,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Numbers 1:24",
+          "hebrewText": "לִבְנֵ֣י גָ֔ד תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמ֗וֹת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 8,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Numbers 1:25",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה גָ֑ד חֲמִשָּׁ֤ה וְאַרְבָּעִים֙ אֶ֔לֶף וְשֵׁ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 7,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Numbers 1:26",
+          "hebrewText": "לִבְנֵ֣י יְהוּדָ֔ה תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 8,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Numbers 1:27",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה יְהוּדָ֑ה אַרְבָּעָ֧ה וְשִׁבְעִ֛ים אֶ֖לֶף וְשֵׁ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 7,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Numbers 1:28",
+          "hebrewText": "לִבְנֵ֣י יִשָּׂשכָ֔ר תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 5,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Numbers 1:29",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה יִשָּׂשכָ֑ר אַרְבָּעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 6,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Numbers 1:30",
+          "hebrewText": "לִבְנֵ֣י זְבוּלֻ֔ן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 5,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Numbers 1:31",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה זְבוּלֻ֑ן שִׁבְעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 8,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Numbers 1:32",
+          "hebrewText": "לִבְנֵ֤י יוֹסֵף֙ לִבְנֵ֣י אֶפְרַ֔יִם תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 17,
+            "Commentary": 8,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Numbers 1:33",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה אֶפְרָ֑יִם אַרְבָּעִ֥ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 7,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Numbers 1:34",
+          "hebrewText": "לִבְנֵ֣י מְנַשֶּׁ֔ה תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמ֗וֹת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 5,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Numbers 1:35",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה מְנַשֶּׁ֑ה שְׁנַ֧יִם וּשְׁלֹשִׁ֛ים אֶ֖לֶף וּמָאתָֽיִם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 9,
+            "Commentary": 1,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Numbers 1:36",
+          "hebrewText": "לִבְנֵ֣י בִנְיָמִ֔ן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 5,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Numbers 1:37",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה בִנְיָמִ֑ן חֲמִשָּׁ֧ה וּשְׁלֹשִׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 6,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Numbers 1:38",
+          "hebrewText": "לִבְנֵ֣י דָ֔ן תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 6,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Numbers 1:39",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה דָ֑ן שְׁנַ֧יִם וְשִׁשִּׁ֛ים אֶ֖לֶף וּשְׁבַ֥ע מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 7,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Numbers 1:40",
+          "hebrewText": "לִבְנֵ֣י אָשֵׁ֔ר תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 6,
+            "Commentary": 2,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 41,
+          "ref": "Numbers 1:41",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה אָשֵׁ֑ר אֶחָ֧ד וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 8,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 42,
+          "ref": "Numbers 1:42",
+          "hebrewText": "בְּנֵ֣י נַפְתָּלִ֔י תּוֹלְדֹתָ֥ם לְמִשְׁפְּחֹתָ֖ם לְבֵ֣ית אֲבֹתָ֑ם בְּמִסְפַּ֣ר שֵׁמֹ֗ת מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כֹּ֖ל יֹצֵ֥א צָבָֽא׃",
+          "counts": {
+            "all": 20,
+            "Commentary": 11,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 43,
+          "ref": "Numbers 1:43",
+          "hebrewText": "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה נַפְתָּלִ֑י שְׁלֹשָׁ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 5,
+            "Commentary": 1,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 44,
+          "ref": "Numbers 1:44",
+          "hebrewText": "אֵ֣לֶּה הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֤ה וְאַהֲרֹן֙ וּנְשִׂיאֵ֣י יִשְׂרָאֵ֔ל שְׁנֵ֥ים עָשָׂ֖ר אִ֑ישׁ אִישׁ־אֶחָ֥ד לְבֵית־אֲבֹתָ֖יו הָיֽוּ׃",
+          "counts": {
+            "all": 19,
+            "Commentary": 7,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 45,
+          "ref": "Numbers 1:45",
+          "hebrewText": "וַיִּֽהְי֛וּ כׇּל־פְּקוּדֵ֥י בְנֵֽי־יִשְׂרָאֵ֖ל לְבֵ֣ית אֲבֹתָ֑ם מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כׇּל־יֹצֵ֥א צָבָ֖א בְּיִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 15,
+            "Commentary": 10,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 46,
+          "ref": "Numbers 1:46",
+          "hebrewText": "וַיִּֽהְיוּ֙ כׇּל־הַפְּקֻדִ֔ים שֵׁשׁ־מֵא֥וֹת אֶ֖לֶף וּשְׁלֹ֣שֶׁת אֲלָפִ֑ים וַחֲמֵ֥שׁ מֵא֖וֹת וַחֲמִשִּֽׁים׃",
+          "counts": {
+            "all": 21,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 47,
+          "ref": "Numbers 1:47",
+          "hebrewText": "וְהַלְוִיִּ֖ם לְמַטֵּ֣ה אֲבֹתָ֑ם לֹ֥א הׇתְפָּקְד֖וּ בְּתוֹכָֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 38,
+            "Commentary": 23,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 48,
+          "ref": "Numbers 1:48",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 7,
+            "Commentary": 3,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 49,
+          "ref": "Numbers 1:49",
+          "hebrewText": "אַ֣ךְ אֶת־מַטֵּ֤ה לֵוִי֙ לֹ֣א תִפְקֹ֔ד וְאֶת־רֹאשָׁ֖ם לֹ֣א תִשָּׂ֑א בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 66,
+            "Commentary": 41,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 50,
+          "ref": "Numbers 1:50",
+          "hebrewText": "וְאַתָּ֡ה הַפְקֵ֣ד אֶת־הַלְוִיִּם֩ עַל־מִשְׁכַּ֨ן הָעֵדֻ֜ת וְעַ֣ל כׇּל־כֵּלָיו֮ וְעַ֣ל כׇּל־אֲשֶׁר־לוֹ֒ הֵ֜מָּה יִשְׂא֤וּ אֶת־הַמִּשְׁכָּן֙ וְאֶת־כׇּל־כֵּלָ֔יו וְהֵ֖ם יְשָׁרְתֻ֑הוּ וְסָבִ֥יב לַמִּשְׁכָּ֖ן יַחֲנֽוּ׃",
+          "counts": {
+            "all": 62,
+            "Commentary": 33,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 51,
+          "ref": "Numbers 1:51",
+          "hebrewText": "וּבִנְסֹ֣עַ הַמִּשְׁכָּ֗ן יוֹרִ֤ידוּ אֹתוֹ֙ הַלְוִיִּ֔ם וּבַחֲנֹת֙ הַמִּשְׁכָּ֔ן יָקִ֥ימוּ אֹת֖וֹ הַלְוִיִּ֑ם וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃",
+          "counts": {
+            "all": 108,
+            "Commentary": 35,
+            "Midrash": 12,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 12,
+            "Musar": 4,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 52,
+          "ref": "Numbers 1:52",
+          "hebrewText": "וְחָנ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל אִ֧ישׁ עַֽל־מַחֲנֵ֛הוּ וְאִ֥ישׁ עַל־דִּגְל֖וֹ לְצִבְאֹתָֽם׃",
+          "counts": {
+            "all": 42,
+            "Commentary": 21,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 53,
+          "ref": "Numbers 1:53",
+          "hebrewText": "וְהַלְוִיִּ֞ם יַחֲנ֤וּ סָבִיב֙ לְמִשְׁכַּ֣ן הָעֵדֻ֔ת וְלֹֽא־יִהְיֶ֣ה קֶ֔צֶף עַל־עֲדַ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וְשָׁמְרוּ֙ הַלְוִיִּ֔ם אֶת־מִשְׁמֶ֖רֶת מִשְׁכַּ֥ן הָעֵדֽוּת׃",
+          "counts": {
+            "all": 52,
+            "Commentary": 27,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 54,
+          "ref": "Numbers 1:54",
+          "hebrewText": "וַֽיַּעֲשׂ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל כְּ֠כֹ֠ל אֲשֶׁ֨ר צִוָּ֧ה יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה כֵּ֥ן עָשֽׂוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 28,
+            "Commentary": 13,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Numbers 3:1",
+          "hebrewText": "וְאֵ֛לֶּה תּוֹלְדֹ֥ת אַהֲרֹ֖ן וּמֹשֶׁ֑ה בְּי֗וֹם דִּבֶּ֧ר יְהֹוָ֛ה אֶת־מֹשֶׁ֖ה בְּהַ֥ר סִינָֽי׃",
+          "counts": {
+            "all": 107,
+            "Commentary": 56,
+            "Midrash": 22,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Numbers 3:2",
+          "hebrewText": "וְאֵ֛לֶּה שְׁמ֥וֹת בְּֽנֵי־אַהֲרֹ֖ן הַבְּכֹ֣ר&thinsp;<small>׀</small>&thinsp;נָדָ֑ב וַאֲבִיה֕וּא אֶלְעָזָ֖ר וְאִיתָמָֽר׃",
+          "counts": {
+            "all": 25,
+            "Commentary": 7,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Numbers 3:3",
+          "hebrewText": "אֵ֗לֶּה שְׁמוֹת֙ בְּנֵ֣י אַהֲרֹ֔ן הַכֹּהֲנִ֖ים הַמְּשֻׁחִ֑ים אֲשֶׁר־מִלֵּ֥א יָדָ֖ם לְכַהֵֽן׃",
+          "counts": {
+            "all": 40,
+            "Commentary": 12,
+            "Midrash": 3,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Numbers 3:4",
+          "hebrewText": "וַיָּ֣מׇת נָדָ֣ב וַאֲבִיה֣וּא לִפְנֵ֣י יְהֹוָ֡ה בְּֽהַקְרִבָם֩ אֵ֨שׁ זָרָ֜ה לִפְנֵ֤י יְהֹוָה֙ בְּמִדְבַּ֣ר סִינַ֔י וּבָנִ֖ים לֹא־הָי֣וּ לָהֶ֑ם וַיְכַהֵ֤ן אֶלְעָזָר֙ וְאִ֣יתָמָ֔ר עַל־פְּנֵ֖י אַהֲרֹ֥ן אֲבִיהֶֽם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 113,
+            "Commentary": 30,
+            "Midrash": 32,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 4,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Numbers 3:5",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 6,
+            "Commentary": 3,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Numbers 3:6",
+          "hebrewText": "הַקְרֵב֙ אֶת־מַטֵּ֣ה לֵוִ֔י וְהַעֲמַדְתָּ֣ אֹת֔וֹ לִפְנֵ֖י אַהֲרֹ֣ן הַכֹּהֵ֑ן וְשֵׁרְת֖וּ אֹתֽוֹ׃",
+          "counts": {
+            "all": 40,
+            "Commentary": 21,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Numbers 3:7",
+          "hebrewText": "וְשָׁמְר֣וּ אֶת־מִשְׁמַרְתּ֗וֹ וְאֶת־מִשְׁמֶ֙רֶת֙ כׇּל־הָ֣עֵדָ֔ה לִפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 23,
+            "Commentary": 14,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Numbers 3:8",
+          "hebrewText": "וְשָׁמְר֗וּ אֶֽת־כׇּל־כְּלֵי֙ אֹ֣הֶל מוֹעֵ֔ד וְאֶת־מִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל לַעֲבֹ֖ד אֶת־עֲבֹדַ֥ת הַמִּשְׁכָּֽן׃",
+          "counts": {
+            "all": 17,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Numbers 3:9",
+          "hebrewText": "וְנָתַתָּה֙ אֶת־הַלְוִיִּ֔ם לְאַהֲרֹ֖ן וּלְבָנָ֑יו נְתוּנִ֨ם נְתוּנִ֥ם הֵ֙מָּה֙ ל֔וֹ מֵאֵ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 44,
+            "Commentary": 33,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Numbers 3:10",
+          "hebrewText": "וְאֶת־אַהֲרֹ֤ן וְאֶת־בָּנָיו֙ תִּפְקֹ֔ד וְשָׁמְר֖וּ אֶת־כְּהֻנָּתָ֑ם וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 53,
+            "Commentary": 24,
+            "Midrash": 7,
+            "Talmud": 2,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Numbers 3:11",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 8,
+            "Commentary": 3,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Numbers 3:12",
+          "hebrewText": "וַאֲנִ֞י הִנֵּ֧ה לָקַ֣חְתִּי אֶת־הַלְוִיִּ֗ם מִתּוֹךְ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל תַּ֧חַת כׇּל־בְּכ֛וֹר פֶּ֥טֶר רֶ֖חֶם מִבְּנֵ֣י יִשְׂרָאֵ֑ל וְהָ֥יוּ לִ֖י הַלְוִיִּֽם׃",
+          "counts": {
+            "all": 87,
+            "Commentary": 30,
+            "Midrash": 15,
+            "Talmud": 2,
+            "Halakhah": 4,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Numbers 3:13",
+          "hebrewText": "כִּ֣י לִי֮ כׇּל־בְּכוֹר֒ בְּיוֹם֩ הַכֹּתִ֨י כׇל־בְּכ֜וֹר בְּאֶ֣רֶץ מִצְרַ֗יִם הִקְדַּ֨שְׁתִּי לִ֤י כׇל־בְּכוֹר֙ בְּיִשְׂרָאֵ֔ל מֵאָדָ֖ם עַד־בְּהֵמָ֑ה לִ֥י יִהְי֖וּ אֲנִ֥י יְהֹוָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 81,
+            "Commentary": 23,
+            "Midrash": 14,
+            "Talmud": 4,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Numbers 3:14",
+          "hebrewText": "וַיְדַבֵּ֤ר יְהֹוָה֙ אֶל־מֹשֶׁ֔ה בְּמִדְבַּ֥ר סִינַ֖י לֵאמֹֽר׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 6,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Numbers 3:15",
+          "hebrewText": "פְּקֹד֙ אֶת־בְּנֵ֣י לֵוִ֔י לְבֵ֥ית אֲבֹתָ֖ם לְמִשְׁפְּחֹתָ֑ם כׇּל־זָכָ֛ר מִבֶּן־חֹ֥דֶשׁ וָמַ֖עְלָה תִּפְקְדֵֽם׃",
+          "counts": {
+            "all": 67,
+            "Commentary": 28,
+            "Midrash": 14,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Numbers 3:16",
+          "hebrewText": "וַיִּפְקֹ֥ד אֹתָ֛ם מֹשֶׁ֖ה עַל־פִּ֣י יְהֹוָ֑ה כַּאֲשֶׁ֖ר צֻוָּֽה׃",
+          "counts": {
+            "all": 21,
+            "Commentary": 9,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Numbers 3:17",
+          "hebrewText": "וַיִּֽהְיוּ־אֵ֥לֶּה בְנֵֽי־לֵוִ֖י בִּשְׁמֹתָ֑ם גֵּרְשׁ֕וֹן וּקְהָ֖ת וּמְרָרִֽי׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Numbers 3:18",
+          "hebrewText": "וְאֵ֛לֶּה שְׁמ֥וֹת בְּֽנֵי־גֵרְשׁ֖וֹן לְמִשְׁפְּחֹתָ֑ם לִבְנִ֖י וְשִׁמְעִֽי׃",
+          "counts": {
+            "all": 13,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Numbers 3:19",
+          "hebrewText": "וּבְנֵ֥י קְהָ֖ת לְמִשְׁפְּחֹתָ֑ם עַמְרָ֣ם וְיִצְהָ֔ר חֶבְר֖וֹן וְעֻזִּיאֵֽל׃",
+          "counts": {
+            "all": 15,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Numbers 3:20",
+          "hebrewText": "וּבְנֵ֧י מְרָרִ֛י לְמִשְׁפְּחֹתָ֖ם מַחְלִ֣י וּמוּשִׁ֑י אֵ֥לֶּה הֵ֛ם מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְבֵ֥ית אֲבֹתָֽם׃",
+          "counts": {
+            "all": 14,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Numbers 3:21",
+          "hebrewText": "לְגֵ֣רְשׁ֔וֹן מִשְׁפַּ֙חַת֙ הַלִּבְנִ֔י וּמִשְׁפַּ֖חַת הַשִּׁמְעִ֑י אֵ֣לֶּה הֵ֔ם מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּֽי׃",
+          "counts": {
+            "all": 23,
+            "Commentary": 9,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Numbers 3:22",
+          "hebrewText": "פְּקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה פְּקֻ֣דֵיהֶ֔ם שִׁבְעַ֥ת אֲלָפִ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃",
+          "counts": {
+            "all": 23,
+            "Commentary": 9,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Numbers 3:23",
+          "hebrewText": "מִשְׁפְּחֹ֖ת הַגֵּרְשֻׁנִּ֑י אַחֲרֵ֧י הַמִּשְׁכָּ֛ן יַחֲנ֖וּ יָֽמָּה׃",
+          "counts": {
+            "all": 15,
+            "Commentary": 8,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Numbers 3:24",
+          "hebrewText": "וּנְשִׂ֥יא בֵֽית־אָ֖ב לַגֵּרְשֻׁנִּ֑י אֶלְיָסָ֖ף בֶּן־לָאֵֽל׃",
+          "counts": {
+            "all": 12,
+            "Commentary": 2,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Numbers 3:25",
+          "hebrewText": "וּמִשְׁמֶ֤רֶת בְּנֵֽי־גֵרְשׁוֹן֙ בְּאֹ֣הֶל מוֹעֵ֔ד הַמִּשְׁכָּ֖ן וְהָאֹ֑הֶל מִכְסֵ֕הוּ וּמָסַ֕ךְ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃",
+          "counts": {
+            "all": 43,
+            "Commentary": 28,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Numbers 3:26",
+          "hebrewText": "וְקַלְעֵ֣י הֶֽחָצֵ֗ר וְאֶת־מָסַךְ֙ פֶּ֣תַח הֶֽחָצֵ֔ר אֲשֶׁ֧ר עַל־הַמִּשְׁכָּ֛ן וְעַל־הַמִּזְבֵּ֖חַ סָבִ֑יב וְאֵת֙ מֵֽיתָרָ֔יו לְכֹ֖ל עֲבֹדָתֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 35,
+            "Commentary": 17,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Numbers 3:27",
+          "hebrewText": "וְלִקְהָ֗ת מִשְׁפַּ֤חַת הַֽעַמְרָמִי֙ וּמִשְׁפַּ֣חַת הַיִּצְהָרִ֔י וּמִשְׁפַּ֙חַת֙ הַֽחֶבְרֹנִ֔י וּמִשְׁפַּ֖חַת הָעׇזִּֽיאֵלִ֑י אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת הַקְּהָתִֽי׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 7,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Numbers 3:28",
+          "hebrewText": "בְּמִסְפַּר֙ כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה שְׁמֹנַ֤ת אֲלָפִים֙ וְשֵׁ֣שׁ מֵא֔וֹת שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃",
+          "counts": {
+            "all": 17,
+            "Commentary": 3,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Numbers 3:29",
+          "hebrewText": "מִשְׁפְּחֹ֥ת בְּנֵי־קְהָ֖ת יַחֲנ֑וּ עַ֛ל יֶ֥רֶךְ הַמִּשְׁכָּ֖ן תֵּימָֽנָה׃",
+          "counts": {
+            "all": 32,
+            "Commentary": 13,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Numbers 3:30",
+          "hebrewText": "וּנְשִׂ֥יא בֵֽית־אָ֖ב לְמִשְׁפְּחֹ֣ת הַקְּהָתִ֑י אֱלִיצָפָ֖ן בֶּן־עֻזִּיאֵֽל׃",
+          "counts": {
+            "all": 18,
+            "Commentary": 2,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Numbers 3:31",
+          "hebrewText": "וּמִשְׁמַרְתָּ֗ם הָאָרֹ֤ן וְהַשֻּׁלְחָן֙ וְהַמְּנֹרָ֣ה וְהַֽמִּזְבְּחֹ֔ת וּכְלֵ֣י הַקֹּ֔דֶשׁ אֲשֶׁ֥ר יְשָׁרְת֖וּ בָּהֶ֑ם וְהַ֨מָּסָ֔ךְ וְכֹ֖ל עֲבֹדָתֽוֹ׃",
+          "counts": {
+            "all": 37,
+            "Commentary": 12,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Numbers 3:32",
+          "hebrewText": "וּנְשִׂיא֙ נְשִׂיאֵ֣י הַלֵּוִ֔י אֶלְעָזָ֖ר בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֑ן פְּקֻדַּ֕ת שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַקֹּֽדֶשׁ׃",
+          "counts": {
+            "all": 49,
+            "Commentary": 20,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Numbers 3:33",
+          "hebrewText": "לִמְרָרִ֕י מִשְׁפַּ֙חַת֙ הַמַּחְלִ֔י וּמִשְׁפַּ֖חַת הַמּוּשִׁ֑י אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת מְרָרִֽי׃",
+          "counts": {
+            "all": 10,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Numbers 3:34",
+          "hebrewText": "וּפְקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כׇּל־זָכָ֔ר מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה שֵׁ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 1,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Numbers 3:35",
+          "hebrewText": "וּנְשִׂ֤יא בֵֽית־אָב֙ לְמִשְׁפְּחֹ֣ת מְרָרִ֔י צוּרִיאֵ֖ל בֶּן־אֲבִיחָ֑יִל עַ֣ל יֶ֧רֶךְ הַמִּשְׁכָּ֛ן יַחֲנ֖וּ צָפֹֽנָה׃",
+          "counts": {
+            "all": 17,
+            "Commentary": 3,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Numbers 3:36",
+          "hebrewText": "וּפְקֻדַּ֣ת מִשְׁמֶ֘רֶת֮ בְּנֵ֣י מְרָרִי֒ קַרְשֵׁי֙ הַמִּשְׁכָּ֔ן וּבְרִיחָ֖יו וְעַמֻּדָ֣יו וַאֲדָנָ֑יו וְכׇ֨ל־כֵּלָ֔יו וְכֹ֖ל עֲבֹדָתֽוֹ׃",
+          "counts": {
+            "all": 18,
+            "Commentary": 4,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Numbers 3:37",
+          "hebrewText": "וְעַמֻּדֵ֧י הֶחָצֵ֛ר סָבִ֖יב וְאַדְנֵיהֶ֑ם וִיתֵדֹתָ֖ם וּמֵֽיתְרֵיהֶֽם׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 4,
+            "Midrash": 0,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Numbers 3:38",
+          "hebrewText": "וְהַחֹנִ֣ים לִפְנֵ֣י הַמִּשְׁכָּ֡ן קֵ֣דְמָה לִפְנֵי֩ אֹֽהֶל־מוֹעֵ֨ד&thinsp;<small>׀</small>&thinsp;מִזְרָ֜חָה מֹשֶׁ֣ה&thinsp;<b>׀</b> וְאַהֲרֹ֣ן וּבָנָ֗יו שֹֽׁמְרִים֙ מִשְׁמֶ֣רֶת הַמִּקְדָּ֔שׁ לְמִשְׁמֶ֖רֶת בְּנֵ֣י יִשְׂרָאֵ֑ל וְהַזָּ֥ר הַקָּרֵ֖ב יוּמָֽת׃",
+          "counts": {
+            "all": 61,
+            "Commentary": 18,
+            "Midrash": 16,
+            "Talmud": 3,
+            "Halakhah": 3,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Numbers 3:39",
+          "hebrewText": "כׇּל־פְּקוּדֵ֨י הַלְוִיִּ֜ם אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֧ה וְׄאַׄהֲׄרֹ֛ׄןׄ עַל־פִּ֥י יְהֹוָ֖ה לְמִשְׁפְּחֹתָ֑ם כׇּל־זָכָר֙ מִבֶּן־חֹ֣דֶשׁ וָמַ֔עְלָה שְׁנַ֥יִם וְעֶשְׂרִ֖ים אָֽלֶף׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 75,
+            "Commentary": 39,
+            "Midrash": 9,
+            "Talmud": 7,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Numbers 3:40",
+          "hebrewText": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה פְּקֹ֨ד כׇּל־בְּכֹ֤ר זָכָר֙ לִבְנֵ֣י יִשְׂרָאֵ֔ל מִבֶּן־חֹ֖דֶשׁ וָמָ֑עְלָה וְשָׂ֕א אֵ֖ת מִסְפַּ֥ר שְׁמֹתָֽם׃",
+          "counts": {
+            "all": 55,
+            "Commentary": 16,
+            "Midrash": 12,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 41,
+          "ref": "Numbers 3:41",
+          "hebrewText": "וְלָקַחְתָּ֨ אֶת־הַלְוִיִּ֥ם לִי֙ אֲנִ֣י יְהֹוָ֔ה תַּ֥חַת כׇּל־בְּכֹ֖ר בִּבְנֵ֣י יִשְׂרָאֵ֑ל וְאֵת֙ בֶּהֱמַ֣ת הַלְוִיִּ֔ם תַּ֣חַת כׇּל־בְּכ֔וֹר בְּבֶהֱמַ֖ת בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 31,
+            "Commentary": 14,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 42,
+          "ref": "Numbers 3:42",
+          "hebrewText": "וַיִּפְקֹ֣ד מֹשֶׁ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֹת֑וֹ אֶֽת־כׇּל־בְּכ֖וֹר בִּבְנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 11,
+            "Commentary": 3,
+            "Midrash": 1,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 43,
+          "ref": "Numbers 3:43",
+          "hebrewText": "וַיְהִי֩ כׇל־בְּכ֨וֹר זָכָ֜ר בְּמִסְפַּ֥ר שֵׁמֹ֛ת מִבֶּן־חֹ֥דֶשׁ וָמַ֖עְלָה לִפְקֻדֵיהֶ֑ם שְׁנַ֤יִם וְעֶשְׂרִים֙ אֶ֔לֶף שְׁלֹשָׁ֥ה וְשִׁבְעִ֖ים וּמָאתָֽיִם׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 18,
+            "Commentary": 5,
+            "Midrash": 2,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 44,
+          "ref": "Numbers 3:44",
+          "hebrewText": "וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־מֹשֶׁ֥ה לֵּאמֹֽר׃",
+          "counts": {
+            "all": 6,
+            "Commentary": 1,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 45,
+          "ref": "Numbers 3:45",
+          "hebrewText": "קַ֣ח אֶת־הַלְוִיִּ֗ם תַּ֤חַת כׇּל־בְּכוֹר֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל וְאֶת־בֶּהֱמַ֥ת הַלְוִיִּ֖ם תַּ֣חַת בְּהֶמְתָּ֑ם וְהָיוּ־לִ֥י הַלְוִיִּ֖ם אֲנִ֥י יְהֹוָֽה׃",
+          "counts": {
+            "all": 60,
+            "Commentary": 24,
+            "Midrash": 2,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 46,
+          "ref": "Numbers 3:46",
+          "hebrewText": "וְאֵת֙ פְּדוּיֵ֣י הַשְּׁלֹשָׁ֔ה וְהַשִּׁבְעִ֖ים וְהַמָּאתָ֑יִם הָעֹֽדְפִים֙ עַל־הַלְוִיִּ֔ם מִבְּכ֖וֹר בְּנֵ֥י יִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 32,
+            "Commentary": 12,
+            "Midrash": 6,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 47,
+          "ref": "Numbers 3:47",
+          "hebrewText": "וְלָקַחְתָּ֗ חֲמֵ֧שֶׁת חֲמֵ֛שֶׁת שְׁקָלִ֖ים לַגֻּלְגֹּ֑לֶת בְּשֶׁ֤קֶל הַקֹּ֙דֶשׁ֙ תִּקָּ֔ח עֶשְׂרִ֥ים גֵּרָ֖ה הַשָּֽׁקֶל׃",
+          "counts": {
+            "all": 39,
+            "Commentary": 13,
+            "Midrash": 4,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 48,
+          "ref": "Numbers 3:48",
+          "hebrewText": "וְנָתַתָּ֣ה הַכֶּ֔סֶף לְאַהֲרֹ֖ן וּלְבָנָ֑יו פְּדוּיֵ֕י הָעֹדְפִ֖ים בָּהֶֽם׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 6,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 49,
+          "ref": "Numbers 3:49",
+          "hebrewText": "וַיִּקַּ֣ח מֹשֶׁ֔ה אֵ֖ת כֶּ֣סֶף הַפִּדְי֑וֹם מֵאֵת֙ הָעֹ֣דְפִ֔ים עַ֖ל פְּדוּיֵ֥י הַלְוִיִּֽם׃",
+          "counts": {
+            "all": 21,
+            "Commentary": 9,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 50,
+          "ref": "Numbers 3:50",
+          "hebrewText": "מֵאֵ֗ת בְּכ֛וֹר בְּנֵ֥י יִשְׂרָאֵ֖ל לָקַ֣ח אֶת־הַכָּ֑סֶף חֲמִשָּׁ֨ה וְשִׁשִּׁ֜ים וּשְׁלֹ֥שׁ מֵא֛וֹת וָאֶ֖לֶף בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃",
+          "counts": {
+            "all": 24,
+            "Commentary": 15,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 51,
+          "ref": "Numbers 3:51",
+          "hebrewText": "וַיִּתֵּ֨ן מֹשֶׁ֜ה אֶת־כֶּ֧סֶף הַפְּדֻיִ֛ם לְאַהֲרֹ֥ן וּלְבָנָ֖יו עַל־פִּ֣י יְהֹוָ֑ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־מֹשֶֽׁה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 18,
+            "Commentary": 7,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Numbers 4:1",
+          "hebrewText": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+          "counts": {
+            "all": 22,
+            "Commentary": 12,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Numbers 4:2",
+          "hebrewText": "נָשֹׂ֗א אֶת־רֹאשׁ֙ בְּנֵ֣י קְהָ֔ת מִתּ֖וֹךְ בְּנֵ֣י לֵוִ֑י לְמִשְׁפְּחֹתָ֖ם לְבֵ֥ית אֲבֹתָֽם׃",
+          "counts": {
+            "all": 46,
+            "Commentary": 18,
+            "Midrash": 8,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Numbers 4:3",
+          "hebrewText": "מִבֶּ֨ן שְׁלֹשִׁ֤ים שָׁנָה֙ וָמַ֔עְלָה וְעַ֖ד בֶּן־חֲמִשִּׁ֣ים שָׁנָ֑ה כׇּל־בָּא֙ לַצָּבָ֔א לַעֲשׂ֥וֹת מְלָאכָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃",
+          "counts": {
+            "all": 53,
+            "Commentary": 18,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Numbers 4:4",
+          "hebrewText": "זֹ֛את עֲבֹדַ֥ת בְּנֵי־קְהָ֖ת בְּאֹ֣הֶל מוֹעֵ֑ד קֹ֖דֶשׁ הַקֳּדָשִֽׁים׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 8,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Numbers 4:5",
+          "hebrewText": "וּבָ֨א אַהֲרֹ֤ן וּבָנָיו֙ בִּנְסֹ֣עַ הַֽמַּחֲנֶ֔ה וְהוֹרִ֕דוּ אֵ֖ת פָּרֹ֣כֶת הַמָּסָ֑ךְ וְכִ֨סּוּ־בָ֔הּ אֵ֖ת אֲרֹ֥ן הָעֵדֻֽת׃",
+          "counts": {
+            "all": 48,
+            "Commentary": 22,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Numbers 4:6",
+          "hebrewText": "וְנָתְנ֣וּ עָלָ֗יו כְּסוּי֙ ע֣וֹר תַּ֔חַשׁ וּפָרְשׂ֧וּ בֶֽגֶד־כְּלִ֛יל תְּכֵ֖לֶת מִלְמָ֑עְלָה וְשָׂמ֖וּ בַּדָּֽיו׃",
+          "counts": {
+            "all": 52,
+            "Commentary": 21,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Numbers 4:7",
+          "hebrewText": "וְעַ֣ל&thinsp;<b>׀</b> שֻׁלְחַ֣ן הַפָּנִ֗ים יִפְרְשׂוּ֮ בֶּ֣גֶד תְּכֵ֒לֶת֒ וְנָתְנ֣וּ עָ֠לָ֠יו אֶת־הַקְּעָרֹ֤ת וְאֶת־הַכַּפֹּת֙ וְאֶת־הַמְּנַקִּיֹּ֔ת וְאֵ֖ת קְשׂ֣וֹת הַנָּ֑סֶךְ וְלֶ֥חֶם הַתָּמִ֖יד עָלָ֥יו יִהְיֶֽה׃",
+          "counts": {
+            "all": 80,
+            "Commentary": 23,
+            "Midrash": 11,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Numbers 4:8",
+          "hebrewText": "וּפָרְשׂ֣וּ עֲלֵיהֶ֗ם בֶּ֚גֶד תּוֹלַ֣עַת שָׁנִ֔י וְכִסּ֣וּ אֹת֔וֹ בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְשָׂמ֖וּ אֶת־בַּדָּֽיו׃",
+          "counts": {
+            "all": 16,
+            "Commentary": 2,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Numbers 4:9",
+          "hebrewText": "וְלָקְח֣וּ&thinsp;<b>׀</b> בֶּ֣גֶד תְּכֵ֗לֶת וְכִסּ֞וּ אֶת־מְנֹרַ֤ת הַמָּאוֹר֙ וְאֶת־נֵ֣רֹתֶ֔יהָ וְאֶת־מַלְקָחֶ֖יהָ וְאֶת־מַחְתֹּתֶ֑יהָ וְאֵת֙ כׇּל־כְּלֵ֣י שַׁמְנָ֔הּ אֲשֶׁ֥ר יְשָׁרְתוּ־לָ֖הּ בָּהֶֽם׃",
+          "counts": {
+            "all": 37,
+            "Commentary": 13,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Numbers 4:10",
+          "hebrewText": "וְנָתְנ֤וּ אֹתָהּ֙ וְאֶת־כׇּל־כֵּלֶ֔יהָ אֶל־מִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְנָתְנ֖וּ עַל־הַמּֽוֹט׃",
+          "counts": {
+            "all": 27,
+            "Commentary": 14,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Numbers 4:11",
+          "hebrewText": "וְעַ֣ל&thinsp;<b>׀</b> מִזְבַּ֣ח הַזָּהָ֗ב יִפְרְשׂוּ֙ בֶּ֣גֶד תְּכֵ֔לֶת וְכִסּ֣וּ אֹת֔וֹ בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְשָׂמ֖וּ אֶת־בַּדָּֽיו׃",
+          "counts": {
+            "all": 19,
+            "Commentary": 5,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Numbers 4:12",
+          "hebrewText": "וְלָקְחוּ֩ אֶת־כׇּל־כְּלֵ֨י הַשָּׁרֵ֜ת אֲשֶׁ֧ר יְשָֽׁרְתוּ־בָ֣ם בַּקֹּ֗דֶשׁ וְנָֽתְנוּ֙ אֶל־בֶּ֣גֶד תְּכֵ֔לֶת וְכִסּ֣וּ אוֹתָ֔ם בְּמִכְסֵ֖ה ע֣וֹר תָּ֑חַשׁ וְנָתְנ֖וּ עַל־הַמּֽוֹט׃",
+          "counts": {
+            "all": 44,
+            "Commentary": 12,
+            "Midrash": 4,
+            "Talmud": 4,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Numbers 4:13",
+          "hebrewText": "וְדִשְּׁנ֖וּ אֶת־הַמִּזְבֵּ֑חַ וּפָרְשׂ֣וּ עָלָ֔יו בֶּ֖גֶד אַרְגָּמָֽן׃",
+          "counts": {
+            "all": 54,
+            "Commentary": 21,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Numbers 4:14",
+          "hebrewText": "וְנָתְנ֣וּ עָ֠לָ֠יו אֶֽת־כׇּל־כֵּלָ֞יו אֲשֶׁ֣ר יְֽשָׁרְת֧וּ עָלָ֣יו בָּהֶ֗ם אֶת־הַמַּחְתֹּ֤ת אֶת־הַמִּזְלָגֹת֙ וְאֶת־הַיָּעִ֣ים וְאֶת־הַמִּזְרָקֹ֔ת כֹּ֖ל כְּלֵ֣י הַמִּזְבֵּ֑חַ וּפָרְשׂ֣וּ עָלָ֗יו כְּס֛וּי ע֥וֹר תַּ֖חַשׁ וְשָׂמ֥וּ בַדָּֽיו׃",
+          "counts": {
+            "all": 37,
+            "Commentary": 12,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Numbers 4:15",
+          "hebrewText": "וְכִלָּ֣ה אַֽהֲרֹן־וּ֠בָנָ֠יו לְכַסֹּ֨ת אֶת־הַקֹּ֜דֶשׁ וְאֶת־כׇּל־כְּלֵ֣י הַקֹּ֘דֶשׁ֮ בִּנְסֹ֣עַ הַֽמַּחֲנֶה֒ וְאַחֲרֵי־כֵ֗ן יָבֹ֤אוּ בְנֵי־קְהָת֙ לָשֵׂ֔את וְלֹֽא־יִגְּע֥וּ אֶל־הַקֹּ֖דֶשׁ וָמֵ֑תוּ אֵ֛לֶּה מַשָּׂ֥א בְנֵֽי־קְהָ֖ת בְּאֹ֥הֶל מוֹעֵֽד׃",
+          "counts": {
+            "all": 46,
+            "Commentary": 18,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Numbers 4:16",
+          "hebrewText": "וּפְקֻדַּ֞ת אֶלְעָזָ֣ר&thinsp;<b>׀</b> בֶּן־אַהֲרֹ֣ן הַכֹּהֵ֗ן שֶׁ֤מֶן הַמָּאוֹר֙ וּקְטֹ֣רֶת הַסַּמִּ֔ים וּמִנְחַ֥ת הַתָּמִ֖יד וְשֶׁ֣מֶן הַמִּשְׁחָ֑ה פְּקֻדַּ֗ת כׇּל־הַמִּשְׁכָּן֙ וְכׇל־אֲשֶׁר־בּ֔וֹ בְּקֹ֖דֶשׁ וּבְכֵלָֽיו׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 58,
+            "Commentary": 36,
+            "Midrash": 5,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Numbers 4:17",
+          "hebrewText": "וַיְדַבֵּ֣ר יְהֹוָ֔ה אֶל־מֹשֶׁ֥ה וְאֶֽל־אַהֲרֹ֖ן לֵאמֹֽר׃",
+          "counts": {
+            "all": 9,
+            "Commentary": 4,
+            "Midrash": 1,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Numbers 4:18",
+          "hebrewText": "אַל־תַּכְרִ֕יתוּ אֶת־שֵׁ֖בֶט מִשְׁפְּחֹ֣ת הַקְּהָתִ֑י מִתּ֖וֹךְ הַלְוִיִּֽם׃",
+          "counts": {
+            "all": 43,
+            "Commentary": 14,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 3,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Numbers 4:19",
+          "hebrewText": "וְזֹ֣את&thinsp;<b>׀</b> עֲשׂ֣וּ לָהֶ֗ם וְחָיוּ֙ וְלֹ֣א יָמֻ֔תוּ בְּגִשְׁתָּ֖ם אֶת־קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים אַהֲרֹ֤ן וּבָנָיו֙ יָבֹ֔אוּ וְשָׂמ֣וּ אוֹתָ֗ם אִ֥ישׁ אִ֛ישׁ עַל־עֲבֹדָת֖וֹ וְאֶל־מַשָּׂאֽוֹ׃",
+          "counts": {
+            "all": 51,
+            "Commentary": 19,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 4,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Numbers 4:20",
+          "hebrewText": "וְלֹא־יָבֹ֧אוּ לִרְא֛וֹת כְּבַלַּ֥ע אֶת־הַקֹּ֖דֶשׁ וָמֵֽתוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 92,
+            "Commentary": 28,
+            "Midrash": 9,
+            "Talmud": 4,
+            "Halakhah": 3,
+            "Kabbalah": 3,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

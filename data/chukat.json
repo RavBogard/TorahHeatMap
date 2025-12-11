@@ -1,0 +1,594 @@
+{
+  "name": "Chukat",
+  "heName": "חקת",
+  "ref": "Numbers 19:1-22:1",
+  "book": "Numbers",
+  "data": [
+    {
+      "chapter": 21,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Numbers 21:1",
+          "hebrewText": "וַיִּשְׁמַ֞ע הַכְּנַעֲנִ֤י מֶֽלֶךְ־עֲרָד֙ יֹשֵׁ֣ב הַנֶּ֔גֶב כִּ֚י בָּ֣א יִשְׂרָאֵ֔ל דֶּ֖רֶךְ הָאֲתָרִ֑ים וַיִּלָּ֙חֶם֙ בְּיִשְׂרָאֵ֔ל וַיִּ֥שְׁבְּ&thinsp;<small>׀</small>&thinsp;מִמֶּ֖נּוּ שֶֽׁבִי׃",
+          "counts": {
+            "all": 181,
+            "Commentary": 81,
+            "Midrash": 22,
+            "Talmud": 8,
+            "Halakhah": 1,
+            "Kabbalah": 6,
+            "Musar": 4,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Numbers 21:2",
+          "hebrewText": "וַיִּדַּ֨ר יִשְׂרָאֵ֥ל נֶ֛דֶר לַֽיהֹוָ֖ה וַיֹּאמַ֑ר אִם־נָתֹ֨ן תִּתֵּ֜ן אֶת־הָעָ֤ם הַזֶּה֙ בְּיָדִ֔י וְהַֽחֲרַמְתִּ֖י אֶת־עָרֵיהֶֽם׃",
+          "counts": {
+            "all": 82,
+            "Commentary": 29,
+            "Midrash": 9,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Numbers 21:3",
+          "hebrewText": "וַיִּשְׁמַ֨ע יְהֹוָ֜ה בְּק֣וֹל יִשְׂרָאֵ֗ל וַיִּתֵּן֙ אֶת־הַֽכְּנַעֲנִ֔י וַיַּחֲרֵ֥ם אֶתְהֶ֖ם וְאֶת־עָרֵיהֶ֑ם וַיִּקְרָ֥א שֵׁם־הַמָּק֖וֹם חׇרְמָֽה׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 31,
+            "Commentary": 16,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Numbers 21:4",
+          "hebrewText": "וַיִּסְע֞וּ מֵהֹ֤ר הָהָר֙ דֶּ֣רֶךְ יַם־ס֔וּף לִסְבֹ֖ב אֶת־אֶ֣רֶץ אֱד֑וֹם וַתִּקְצַ֥ר נֶֽפֶשׁ־הָעָ֖ם בַּדָּֽרֶךְ׃",
+          "counts": {
+            "all": 86,
+            "Commentary": 33,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Numbers 21:5",
+          "hebrewText": "וַיְדַבֵּ֣ר הָעָ֗ם בֵּֽאלֹהִים֮ וּבְמֹשֶׁה֒ לָמָ֤ה הֶֽעֱלִיתֻ֙נוּ֙ מִמִּצְרַ֔יִם לָמ֖וּת בַּמִּדְבָּ֑ר כִּ֣י אֵ֥ין לֶ֙חֶם֙ וְאֵ֣ין מַ֔יִם וְנַפְשֵׁ֣נוּ קָ֔צָה בַּלֶּ֖חֶם הַקְּלֹקֵֽל׃",
+          "counts": {
+            "all": 165,
+            "Commentary": 45,
+            "Midrash": 42,
+            "Talmud": 4,
+            "Halakhah": 4,
+            "Kabbalah": 3,
+            "Musar": 8,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Numbers 21:6",
+          "hebrewText": "וַיְשַׁלַּ֨ח יְהֹוָ֜ה בָּעָ֗ם אֵ֚ת הַנְּחָשִׁ֣ים הַשְּׂרָפִ֔ים וַֽיְנַשְּׁכ֖וּ אֶת־הָעָ֑ם וַיָּ֥מׇת עַם־רָ֖ב מִיִּשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 71,
+            "Commentary": 22,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 6,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Numbers 21:7",
+          "hebrewText": "וַיָּבֹא֩ הָעָ֨ם אֶל־מֹשֶׁ֜ה וַיֹּאמְר֣וּ חָטָ֗אנוּ כִּֽי־דִבַּ֤רְנוּ בַֽיהֹוָה֙ וָבָ֔ךְ הִתְפַּלֵּל֙ אֶל־יְהֹוָ֔ה וְיָסֵ֥ר מֵעָלֵ֖ינוּ אֶת־הַנָּחָ֑שׁ וַיִּתְפַּלֵּ֥ל מֹשֶׁ֖ה בְּעַ֥ד הָעָֽם׃",
+          "counts": {
+            "all": 54,
+            "Commentary": 18,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 4,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Numbers 21:8",
+          "hebrewText": "וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־מֹשֶׁ֗ה עֲשֵׂ֤ה לְךָ֙ שָׂרָ֔ף וְשִׂ֥ים אֹת֖וֹ עַל־נֵ֑ס וְהָיָה֙ כׇּל־הַנָּשׁ֔וּךְ וְרָאָ֥ה אֹת֖וֹ וָחָֽי׃",
+          "counts": {
+            "all": 134,
+            "Commentary": 60,
+            "Midrash": 12,
+            "Talmud": 5,
+            "Halakhah": 3,
+            "Kabbalah": 4,
+            "Musar": 4,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Numbers 21:9",
+          "hebrewText": "וַיַּ֤עַשׂ מֹשֶׁה֙ נְחַ֣שׁ נְחֹ֔שֶׁת וַיְשִׂמֵ֖הוּ עַל־הַנֵּ֑ס וְהָיָ֗ה אִם־נָשַׁ֤ךְ הַנָּחָשׁ֙ אֶת־אִ֔ישׁ וְהִבִּ֛יט אֶל־נְחַ֥שׁ הַנְּחֹ֖שֶׁת וָחָֽי׃",
+          "counts": {
+            "all": 90,
+            "Commentary": 30,
+            "Midrash": 8,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 6,
+            "Musar": 3,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Numbers 21:10",
+          "hebrewText": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנ֖וּ בְּאֹבֹֽת׃",
+          "counts": {
+            "all": 27,
+            "Commentary": 14,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Numbers 21:11",
+          "hebrewText": "וַיִּסְע֖וּ מֵאֹבֹ֑ת וַֽיַּחֲנ֞וּ בְּעִיֵּ֣י הָֽעֲבָרִ֗ים בַּמִּדְבָּר֙ אֲשֶׁר֙ עַל־פְּנֵ֣י מוֹאָ֔ב מִמִּזְרַ֖ח הַשָּֽׁמֶשׁ׃",
+          "counts": {
+            "all": 40,
+            "Commentary": 21,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Numbers 21:12",
+          "hebrewText": "מִשָּׁ֖ם נָסָ֑עוּ וַֽיַּחֲנ֖וּ בְּנַ֥חַל זָֽרֶד׃",
+          "counts": {
+            "all": 29,
+            "Commentary": 13,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Numbers 21:13",
+          "hebrewText": "מִשָּׁם֮ נָסָ֒עוּ֒ וַֽיַּחֲנ֗וּ מֵעֵ֤בֶר אַרְנוֹן֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר הַיֹּצֵ֖א מִגְּבֻ֣ל הָֽאֱמֹרִ֑י כִּ֤י אַרְנוֹן֙ גְּב֣וּל מוֹאָ֔ב בֵּ֥ין מוֹאָ֖ב וּבֵ֥ין הָאֱמֹרִֽי׃",
+          "counts": {
+            "all": 53,
+            "Commentary": 32,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Numbers 21:14",
+          "hebrewText": "עַל־כֵּן֙ יֵֽאָמַ֔ר בְּסֵ֖פֶר מִלְחֲמֹ֣ת יְהֹוָ֑ה אֶת־וָהֵ֣ב בְּסוּפָ֔ה וְאֶת־הַנְּחָלִ֖ים אַרְנֽוֹן׃",
+          "counts": {
+            "all": 142,
+            "Commentary": 62,
+            "Midrash": 22,
+            "Talmud": 5,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 4,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Numbers 21:15",
+          "hebrewText": "וְאֶ֙שֶׁד֙ הַנְּחָלִ֔ים אֲשֶׁ֥ר נָטָ֖ה לְשֶׁ֣בֶת עָ֑ר וְנִשְׁעַ֖ן לִגְב֥וּל מוֹאָֽב׃",
+          "counts": {
+            "all": 72,
+            "Commentary": 32,
+            "Midrash": 7,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Numbers 21:16",
+          "hebrewText": "וּמִשָּׁ֖ם בְּאֵ֑רָה הִ֣וא הַבְּאֵ֗ר אֲשֶׁ֨ר אָמַ֤ר יְהֹוָה֙ לְמֹשֶׁ֔ה אֱסֹף֙ אֶת־הָעָ֔ם וְאֶתְּנָ֥ה לָהֶ֖ם מָֽיִם׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 55,
+            "Commentary": 25,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Numbers 21:17",
+          "hebrewText": "אָ֚ז יָשִׁ֣יר יִשְׂרָאֵ֔ל אֶת־הַשִּׁירָ֖ה הַזֹּ֑את עֲלִ֥י בְאֵ֖ר עֱנוּ־לָֽהּ׃",
+          "counts": {
+            "all": 175,
+            "Commentary": 55,
+            "Midrash": 51,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 1,
+            "Chasidut": 19,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Numbers 21:18",
+          "hebrewText": "בְּאֵ֞ר חֲפָר֣וּהָ שָׂרִ֗ים כָּר֙וּהָ֙ נְדִיבֵ֣י הָעָ֔ם בִּמְחֹקֵ֖ק בְּמִשְׁעֲנֹתָ֑ם וּמִמִּדְבָּ֖ר מַתָּנָֽה׃",
+          "counts": {
+            "all": 169,
+            "Commentary": 59,
+            "Midrash": 16,
+            "Talmud": 1,
+            "Halakhah": 2,
+            "Kabbalah": 11,
+            "Musar": 2,
+            "Chasidut": 34,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Numbers 21:19",
+          "hebrewText": "וּמִמַּתָּנָ֖ה נַחֲלִיאֵ֑ל וּמִנַּחֲלִיאֵ֖ל בָּמֽוֹת׃",
+          "counts": {
+            "all": 90,
+            "Commentary": 23,
+            "Midrash": 23,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Numbers 21:20",
+          "hebrewText": "וּמִבָּמ֗וֹת הַגַּיְא֙ אֲשֶׁר֙ בִּשְׂדֵ֣ה מוֹאָ֔ב רֹ֖אשׁ הַפִּסְגָּ֑ה וְנִשְׁקָ֖פָה עַל־פְּנֵ֥י הַיְשִׁימֹֽן׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 99,
+            "Commentary": 51,
+            "Midrash": 7,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Numbers 21:21",
+          "hebrewText": "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־סִיחֹ֥ן מֶֽלֶךְ־הָאֱמֹרִ֖י לֵאמֹֽר׃",
+          "counts": {
+            "all": 50,
+            "Commentary": 18,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Numbers 21:22",
+          "hebrewText": "אֶעְבְּרָ֣ה בְאַרְצֶ֗ךָ לֹ֤א נִטֶּה֙ בְּשָׂדֶ֣ה וּבְכֶ֔רֶם לֹ֥א נִשְׁתֶּ֖ה מֵ֣י בְאֵ֑ר בְּדֶ֤רֶךְ הַמֶּ֙לֶךְ֙ נֵלֵ֔ךְ עַ֥ד אֲשֶֽׁר־נַעֲבֹ֖ר גְּבֻלֶֽךָ׃",
+          "counts": {
+            "all": 37,
+            "Commentary": 20,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Numbers 21:23",
+          "hebrewText": "וְלֹא־נָתַ֨ן סִיחֹ֣ן אֶת־יִשְׂרָאֵל֮ עֲבֹ֣ר בִּגְבֻלוֹ֒ וַיֶּאֱסֹ֨ף סִיחֹ֜ן אֶת־כׇּל־עַמּ֗וֹ וַיֵּצֵ֞א לִקְרַ֤את יִשְׂרָאֵל֙ הַמִּדְבָּ֔רָה וַיָּבֹ֖א יָ֑הְצָה וַיִּלָּ֖חֶם בְּיִשְׂרָאֵֽל׃",
+          "counts": {
+            "all": 52,
+            "Commentary": 21,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Numbers 21:24",
+          "hebrewText": "וַיַּכֵּ֥הוּ יִשְׂרָאֵ֖ל לְפִי־חָ֑רֶב וַיִּירַ֨שׁ אֶת־אַרְצ֜וֹ מֵֽאַרְנֹ֗ן עַד־יַבֹּק֙ עַד־בְּנֵ֣י עַמּ֔וֹן כִּ֣י עַ֔ז גְּב֖וּל בְּנֵ֥י עַמּֽוֹן׃",
+          "counts": {
+            "all": 51,
+            "Commentary": 23,
+            "Midrash": 3,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Numbers 21:25",
+          "hebrewText": "וַיִּקַּח֙ יִשְׂרָאֵ֔ל אֵ֥ת כׇּל־הֶעָרִ֖ים הָאֵ֑לֶּה וַיֵּ֤שֶׁב יִשְׂרָאֵל֙ בְּכׇל־עָרֵ֣י הָֽאֱמֹרִ֔י בְּחֶשְׁבּ֖וֹן וּבְכׇל־בְּנֹתֶֽיהָ׃",
+          "counts": {
+            "all": 24,
+            "Commentary": 9,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Numbers 21:26",
+          "hebrewText": "כִּ֣י חֶשְׁבּ֔וֹן עִ֗יר סִיחֹ֛ן מֶ֥לֶךְ הָאֱמֹרִ֖י הִ֑וא וְה֣וּא נִלְחַ֗ם בְּמֶ֤לֶךְ מוֹאָב֙ הָֽרִאשׁ֔וֹן וַיִּקַּ֧ח אֶת־כׇּל־אַרְצ֛וֹ מִיָּד֖וֹ עַד־אַרְנֹֽן׃",
+          "counts": {
+            "all": 86,
+            "Commentary": 22,
+            "Midrash": 15,
+            "Talmud": 5,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Numbers 21:27",
+          "hebrewText": "עַל־כֵּ֛ן יֹאמְר֥וּ הַמֹּשְׁלִ֖ים בֹּ֣אוּ חֶשְׁבּ֑וֹן תִּבָּנֶ֥ה וְתִכּוֹנֵ֖ן עִ֥יר סִיחֽוֹן׃",
+          "counts": {
+            "all": 119,
+            "Commentary": 47,
+            "Midrash": 10,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 4,
+            "Musar": 6,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Numbers 21:28",
+          "hebrewText": "כִּי־אֵשׁ֙ יָֽצְאָ֣ה מֵֽחֶשְׁבּ֔וֹן לֶהָבָ֖ה מִקִּרְיַ֣ת סִיחֹ֑ן אָֽכְלָה֙ עָ֣ר מוֹאָ֔ב בַּעֲלֵ֖י בָּמ֥וֹת אַרְנֹֽן׃",
+          "counts": {
+            "all": 87,
+            "Commentary": 45,
+            "Midrash": 4,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Numbers 21:29",
+          "hebrewText": "אוֹי־לְךָ֣ מוֹאָ֔ב אָבַ֖דְתָּ עַם־כְּמ֑וֹשׁ נָתַ֨ן בָּנָ֤יו פְּלֵיטִם֙ וּבְנֹתָ֣יו בַּשְּׁבִ֔ית לְמֶ֥לֶךְ אֱמֹרִ֖י סִיחֽוֹן׃",
+          "counts": {
+            "all": 64,
+            "Commentary": 31,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Numbers 21:30",
+          "hebrewText": "וַנִּירָ֛ם אָבַ֥ד חֶשְׁבּ֖וֹן עַד־דִּיבֹ֑ן וַנַּשִּׁ֣ים עַד־נֹ֔פַח אֲשֶׁ֖רׄ עַד־מֵֽידְבָֽא׃",
+          "counts": {
+            "all": 101,
+            "Commentary": 51,
+            "Midrash": 17,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Numbers 21:31",
+          "hebrewText": "וַיֵּ֙שֶׁב֙ יִשְׂרָאֵ֔ל בְּאֶ֖רֶץ הָאֱמֹרִֽי׃",
+          "counts": {
+            "all": 13,
+            "Commentary": 4,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Numbers 21:32",
+          "hebrewText": "וַיִּשְׁלַ֤ח מֹשֶׁה֙ לְרַגֵּ֣ל אֶת־יַעְזֵ֔ר וַֽיִּלְכְּד֖וּ בְּנֹתֶ֑יהָ <span class=\"mam-kq\"><span class=\"mam-kq-k\">(ויירש)</span> <span class=\"mam-kq-q\">[וַיּ֖וֹרֶשׁ]</span></span> אֶת־הָאֱמֹרִ֥י אֲשֶׁר־שָֽׁם׃",
+          "counts": {
+            "all": 35,
+            "Commentary": 18,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Numbers 21:33",
+          "hebrewText": "וַיִּפְנוּ֙ וַֽיַּעֲל֔וּ דֶּ֖רֶךְ הַבָּשָׁ֑ן וַיֵּצֵ֣א עוֹג֩ מֶֽלֶךְ־הַבָּשָׁ֨ן לִקְרָאתָ֜ם ה֧וּא וְכׇל־עַמּ֛וֹ לַמִּלְחָמָ֖ה אֶדְרֶֽעִי׃",
+          "counts": {
+            "all": 39,
+            "Commentary": 13,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Numbers 21:34",
+          "hebrewText": "וַיֹּ֨אמֶר יְהֹוָ֤ה אֶל־מֹשֶׁה֙ אַל־תִּירָ֣א אֹת֔וֹ כִּ֣י בְיָדְךָ֞ נָתַ֧תִּי אֹת֛וֹ וְאֶת־כׇּל־עַמּ֖וֹ וְאֶת־אַרְצ֑וֹ וְעָשִׂ֣יתָ לּ֔וֹ כַּאֲשֶׁ֣ר עָשִׂ֗יתָ לְסִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּֽוֹן׃",
+          "counts": {
+            "all": 80,
+            "Commentary": 28,
+            "Midrash": 20,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Numbers 21:35",
+          "hebrewText": "וַיַּכּ֨וּ אֹת֤וֹ וְאֶת־בָּנָיו֙ וְאֶת־כׇּל־עַמּ֔וֹ עַד־בִּלְתִּ֥י הִשְׁאִֽיר־ל֖וֹ שָׂרִ֑יד וַיִּֽירְשׁ֖וּ אֶת־אַרְצֽוֹ׃",
+          "counts": {
+            "all": 37,
+            "Commentary": 13,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Numbers 22:1",
+          "hebrewText": "וַיִּסְע֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחֲנוּ֙ בְּעַֽרְב֣וֹת מוֹאָ֔ב מֵעֵ֖בֶר לְיַרְדֵּ֥ן יְרֵחֽוֹ׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 25,
+            "Commentary": 10,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}
