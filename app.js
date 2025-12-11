@@ -385,22 +385,85 @@ function renderSidebar() {
         const section = document.createElement('div');
         section.className = 'book-section';
 
-        const title = document.createElement('div');
+        const header = document.createElement('div');
+        header.className = 'book-header';
+        header.onclick = (e) => {
+            // If click is on title, load book? 
+            // UX Decision: Header click purely toggles? Or title loads book?
+            // "on the left list of parshiyot it's really long. can we collapse them into their books"
+            // Let's make the whole header toggle the list. 
+            // But user also liked clicking book to load book map.
+            // Let's make Title load book map, Chevron toggle? Or separate? 
+            // Simplest: Header toggles. Title text click loads map? 
+            // Current "Book-Level View" relies on clicking title. 
+            // Let's do: Header toggles. Inside header, Title span loads book (and stops propagation?).
+            // Actually, loading book implies expanding it. So clicking header -> Toggle. 
+            // If collapsed -> Expand. If Expanded -> Collapse.
+            // But we want to separate "View Book Heatmap" from "Expand List".
+            // Let's make Title text the "View Book" link, and the rest of the bar (or chevron) the toggle.
+            toggleBook(book);
+        };
+
+        const title = document.createElement('span');
         title.className = 'book-title';
         title.textContent = book;
-        title.onclick = () => loadBook(book); // Clickable Book Title
-        section.appendChild(title);
+        title.onclick = (e) => {
+            e.stopPropagation(); // prevent header toggle if we want distinct action?
+            // Actually, if we load book, we probably want to expand it too. 
+            // So default click bubble is fine, but we also call loadBook.
+            loadBook(book);
+            expandBook(book); // Ensure expanded
+        };
+
+        const chevron = document.createElement('span');
+        chevron.className = 'chevron';
+        chevron.textContent = '▼';
+
+        header.appendChild(title);
+        header.appendChild(chevron);
+        section.appendChild(header);
+
+        // Parasha List Container
+        const listContainer = document.createElement('div');
+        listContainer.className = 'parasha-list';
+        section.setAttribute('data-book', book); // Identify section
 
         bookParashot.forEach(p => {
             const item = document.createElement('div');
             item.className = 'parasha-item';
             item.innerHTML = `<span>${p.name}</span> <span style="font-size:0.8em; opacity:0.6">${p.heName}</span>`;
             item.onclick = () => loadParasha(p);
-            section.appendChild(item);
+            listContainer.appendChild(item);
         });
 
+        section.appendChild(listContainer);
         container.appendChild(section);
     });
+}
+
+function toggleBook(bookName) {
+    const section = document.querySelector(`.book-section[data-book="${bookName}"]`);
+    if (section) {
+        const isExpanded = section.classList.contains('expanded');
+
+        // Collapse all others
+        document.querySelectorAll('.book-section').forEach(s => s.classList.remove('expanded'));
+
+        // Toggle current (if it was closed, open it. If it was open, it's now closed because we removed all. Wait.)
+        // If we want accordion:
+        if (!isExpanded) {
+            section.classList.add('expanded');
+        }
+    }
+}
+
+function expandBook(bookName) {
+    const section = document.querySelector(`.book-section[data-book="${bookName}"]`);
+    if (section) {
+        // Collapse all others first for clean accordion
+        document.querySelectorAll('.book-section').forEach(s => s.classList.remove('expanded'));
+        section.classList.add('expanded');
+    }
 }
 
 
@@ -516,12 +579,17 @@ async function loadParasha(parasha, updateUrl = true) {
     if (infoBtn) infoBtn.style.display = 'flex';
     if (legendBar) legendBar.style.display = 'flex';
 
-    // Set Active State in Sidebar
+    // Set Active State in Sidebar AND Expand Book
     document.querySelectorAll('.parasha-item').forEach(el => {
         el.classList.remove('active');
         // Check if this item matches the selected parasha
         if (el.textContent.includes(parasha.name)) {
             el.classList.add('active');
+
+            // Expand the parent book
+            // Identify book from parasha.ref "Genesis 1:1..."
+            const bookName = parasha.ref.split(' ')[0];
+            expandBook(bookName);
         }
     });
 

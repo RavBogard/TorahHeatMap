@@ -127,20 +127,60 @@ body {
   margin-bottom: 24px;
 }
 
+.book-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  cursor: pointer;
+  margin-bottom: 4px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease;
+}
+
+.book-header:hover {
+  background-color: var(--hover-color);
+}
+
 .book-title {
   font-size: 0.875rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: #6b7280;
-  margin-bottom: 12px;
   font-weight: 600;
-  padding-left: 12px;
-  cursor: pointer;
   transition: color 0.2s ease;
 }
 
-.book-title:hover {
+.book-header:hover .book-title {
   color: var(--accent-color);
+}
+
+.chevron {
+  font-size: 0.8rem;
+  color: #9ca3af;
+  transition: transform 0.3s ease;
+}
+
+.book-section.expanded .chevron {
+  transform: rotate(180deg);
+}
+
+.book-section.expanded .book-title {
+  color: var(--accent-color);
+}
+
+.parasha-list {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+  opacity: 0;
+}
+
+.book-section.expanded .parasha-list {
+  max-height: 1000px;
+  /* Arbitrary large height */
+  opacity: 1;
+  transition: max-height 0.5s ease-in, opacity 0.3s ease-in;
 }
 
 .parasha-item {
