@@ -388,6 +388,7 @@ function renderSidebar() {
         const title = document.createElement('div');
         title.className = 'book-title';
         title.textContent = book;
+        title.onclick = () => loadBook(book); // Clickable Book Title
         section.appendChild(title);
 
         bookParashot.forEach(p => {
@@ -400,6 +401,94 @@ function renderSidebar() {
 
         container.appendChild(section);
     });
+}
+
+
+
+// Load Entire Book
+async function loadBook(bookName) {
+    // Auto-close sidebar
+    toggleSidebar(false);
+
+    // Filter parsahot for this book
+    const bookParashot = parashot.filter(p => p.ref.startsWith(bookName));
+    if (bookParashot.length === 0) return;
+
+    // Reset UI State
+    currentParasha = null; // No specific parasha selected
+    document.getElementById('parasha-title').textContent = bookName;
+    document.getElementById('parasha-hebrew').textContent = '';
+    document.getElementById('parasha-ref').style.display = 'none';
+
+    // Clear Active Sidebar Items
+    document.querySelectorAll('.parasha-item').forEach(el => el.classList.remove('active'));
+
+    // Show Loading
+    const heatmapContainer = document.getElementById('heatmap-container');
+    heatmapContainer.innerHTML = `<div class="loading-container"><div class="loading-spinner"></div><div class="loading-text">Loading ${bookName}...</div></div>`;
+
+    // Show Info/Legent
+    document.getElementById('info-btn').style.display = 'none'; // Maybe hide info for book view? Or generic info.
+    document.getElementById('legend-bar').style.display = 'flex';
+    document.getElementById('filter-container').style.display = 'flex';
+
+    try {
+        // Fetch ALL parashot JSONs for this book concurrently
+        const promises = bookParashot.map(p => {
+            const slug = getSlugFromName(p.name);
+            return fetch(`data/${slug}.json`).then(res => res.ok ? res.json() : null);
+        });
+
+        const results = await Promise.all(promises);
+        const validResults = results.filter(r => r !== null);
+
+        // Merge Data
+        // Structure needed for cachedStaticData: { book: "Genesis", data: [ { chapter: 1, verses: [...] } ] }
+        const mergedChapters = {}; // { 1: { chapter: 1, verses: [...] } }
+
+        validResults.forEach(pData => {
+            pData.data.forEach(chap => {
+                if (!mergedChapters[chap.chapter]) {
+                    // New chapter, deep copy structure
+                    mergedChapters[chap.chapter] = JSON.parse(JSON.stringify(chap));
+                } else {
+                    // Existing chapter (split parasha case), merge verses
+                    // We need to insert verses in correct order or just sort later.
+                    // The verses array structure is [ { verse: 1, ... }, { verse: 2, ... } ]
+                    // We can just concat and then sort by verse number.
+                    mergedChapters[chap.chapter].verses = mergedChapters[chap.chapter].verses.concat(chap.verses);
+                }
+            });
+        });
+
+        // Convert map to array and sort chapters
+        const sortedChapters = Object.values(mergedChapters).sort((a, b) => a.chapter - b.chapter);
+
+        // Sort verses within chapters (handle merge of split parashot)
+        sortedChapters.forEach(chap => {
+            chap.verses.sort((a, b) => a.verse - b.verse);
+        });
+
+        const mergedData = {
+            book: bookName,
+            data: sortedChapters
+        };
+
+        // Cache and Render
+        cachedStaticData = mergedData;
+        cachedBookName = bookName;
+        cachedLinks = [];
+
+        // Reset filter to all
+        const categoryFilter = document.getElementById('category-filter');
+        if (categoryFilter) categoryFilter.value = 'all';
+
+        applyFilter('all');
+
+    } catch (e) {
+        console.error("Failed to load book", e);
+        heatmapContainer.innerHTML = `<div class="empty-state">Failed to load ${bookName}. Please try again.</div>`;
+    }
 }
 
 async function loadParasha(parasha, updateUrl = true) {

@@ -135,6 +135,12 @@ body {
   margin-bottom: 12px;
   font-weight: 600;
   padding-left: 12px;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.book-title:hover {
+  color: var(--accent-color);
 }
 
 .parasha-item {
