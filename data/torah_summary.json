@@ -79,6 +79,121 @@
       "chapter": 17,
       "count": 2829,
       "slug": "lech-lecha"
+    },
+    {
+      "chapter": 18,
+      "count": 4992,
+      "slug": "vayera"
+    },
+    {
+      "chapter": 19,
+      "count": 3102,
+      "slug": "vayera"
+    },
+    {
+      "chapter": 21,
+      "count": 2764,
+      "slug": "vayera"
+    },
+    {
+      "chapter": 22,
+      "count": 3012,
+      "slug": "vayera"
+    },
+    {
+      "chapter": 23,
+      "count": 1852,
+      "slug": "chayei-sara"
+    },
+    {
+      "chapter": 24,
+      "count": 5039,
+      "slug": "chayei-sara"
+    },
+    {
+      "chapter": 25,
+      "count": 1269,
+      "slug": "chayei-sara"
+    },
+    {
+      "chapter": 26,
+      "count": 2614,
+      "slug": "toldot"
+    },
+    {
+      "chapter": 27,
+      "count": 4337,
+      "slug": "toldot"
+    },
+    {
+      "chapter": 28,
+      "count": 3543,
+      "slug": "toldot"
+    },
+    {
+      "chapter": 29,
+      "count": 2706,
+      "slug": "vayetzei"
+    },
+    {
+      "chapter": 31,
+      "count": 3590,
+      "slug": "vayetzei"
+    },
+    {
+      "chapter": 32,
+      "count": 3902,
+      "slug": "vayetzei"
+    },
+    {
+      "chapter": 33,
+      "count": 2005,
+      "slug": "vayishlach"
+    },
+    {
+      "chapter": 34,
+      "count": 1833,
+      "slug": "vayishlach"
+    },
+    {
+      "chapter": 36,
+      "count": 1672,
+      "slug": "vayishlach"
+    },
+    {
+      "chapter": 39,
+      "count": 1899,
+      "slug": "vayeshev"
+    },
+    {
+      "chapter": 40,
+      "count": 1409,
+      "slug": "vayeshev"
+    },
+    {
+      "chapter": 41,
+      "count": 3933,
+      "slug": "miketz"
+    },
+    {
+      "chapter": 43,
+      "count": 2030,
+      "slug": "miketz"
+    },
+    {
+      "chapter": 44,
+      "count": 1963,
+      "slug": "miketz"
+    },
+    {
+      "chapter": 45,
+      "count": 2091,
+      "slug": "vayigash"
+    },
+    {
+      "chapter": 47,
+      "count": 1620,
+      "slug": "vayigash"
     }
   ],
   "Exodus": [],

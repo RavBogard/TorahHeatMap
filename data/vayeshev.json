@@ -1,0 +1,800 @@
+{
+  "name": "Vayeshev",
+  "heName": "וישב",
+  "ref": "Genesis 37:1-40:23",
+  "book": "Genesis",
+  "data": [
+    {
+      "chapter": 39,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 39:1",
+          "hebrewText": "וְיוֹסֵ֖ף הוּרַ֣ד מִצְרָ֑יְמָה וַיִּקְנֵ֡הוּ פּוֹטִיפַר֩ סְרִ֨יס פַּרְעֹ֜ה שַׂ֤ר הַטַּבָּחִים֙ אִ֣ישׁ מִצְרִ֔י מִיַּד֙ הַיִּשְׁמְעֵאלִ֔ים אֲשֶׁ֥ר הוֹרִדֻ֖הוּ שָֽׁמָּה׃",
+          "counts": {
+            "all": 159,
+            "Rashi": 1,
+            "Commentary": 58,
+            "Midrash": 54,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 39:2",
+          "hebrewText": "וַיְהִ֤י יְהֹוָה֙ אֶת־יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֖ית אֲדֹנָ֥יו הַמִּצְרִֽי׃",
+          "counts": {
+            "all": 93,
+            "Rashi": 0,
+            "Commentary": 35,
+            "Midrash": 26,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 39:3",
+          "hebrewText": "וַיַּ֣רְא אֲדֹנָ֔יו כִּ֥י יְהֹוָ֖ה אִתּ֑וֹ וְכֹל֙ אֲשֶׁר־ה֣וּא עֹשֶׂ֔ה יְהֹוָ֖ה מַצְלִ֥יחַ בְּיָדֽוֹ׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 1,
+            "Commentary": 23,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 39:4",
+          "hebrewText": "וַיִּמְצָ֨א יוֹסֵ֥ף חֵ֛ן בְּעֵינָ֖יו וַיְשָׁ֣רֶת אֹת֑וֹ וַיַּפְקִדֵ֙הוּ֙ עַל־בֵּית֔וֹ וְכׇל־יֶשׁ־ל֖וֹ נָתַ֥ן בְּיָדֽוֹ׃",
+          "counts": {
+            "all": 53,
+            "Rashi": 1,
+            "Commentary": 21,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 39:5",
+          "hebrewText": "וַיְהִ֡י מֵאָז֩ הִפְקִ֨יד אֹת֜וֹ בְּבֵית֗וֹ וְעַל֙ כׇּל־אֲשֶׁ֣ר יֶשׁ־ל֔וֹ וַיְבָ֧רֶךְ יְהֹוָ֛ה אֶת־בֵּ֥ית הַמִּצְרִ֖י בִּגְלַ֣ל יוֹסֵ֑ף וַיְהִ֞י בִּרְכַּ֤ת יְהֹוָה֙ בְּכׇל־אֲשֶׁ֣ר יֶשׁ־ל֔וֹ בַּבַּ֖יִת וּבַשָּׂדֶֽה׃",
+          "counts": {
+            "all": 83,
+            "Rashi": 0,
+            "Commentary": 23,
+            "Midrash": 21,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 39:6",
+          "hebrewText": "וַיַּעֲזֹ֣ב כׇּל־אֲשֶׁר־לוֹ֮ בְּיַד־יוֹסֵף֒ וְלֹא־יָדַ֤ע אִתּוֹ֙ מְא֔וּמָה כִּ֥י אִם־הַלֶּ֖חֶם אֲשֶׁר־ה֣וּא אוֹכֵ֑ל וַיְהִ֣י יוֹסֵ֔ף יְפֵה־תֹ֖אַר וִיפֵ֥ה מַרְאֶֽה׃",
+          "counts": {
+            "all": 190,
+            "Rashi": 6,
+            "Commentary": 74,
+            "Midrash": 26,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 7,
+            "Musar": 4,
+            "Chasidut": 24,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 39:7",
+          "hebrewText": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה וַתִּשָּׂ֧א אֵֽשֶׁת־אֲדֹנָ֛יו אֶת־עֵינֶ֖יהָ אֶל־יוֹסֵ֑ף וַתֹּ֖אמֶר שִׁכְבָ֥ה עִמִּֽי׃",
+          "counts": {
+            "all": 112,
+            "Rashi": 3,
+            "Commentary": 31,
+            "Midrash": 42,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 5,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 39:8",
+          "hebrewText": "וַיְמָאֵ֓ן&thinsp;<b>׀</b> וַיֹּ֙אמֶר֙ אֶל־אֵ֣שֶׁת אֲדֹנָ֔יו הֵ֣ן אֲדֹנִ֔י לֹא־יָדַ֥ע אִתִּ֖י מַה־בַּבָּ֑יִת וְכֹ֥ל אֲשֶׁר־יֶשׁ־ל֖וֹ נָתַ֥ן בְּיָדִֽי׃",
+          "counts": {
+            "all": 84,
+            "Rashi": 0,
+            "Commentary": 31,
+            "Midrash": 19,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 39:9",
+          "hebrewText": "אֵינֶ֨נּוּ גָד֜וֹל בַּבַּ֣יִת הַזֶּה֮ מִמֶּ֒נִּי֒ וְלֹֽא־חָשַׂ֤ךְ מִמֶּ֙נִּי֙ מְא֔וּמָה כִּ֥י אִם־אוֹתָ֖ךְ בַּאֲשֶׁ֣ר אַתְּ־אִשְׁתּ֑וֹ וְאֵ֨יךְ אֶֽעֱשֶׂ֜ה הָרָעָ֤ה הַגְּדֹלָה֙ הַזֹּ֔את וְחָטָ֖אתִי לֵֽאלֹהִֽים׃",
+          "counts": {
+            "all": 147,
+            "Rashi": 2,
+            "Commentary": 43,
+            "Midrash": 41,
+            "Talmud": 5,
+            "Halakhah": 3,
+            "Kabbalah": 7,
+            "Musar": 6,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Genesis 39:10",
+          "hebrewText": "וַיְהִ֕י כְּדַבְּרָ֥הּ אֶל־יוֹסֵ֖ף י֣וֹם&thinsp;<small>׀</small>&thinsp;י֑וֹם וְלֹא־שָׁמַ֥ע אֵלֶ֛יהָ לִשְׁכַּ֥ב אֶצְלָ֖הּ לִהְי֥וֹת עִמָּֽהּ׃",
+          "counts": {
+            "all": 131,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 36,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 9,
+            "Musar": 5,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Genesis 39:11",
+          "hebrewText": "וַֽיְהִי֙ כְּהַיּ֣וֹם הַזֶּ֔ה וַיָּבֹ֥א הַבַּ֖יְתָה לַעֲשׂ֣וֹת מְלַאכְתּ֑וֹ וְאֵ֨ין אִ֜ישׁ מֵאַנְשֵׁ֥י הַבַּ֛יִת שָׁ֖ם בַּבָּֽיִת׃",
+          "counts": {
+            "all": 134,
+            "Rashi": 3,
+            "Commentary": 62,
+            "Midrash": 29,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Genesis 39:12",
+          "hebrewText": "וַתִּתְפְּשֵׂ֧הוּ בְּבִגְד֛וֹ לֵאמֹ֖ר שִׁכְבָ֣ה עִמִּ֑י וַיַּעֲזֹ֤ב בִּגְדוֹ֙ בְּיָדָ֔הּ וַיָּ֖נׇס וַיֵּצֵ֥א הַחֽוּצָה׃",
+          "counts": {
+            "all": 107,
+            "Rashi": 0,
+            "Commentary": 30,
+            "Midrash": 25,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 7,
+            "Musar": 3,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Genesis 39:13",
+          "hebrewText": "וַֽיְהִי֙ כִּרְאוֹתָ֔הּ כִּֽי־עָזַ֥ב בִּגְד֖וֹ בְּיָדָ֑הּ וַיָּ֖נׇס הַחֽוּצָה׃",
+          "counts": {
+            "all": 20,
+            "Rashi": 0,
+            "Commentary": 7,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Genesis 39:14",
+          "hebrewText": "וַתִּקְרָ֞א לְאַנְשֵׁ֣י בֵיתָ֗הּ וַתֹּ֤אמֶר לָהֶם֙ לֵאמֹ֔ר רְא֗וּ הֵ֥בִיא לָ֛נוּ אִ֥ישׁ עִבְרִ֖י לְצַ֣חֶק בָּ֑נוּ בָּ֤א אֵלַי֙ לִשְׁכַּ֣ב עִמִּ֔י וָאֶקְרָ֖א בְּק֥וֹל גָּדֽוֹל׃",
+          "counts": {
+            "all": 95,
+            "Rashi": 2,
+            "Commentary": 47,
+            "Midrash": 16,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Genesis 39:15",
+          "hebrewText": "וַיְהִ֣י כְשׇׁמְע֔וֹ כִּֽי־הֲרִימֹ֥תִי קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֤ב בִּגְדוֹ֙ אֶצְלִ֔י וַיָּ֖נׇס וַיֵּצֵ֥א הַחֽוּצָה׃",
+          "counts": {
+            "all": 29,
+            "Rashi": 0,
+            "Commentary": 11,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Genesis 39:16",
+          "hebrewText": "וַתַּנַּ֥ח בִּגְד֖וֹ אֶצְלָ֑הּ עַד־בּ֥וֹא אֲדֹנָ֖יו אֶל־בֵּיתֽוֹ׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 3,
+            "Commentary": 6,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Genesis 39:17",
+          "hebrewText": "וַתְּדַבֵּ֣ר אֵלָ֔יו כַּדְּבָרִ֥ים הָאֵ֖לֶּה לֵאמֹ֑ר בָּֽא־אֵלַ֞י הָעֶ֧בֶד הָֽעִבְרִ֛י אֲשֶׁר־הֵבֵ֥אתָ לָּ֖נוּ לְצַ֥חֶק בִּֽי׃",
+          "counts": {
+            "all": 58,
+            "Rashi": 3,
+            "Commentary": 23,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Genesis 39:18",
+          "hebrewText": "וַיְהִ֕י כַּהֲרִימִ֥י קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֥ב בִּגְד֛וֹ אֶצְלִ֖י וַיָּ֥נׇס הַחֽוּצָה׃",
+          "counts": {
+            "all": 23,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Genesis 39:19",
+          "hebrewText": "וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹנָ֜יו אֶת־דִּבְרֵ֣י אִשְׁתּ֗וֹ אֲשֶׁ֨ר דִּבְּרָ֤ה אֵלָיו֙ לֵאמֹ֔ר כַּדְּבָרִ֣ים הָאֵ֔לֶּה עָ֥שָׂה לִ֖י עַבְדֶּ֑ךָ וַיִּ֖חַר אַפּֽוֹ׃",
+          "counts": {
+            "all": 47,
+            "Rashi": 1,
+            "Commentary": 28,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 39:20",
+          "hebrewText": "וַיִּקַּח֩ אֲדֹנֵ֨י יוֹסֵ֜ף אֹת֗וֹ וַֽיִּתְּנֵ֙הוּ֙ אֶל־בֵּ֣ית הַסֹּ֔הַר מְק֕וֹם אֲשֶׁר־<span class=\"mam-kq\"><span class=\"mam-kq-q\">[אֲסִירֵ֥י]</span> <span class=\"mam-kq-k\">(אסורי)</span></span> הַמֶּ֖לֶךְ אֲסוּרִ֑ים וַֽיְהִי־שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 2,
+            "Commentary": 31,
+            "Midrash": 13,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 39:21",
+          "hebrewText": "וַיְהִ֤י יְהֹוָה֙ אֶת־יוֹסֵ֔ף וַיֵּ֥ט אֵלָ֖יו חָ֑סֶד וַיִּתֵּ֣ן חִנּ֔וֹ בְּעֵינֵ֖י שַׂ֥ר בֵּית־הַסֹּֽהַר׃",
+          "counts": {
+            "all": 69,
+            "Rashi": 1,
+            "Commentary": 17,
+            "Midrash": 20,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Genesis 39:22",
+          "hebrewText": "וַיִּתֵּ֞ן שַׂ֤ר בֵּית־הַסֹּ֙הַר֙ בְּיַד־יוֹסֵ֔ף אֵ֚ת כׇּל־הָ֣אֲסִירִ֔ם אֲשֶׁ֖ר בְּבֵ֣ית הַסֹּ֑הַר וְאֵ֨ת כׇּל־אֲשֶׁ֤ר עֹשִׂים֙ שָׁ֔ם ה֖וּא הָיָ֥ה עֹשֶֽׂה׃",
+          "counts": {
+            "all": 45,
+            "Rashi": 1,
+            "Commentary": 27,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Genesis 39:23",
+          "hebrewText": "אֵ֣ין&thinsp;<b>׀</b> שַׂ֣ר בֵּית־הַסֹּ֗הַר רֹאֶ֤ה אֶֽת־כׇּל־מְא֙וּמָה֙ בְּיָד֔וֹ בַּאֲשֶׁ֥ר יְהֹוָ֖ה אִתּ֑וֹ וַֽאֲשֶׁר־ה֥וּא עֹשֶׂ֖ה יְהֹוָ֥ה מַצְלִֽיחַ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 64,
+            "Rashi": 1,
+            "Commentary": 20,
+            "Midrash": 23,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 40:1",
+          "hebrewText": "וַיְהִ֗י אַחַר֙ הַדְּבָרִ֣ים הָאֵ֔לֶּה חָ֥טְא֛וּ מַשְׁקֵ֥ה מֶֽלֶךְ־מִצְרַ֖יִם וְהָאֹפֶ֑ה לַאֲדֹנֵיהֶ֖ם לְמֶ֥לֶךְ מִצְרָֽיִם׃",
+          "counts": {
+            "all": 84,
+            "Rashi": 5,
+            "Commentary": 54,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 40:2",
+          "hebrewText": "וַיִּקְצֹ֣ף פַּרְעֹ֔ה עַ֖ל שְׁנֵ֣י סָרִיסָ֑יו עַ֚ל שַׂ֣ר הַמַּשְׁקִ֔ים וְעַ֖ל שַׂ֥ר הָאוֹפִֽים׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 1,
+            "Commentary": 20,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 40:3",
+          "hebrewText": "וַיִּתֵּ֨ן אֹתָ֜ם בְּמִשְׁמַ֗ר בֵּ֛ית שַׂ֥ר הַטַּבָּחִ֖ים אֶל־בֵּ֣ית הַסֹּ֑הַר מְק֕וֹם אֲשֶׁ֥ר יוֹסֵ֖ף אָס֥וּר שָֽׁם׃",
+          "counts": {
+            "all": 36,
+            "Rashi": 0,
+            "Commentary": 15,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 40:4",
+          "hebrewText": "וַ֠יִּפְקֹ֠ד שַׂ֣ר הַטַּבָּחִ֧ים אֶת־יוֹסֵ֛ף אִתָּ֖ם וַיְשָׁ֣רֶת אֹתָ֑ם וַיִּהְי֥וּ יָמִ֖ים בְּמִשְׁמָֽר׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 2,
+            "Commentary": 35,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 40:5",
+          "hebrewText": "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 2,
+            "Commentary": 45,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 40:6",
+          "hebrewText": "וַיָּבֹ֧א אֲלֵיהֶ֛ם יוֹסֵ֖ף בַּבֹּ֑קֶר וַיַּ֣רְא אֹתָ֔ם וְהִנָּ֖ם זֹעֲפִֽים׃",
+          "counts": {
+            "all": 38,
+            "Rashi": 3,
+            "Commentary": 15,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 40:7",
+          "hebrewText": "וַיִּשְׁאַ֞ל אֶת־סְרִיסֵ֣י פַרְעֹ֗ה אֲשֶׁ֨ר אִתּ֧וֹ בְמִשְׁמַ֛ר בֵּ֥ית אֲדֹנָ֖יו לֵאמֹ֑ר מַדּ֛וּעַ פְּנֵיכֶ֥ם רָעִ֖ים הַיּֽוֹם׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 0,
+            "Commentary": 22,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 40:8",
+          "hebrewText": "וַיֹּאמְר֣וּ אֵלָ֔יו חֲל֣וֹם חָלַ֔מְנוּ וּפֹתֵ֖ר אֵ֣ין אֹת֑וֹ וַיֹּ֨אמֶר אֲלֵהֶ֜ם יוֹסֵ֗ף הֲל֤וֹא לֵֽאלֹהִים֙ פִּתְרֹנִ֔ים סַפְּרוּ־נָ֖א לִֽי׃",
+          "counts": {
+            "all": 72,
+            "Rashi": 0,
+            "Commentary": 43,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 40:9",
+          "hebrewText": "וַיְסַפֵּ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־חֲלֹמ֖וֹ לְיוֹסֵ֑ף וַיֹּ֣אמֶר ל֔וֹ בַּחֲלוֹמִ֕י וְהִנֵּה־גֶ֖פֶן לְפָנָֽי׃",
+          "counts": {
+            "all": 32,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Genesis 40:10",
+          "hebrewText": "וּבַגֶּ֖פֶן שְׁלֹשָׁ֣ה שָׂרִיגִ֑ם וְהִ֤וא כְפֹרַ֙חַת֙ עָלְתָ֣ה נִצָּ֔הּ הִבְשִׁ֥ילוּ אַשְׁכְּלֹתֶ֖יהָ עֲנָבִֽים׃",
+          "counts": {
+            "all": 135,
+            "Rashi": 4,
+            "Commentary": 54,
+            "Midrash": 18,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 2,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Genesis 40:11",
+          "hebrewText": "וְכ֥וֹס פַּרְעֹ֖ה בְּיָדִ֑י וָאֶקַּ֣ח אֶת־הָֽעֲנָבִ֗ים וָֽאֶשְׂחַ֤ט אֹתָם֙ אֶל־כּ֣וֹס פַּרְעֹ֔ה וָאֶתֵּ֥ן אֶת־הַכּ֖וֹס עַל־כַּ֥ף פַּרְעֹֽה׃",
+          "counts": {
+            "all": 66,
+            "Rashi": 2,
+            "Commentary": 23,
+            "Midrash": 11,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Genesis 40:12",
+          "hebrewText": "וַיֹּ֤אמֶר לוֹ֙ יוֹסֵ֔ף זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֙שֶׁת֙ הַשָּׂ֣רִגִ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃",
+          "counts": {
+            "all": 38,
+            "Rashi": 1,
+            "Commentary": 24,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Genesis 40:13",
+          "hebrewText": "בְּע֣וֹד&thinsp;<b>׀</b> שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־רֹאשֶׁ֔ךָ וַהֲשִֽׁיבְךָ֖ עַל־כַּנֶּ֑ךָ וְנָתַתָּ֤ כוֹס־פַּרְעֹה֙ בְּיָד֔וֹ כַּמִּשְׁפָּט֙ הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽהוּ׃",
+          "counts": {
+            "all": 103,
+            "Rashi": 3,
+            "Commentary": 46,
+            "Midrash": 10,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 4,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Genesis 40:14",
+          "hebrewText": "כִּ֧י אִם־זְכַרְתַּ֣נִי אִתְּךָ֗ כַּאֲשֶׁר֙ יִ֣יטַב לָ֔ךְ וְעָשִֽׂיתָ־נָּ֥א עִמָּדִ֖י חָ֑סֶד וְהִזְכַּרְתַּ֙נִי֙ אֶל־פַּרְעֹ֔ה וְהוֹצֵאתַ֖נִי מִן־הַבַּ֥יִת הַזֶּֽה׃",
+          "counts": {
+            "all": 88,
+            "Rashi": 2,
+            "Commentary": 38,
+            "Midrash": 15,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 4,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Genesis 40:15",
+          "hebrewText": "כִּֽי־גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵאֶ֖רֶץ הָעִבְרִ֑ים וְגַם־פֹּה֙ לֹא־עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי־שָׂמ֥וּ אֹתִ֖י בַּבּֽוֹר׃",
+          "counts": {
+            "all": 95,
+            "Rashi": 0,
+            "Commentary": 41,
+            "Midrash": 17,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Genesis 40:16",
+          "hebrewText": "וַיַּ֥רְא שַׂר־הָאֹפִ֖ים כִּ֣י ט֣וֹב פָּתָ֑ר וַיֹּ֙אמֶר֙ אֶל־יוֹסֵ֔ף אַף־אֲנִי֙ בַּחֲלוֹמִ֔י וְהִנֵּ֗ה שְׁלֹשָׁ֛ה סַלֵּ֥י חֹרִ֖י עַל־רֹאשִֽׁי׃",
+          "counts": {
+            "all": 105,
+            "Rashi": 2,
+            "Commentary": 44,
+            "Midrash": 18,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Genesis 40:17",
+          "hebrewText": "וּבַסַּ֣ל הָֽעֶלְי֗וֹן מִכֹּ֛ל מַאֲכַ֥ל פַּרְעֹ֖ה מַעֲשֵׂ֣ה אֹפֶ֑ה וְהָע֗וֹף אֹכֵ֥ל אֹתָ֛ם מִן־הַסַּ֖ל מֵעַ֥ל רֹאשִֽׁי׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Genesis 40:18",
+          "hebrewText": "וַיַּ֤עַן יוֹסֵף֙ וַיֹּ֔אמֶר זֶ֖ה פִּתְרֹנ֑וֹ שְׁלֹ֙שֶׁת֙ הַסַּלִּ֔ים שְׁלֹ֥שֶׁת יָמִ֖ים הֵֽם׃",
+          "counts": {
+            "all": 17,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Genesis 40:19",
+          "hebrewText": "בְּע֣וֹד&thinsp;<b>׀</b> שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת־בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃",
+          "counts": {
+            "all": 52,
+            "Rashi": 0,
+            "Commentary": 16,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 40:20",
+          "hebrewText": "וַיְהִ֣י&thinsp;<b>׀</b> בַּיּ֣וֹם הַשְּׁלִישִׁ֗י י֚וֹם הֻלֶּ֣דֶת אֶת־פַּרְעֹ֔ה וַיַּ֥עַשׂ מִשְׁתֶּ֖ה לְכׇל־עֲבָדָ֑יו וַיִּשָּׂ֞א אֶת־רֹ֣אשׁ&thinsp;<b>׀</b> שַׂ֣ר הַמַּשְׁקִ֗ים וְאֶת־רֹ֛אשׁ שַׂ֥ר הָאֹפִ֖ים בְּת֥וֹךְ עֲבָדָֽיו׃",
+          "counts": {
+            "all": 66,
+            "Rashi": 2,
+            "Commentary": 29,
+            "Midrash": 12,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 40:21",
+          "hebrewText": "וַיָּ֛שֶׁב אֶת־שַׂ֥ר הַמַּשְׁקִ֖ים עַל־מַשְׁקֵ֑הוּ וַיִּתֵּ֥ן הַכּ֖וֹס עַל־כַּ֥ף פַּרְעֹֽה׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Genesis 40:22",
+          "hebrewText": "וְאֵ֛ת שַׂ֥ר הָאֹפִ֖ים תָּלָ֑ה כַּאֲשֶׁ֥ר פָּתַ֛ר לָהֶ֖ם יוֹסֵֽף׃",
+          "counts": {
+            "all": 16,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Genesis 40:23",
+          "hebrewText": "וְלֹֽא־זָכַ֧ר שַֽׂר־הַמַּשְׁקִ֛ים אֶת־יוֹסֵ֖ף וַיִּשְׁכָּחֵֽהוּ׃&nbsp;<span class=\"mam-spi-pe\">{פ}</span><br>",
+          "counts": {
+            "all": 76,
+            "Rashi": 2,
+            "Commentary": 39,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1553 @@
+{
+  "name": "Toldot",
+  "heName": "תולדות",
+  "ref": "Genesis 25:19-28:9",
+  "book": "Genesis",
+  "data": [
+    {
+      "chapter": 26,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 26:1",
+          "hebrewText": "וַיְהִ֤י רָעָב֙ בָּאָ֔רֶץ מִלְּבַד֙ הָרָעָ֣ב הָרִאשׁ֔וֹן אֲשֶׁ֥ר הָיָ֖ה בִּימֵ֣י אַבְרָהָ֑ם וַיֵּ֧לֶךְ יִצְחָ֛ק אֶל־אֲבִימֶ֥לֶךְ מֶֽלֶךְ־פְּלִשְׁתִּ֖ים גְּרָֽרָה׃",
+          "counts": {
+            "all": 96,
+            "Rashi": 0,
+            "Commentary": 42,
+            "Midrash": 25,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 26:2",
+          "hebrewText": "וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה וַיֹּ֖אמֶר אַל־תֵּרֵ֣ד מִצְרָ֑יְמָה שְׁכֹ֣ן בָּאָ֔רֶץ אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 1,
+            "Commentary": 29,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 1,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 26:3",
+          "hebrewText": "גּ֚וּר בָּאָ֣רֶץ הַזֹּ֔את וְאֶֽהְיֶ֥ה עִמְּךָ֖ וַאֲבָרְכֶ֑ךָּ כִּֽי־לְךָ֣ וּֽלְזַרְעֲךָ֗ אֶתֵּן֙ אֶת־כׇּל־הָֽאֲרָצֹ֣ת הָאֵ֔ל וַהֲקִֽמֹתִי֙ אֶת־הַשְּׁבֻעָ֔ה אֲשֶׁ֥ר נִשְׁבַּ֖עְתִּי לְאַבְרָהָ֥ם אָבִֽיךָ׃",
+          "counts": {
+            "all": 153,
+            "Rashi": 6,
+            "Commentary": 38,
+            "Midrash": 36,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 18,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 26:4",
+          "hebrewText": "וְהִרְבֵּיתִ֤י אֶֽת־זַרְעֲךָ֙ כְּכוֹכְבֵ֣י הַשָּׁמַ֔יִם וְנָתַתִּ֣י לְזַרְעֲךָ֔ אֵ֥ת כׇּל־הָאֲרָצֹ֖ת הָאֵ֑ל וְהִתְבָּרְכ֣וּ בְזַרְעֲךָ֔ כֹּ֖ל גּוֹיֵ֥י הָאָֽרֶץ׃",
+          "counts": {
+            "all": 59,
+            "Rashi": 2,
+            "Commentary": 17,
+            "Midrash": 18,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 26:5",
+          "hebrewText": "עֵ֕קֶב אֲשֶׁר־שָׁמַ֥ע אַבְרָהָ֖ם בְּקֹלִ֑י וַיִּשְׁמֹר֙ מִשְׁמַרְתִּ֔י מִצְוֺתַ֖י חֻקּוֹתַ֥י וְתוֹרֹתָֽי׃",
+          "counts": {
+            "all": 286,
+            "Rashi": 8,
+            "Commentary": 88,
+            "Midrash": 49,
+            "Talmud": 7,
+            "Halakhah": 6,
+            "Kabbalah": 16,
+            "Musar": 15,
+            "Chasidut": 22,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 26:6",
+          "hebrewText": "וַיֵּ֥שֶׁב יִצְחָ֖ק בִּגְרָֽר׃",
+          "counts": {
+            "all": 28,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 26:7",
+          "hebrewText": "וַֽיִּשְׁאֲל֞וּ אַנְשֵׁ֤י הַמָּקוֹם֙ לְאִשְׁתּ֔וֹ וַיֹּ֖אמֶר אֲחֹ֣תִי הִ֑וא כִּ֤י יָרֵא֙ לֵאמֹ֣ר אִשְׁתִּ֔י פֶּן־יַֽהַרְגֻ֜נִי אַנְשֵׁ֤י הַמָּקוֹם֙ עַל־רִבְקָ֔ה כִּֽי־טוֹבַ֥ת מַרְאֶ֖ה הִֽוא׃",
+          "counts": {
+            "all": 78,
+            "Rashi": 6,
+            "Commentary": 37,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 26:8",
+          "hebrewText": "וַיְהִ֗י כִּ֣י אָֽרְכוּ־ל֥וֹ שָׁם֙ הַיָּמִ֔ים וַיַּשְׁקֵ֗ף אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ פְּלִשְׁתִּ֔ים בְּעַ֖ד הַֽחַלּ֑וֹן וַיַּ֗רְא וְהִנֵּ֤ה יִצְחָק֙ מְצַחֵ֔ק אֵ֖ת רִבְקָ֥ה אִשְׁתּֽוֹ׃",
+          "counts": {
+            "all": 105,
+            "Rashi": 2,
+            "Commentary": 50,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 26:9",
+          "hebrewText": "וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְיִצְחָ֗ק וַיֹּ֙אמֶר֙ אַ֣ךְ הִנֵּ֤ה אִשְׁתְּךָ֙ הִ֔וא וְאֵ֥יךְ אָמַ֖רְתָּ אֲחֹ֣תִי הִ֑וא וַיֹּ֤אמֶר אֵלָיו֙ יִצְחָ֔ק כִּ֣י אָמַ֔רְתִּי פֶּן־אָמ֖וּת עָלֶֽיהָ׃",
+          "counts": {
+            "all": 35,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 4,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Genesis 26:10",
+          "hebrewText": "וַיֹּ֣אמֶר אֲבִימֶ֔לֶךְ מַה־זֹּ֖את עָשִׂ֣יתָ לָּ֑נוּ כִּ֠מְעַ֠ט שָׁכַ֞ב אַחַ֤ד הָעָם֙ אֶת־אִשְׁתֶּ֔ךָ וְהֵבֵאתָ֥ עָלֵ֖ינוּ אָשָֽׁם׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 2,
+            "Commentary": 38,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Genesis 26:11",
+          "hebrewText": "וַיְצַ֣ו אֲבִימֶ֔לֶךְ אֶת־כׇּל־הָעָ֖ם לֵאמֹ֑ר הַנֹּגֵ֜עַ בָּאִ֥ישׁ הַזֶּ֛ה וּבְאִשְׁתּ֖וֹ מ֥וֹת יוּמָֽת׃",
+          "counts": {
+            "all": 32,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Genesis 26:12",
+          "hebrewText": "וַיִּזְרַ֤ע יִצְחָק֙ בָּאָ֣רֶץ הַהִ֔וא וַיִּמְצָ֛א בַּשָּׁנָ֥ה הַהִ֖וא מֵאָ֣ה שְׁעָרִ֑ים וַֽיְבָרְכֵ֖הוּ יְהֹוָֽה׃",
+          "counts": {
+            "all": 198,
+            "Rashi": 4,
+            "Commentary": 70,
+            "Midrash": 35,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 7,
+            "Musar": 5,
+            "Chasidut": 32,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Genesis 26:13",
+          "hebrewText": "וַיִּגְדַּ֖ל הָאִ֑ישׁ וַיֵּ֤לֶךְ הָלוֹךְ֙ וְגָדֵ֔ל עַ֥ד כִּֽי־גָדַ֖ל מְאֹֽד׃",
+          "counts": {
+            "all": 68,
+            "Rashi": 3,
+            "Commentary": 29,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 12,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Genesis 26:14",
+          "hebrewText": "וַֽיְהִי־ל֤וֹ מִקְנֵה־צֹאן֙ וּמִקְנֵ֣ה בָקָ֔ר וַעֲבֻדָּ֖ה רַבָּ֑ה וַיְקַנְא֥וּ אֹת֖וֹ פְּלִשְׁתִּֽים׃",
+          "counts": {
+            "all": 59,
+            "Rashi": 3,
+            "Commentary": 26,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Genesis 26:15",
+          "hebrewText": "וְכׇל־הַבְּאֵרֹ֗ת אֲשֶׁ֤ר חָֽפְרוּ֙ עַבְדֵ֣י אָבִ֔יו בִּימֵ֖י אַבְרָהָ֣ם אָבִ֑יו סִתְּמ֣וּם פְּלִשְׁתִּ֔ים וַיְמַלְא֖וּם עָפָֽר׃",
+          "counts": {
+            "all": 94,
+            "Rashi": 5,
+            "Commentary": 33,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 19,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Genesis 26:16",
+          "hebrewText": "וַיֹּ֥אמֶר אֲבִימֶ֖לֶךְ אֶל־יִצְחָ֑ק לֵ֚ךְ מֵֽעִמָּ֔נוּ כִּֽי־עָצַ֥מְתָּ מִמֶּ֖נּוּ מְאֹֽד׃",
+          "counts": {
+            "all": 58,
+            "Rashi": 0,
+            "Commentary": 18,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Genesis 26:17",
+          "hebrewText": "וַיֵּ֥לֶךְ מִשָּׁ֖ם יִצְחָ֑ק וַיִּ֥חַן בְּנַֽחַל־גְּרָ֖ר וַיֵּ֥שֶׁב שָֽׁם׃",
+          "counts": {
+            "all": 27,
+            "Rashi": 1,
+            "Commentary": 14,
+            "Midrash": 2,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Genesis 26:18",
+          "hebrewText": "וַיָּ֨שׇׁב יִצְחָ֜ק וַיַּחְפֹּ֣ר&thinsp;<b>׀</b> אֶת־בְּאֵרֹ֣ת הַמַּ֗יִם אֲשֶׁ֤ר חָֽפְרוּ֙ בִּימֵי֙ אַבְרָהָ֣ם אָבִ֔יו וַיְסַתְּמ֣וּם פְּלִשְׁתִּ֔ים אַחֲרֵ֖י מ֣וֹת אַבְרָהָ֑ם וַיִּקְרָ֤א לָהֶן֙ שֵׁמ֔וֹת כַּשֵּׁמֹ֕ת אֲשֶׁר־קָרָ֥א לָהֶ֖ן אָבִֽיו׃",
+          "counts": {
+            "all": 83,
+            "Rashi": 1,
+            "Commentary": 37,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 2,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Genesis 26:19",
+          "hebrewText": "וַיַּחְפְּר֥וּ עַבְדֵֽי־יִצְחָ֖ק בַּנָּ֑חַל וַיִּ֨מְצְאוּ־שָׁ֔ם בְּאֵ֖ר מַ֥יִם חַיִּֽים׃",
+          "counts": {
+            "all": 66,
+            "Rashi": 0,
+            "Commentary": 19,
+            "Midrash": 11,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 0,
+            "Chasidut": 11,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 26:20",
+          "hebrewText": "וַיָּרִ֜יבוּ רֹעֵ֣י גְרָ֗ר עִם־רֹעֵ֥י יִצְחָ֛ק לֵאמֹ֖ר לָ֣נוּ הַמָּ֑יִם וַיִּקְרָ֤א שֵֽׁם־הַבְּאֵר֙ עֵ֔שֶׂק כִּ֥י הִֽתְעַשְּׂק֖וּ עִמּֽוֹ׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 3,
+            "Commentary": 38,
+            "Midrash": 8,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 26:21",
+          "hebrewText": "וַֽיַּחְפְּרוּ֙ בְּאֵ֣ר אַחֶ֔רֶת וַיָּרִ֖יבוּ גַּם־עָלֶ֑יהָ וַיִּקְרָ֥א שְׁמָ֖הּ שִׂטְנָֽה׃",
+          "counts": {
+            "all": 41,
+            "Rashi": 2,
+            "Commentary": 14,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Genesis 26:22",
+          "hebrewText": "וַיַּעְתֵּ֣ק מִשָּׁ֗ם וַיַּחְפֹּר֙ בְּאֵ֣ר אַחֶ֔רֶת וְלֹ֥א רָב֖וּ עָלֶ֑יהָ וַיִּקְרָ֤א שְׁמָהּ֙ רְחֹב֔וֹת וַיֹּ֗אמֶר כִּֽי־עַתָּ֞ה הִרְחִ֧יב יְהֹוָ֛ה לָ֖נוּ וּפָרִ֥ינוּ בָאָֽרֶץ׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 1,
+            "Commentary": 34,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 7,
+            "Musar": 2,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Genesis 26:23",
+          "hebrewText": "וַיַּ֥עַל מִשָּׁ֖ם בְּאֵ֥ר שָֽׁבַע׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Genesis 26:24",
+          "hebrewText": "וַיֵּרָ֨א אֵלָ֤יו יְהֹוָה֙ בַּלַּ֣יְלָה הַה֔וּא וַיֹּ֕אמֶר אָנֹכִ֕י אֱלֹהֵ֖י אַבְרָהָ֣ם אָבִ֑יךָ אַל־תִּירָא֙ כִּֽי־אִתְּךָ֣ אָנֹ֔כִי וּבֵֽרַכְתִּ֙יךָ֙ וְהִרְבֵּיתִ֣י אֶֽת־זַרְעֲךָ֔ בַּעֲב֖וּר אַבְרָהָ֥ם עַבְדִּֽי׃",
+          "counts": {
+            "all": 73,
+            "Rashi": 0,
+            "Commentary": 22,
+            "Midrash": 16,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Genesis 26:25",
+          "hebrewText": "וַיִּ֧בֶן שָׁ֣ם מִזְבֵּ֗חַ וַיִּקְרָא֙ בְּשֵׁ֣ם יְהֹוָ֔ה וַיֶּט־שָׁ֖ם אׇהֳל֑וֹ וַיִּכְרוּ־שָׁ֥ם עַבְדֵי־יִצְחָ֖ק בְּאֵֽר׃",
+          "counts": {
+            "all": 43,
+            "Rashi": 1,
+            "Commentary": 19,
+            "Midrash": 5,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Genesis 26:26",
+          "hebrewText": "וַאֲבִימֶ֕לֶךְ הָלַ֥ךְ אֵלָ֖יו מִגְּרָ֑ר וַאֲחֻזַּת֙ מֵֽרֵעֵ֔הוּ וּפִיכֹ֖ל שַׂר־צְבָאֽוֹ׃",
+          "counts": {
+            "all": 86,
+            "Rashi": 3,
+            "Commentary": 46,
+            "Midrash": 16,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Genesis 26:27",
+          "hebrewText": "וַיֹּ֤אמֶר אֲלֵהֶם֙ יִצְחָ֔ק מַדּ֖וּעַ בָּאתֶ֣ם אֵלָ֑י וְאַתֶּם֙ שְׂנֵאתֶ֣ם אֹתִ֔י וַתְּשַׁלְּח֖וּנִי מֵאִתְּכֶֽם׃",
+          "counts": {
+            "all": 31,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Genesis 26:28",
+          "hebrewText": "וַיֹּאמְר֗וּ רָא֣וֹ רָאִ֘ינוּ֮ כִּֽי־הָיָ֣ה יְהֹוָ֣ה&thinsp;<small>׀</small>&thinsp;עִמָּךְ֒ וַנֹּ֗אמֶר תְּהִ֨י נָ֥א אָלָ֛ה בֵּינוֹתֵ֖ינוּ בֵּינֵ֣ינוּ וּבֵינֶ֑ךָ וְנִכְרְתָ֥ה בְרִ֖ית עִמָּֽךְ׃",
+          "counts": {
+            "all": 100,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 20,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 10,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Genesis 26:29",
+          "hebrewText": "אִם־תַּעֲשֵׂ֨ה עִמָּ֜נוּ רָעָ֗ה כַּאֲשֶׁר֙ לֹ֣א נְגַֽעֲנ֔וּךָ וְכַאֲשֶׁ֨ר עָשִׂ֤ינוּ עִמְּךָ֙ רַק־ט֔וֹב וַנְּשַׁלֵּֽחֲךָ֖ בְּשָׁל֑וֹם אַתָּ֥ה עַתָּ֖ה בְּר֥וּךְ יְהֹוָֽה׃",
+          "counts": {
+            "all": 91,
+            "Rashi": 2,
+            "Commentary": 55,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Genesis 26:30",
+          "hebrewText": "וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וַיֹּאכְל֖וּ וַיִּשְׁתּֽוּ׃",
+          "counts": {
+            "all": 18,
+            "Rashi": 0,
+            "Commentary": 6,
+            "Midrash": 3,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Genesis 26:31",
+          "hebrewText": "וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וַיִּשָּׁבְע֖וּ אִ֣ישׁ לְאָחִ֑יו וַיְשַׁלְּחֵ֣ם יִצְחָ֔ק וַיֵּלְכ֥וּ מֵאִתּ֖וֹ בְּשָׁלֽוֹם׃",
+          "counts": {
+            "all": 34,
+            "Rashi": 0,
+            "Commentary": 13,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 0,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Genesis 26:32",
+          "hebrewText": "וַיְהִ֣י&thinsp;<b>׀</b> בַּיּ֣וֹם הַה֗וּא וַיָּבֹ֙אוּ֙ עַבְדֵ֣י יִצְחָ֔ק וַיַּגִּ֣דוּ ל֔וֹ עַל־אֹד֥וֹת הַבְּאֵ֖ר אֲשֶׁ֣ר חָפָ֑רוּ וַיֹּ֥אמְרוּ ל֖וֹ מָצָ֥אנוּ מָֽיִם׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 0,
+            "Commentary": 9,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Genesis 26:33",
+          "hebrewText": "וַיִּקְרָ֥א אֹתָ֖הּ שִׁבְעָ֑ה עַל־כֵּ֤ן שֵׁם־הָעִיר֙ בְּאֵ֣ר שֶׁ֔בַע עַ֖ד הַיּ֥וֹם הַזֶּֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 57,
+            "Rashi": 1,
+            "Commentary": 32,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Genesis 26:34",
+          "hebrewText": "וַיְהִ֤י עֵשָׂו֙ בֶּן־אַרְבָּעִ֣ים שָׁנָ֔ה וַיִּקַּ֤ח אִשָּׁה֙ אֶת־יְהוּדִ֔ית בַּת־בְּאֵרִ֖י הַֽחִתִּ֑י וְאֶת־בָּ֣שְׂמַ֔ת בַּת־אֵילֹ֖ן הַֽחִתִּֽי׃",
+          "counts": {
+            "all": 82,
+            "Rashi": 2,
+            "Commentary": 35,
+            "Midrash": 17,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Genesis 26:35",
+          "hebrewText": "וַתִּהְיֶ֖יןָ מֹ֣רַת ר֑וּחַ לְיִצְחָ֖ק וּלְרִבְקָֽה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 65,
+            "Rashi": 2,
+            "Commentary": 41,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 27:1",
+          "hebrewText": "וַֽיְהִי֙ כִּֽי־זָקֵ֣ן יִצְחָ֔ק וַתִּכְהֶ֥יןָ עֵינָ֖יו מֵרְאֹ֑ת וַיִּקְרָ֞א אֶת־עֵשָׂ֣ו&thinsp;<b>׀</b> בְּנ֣וֹ הַגָּדֹ֗ל וַיֹּ֤אמֶר אֵלָיו֙ בְּנִ֔י וַיֹּ֥אמֶר אֵלָ֖יו הִנֵּֽנִי׃",
+          "counts": {
+            "all": 273,
+            "Rashi": 2,
+            "Commentary": 81,
+            "Midrash": 75,
+            "Talmud": 4,
+            "Halakhah": 0,
+            "Kabbalah": 24,
+            "Musar": 5,
+            "Chasidut": 34,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 27:2",
+          "hebrewText": "וַיֹּ֕אמֶר הִנֵּה־נָ֖א זָקַ֑נְתִּי לֹ֥א יָדַ֖עְתִּי י֥וֹם מוֹתִֽי׃",
+          "counts": {
+            "all": 50,
+            "Rashi": 1,
+            "Commentary": 20,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 27:3",
+          "hebrewText": "וְעַתָּה֙ שָׂא־נָ֣א כֵלֶ֔יךָ תֶּלְיְךָ֖ וְקַשְׁתֶּ֑ךָ וְצֵא֙ הַשָּׂדֶ֔ה וְצ֥וּדָה לִּ֖י <span class=\"mam-kq\"><span class=\"mam-kq-k\">(צידה)</span> <span class=\"mam-kq-q\">[צָֽיִד]</span></span>׃",
+          "counts": {
+            "all": 140,
+            "Rashi": 3,
+            "Commentary": 73,
+            "Midrash": 17,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 27:4",
+          "hebrewText": "וַעֲשֵׂה־לִ֨י מַטְעַמִּ֜ים כַּאֲשֶׁ֥ר אָהַ֛בְתִּי וְהָבִ֥יאָה לִּ֖י וְאֹכֵ֑לָה בַּעֲב֛וּר תְּבָרֶכְךָ֥ נַפְשִׁ֖י בְּטֶ֥רֶם אָמֽוּת׃",
+          "counts": {
+            "all": 91,
+            "Rashi": 0,
+            "Commentary": 25,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 8,
+            "Musar": 3,
+            "Chasidut": 14,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 27:5",
+          "hebrewText": "וְרִבְקָ֣ה שֹׁמַ֔עַת בְּדַבֵּ֣ר יִצְחָ֔ק אֶל־עֵשָׂ֖ו בְּנ֑וֹ וַיֵּ֤לֶךְ עֵשָׂו֙ הַשָּׂדֶ֔ה לָצ֥וּד צַ֖יִד לְהָבִֽיא׃",
+          "counts": {
+            "all": 64,
+            "Rashi": 2,
+            "Commentary": 27,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 0,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 27:6",
+          "hebrewText": "וְרִבְקָה֙ אָֽמְרָ֔ה אֶל־יַעֲקֹ֥ב בְּנָ֖הּ לֵאמֹ֑ר הִנֵּ֤ה שָׁמַ֙עְתִּי֙ אֶת־אָבִ֔יךָ מְדַבֵּ֛ר אֶל־עֵשָׂ֥ו אָחִ֖יךָ לֵאמֹֽר׃",
+          "counts": {
+            "all": 46,
+            "Rashi": 0,
+            "Commentary": 15,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 27:7",
+          "hebrewText": "הָבִ֨יאָה לִּ֥י צַ֛יִד וַעֲשֵׂה־לִ֥י מַטְעַמִּ֖ים וְאֹכֵ֑לָה וַאֲבָרֶכְכָ֛ה לִפְנֵ֥י יְהֹוָ֖ה לִפְנֵ֥י מוֹתִֽי׃",
+          "counts": {
+            "all": 54,
+            "Rashi": 1,
+            "Commentary": 21,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 27:8",
+          "hebrewText": "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י לַאֲשֶׁ֥ר אֲנִ֖י מְצַוָּ֥ה אֹתָֽךְ׃",
+          "counts": {
+            "all": 33,
+            "Rashi": 0,
+            "Commentary": 10,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 27:9",
+          "hebrewText": "לֶךְ־נָא֙ אֶל־הַצֹּ֔אן וְקַֽח־לִ֣י מִשָּׁ֗ם שְׁנֵ֛י גְּדָיֵ֥י עִזִּ֖ים טֹבִ֑ים וְאֶֽעֱשֶׂ֨ה אֹתָ֧ם מַטְעַמִּ֛ים לְאָבִ֖יךָ כַּאֲשֶׁ֥ר אָהֵֽב׃",
+          "counts": {
+            "all": 110,
+            "Rashi": 5,
+            "Commentary": 44,
+            "Midrash": 17,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 10,
+          "ref": "Genesis 27:10",
+          "hebrewText": "וְהֵבֵאתָ֥ לְאָבִ֖יךָ וְאָכָ֑ל בַּעֲבֻ֛ר אֲשֶׁ֥ר יְבָרֶכְךָ֖ לִפְנֵ֥י מוֹתֽוֹ׃",
+          "counts": {
+            "all": 21,
+            "Rashi": 0,
+            "Commentary": 4,
+            "Midrash": 7,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 11,
+          "ref": "Genesis 27:11",
+          "hebrewText": "וַיֹּ֣אמֶר יַעֲקֹ֔ב אֶל־רִבְקָ֖ה אִמּ֑וֹ הֵ֣ן עֵשָׂ֤ו אָחִי֙ אִ֣ישׁ שָׂעִ֔ר וְאָנֹכִ֖י אִ֥ישׁ חָלָֽק׃",
+          "counts": {
+            "all": 87,
+            "Rashi": 3,
+            "Commentary": 23,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 8,
+            "Musar": 2,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 12,
+          "ref": "Genesis 27:12",
+          "hebrewText": "אוּלַ֤י יְמֻשֵּׁ֙נִי֙ אָבִ֔י וְהָיִ֥יתִי בְעֵינָ֖יו כִּמְתַעְתֵּ֑עַ וְהֵבֵאתִ֥י עָלַ֛י קְלָלָ֖ה וְלֹ֥א בְרָכָֽה׃",
+          "counts": {
+            "all": 111,
+            "Rashi": 3,
+            "Commentary": 42,
+            "Midrash": 23,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 8,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 13,
+          "ref": "Genesis 27:13",
+          "hebrewText": "וַתֹּ֤אמֶר לוֹ֙ אִמּ֔וֹ עָלַ֥י קִלְלָתְךָ֖ בְּנִ֑י אַ֛ךְ שְׁמַ֥ע בְּקֹלִ֖י וְלֵ֥ךְ קַֽח־לִֽי׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 0,
+            "Commentary": 41,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 14,
+          "ref": "Genesis 27:14",
+          "hebrewText": "וַיֵּ֙לֶךְ֙ וַיִּקַּ֔ח וַיָּבֵ֖א לְאִמּ֑וֹ וַתַּ֤עַשׂ אִמּוֹ֙ מַטְעַמִּ֔ים כַּאֲשֶׁ֖ר אָהֵ֥ב אָבִֽיו׃",
+          "counts": {
+            "all": 23,
+            "Rashi": 0,
+            "Commentary": 2,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 15,
+          "ref": "Genesis 27:15",
+          "hebrewText": "וַתִּקַּ֣ח רִ֠בְקָ֠ה אֶת־בִּגְדֵ֨י עֵשָׂ֜ו בְּנָ֤הּ הַגָּדֹל֙ הַחֲמֻדֹ֔ת אֲשֶׁ֥ר אִתָּ֖הּ בַּבָּ֑יִת וַתַּלְבֵּ֥שׁ אֶֽת־יַעֲקֹ֖ב בְּנָ֥הּ הַקָּטָֽן׃",
+          "counts": {
+            "all": 109,
+            "Rashi": 4,
+            "Commentary": 42,
+            "Midrash": 24,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 4,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 16,
+          "ref": "Genesis 27:16",
+          "hebrewText": "וְאֵ֗ת עֹרֹת֙ גְּדָיֵ֣י הָֽעִזִּ֔ים הִלְבִּ֖ישָׁה עַל־יָדָ֑יו וְעַ֖ל חֶלְקַ֥ת צַוָּארָֽיו׃",
+          "counts": {
+            "all": 64,
+            "Rashi": 2,
+            "Commentary": 13,
+            "Midrash": 18,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 17,
+          "ref": "Genesis 27:17",
+          "hebrewText": "וַתִּתֵּ֧ן אֶת־הַמַּטְעַמִּ֛ים וְאֶת־הַלֶּ֖חֶם אֲשֶׁ֣ר עָשָׂ֑תָה בְּיַ֖ד יַעֲקֹ֥ב בְּנָֽהּ׃",
+          "counts": {
+            "all": 25,
+            "Rashi": 1,
+            "Commentary": 6,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 18,
+          "ref": "Genesis 27:18",
+          "hebrewText": "וַיָּבֹ֥א אֶל־אָבִ֖יו וַיֹּ֣אמֶר אָבִ֑י וַיֹּ֣אמֶר הִנֶּ֔נִּי מִ֥י אַתָּ֖ה בְּנִֽי׃",
+          "counts": {
+            "all": 28,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 19,
+          "ref": "Genesis 27:19",
+          "hebrewText": "וַיֹּ֨אמֶר יַעֲקֹ֜ב אֶל־אָבִ֗יו אָנֹכִי֙ עֵשָׂ֣ו בְּכֹרֶ֔ךָ עָשִׂ֕יתִי כַּאֲשֶׁ֥ר דִּבַּ֖רְתָּ אֵלָ֑י קֽוּם־נָ֣א שְׁבָ֗ה וְאׇכְלָה֙ מִצֵּידִ֔י בַּעֲב֖וּר תְּבָרְכַ֥נִּי נַפְשֶֽׁךָ׃",
+          "counts": {
+            "all": 115,
+            "Rashi": 3,
+            "Commentary": 65,
+            "Midrash": 19,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 20,
+          "ref": "Genesis 27:20",
+          "hebrewText": "וַיֹּ֤אמֶר יִצְחָק֙ אֶל־בְּנ֔וֹ מַה־זֶּ֛ה מִהַ֥רְתָּ לִמְצֹ֖א בְּנִ֑י וַיֹּ֕אמֶר כִּ֥י הִקְרָ֛ה יְהֹוָ֥ה אֱלֹהֶ֖יךָ לְפָנָֽי׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 1,
+            "Commentary": 12,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 21,
+          "ref": "Genesis 27:21",
+          "hebrewText": "וַיֹּ֤אמֶר יִצְחָק֙ אֶֽל־יַעֲקֹ֔ב גְּשָׁה־נָּ֥א וַאֲמֻֽשְׁךָ֖ בְּנִ֑י הַֽאַתָּ֥ה זֶ֛ה בְּנִ֥י עֵשָׂ֖ו אִם־לֹֽא׃",
+          "counts": {
+            "all": 55,
+            "Rashi": 1,
+            "Commentary": 23,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 2,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 22,
+          "ref": "Genesis 27:22",
+          "hebrewText": "וַיִּגַּ֧שׁ יַעֲקֹ֛ב אֶל־יִצְחָ֥ק אָבִ֖יו וַיְמֻשֵּׁ֑הוּ וַיֹּ֗אמֶר הַקֹּל֙ ק֣וֹל יַעֲקֹ֔ב וְהַיָּדַ֖יִם יְדֵ֥י עֵשָֽׂו׃",
+          "counts": {
+            "all": 221,
+            "Rashi": 4,
+            "Commentary": 39,
+            "Midrash": 43,
+            "Talmud": 2,
+            "Halakhah": 3,
+            "Kabbalah": 8,
+            "Musar": 12,
+            "Chasidut": 43,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 23,
+          "ref": "Genesis 27:23",
+          "hebrewText": "וְלֹ֣א הִכִּיר֔וֹ כִּֽי־הָי֣וּ יָדָ֗יו כִּידֵ֛י עֵשָׂ֥ו אָחִ֖יו שְׂעִרֹ֑ת וַֽיְבָרְכֵֽהוּ׃",
+          "counts": {
+            "all": 48,
+            "Rashi": 0,
+            "Commentary": 17,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 24,
+          "ref": "Genesis 27:24",
+          "hebrewText": "וַיֹּ֕אמֶר אַתָּ֥ה זֶ֖ה בְּנִ֣י עֵשָׂ֑ו וַיֹּ֖אמֶר אָֽנִי׃",
+          "counts": {
+            "all": 37,
+            "Rashi": 1,
+            "Commentary": 14,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 25,
+          "ref": "Genesis 27:25",
+          "hebrewText": "וַיֹּ֗אמֶר הַגִּ֤שָׁה לִּי֙ וְאֹֽכְלָה֙ מִצֵּ֣יד בְּנִ֔י לְמַ֥עַן תְּבָֽרֶכְךָ֖ נַפְשִׁ֑י וַיַּגֶּשׁ־לוֹ֙ וַיֹּאכַ֔ל וַיָּ֧בֵא ל֦וֹ יַ֖יִן וַיֵּֽשְׁתְּ׃",
+          "counts": {
+            "all": 59,
+            "Rashi": 0,
+            "Commentary": 21,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 4,
+            "Musar": 2,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 26,
+          "ref": "Genesis 27:26",
+          "hebrewText": "וַיֹּ֥אמֶר אֵלָ֖יו יִצְחָ֣ק אָבִ֑יו גְּשָׁה־נָּ֥א וּשְׁקָה־לִּ֖י בְּנִֽי׃",
+          "counts": {
+            "all": 28,
+            "Rashi": 1,
+            "Commentary": 7,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 27,
+          "ref": "Genesis 27:27",
+          "hebrewText": "וַיִּגַּשׁ֙ וַיִּשַּׁק־ל֔וֹ וַיָּ֛רַח אֶת־רֵ֥יחַ בְּגָדָ֖יו וַֽיְבָרְכֵ֑הוּ וַיֹּ֗אמֶר רְאֵה֙ רֵ֣יחַ בְּנִ֔י כְּרֵ֣יחַ שָׂדֶ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ יְהֹוָֽה׃",
+          "counts": {
+            "all": 213,
+            "Rashi": 2,
+            "Commentary": 76,
+            "Midrash": 26,
+            "Talmud": 3,
+            "Halakhah": 2,
+            "Kabbalah": 14,
+            "Musar": 1,
+            "Chasidut": 42,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 28,
+          "ref": "Genesis 27:28",
+          "hebrewText": "וְיִֽתֶּן־לְךָ֙ הָאֱלֹהִ֔ים מִטַּל֙ הַשָּׁמַ֔יִם וּמִשְׁמַנֵּ֖י הָאָ֑רֶץ וְרֹ֥ב דָּגָ֖ן וְתִירֹֽשׁ׃",
+          "counts": {
+            "all": 225,
+            "Rashi": 4,
+            "Commentary": 70,
+            "Midrash": 59,
+            "Talmud": 2,
+            "Halakhah": 3,
+            "Kabbalah": 11,
+            "Musar": 5,
+            "Chasidut": 29,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 29,
+          "ref": "Genesis 27:29",
+          "hebrewText": "יַֽעַבְד֣וּךָ עַמִּ֗ים <span class=\"mam-kq\"><span class=\"mam-kq-k\">(וישתחו)</span> <span class=\"mam-kq-q\">[וְיִֽשְׁתַּחֲו֤וּ]</span></span> לְךָ֙ לְאֻמִּ֔ים הֱוֵ֤ה גְבִיר֙ לְאַחֶ֔יךָ וְיִשְׁתַּחֲו֥וּ לְךָ֖ בְּנֵ֣י אִמֶּ֑ךָ אֹרְרֶ֣יךָ אָר֔וּר וּֽמְבָרְכֶ֖יךָ בָּרֽוּךְ׃",
+          "counts": {
+            "all": 180,
+            "Rashi": 3,
+            "Commentary": 79,
+            "Midrash": 38,
+            "Talmud": 3,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 5,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 30,
+          "ref": "Genesis 27:30",
+          "hebrewText": "וַיְהִ֗י כַּאֲשֶׁ֨ר כִּלָּ֣ה יִצְחָק֮ לְבָרֵ֣ךְ אֶֽת־יַעֲקֹב֒ וַיְהִ֗י אַ֣ךְ יָצֹ֤א יָצָא֙ יַעֲקֹ֔ב מֵאֵ֥ת פְּנֵ֖י יִצְחָ֣ק אָבִ֑יו וְעֵשָׂ֣ו אָחִ֔יו בָּ֖א מִצֵּידֽוֹ׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 1,
+            "Commentary": 29,
+            "Midrash": 16,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 31,
+          "ref": "Genesis 27:31",
+          "hebrewText": "וַיַּ֤עַשׂ גַּם־הוּא֙ מַטְעַמִּ֔ים וַיָּבֵ֖א לְאָבִ֑יו וַיֹּ֣אמֶר לְאָבִ֗יו יָקֻ֤ם אָבִי֙ וְיֹאכַל֙ מִצֵּ֣יד בְּנ֔וֹ בַּעֲבֻ֖ר תְּבָרְכַ֥נִּי נַפְשֶֽׁךָ׃",
+          "counts": {
+            "all": 47,
+            "Rashi": 0,
+            "Commentary": 14,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 32,
+          "ref": "Genesis 27:32",
+          "hebrewText": "וַיֹּ֥אמֶר ל֛וֹ יִצְחָ֥ק אָבִ֖יו מִי־אָ֑תָּה וַיֹּ֕אמֶר אֲנִ֛י בִּנְךָ֥ בְכֹֽרְךָ֖ עֵשָֽׂו׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 8,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 1,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 33,
+          "ref": "Genesis 27:33",
+          "hebrewText": "וַיֶּחֱרַ֨ד יִצְחָ֣ק חֲרָדָה֮ גְּדֹלָ֣ה עַד־מְאֹד֒ וַיֹּ֡אמֶר מִֽי־אֵפ֡וֹא ה֣וּא הַצָּֽד־צַ֩יִד֩ וַיָּ֨בֵא לִ֜י וָאֹכַ֥ל מִכֹּ֛ל בְּטֶ֥רֶם תָּב֖וֹא וָאֲבָרְכֵ֑הוּ גַּם־בָּר֖וּךְ יִהְיֶֽה׃",
+          "counts": {
+            "all": 213,
+            "Rashi": 6,
+            "Commentary": 84,
+            "Midrash": 41,
+            "Talmud": 3,
+            "Halakhah": 1,
+            "Kabbalah": 13,
+            "Musar": 2,
+            "Chasidut": 16,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 34,
+          "ref": "Genesis 27:34",
+          "hebrewText": "כִּשְׁמֹ֤עַ עֵשָׂו֙ אֶת־דִּבְרֵ֣י אָבִ֔יו וַיִּצְעַ֣ק צְעָקָ֔ה גְּדֹלָ֥ה וּמָרָ֖ה עַד־מְאֹ֑ד וַיֹּ֣אמֶר לְאָבִ֔יו בָּרְכֵ֥נִי גַם־אָ֖נִי אָבִֽי׃",
+          "counts": {
+            "all": 65,
+            "Rashi": 3,
+            "Commentary": 14,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 35,
+          "ref": "Genesis 27:35",
+          "hebrewText": "וַיֹּ֕אמֶר בָּ֥א אָחִ֖יךָ בְּמִרְמָ֑ה וַיִּקַּ֖ח בִּרְכָתֶֽךָ׃",
+          "counts": {
+            "all": 76,
+            "Rashi": 2,
+            "Commentary": 28,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 2,
+            "Kabbalah": 2,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 36,
+          "ref": "Genesis 27:36",
+          "hebrewText": "וַיֹּ֡אמֶר הֲכִי֩ קָרָ֨א שְׁמ֜וֹ יַעֲקֹ֗ב וַֽיַּעְקְבֵ֙נִי֙ זֶ֣ה פַעֲמַ֔יִם אֶת־בְּכֹרָתִ֣י לָקָ֔ח וְהִנֵּ֥ה עַתָּ֖ה לָקַ֣ח בִּרְכָתִ֑י וַיֹּאמַ֕ר הֲלֹא־אָצַ֥לְתָּ לִּ֖י בְּרָכָֽה׃",
+          "counts": {
+            "all": 161,
+            "Rashi": 6,
+            "Commentary": 66,
+            "Midrash": 20,
+            "Talmud": 1,
+            "Halakhah": 1,
+            "Kabbalah": 3,
+            "Musar": 2,
+            "Chasidut": 22,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 37,
+          "ref": "Genesis 27:37",
+          "hebrewText": "וַיַּ֨עַן יִצְחָ֜ק וַיֹּ֣אמֶר לְעֵשָׂ֗ו הֵ֣ן גְּבִ֞יר שַׂמְתִּ֥יו לָךְ֙ וְאֶת־כׇּל־אֶחָ֗יו נָתַ֤תִּי לוֹ֙ לַעֲבָדִ֔ים וְדָגָ֥ן וְתִירֹ֖שׁ סְמַכְתִּ֑יו וּלְכָ֣ה אֵפ֔וֹא מָ֥ה אֶֽעֱשֶׂ֖ה בְּנִֽי׃",
+          "counts": {
+            "all": 93,
+            "Rashi": 4,
+            "Commentary": 49,
+            "Midrash": 10,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 4,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 38,
+          "ref": "Genesis 27:38",
+          "hebrewText": "וַיֹּ֨אמֶר עֵשָׂ֜ו אֶל־אָבִ֗יו הַֽבְרָכָ֨ה אַחַ֤ת הִֽוא־לְךָ֙ אָבִ֔י בָּרְכֵ֥נִי גַם־אָ֖נִי אָבִ֑י וַיִּשָּׂ֥א עֵשָׂ֛ו קֹל֖וֹ וַיֵּֽבְךְּ׃",
+          "counts": {
+            "all": 56,
+            "Rashi": 1,
+            "Commentary": 16,
+            "Midrash": 15,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 2,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 39,
+          "ref": "Genesis 27:39",
+          "hebrewText": "וַיַּ֛עַן יִצְחָ֥ק אָבִ֖יו וַיֹּ֣אמֶר אֵלָ֑יו הִנֵּ֞ה מִשְׁמַנֵּ֤י הָאָ֙רֶץ֙ יִהְיֶ֣ה מֽוֹשָׁבֶ֔ךָ וּמִטַּ֥ל הַשָּׁמַ֖יִם מֵעָֽל׃",
+          "counts": {
+            "all": 77,
+            "Rashi": 2,
+            "Commentary": 36,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 1,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 40,
+          "ref": "Genesis 27:40",
+          "hebrewText": "וְעַל־חַרְבְּךָ֣ תִֽחְיֶ֔ה וְאֶת־אָחִ֖יךָ תַּעֲבֹ֑ד וְהָיָה֙ כַּאֲשֶׁ֣ר תָּרִ֔יד וּפָרַקְתָּ֥ עֻלּ֖וֹ מֵעַ֥ל צַוָּארֶֽךָ׃",
+          "counts": {
+            "all": 260,
+            "Rashi": 7,
+            "Commentary": 104,
+            "Midrash": 31,
+            "Talmud": 2,
+            "Halakhah": 1,
+            "Kabbalah": 7,
+            "Musar": 11,
+            "Chasidut": 24,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 41,
+          "ref": "Genesis 27:41",
+          "hebrewText": "וַיִּשְׂטֹ֤ם עֵשָׂו֙ אֶֽת־יַעֲקֹ֔ב עַ֨ל־הַבְּרָכָ֔ה אֲשֶׁ֥ר בֵּרְכ֖וֹ אָבִ֑יו וַיֹּ֨אמֶר עֵשָׂ֜ו בְּלִבּ֗וֹ יִקְרְבוּ֙ יְמֵי֙ אֵ֣בֶל אָבִ֔י וְאַֽהַרְגָ֖ה אֶת־יַעֲקֹ֥ב אָחִֽי׃",
+          "counts": {
+            "all": 186,
+            "Rashi": 4,
+            "Commentary": 51,
+            "Midrash": 64,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 5,
+            "Musar": 6,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 42,
+          "ref": "Genesis 27:42",
+          "hebrewText": "וַיֻּגַּ֣ד לְרִבְקָ֔ה אֶת־דִּבְרֵ֥י עֵשָׂ֖ו בְּנָ֣הּ הַגָּדֹ֑ל וַתִּשְׁלַ֞ח וַתִּקְרָ֤א לְיַעֲקֹב֙ בְּנָ֣הּ הַקָּטָ֔ן וַתֹּ֣אמֶר אֵלָ֔יו הִנֵּה֙ עֵשָׂ֣ו אָחִ֔יךָ מִתְנַחֵ֥ם לְךָ֖ לְהׇרְגֶֽךָ׃",
+          "counts": {
+            "all": 75,
+            "Rashi": 2,
+            "Commentary": 39,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 43,
+          "ref": "Genesis 27:43",
+          "hebrewText": "וְעַתָּ֥ה בְנִ֖י שְׁמַ֣ע בְּקֹלִ֑י וְק֧וּם בְּרַח־לְךָ֛ אֶל־לָבָ֥ן אָחִ֖י חָרָֽנָה׃",
+          "counts": {
+            "all": 39,
+            "Rashi": 0,
+            "Commentary": 12,
+            "Midrash": 8,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 44,
+          "ref": "Genesis 27:44",
+          "hebrewText": "וְיָשַׁבְתָּ֥ עִמּ֖וֹ יָמִ֣ים אֲחָדִ֑ים עַ֥ד אֲשֶׁר־תָּשׁ֖וּב חֲמַ֥ת אָחִֽיךָ׃",
+          "counts": {
+            "all": 52,
+            "Rashi": 1,
+            "Commentary": 24,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 45,
+          "ref": "Genesis 27:45",
+          "hebrewText": "עַד־שׁ֨וּב אַף־אָחִ֜יךָ מִמְּךָ֗ וְשָׁכַח֙ אֵ֣ת אֲשֶׁר־עָשִׂ֣יתָ לּ֔וֹ וְשָׁלַחְתִּ֖י וּלְקַחְתִּ֣יךָ מִשָּׁ֑ם לָמָ֥ה אֶשְׁכַּ֛ל גַּם־שְׁנֵיכֶ֖ם י֥וֹם אֶחָֽד׃",
+          "counts": {
+            "all": 96,
+            "Rashi": 3,
+            "Commentary": 39,
+            "Midrash": 16,
+            "Talmud": 1,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 8,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 46,
+          "ref": "Genesis 27:46",
+          "hebrewText": "וַתֹּ֤אמֶר רִבְקָה֙ אֶל־יִצְחָ֔ק <small>קַ֣</small>צְתִּי בְחַיַּ֔י מִפְּנֵ֖י בְּנ֣וֹת חֵ֑ת אִם־לֹקֵ֣חַ יַ֠עֲקֹ֠ב אִשָּׁ֨ה מִבְּנֽוֹת־חֵ֤ת כָּאֵ֙לֶּה֙ מִבְּנ֣וֹת הָאָ֔רֶץ לָ֥מָּה לִּ֖י חַיִּֽים׃",
+          "counts": {
+            "all": 94,
+            "Rashi": 5,
+            "Commentary": 32,
+            "Midrash": 11,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 7,
+            "Chasidut": 6,
+            "Modern": 0
+          }
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Genesis 28:1",
+          "hebrewText": "וַיִּקְרָ֥א יִצְחָ֛ק אֶֽל־יַעֲקֹ֖ב וַיְבָ֣רֶךְ אֹת֑וֹ וַיְצַוֵּ֙הוּ֙ וַיֹּ֣אמֶר ל֔וֹ לֹֽא־תִקַּ֥ח אִשָּׁ֖ה מִבְּנ֥וֹת כְּנָֽעַן׃",
+          "counts": {
+            "all": 60,
+            "Rashi": 0,
+            "Commentary": 11,
+            "Midrash": 16,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 2,
+          "ref": "Genesis 28:2",
+          "hebrewText": "ק֥וּם לֵךְ֙ פַּדֶּ֣נָֽה אֲרָ֔ם בֵּ֥יתָה בְתוּאֵ֖ל אֲבִ֣י אִמֶּ֑ךָ וְקַח־לְךָ֤ מִשָּׁם֙ אִשָּׁ֔ה מִבְּנ֥וֹת לָבָ֖ן אֲחִ֥י אִמֶּֽךָ׃",
+          "counts": {
+            "all": 58,
+            "Rashi": 2,
+            "Commentary": 16,
+            "Midrash": 14,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 3,
+            "Musar": 0,
+            "Chasidut": 5,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 3,
+          "ref": "Genesis 28:3",
+          "hebrewText": "וְאֵ֤ל שַׁדַּי֙ יְבָרֵ֣ךְ אֹֽתְךָ֔ וְיַפְרְךָ֖ וְיַרְבֶּ֑ךָ וְהָיִ֖יתָ לִקְהַ֥ל עַמִּֽים׃",
+          "counts": {
+            "all": 81,
+            "Rashi": 2,
+            "Commentary": 19,
+            "Midrash": 20,
+            "Talmud": 0,
+            "Halakhah": 1,
+            "Kabbalah": 5,
+            "Musar": 1,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 4,
+          "ref": "Genesis 28:4",
+          "hebrewText": "וְיִֽתֶּן־לְךָ֙ אֶת־בִּרְכַּ֣ת אַבְרָהָ֔ם לְךָ֖ וּלְזַרְעֲךָ֣ אִתָּ֑ךְ לְרִשְׁתְּךָ֙ אֶת־אֶ֣רֶץ מְגֻרֶ֔יךָ אֲשֶׁר־נָתַ֥ן אֱלֹהִ֖ים לְאַבְרָהָֽם׃",
+          "counts": {
+            "all": 63,
+            "Rashi": 1,
+            "Commentary": 20,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 3,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 7,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 5,
+          "ref": "Genesis 28:5",
+          "hebrewText": "וַיִּשְׁלַ֤ח יִצְחָק֙ אֶֽת־יַעֲקֹ֔ב וַיֵּ֖לֶךְ פַּדֶּ֣נָֽה אֲרָ֑ם אֶל־לָבָ֤ן בֶּן־בְּתוּאֵל֙ הָֽאֲרַמִּ֔י אֲחִ֣י רִבְקָ֔ה אֵ֥ם יַעֲקֹ֖ב וְעֵשָֽׂו׃",
+          "counts": {
+            "all": 91,
+            "Rashi": 1,
+            "Commentary": 48,
+            "Midrash": 12,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 1,
+            "Chasidut": 13,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 6,
+          "ref": "Genesis 28:6",
+          "hebrewText": "וַיַּ֣רְא עֵשָׂ֗ו כִּֽי־בֵרַ֣ךְ יִצְחָק֮ אֶֽת־יַעֲקֹב֒ וְשִׁלַּ֤ח אֹתוֹ֙ פַּדֶּ֣נָֽה אֲרָ֔ם לָקַֽחַת־ל֥וֹ מִשָּׁ֖ם אִשָּׁ֑ה בְּבָרְכ֣וֹ אֹת֔וֹ וַיְצַ֤ו עָלָיו֙ לֵאמֹ֔ר לֹֽא־תִקַּ֥ח אִשָּׁ֖ה מִבְּנ֥וֹת כְּנָֽעַן׃",
+          "counts": {
+            "all": 46,
+            "Rashi": 1,
+            "Commentary": 19,
+            "Midrash": 6,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 7,
+          "ref": "Genesis 28:7",
+          "hebrewText": "וַיִּשְׁמַ֣ע יַעֲקֹ֔ב אֶל־אָבִ֖יו וְאֶל־אִמּ֑וֹ וַיֵּ֖לֶךְ פַּדֶּ֥נָֽה אֲרָֽם׃",
+          "counts": {
+            "all": 38,
+            "Rashi": 1,
+            "Commentary": 7,
+            "Midrash": 13,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 3,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 8,
+          "ref": "Genesis 28:8",
+          "hebrewText": "וַיַּ֣רְא עֵשָׂ֔ו כִּ֥י רָע֖וֹת בְּנ֣וֹת כְּנָ֑עַן בְּעֵינֵ֖י יִצְחָ֥ק אָבִֽיו׃",
+          "counts": {
+            "all": 30,
+            "Rashi": 0,
+            "Commentary": 11,
+            "Midrash": 9,
+            "Talmud": 0,
+            "Halakhah": 0,
+            "Kabbalah": 0,
+            "Musar": 0,
+            "Chasidut": 2,
+            "Modern": 0
+          }
+        },
+        {
+          "verse": 9,
+          "ref": "Genesis 28:9",
+          "hebrewText": "וַיֵּ֥לֶךְ עֵשָׂ֖ו אֶל־יִשְׁמָעֵ֑אל וַיִּקַּ֡ח אֶֽת־מָחֲלַ֣ת&thinsp;<b>׀</b> בַּת־יִשְׁמָעֵ֨אל בֶּן־אַבְרָהָ֜ם אֲח֧וֹת נְבָי֛וֹת עַל־נָשָׁ֖יו ל֥וֹ לְאִשָּֽׁה׃&nbsp;<span class=\"mam-spi-samekh\">{ס}</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+          "counts": {
+            "all": 174,
+            "Rashi": 2,
+            "Commentary": 42,
+            "Midrash": 91,
+            "Talmud": 2,
+            "Halakhah": 0,
+            "Kabbalah": 1,
+            "Musar": 0,
+            "Chasidut": 9,
+            "Modern": 0
+          }
+        }
+      ]
+    }
+  ]
+}
