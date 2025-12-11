@@ -631,6 +631,13 @@ body {
     overflow-x: hidden;
   }
 
+  .app-container {
+    display: block;
+    flex: none;
+    height: auto;
+    overflow: visible;
+  }
+
   #sidebar {
     width: 100%;
     height: auto;
