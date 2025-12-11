@@ -68,11 +68,13 @@ const books = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"];
 
 // State
 let currentParasha = null;
+let thisWeekParasha = null; // Fetched from Hebcal
 let verseData = {}; // { "Genesis 1:1": { text: "...", count: 120 } }
 let maxCount = 0;
 
 // API Utils
 const API_BASE = 'https://www.sefaria.org/api';
+const HEBCAL_API = 'https://www.hebcal.com/shabbat?cfg=json&geonameid=5128581'; // NYC as default
 
 async function get(endpoint) {
     const res = await fetch(`${API_BASE}${endpoint}`);
@@ -93,6 +95,140 @@ function init() {
         });
     } else {
         console.error('Menu toggle button not found!');
+    }
+
+    // Info Panel Toggle
+    const infoBtn = document.getElementById('info-btn');
+    const infoPanel = document.getElementById('info-panel');
+    const infoPanelClose = document.getElementById('info-panel-close');
+
+    if (infoBtn && infoPanel) {
+        infoBtn.addEventListener('click', () => {
+            infoPanel.style.display = infoPanel.style.display === 'none' ? 'block' : 'none';
+        });
+    }
+
+    if (infoPanelClose && infoPanel) {
+        infoPanelClose.addEventListener('click', () => {
+            infoPanel.style.display = 'none';
+        });
+    }
+
+    // Fetch This Week's Parasha from Hebcal
+    fetchThisWeekParasha();
+
+    // This Week Button Click Handler
+    const thisWeekBtn = document.getElementById('this-week-btn');
+    if (thisWeekBtn) {
+        thisWeekBtn.addEventListener('click', () => {
+            if (thisWeekParasha) {
+                loadParasha(thisWeekParasha);
+            }
+        });
+    }
+
+    // Dark Mode Toggle
+    initDarkMode();
+    const darkModeToggle = document.getElementById('dark-mode-toggle');
+    if (darkModeToggle) {
+        darkModeToggle.addEventListener('click', toggleDarkMode);
+    }
+
+    // Search Filter
+    const searchInput = document.getElementById('parasha-search');
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            filterParashot(e.target.value);
+        });
+    }
+
+    // URL Routing: Check for hash on page load
+    checkUrlAndLoadParasha();
+
+    // Listen for hash changes (back/forward navigation)
+    window.addEventListener('hashchange', checkUrlAndLoadParasha);
+}
+
+// Search Filter Function
+function filterParashot(query) {
+    const normalizedQuery = query.toLowerCase().trim();
+    const items = document.querySelectorAll('.parasha-item');
+    const sections = document.querySelectorAll('.book-section');
+
+    if (!normalizedQuery) {
+        // Show all items and sections
+        items.forEach(item => item.style.display = 'flex');
+        sections.forEach(section => section.style.display = 'block');
+        return;
+    }
+
+    // Filter items
+    items.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        const matches = text.includes(normalizedQuery);
+        item.style.display = matches ? 'flex' : 'none';
+    });
+
+    // Hide empty sections (all children hidden)
+    sections.forEach(section => {
+        const visibleItems = section.querySelectorAll('.parasha-item[style*="flex"]');
+        section.style.display = visibleItems.length > 0 ? 'block' : 'none';
+    });
+}
+
+// Hebcal API - Fetch This Week's Parasha
+async function fetchThisWeekParasha() {
+    try {
+        const res = await fetch(HEBCAL_API);
+        const data = await res.json();
+
+        // Find the parasha item in the response
+        const parashaItem = data.items?.find(item => item.category === 'parashat');
+        if (parashaItem) {
+            // Try to match with our parashot list
+            // Hebcal returns names like "Parashat Vayeshev" - we need just "Vayeshev"
+            const hebcalName = parashaItem.title.replace('Parashat ', '').replace('Parshat ', '');
+
+            // Find matching parasha (case-insensitive, handle variations)
+            const matched = parashot.find(p => {
+                const pName = p.name.toLowerCase().replace(/[^a-z]/g, '');
+                const hName = hebcalName.toLowerCase().replace(/[^a-z]/g, '');
+                return pName === hName || pName.includes(hName) || hName.includes(pName);
+            });
+
+            if (matched) {
+                thisWeekParasha = matched;
+
+                // Update UI - show the container in sidebar
+                const container = document.getElementById('this-week-container');
+                const nameSpan = document.getElementById('this-week-name');
+                if (container && nameSpan) {
+                    nameSpan.textContent = matched.name;
+                    container.style.display = 'block';
+                }
+            }
+        }
+    } catch (err) {
+        console.error('Failed to fetch this week parasha:', err);
+    }
+}
+
+// URL Routing Helpers
+function getSlugFromName(name) {
+    return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+}
+
+function findParashaBySlug(slug) {
+    return parashot.find(p => getSlugFromName(p.name) === slug);
+}
+
+function checkUrlAndLoadParasha() {
+    const hash = window.location.hash.slice(1); // Remove the '#'
+    if (hash) {
+        const parasha = findParashaBySlug(hash);
+        if (parasha) {
+            loadParasha(parasha, false); // false = don't update URL again
+        }
     }
 }
 
@@ -124,11 +260,17 @@ function renderSidebar() {
     });
 }
 
-async function loadParasha(parasha) {
+async function loadParasha(parasha, updateUrl = true) {
     // Auto-close sidebar on mobile if open
     toggleSidebar(false);
 
-    currentParasha = parashot;
+    currentParasha = parasha;
+
+    // Update URL hash (if not loading from URL)
+    if (updateUrl) {
+        const slug = getSlugFromName(parasha.name);
+        window.history.pushState(null, '', `#${slug}`);
+    }
 
     // Update Header
     document.getElementById('parasha-title').textContent = parasha.name;
@@ -137,18 +279,41 @@ async function loadParasha(parasha) {
     refBadge.textContent = parasha.ref;
     refBadge.style.display = 'block';
 
-    // Set Active State in Sidebar
-    document.querySelectorAll('.parasha-item').forEach(el => el.classList.remove('active'));
-    // (Simple way to highlight - in a real app we'd track the element or use ID)
+    // Show info button and legend bar
+    const infoBtn = document.getElementById('info-btn');
+    const legendBar = document.getElementById('legend-bar');
+    if (infoBtn) infoBtn.style.display = 'flex';
+    if (legendBar) legendBar.style.display = 'flex';
 
-    // Show Loading
+    // Set Active State in Sidebar
+    document.querySelectorAll('.parasha-item').forEach(el => {
+        el.classList.remove('active');
+        // Check if this item matches the selected parasha
+        if (el.textContent.includes(parasha.name)) {
+            el.classList.add('active');
+        }
+    });
+
+    // Show Loading with skeleton
     const heatmapContainer = document.getElementById('heatmap-container');
-    heatmapContainer.innerHTML = `<div class="loading-state">Loading ${parasha.ref}... this may take a moment.</div>`;
+    heatmapContainer.innerHTML = `
+        <div class="loading-container">
+            <div class="loading-spinner"></div>
+            <div class="loading-text" id="loading-text">Loading ${parasha.ref}...</div>
+            <div class="loading-progress">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div class="skeleton-grid">
+                ${Array(12).fill('<div class="skeleton-cell"></div>').join('')}
+            </div>
+        </div>
+    `;
 
     try {
         // 1. Get the Text to determine structure (Chapters & Verses)
         // We accept the flattening of the text to handle the range
         // context=0 ensures we just get the requested range
+        updateLoadingText('Fetching text structure...');
         const textData = await get(`/texts/${parasha.ref}?context=0&pad=0`);
 
         // 2. Parse text data into a structure
@@ -186,35 +351,26 @@ async function loadParasha(parasha) {
             }
         });
 
-        // 3. Fetch Link Counts
-        // Fetching entire parasha related links might be huge.
-        // Let's fetch per-chapter to handle distinct chunks and update UI progressively if we wanted,
-        // but for now let's just do parallel fetches.
+        // 3. Fetch Link Counts with progress updates
+        const totalChapters = chapterStructure.length;
+        const results = [];
 
-
-        const linkPromises = chapterStructure.map(async (chap) => {
-            // Construct Ref
-            // If it's a full chapter, "Book X"
-            // But we have partials.
-            // Simplest: "Book Chap:Start-End"
-            // We need to know how many verses to construct the end ref?
-            // Or we just ask for "Book Chap" and filter later? 
-            // "Book Chap" gives us ALL links for that chapter.
-            // If we ask for related/Genesis.6 - it returns links for Gen 6:1, 6:2...
-            // We can then map them to our heatmap.
-
-            // Ref Correction: "Genesis 6" not "Genesis.6" for text ref usually, but API accepts dots or spaces.
-
+        for (let i = 0; i < chapterStructure.length; i++) {
+            const chap = chapterStructure[i];
             const chapRef = `${textData.book} ${chap.chapter}`;
+
+            updateLoadingText(`Loading Chapter ${chap.chapter} (${i + 1} of ${totalChapters})...`);
+            updateProgressBar((i + 1) / totalChapters * 100);
+
             const links = await get(`/related/${chapRef}`);
-
-            return {
+            results.push({
                 chapter: chap.chapter,
-                links: links.links // Array of link objects
-            };
-        });
+                links: links.links
+            });
+        }
 
-        const results = await Promise.all(linkPromises);
+        updateLoadingText('Processing data...');
+        updateProgressBar(100);
 
         // Process results
         maxCount = 0;
@@ -260,7 +416,7 @@ async function loadParasha(parasha) {
             });
         });
 
-        renderHeatmap(renderData);
+        renderHeatmap(renderData, textData.book);
 
     } catch (err) {
         console.error(err);
@@ -268,7 +424,7 @@ async function loadParasha(parasha) {
     }
 }
 
-function renderHeatmap(data) {
+function renderHeatmap(data, bookName) {
     const container = document.getElementById('heatmap-container');
     container.innerHTML = '';
 
@@ -283,7 +439,7 @@ function renderHeatmap(data) {
 
         const title = document.createElement('div');
         title.className = 'chapter-title';
-        title.textContent = `Chapter ${chap.chapter}`;
+        title.textContent = `${bookName} ${chap.chapter}`;
         section.appendChild(title);
 
         const grid = document.createElement('div');
@@ -292,6 +448,11 @@ function renderHeatmap(data) {
         chap.verses.forEach(v => {
             const cell = document.createElement('div');
             cell.className = 'verse-cell';
+
+            // Accessibility attributes
+            cell.setAttribute('role', 'button');
+            cell.setAttribute('tabindex', '0');
+            cell.setAttribute('aria-label', `${v.ref}, ${v.count} commentaries`);
 
             // Color Logic
             // Scale opacity or darkness based on count relative to max
@@ -303,6 +464,14 @@ function renderHeatmap(data) {
 
             const lightness = 95 - (ratio * 60); // 95 down to 35
             cell.style.backgroundColor = `hsl(210, 85%, ${lightness}%)`;
+
+            // Add verse number with dynamic contrast
+            const verseNum = document.createElement('span');
+            verseNum.className = 'verse-number';
+            verseNum.textContent = v.verse;
+            // Use white text on dark backgrounds (lightness < 60), dark text on light
+            verseNum.style.color = lightness < 60 ? 'white' : '#1e3a5f';
+            cell.appendChild(verseNum);
 
             // Tooltip
             tippy(cell, {
@@ -316,8 +485,16 @@ function renderHeatmap(data) {
                 animation: 'scale'
             });
 
-            cell.onclick = () => {
+            // Click and keyboard handler
+            const openSefaria = () => {
                 window.open(`https://www.sefaria.org/${v.ref}`, '_blank');
+            };
+            cell.onclick = openSefaria;
+            cell.onkeydown = (e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                    e.preventDefault();
+                    openSefaria();
+                }
             };
 
             grid.appendChild(cell);
@@ -345,4 +522,40 @@ function toggleSidebar(forceState = null) {
         nav.classList.toggle('open');
     }
 }
+
+// Loading State Helpers
+function updateLoadingText(text) {
+    const el = document.getElementById('loading-text');
+    if (el) el.textContent = text;
+}
+
+function updateProgressBar(percent) {
+    const bar = document.getElementById('progress-bar');
+    if (bar) bar.style.width = `${percent}%`;
+}
+
+// Dark Mode Functions
+function initDarkMode() {
+    // Check for saved preference or system preference
+    const savedTheme = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+}
+
+function toggleDarkMode() {
+    const html = document.documentElement;
+    const currentTheme = html.getAttribute('data-theme');
+
+    if (currentTheme === 'dark') {
+        html.removeAttribute('data-theme');
+        localStorage.setItem('theme', 'light');
+    } else {
+        html.setAttribute('data-theme', 'dark');
+        localStorage.setItem('theme', 'dark');
+    }
+}
+
 window.toggleSidebar = toggleSidebar;

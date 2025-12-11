@@ -4,7 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sefaria Commentary Heatmap</title>
+    <title>Torah Heatmap | Explore Commentary Density Across Torah Verses</title>
+    <meta name="description"
+        content="Explore which Torah verses have inspired the most commentary throughout Jewish history with this interactive heatmap visualization. Click any verse to explore it on Sefaria.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://torahheatmap.org/">
+    <meta property="og:title" content="Torah Heatmap | Explore Commentary Density">
+    <meta property="og:description"
+        content="Discover which Torah verses have inspired the most commentary throughout Jewish history with this interactive heatmap visualization.">
+    <meta property="og:image" content="https://torahheatmap.org/og-image.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://torahheatmap.org/">
+    <meta property="twitter:title" content="Torah Heatmap | Explore Commentary Density">
+    <meta property="twitter:description"
+        content="Discover which Torah verses have inspired the most commentary throughout Jewish history.">
+    <meta property="twitter:image" content="https://torahheatmap.org/og-image.png">
+
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -15,42 +35,96 @@
 
 <body>
 
-    <div id="sidebar">
-        <div class="logo-area">
-            <h1>Torah Heatmap</h1>
-            <button id="menu-toggle" aria-label="Toggle Menu">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <line x1="3" y1="12" x2="21" y2="12"></line>
-                    <line x1="3" y1="6" x2="21" y2="6"></line>
-                    <line x1="3" y1="18" x2="21" y2="18"></line>
-                </svg>
-            </button>
+    <div class="app-container">
+        <div id="sidebar">
+            <div class="logo-area">
+                <h1>Torah Heatmap</h1>
+                <button id="menu-toggle" aria-label="Toggle Menu">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="12" x2="21" y2="12"></line>
+                        <line x1="3" y1="6" x2="21" y2="6"></line>
+                        <line x1="3" y1="18" x2="21" y2="18"></line>
+                    </svg>
+            </div>
+            <!-- This Week Button (populated by JS) -->
+            <div id="this-week-container" class="this-week-container" style="display: none;">
+                <button id="this-week-btn" class="this-week-btn">
+                    📖 This Week: <span id="this-week-name"></span>
+                </button>
+            </div>
+            <!-- Search Input -->
+            <div class="search-container">
+                <input type="text" id="parasha-search" class="parasha-search" placeholder="🔍 Search parashot...">
+            </div>
+            <div class="nav-scroll" id="nav-container">
+                <!-- Populated by JS -->
+            </div>
         </div>
-        <div class="nav-scroll" id="nav-container">
-            <!-- Populated by JS -->
+
+        <div id="main-content">
+            <div class="header-container">
+                <div class="header-content">
+                    <h2 id="parasha-title">Select a Parasha</h2>
+                    <p id="parasha-hebrew">Exploring Jewish Texts</p>
+                </div>
+                <div class="header-actions">
+                    <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode">
+                        <span class="dark-icon">🌙</span>
+                        <span class="light-icon">☀️</span>
+                    </button>
+                    <div id="parasha-ref" class="ref-badge" style="display: none;"></div>
+                    <button id="info-btn" class="info-btn" aria-label="About this tool" style="display: none;">
+                        <span>ℹ️</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Info Panel (hidden by default, shown after parasha selected) -->
+            <div id="info-panel" class="info-panel" style="display: none;">
+                <p>Torah Heatmap provides a visual guide to which verses in the Torah have received the most attention
+                    from
+                    commentators throughout the thousands of years of conversation that is Torah study. The darker the
+                    color, the more commentaries there are on a particular verse. Click any verse to explore it on
+                    Sefaria.
+                </p>
+                <button id="info-panel-close" class="info-panel-close">×</button>
+            </div>
+
+            <!-- Legend Bar -->
+            <div id="legend-bar" class="legend-bar" style="display: none;">
+                <span class="legend-label">Fewer commentaries</span>
+                <div class="legend-gradient"></div>
+                <span class="legend-label">More commentaries</span>
+            </div>
+
+            <div id="heatmap-container">
+                <div class="empty-state">
+                    <div class="intro-content">
+                        <h3>Welcome to Torah Heatmap</h3>
+                        <p>Torah Heatmap provides a visual guide to which verses in the Torah have received the most
+                            attention from commentators throughout the thousands of years of conversation that is Torah
+                            study.</p>
+                        <p>The darker the color, the more commentaries there are on a particular verse. Click any verse
+                            to
+                            explore it on Sefaria.</p>
+                        <p class="intro-cta">👈 Select a Torah portion from the sidebar to begin exploring.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
-    <div id="main-content">
-        <div class="header-container">
-            <div class="header-content">
-                <h2 id="parasha-title">Select a Parasha</h2>
-                <p id="parasha-hebrew">Exploring Jewish Texts</p>
-            </div>
-            <div id="parasha-ref" class="ref-badge" style="display: none;"></div>
-        </div>
-
-        <div id="heatmap-container">
-            <div class="empty-state">
-                Select a Torah portion from the sidebar to begin exploring.
-            </div>
-        </div>
-
-        <footer class="site-footer">
-            <p>Project of Rabbi Daniel Bogard using <a href="https://www.sefaria.org" target="_blank">Sefaria.org</a>
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p class="footer-about">Torah Heatmap helps you discover which verses have inspired the most commentary
+                throughout Jewish history.</p>
+            <p class="footer-links">
+                A Project of <strong>Rabbi Daniel Bogard</strong> •
+                Powered by <a href="https://www.sefaria.org" target="_blank">Sefaria</a> •
+                <a href="https://github.com/RavBogard/TorahHeatMap" target="_blank">View on GitHub</a>
             </p>
-        </footer>
-    </div>
+        </div>
+    </footer>
 
     <!-- Tippy & Popper -->
     <script src="https://unpkg.com/@popperjs/core@2"></script>
