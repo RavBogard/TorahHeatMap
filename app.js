@@ -82,11 +82,7 @@ const GLOBAL_MAX_COUNTS = {
     "Talmud": 94,
     "Halakhah": 104,
     "Kabbalah": 87,
-    "Musar": 60,
-    "Chasidut": 289,
-    "Modern": 0,
-    // Add variations if needed for exact matching, but categories are fixed
-    "Chassidut": 289
+    "Musar": 60
 };
 
 // Cached data for filter reprocessing
@@ -388,19 +384,6 @@ function renderSidebar() {
         const header = document.createElement('div');
         header.className = 'book-header';
         header.onclick = (e) => {
-            // If click is on title, load book? 
-            // UX Decision: Header click purely toggles? Or title loads book?
-            // "on the left list of parshiyot it's really long. can we collapse them into their books"
-            // Let's make the whole header toggle the list. 
-            // But user also liked clicking book to load book map.
-            // Let's make Title load book map, Chevron toggle? Or separate? 
-            // Simplest: Header toggles. Title text click loads map? 
-            // Current "Book-Level View" relies on clicking title. 
-            // Let's do: Header toggles. Inside header, Title span loads book (and stops propagation?).
-            // Actually, loading book implies expanding it. So clicking header -> Toggle. 
-            // If collapsed -> Expand. If Expanded -> Collapse.
-            // But we want to separate "View Book Heatmap" from "Expand List".
-            // Let's make Title text the "View Book" link, and the rest of the bar (or chevron) the toggle.
             toggleBook(book);
         };
 
@@ -408,11 +391,9 @@ function renderSidebar() {
         title.className = 'book-title';
         title.textContent = book;
         title.onclick = (e) => {
-            e.stopPropagation(); // prevent header toggle if we want distinct action?
-            // Actually, if we load book, we probably want to expand it too. 
-            // So default click bubble is fine, but we also call loadBook.
+            e.stopPropagation();
             loadBook(book);
-            expandBook(book); // Ensure expanded
+            expandBook(book);
         };
 
         const chevron = document.createElement('span');

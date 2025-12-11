@@ -300,6 +300,11 @@ body {
   /* Grow to fill available space */
 }
 
+.heatmap-wrapper {
+  margin-top: 20px;
+  width: 100%;
+}
+
 .chapter-section {
   margin-bottom: 40px;
 }
