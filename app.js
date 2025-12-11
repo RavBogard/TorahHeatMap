@@ -162,12 +162,10 @@ function init() {
     }
 
     // Category Filter
-    const categoryFilter = document.getElementById('category-filter');
-    if (categoryFilter) {
-        categoryFilter.addEventListener('change', () => {
-            applyFilter(categoryFilter.value);
-        });
-    }
+    document.getElementById('category-filter').addEventListener('change', (e) => {
+        applyFilter(e.target.value);
+    });
+
 
     // Scale Toggle
     const scaleToggle = document.getElementById('scale-toggle');
@@ -475,7 +473,10 @@ async function loadBook(bookName) {
     document.getElementById('info-btn').style.display = 'none'; // Maybe hide info for book view? Or generic info.
     document.getElementById('legend-bar').style.display = 'flex';
     document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
-    document.getElementById('filter-container').style.display = 'flex';
+    document.getElementById('legend-bar').style.display = 'flex';
+    document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
+    document.getElementById('filter-wrapper').style.display = 'flex'; // Show filter
+
 
     try {
         // Fetch ALL parashot JSONs for this book concurrently
@@ -524,7 +525,9 @@ async function loadBook(bookName) {
         cachedBookName = bookName;
         cachedLinks = [];
 
-        // Reset filter to all
+        // Reset filter
+        const filterWrapper = document.getElementById('filter-wrapper');
+        if (filterWrapper) filterWrapper.style.display = 'flex'; // Ensure it's visible for book view
         const categoryFilter = document.getElementById('category-filter');
         if (categoryFilter) categoryFilter.value = 'all';
 
@@ -561,6 +564,7 @@ async function loadParasha(parasha, updateUrl = true) {
     if (infoBtn) infoBtn.style.display = 'flex';
     if (legendBar) legendBar.style.display = 'flex';
     document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
+    document.getElementById('filter-wrapper').style.display = 'flex'; // Show filter for parasha view
 
     // Set Active State in Sidebar AND Expand Book
     document.querySelectorAll('.parasha-item').forEach(el => {
@@ -945,9 +949,12 @@ async function loadGlobalHeatmap() {
 
         wrapper.style.display = 'block';
 
-        // Hide Toggle on Homepage
+        // Hide Toggle AND Filter on Homepage
         const toggleContainer = document.querySelector('.scale-toggle-container');
         if (toggleContainer) toggleContainer.style.display = 'none';
+
+        const filterWrapper = document.getElementById('filter-wrapper');
+        if (filterWrapper) filterWrapper.style.display = 'none';
 
     } catch (e) {
         console.warn('Could not load global heatmap', e);

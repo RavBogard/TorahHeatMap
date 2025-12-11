@@ -502,6 +502,30 @@ body {
   box-shadow: var(--shadow);
 }
 
+/* Legend Bar */
+.legend-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background: white;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border-color);
+  flex-wrap: wrap;
+}
+
+/* Reduced whitespace for heatmap wrappers */
+.heatmap-wrapper {
+  background: var(--card-bg);
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--border-color);
+  margin-top: 10px;
+  /* Reduced from 20px */
+  width: 100%;
+}
+
 .dark-mode-toggle:hover {
   transform: scale(1.05);
 }
