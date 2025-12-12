@@ -284,7 +284,8 @@ body {
   width: 100%;
   max-width: 1000px;
   background: var(--sidebar-bg);
-  padding: 24px;
+  padding: 24px 24px 40px 24px;
+  /* Increased to 40px for optical balance */
   border-radius: 16px;
   box-shadow: var(--shadow);
   flex-grow: 1;
@@ -343,8 +344,7 @@ body {
   z-index: 3;
 }
 
-.loading-state,
-.empty-state {
+.loading-state {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -352,6 +352,19 @@ body {
   min-height: 400px;
   color: #6b7280;
   font-size: 1.1rem;
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  /* Align to top to respect padding */
+  align-items: stretch;
+  /* Stretch to fill width */
+  min-height: 400px;
+  color: #6b7280;
+  font-size: 1.1rem;
+  row-gap: 24px;
 }
 
 /* Enhanced Loading Container */
@@ -482,15 +495,16 @@ body {
 }
 
 /* Reduced whitespace for heatmap wrappers: remove card styling */
+/* Reduced whitespace for heatmap wrappers: restore card styling and spacing */
 .heatmap-wrapper {
-  background: transparent;
-  padding: 0;
-  border-radius: 0;
-  box-shadow: none;
-  border: none;
+  background: var(--card-bg);
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  border: 1px solid var(--border-color);
   margin-top: 0;
-  margin-bottom: 32px;
-  /* Space between sections */
+  margin-bottom: 0;
+  /* Reduced from 32px - using parent gap now */
   width: 100%;
 }
 
