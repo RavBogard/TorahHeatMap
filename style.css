@@ -74,7 +74,7 @@ body {
   display: flex;
   flex-direction: column;
   height: calc(100% - 48px);
-  margin: 24px;
+  margin: 24px 12px 24px 24px;
   border-radius: 16px;
   box-shadow: var(--shadow);
   z-index: 10;
@@ -219,7 +219,7 @@ body {
 
 #main-content {
   flex: 1;
-  padding: 40px;
+  padding: 40px 24px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
