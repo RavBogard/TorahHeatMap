@@ -489,9 +489,7 @@ async function loadBook(bookName) {
     // Show Info/Legent
     document.getElementById('info-btn').style.display = 'none'; // Maybe hide info for book view? Or generic info.
     document.getElementById('legend-bar').style.display = 'flex';
-    document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
-    document.getElementById('legend-bar').style.display = 'flex';
-    document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
+    document.getElementById('scale-control-group').style.display = 'flex'; // Show toggle group
     document.getElementById('filter-wrapper').style.display = 'flex'; // Show filter
 
 
@@ -580,7 +578,7 @@ async function loadParasha(parasha, updateUrl = true) {
     const legendBar = document.getElementById('legend-bar');
     if (infoBtn) infoBtn.style.display = 'flex';
     if (legendBar) legendBar.style.display = 'flex';
-    document.querySelector('.scale-toggle-container').style.display = 'flex'; // Ensure toggle is visible
+    document.getElementById('scale-control-group').style.display = 'flex'; // Show toggle group
     document.getElementById('filter-wrapper').style.display = 'flex'; // Show filter for parasha view
 
     // Set Active State in Sidebar AND Expand Book
@@ -968,9 +966,9 @@ async function loadGlobalHeatmap() {
 
         wrapper.style.display = 'block';
 
-        // Ensure Filter and Toggle are visible (removed code that hid them)
-        const toggleContainer = document.querySelector('.scale-toggle-container');
-        if (toggleContainer) toggleContainer.style.display = 'flex';
+        // Ensure Filter is visible, but Toggle Group is HIDDEN on homepage
+        const scaleGroup = document.getElementById('scale-control-group');
+        if (scaleGroup) scaleGroup.style.display = 'none';
 
         const filterWrapper = document.getElementById('filter-wrapper');
         if (filterWrapper) filterWrapper.style.display = 'flex';
