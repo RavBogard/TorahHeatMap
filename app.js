@@ -882,6 +882,14 @@ function updateProgressBar(percent) {
 }
 
 // Dark Mode Functions
+function updateLogo(theme) {
+    const logoImg = document.querySelector('.logo-img');
+    if (logoImg) {
+        logoImg.src = theme === 'dark' ? 'logo-dark.png' : 'logo-main.png';
+    }
+}
+
+// Dark Mode Functions
 function initDarkMode() {
     // Check for saved preference or system preference
     const savedTheme = localStorage.getItem('theme');
@@ -889,6 +897,9 @@ function initDarkMode() {
 
     if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
         document.documentElement.setAttribute('data-theme', 'dark');
+        updateLogo('dark');
+    } else {
+        updateLogo('light');
     }
 }
 
@@ -899,9 +910,11 @@ function toggleDarkMode() {
     if (currentTheme === 'dark') {
         html.removeAttribute('data-theme');
         localStorage.setItem('theme', 'light');
+        updateLogo('light');
     } else {
         html.setAttribute('data-theme', 'dark');
         localStorage.setItem('theme', 'dark');
+        updateLogo('dark');
     }
 }
 
