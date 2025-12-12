@@ -44,34 +44,40 @@ def main():
             continue
 
         # Collect Parasha Total
-        parasha_total = 0
+        parasha_counts = {}
 
         for chap_data in data['data']:
             chap_num = chap_data['chapter']
             
             # Initialize chapter entry if not exists in summary_chapters
             if chap_num not in summary_chapters[book]:
-                summary_chapters[book][chap_num] = { 'count': 0, 'parashot': [] }
+                summary_chapters[book][chap_num] = { 'counts': {}, 'parashot': [] }
             
             # Sum counts for this chapter from this parasha
-            total_chap_count = 0
             for v in chap_data['verses']:
-                count = v['counts'].get('all', 0)
-                total_chap_count += count
-                parasha_total += count
-            
-            summary_chapters[book][chap_num]['count'] += total_chap_count
+                v_counts = v.get('counts', {})
+                
+                # Iterate all categories in the verse counts
+                for cat, val in v_counts.items():
+                    # Update chapter total
+                    if cat not in summary_chapters[book][chap_num]['counts']:
+                        summary_chapters[book][chap_num]['counts'][cat] = 0
+                    summary_chapters[book][chap_num]['counts'][cat] += val
+                    
+                    # Update parasha total
+                    if cat not in parasha_counts:
+                        parasha_counts[cat] = 0
+                    parasha_counts[cat] += val
             
             # Record that this parasha contains this chapter
             if parasha_slug not in summary_chapters[book][chap_num]['parashot']:
                 summary_chapters[book][chap_num]['parashot'].append(parasha_slug)
 
         # Store Parasha Entry
-        # Note: Some double parashot might be separate files or combined. 
-        # Here we trust the files.
         summary_parashot[book].append({
             "name": parasha_name,
-            "count": parasha_total,
+            "counts": parasha_counts,
+            "count": parasha_counts.get('all', 0), # Keep legacy for safety
             "slug": parasha_slug
         })
 
@@ -96,7 +102,8 @@ def main():
             
             chapters.append({
                 "chapter": ch,
-                "count": info['count'],
+                "counts": info['counts'],
+                "count": info['counts'].get('all', 0), # separate total for legacy/ease
                 "slug": primary_slug
             })
         

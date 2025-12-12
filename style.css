@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --bg-color: #f0f2f5;
   --sidebar-bg: #ffffff;

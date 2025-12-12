@@ -90,6 +90,7 @@ let cachedLinks = []; // Raw links data from Sefaria (Legacy/Fallback)
 let cachedChapterStructure = []; // Chapter structure with Hebrew texts (Legacy/Fallback)
 let cachedBookName = ''; // Book name for chapter titles
 let cachedStaticData = null; // New Static JSON Data
+let cachedGlobalSummary = null; // New Global Summary Cache
 
 // API Utils
 const API_BASE = 'https://www.sefaria.org/api';
@@ -256,7 +257,20 @@ function applyFilter(category) {
         return;
     }
 
-    // 2. Legacy/Fallback API Mode
+    // 2. Global Heatmap Mode
+    // If no parasha is selected and we have global summary data
+    if (!currentParasha && cachedGlobalSummary) {
+        // Redraw global heatmaps with new filter
+        const chapters = cachedGlobalSummary.chapters || cachedGlobalSummary;
+        const parashot = cachedGlobalSummary.parashot || {};
+        renderGlobalHeatmap(chapters, category);
+        if (cachedGlobalSummary.parashot) {
+            renderParashaHeatmap(parashot, category);
+        }
+        return;
+    }
+
+    // 3. Legacy/Fallback API Mode
     if (!cachedLinks.length || !cachedChapterStructure.length) return;
 
     // Recalculate counts based on category
@@ -937,27 +951,29 @@ async function loadGlobalHeatmap() {
         if (!res.ok) throw new Error('Failed to load summary');
 
         const summary = await res.json();
+        cachedGlobalSummary = summary; // Cache for filtering
 
         // Handle new structure { chapters: {...}, parashot: {...} } or fallback
         const chapterData = summary.chapters || summary; // Fallback for old structure if any
         const parashaData = summary.parashot || {};
 
-        renderGlobalHeatmap(chapterData);
+        // Initial render with 'all'
+        renderGlobalHeatmap(chapterData, 'all');
 
         if (summary.parashot) {
-            renderParashaHeatmap(parashaData);
+            renderParashaHeatmap(parashaData, 'all');
             const parashaWrapper = document.getElementById('parasha-heatmap-wrapper');
             if (parashaWrapper) parashaWrapper.style.display = 'block';
         }
 
         wrapper.style.display = 'block';
 
-        // Hide Toggle AND Filter on Homepage
+        // Ensure Filter and Toggle are visible (removed code that hid them)
         const toggleContainer = document.querySelector('.scale-toggle-container');
-        if (toggleContainer) toggleContainer.style.display = 'none';
+        if (toggleContainer) toggleContainer.style.display = 'flex';
 
         const filterWrapper = document.getElementById('filter-wrapper');
-        if (filterWrapper) filterWrapper.style.display = 'none';
+        if (filterWrapper) filterWrapper.style.display = 'flex';
 
     } catch (e) {
         console.warn('Could not load global heatmap', e);
@@ -965,17 +981,40 @@ async function loadGlobalHeatmap() {
     }
 }
 
-function renderGlobalHeatmap(summary) {
+function renderGlobalHeatmap(summary, category = 'all') {
     const container = document.getElementById('global-heatmap');
     container.innerHTML = '';
 
     // Find global max for scaling
     let max = 0;
+
+    // Scale Logic:
+    // If Absolute (Torah): Find max across ENTIRE Torah for this category
+    // If Relative (Parasha): For global map, maybe "Relative" means relative to Book? Or still entire Torah?
+    // "Parasha" scale usually means relative to the current view's scope.
+    // For Global View:
+    // "Torah" (Absolute) -> Max count of any chapter in Torah (for this category)
+    // "Parasha" (Relative) -> Let's interpret as "Relative to Book" or just same as Torah for now?
+    // Actually, user said: "parasha has scale compared to other verses within this particular torah portion, while 'torah' compares ... against all verses in torah"
+    // Since this is the GLOBAL view (chapters), maybe "Parasha" mode means "Relative to itself"? 
+    // Or maybe we just use one scale for global view?
+    // Let's stick to Global Max for consistency unless user asked otherwise for global.
+    // Wait, simpler: calculate MAX based on the `useAbsoluteScale` flag (Torah vs Parasha labels).
+
+    // Calculate global max for this category
     Object.values(summary).forEach(chapters => {
         chapters.forEach(c => {
-            if (c.count > max) max = c.count;
+            // Support new structure (counts dict) or fallback (count int)
+            const val = c.counts ? (c.counts[category] || 0) : (category === 'all' ? c.count : 0);
+            if (val > max) max = val;
         });
     });
+
+    // If "Torah" (Absolute) mode, maybe we want a fixed hardcoded max like in single view?
+    // In single view: GLOBAL_MAX_COUNTS[category].
+    if (useAbsoluteScale) {
+        max = GLOBAL_MAX_COUNTS[category] || GLOBAL_MAX_COUNTS['all'];
+    }
 
     // Order: Genesls, Exodus, Leviticus, Numbers, Deuteronomy
     const books = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"];
@@ -997,8 +1036,11 @@ function renderGlobalHeatmap(summary) {
             const cell = document.createElement('div');
             cell.className = 'global-chapter-cell';
 
-            // Color Logic (same linear scale as main map for consistency)
-            const ratio = c.count / (max || 1);
+            // Get Value
+            const val = c.counts ? (c.counts[category] || 0) : (category === 'all' ? c.count : 0);
+
+            // Color Logic
+            const ratio = val / (max || 1);
             const lightness = 95 - (ratio * 60); // 95 -> 35
 
             cell.style.backgroundColor = `hsl(210, 85%, ${lightness}%)`;
@@ -1007,7 +1049,7 @@ function renderGlobalHeatmap(summary) {
 
             // Tippy
             tippy(cell, {
-                content: `${book} ${c.chapter}<br><b>${c.count}</b> commentaries`,
+                content: `${book} ${c.chapter}<br><b>${val}</b> commentaries${category !== 'all' ? ` (${category})` : ''}`,
                 allowHTML: true,
                 animation: 'scale'
             });
@@ -1029,18 +1071,26 @@ function renderGlobalHeatmap(summary) {
     });
 }
 
-function renderParashaHeatmap(parashaData) {
+function renderParashaHeatmap(parashaData, category = 'all') {
     const container = document.getElementById('parasha-heatmap');
     if (!container) return;
     container.innerHTML = '';
 
-    // Find max count for scaling (relative to other parashot)
+    // Find max count
     let max = 0;
-    Object.values(parashaData).forEach(bookParashot => {
-        bookParashot.forEach(p => {
-            if (p.count > max) max = p.count;
+
+    // "Torah" Scale (Absolute) -> Global Max
+    if (useAbsoluteScale) {
+        max = GLOBAL_MAX_COUNTS[category] || GLOBAL_MAX_COUNTS['all'];
+    } else {
+        // "Parasha" Scale (Relative) -> Max within this dataset
+        Object.values(parashaData).forEach(bookParashot => {
+            bookParashot.forEach(p => {
+                const val = p.counts ? (p.counts[category] || 0) : (category === 'all' ? p.count : 0);
+                if (val > max) max = val;
+            });
         });
-    });
+    }
 
     const books = ["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy"];
 
@@ -1063,8 +1113,12 @@ function renderParashaHeatmap(parashaData) {
         parashotList.forEach(p => {
             const cell = document.createElement('div');
             cell.className = 'global-chapter-cell';
+
+            // Get Value
+            const val = p.counts ? (p.counts[category] || 0) : (category === 'all' ? p.count : 0);
+
             // Scale color
-            const ratio = p.count / (max || 1);
+            const ratio = val / (max || 1);
             const lightness = 95 - (ratio * 60); // 95 -> 35
 
             cell.style.backgroundColor = `hsl(210, 85%, ${lightness}%)`;
@@ -1077,7 +1131,7 @@ function renderParashaHeatmap(parashaData) {
 
             // Tippy
             tippy(cell, {
-                content: `<b>${p.name}</b><br>${p.count} commentaries`,
+                content: `<b>${p.name}</b><br>${val} commentaries${category !== 'all' ? ` (${category})` : ''}`,
                 allowHTML: true,
                 animation: 'scale'
             });
