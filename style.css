@@ -523,6 +523,7 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
+  flex-wrap: nowrap;
 }
 
 /* This Week Button */
@@ -531,9 +532,10 @@ body {
   color: white;
   border: none;
   border-radius: 8px;
-  padding: 10px 14px;
-  font-size: 0.9rem;
+  padding: 8px 12px;
+  font-size: 0.85rem;
   font-weight: 600;
+  white-space: nowrap;
   cursor: pointer;
   display: flex;
   align-items: center;
