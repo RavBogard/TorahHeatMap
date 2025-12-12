@@ -520,10 +520,6 @@ body {
 .this-week-container {
   padding: 12px 16px;
   border-bottom: 1px solid var(--border-color);
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-wrap: nowrap;
 }
 
 /* This Week Button */
@@ -532,15 +528,14 @@ body {
   color: white;
   border: none;
   border-radius: 8px;
-  padding: 8px 12px;
-  font-size: 0.85rem;
+  padding: 10px 14px;
+  font-size: 0.9rem;
   font-weight: 600;
-  white-space: nowrap;
   cursor: pointer;
   display: flex;
   align-items: center;
   gap: 6px;
-  flex: 1;
+  width: 100%;
   justify-content: center;
   box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
   transition: all 0.2s ease;
