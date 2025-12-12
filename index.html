@@ -70,6 +70,10 @@
                 <button id="this-week-btn" class="this-week-btn">
                     📖 This Week: <span id="this-week-name"></span>
                 </button>
+                <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode">
+                    <span class="dark-icon">🌙</span>
+                    <span class="light-icon">☀️</span>
+                </button>
             </div>
             <!-- Search Input -->
             <div class="search-container">
@@ -88,10 +92,6 @@
                 </div>
                 <div class="header-actions">
                     <div id="parasha-ref" class="ref-badge" style="display: none;"></div>
-                    <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle dark mode">
-                        <span class="dark-icon">🌙</span>
-                        <span class="light-icon">☀️</span>
-                    </button>
                 </div>
             </div>
 
@@ -118,7 +118,7 @@
                 <div style="width: 1px; height: 16px; background: var(--border-color); margin: 0 0.5rem;"></div>
 
                 <!-- Commentary Filter (Moved here) -->
-                <div id="filter-wrapper" class="filter-group" style="display: flex; align-items: center; gap: 0.5rem;">
+                <div id="filter-wrapper" style="display: flex; align-items: center; gap: 0.5rem;">
                     <!-- Label removed to save space -->
                     <select id="category-filter" class="filter-select">
                         <option value="all">All Commentaries</option>

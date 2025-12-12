@@ -262,26 +262,9 @@ body {
 }
 
 /* Commentary Filter */
-.filter-container {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 16px;
-  width: 100%;
-  max-width: 1000px;
-  background: var(--glass-bg);
-  padding: 12px 16px;
-  border-radius: 10px;
-  border: 1px solid var(--glass-border);
-}
+/* Unused .filter-container removed */
 
-.filter-container label {
-  font-weight: 500;
-  color: var(--text-color);
-  white-space: nowrap;
-}
-
-.category-filter {
+.filter-select {
   padding: 8px 12px;
   border: 1px solid var(--border-color);
   border-radius: 8px;
@@ -293,7 +276,7 @@ body {
   min-width: 150px;
 }
 
-.category-filter:focus {
+.filter-select:focus {
   outline: none;
   border-color: var(--accent-color);
   box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
@@ -502,17 +485,7 @@ body {
   box-shadow: var(--shadow);
 }
 
-/* Legend Bar */
-.legend-bar {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  background: white;
-  padding: 12px 16px;
-  border-bottom: 1px solid var(--border-color);
-  flex-wrap: wrap;
-}
+/* Legend Bar - Duplicate moved/merged below */
 
 /* Reduced whitespace for heatmap wrappers */
 .heatmap-wrapper {
@@ -547,6 +520,9 @@ body {
 .this-week-container {
   padding: 12px 16px;
   border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
 
 /* This Week Button */
@@ -562,7 +538,7 @@ body {
   display: flex;
   align-items: center;
   gap: 6px;
-  width: 100%;
+  flex: 1;
   justify-content: center;
   box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
   transition: all 0.2s ease;
