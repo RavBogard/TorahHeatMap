@@ -103,6 +103,9 @@ async function get(endpoint) {
 
 // Initialization
 function init() {
+    // Initialize Tooltips
+    tippy('[data-tippy-content]', { allowHTML: true });
+
     renderSidebar();
 
     // Event Listeners
