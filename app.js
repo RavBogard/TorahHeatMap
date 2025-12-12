@@ -172,7 +172,7 @@ function init() {
     if (scaleToggle) {
         scaleToggle.addEventListener('change', (e) => {
             useAbsoluteScale = e.target.checked;
-            const currentCat = categoryFilter ? categoryFilter.value : 'all';
+            const currentCat = document.getElementById('category-filter').value || 'all';
             applyFilter(currentCat);
         });
     }
