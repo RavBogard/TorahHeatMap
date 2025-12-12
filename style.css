@@ -263,15 +263,23 @@ body {
 /* Commentary Filter */
 
 .filter-select {
-  padding: 8px 12px;
+  padding: 8px 36px 8px 12px;
+  /* Extra right padding for arrow */
   border: 1px solid var(--border-color);
   border-radius: 8px;
-  background: var(--bg-color);
+  background-color: var(--bg-color);
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 20 20'%3e%3cpath stroke='%236b7280' stroke-linecap='round' stroke-linejoin='round' stroke-width='1.5' d='M6 8l4 4 4-4'/%3e%3c/svg%3e");
+  background-position: right 8px center;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
   color: var(--text-color);
   font-size: 0.9rem;
   font-family: inherit;
   cursor: pointer;
   min-width: 150px;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
 }
 
 .filter-select:focus {
