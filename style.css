@@ -764,6 +764,27 @@ body {
   .parasha-item {
     padding: 12px;
   }
+
+  /* Wrap legend bar on mobile and center filter */
+  .legend-bar {
+    flex-wrap: wrap;
+    justify-content: center;
+    height: auto;
+    gap: 12px;
+  }
+
+  /* Move filter to new line */
+  #filter-wrapper {
+    width: 100%;
+    justify-content: center;
+    padding-top: 12px;
+    border-top: 1px solid var(--border-color);
+  }
+
+  #category-filter {
+    width: 100%;
+    max-width: 300px;
+  }
 }
 
 /* Hide toggle on desktop */
