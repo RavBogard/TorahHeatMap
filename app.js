@@ -939,20 +939,29 @@ function truncateHebrew(html, maxLength) {
 
 // Global Heatmap
 async function loadGlobalHeatmap() {
+    // RACE CONDITION FIX: If a parasha is already selected/loading, DO NOT overwrite the view.
+    // This happens because init() calls both checkUrlAndLoadParasha() and loadGlobalHeatmap().
+    if (currentParasha) return;
+
     const wrapper = document.getElementById('global-heatmap-wrapper');
     const container = document.getElementById('global-heatmap');
 
     if (!wrapper || !container) return;
 
     try {
+        // Double check before fetching
+        if (currentParasha) return;
         const res = await fetch('data/torah_summary.json');
         if (!res.ok) throw new Error('Failed to load summary');
 
         const summary = await res.json();
         cachedGlobalSummary = summary; // Cache for filtering
 
+        // Final check before rendering - did user click a parasha while fetching?
+        if (currentParasha) return;
+
         // Handle new structure { chapters: {...}, parashot: {...} } or fallback
-        const chapterData = summary.chapters || summary; // Fallback for old structure if any
+        const chapterData = summary.chapters || summary;
         const parashaData = summary.parashot || {};
 
         // Initial render with 'all'
