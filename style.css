@@ -227,7 +227,7 @@ body {
 .header-container {
   width: 100%;
   max-width: 1000px;
-  margin-bottom: 16px;
+  margin-bottom: 24px;
   background: var(--glass-bg);
   backdrop-filter: blur(12px);
   padding: 24px;
@@ -481,16 +481,21 @@ body {
   box-shadow: var(--shadow);
 }
 
-/* Reduced whitespace for heatmap wrappers */
+/* Reduced whitespace for heatmap wrappers: remove card styling */
 .heatmap-wrapper {
-  background: var(--card-bg);
-  padding: 24px;
-  border-radius: 12px;
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  border: 1px solid var(--border-color);
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
+  border: none;
   margin-top: 0;
-  /* Reduced from 10px */
+  margin-bottom: 32px;
+  /* Space between sections */
   width: 100%;
+}
+
+.heatmap-wrapper h4 {
+  margin-top: 0;
 }
 
 .dark-mode-toggle:hover {
@@ -550,7 +555,7 @@ body {
   padding: 10px 20px;
   background: var(--sidebar-bg);
   border-radius: 12px;
-  margin-bottom: 8px;
+  margin-bottom: 24px;
   box-shadow: var(--shadow);
   position: sticky;
   top: 0;
