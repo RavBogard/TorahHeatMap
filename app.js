@@ -120,22 +120,7 @@ function init() {
         console.error('Menu toggle button not found!');
     }
 
-    // Info Panel Toggle
-    const infoBtn = document.getElementById('info-btn');
-    const infoPanel = document.getElementById('info-panel');
-    const infoPanelClose = document.getElementById('info-panel-close');
 
-    if (infoBtn && infoPanel) {
-        infoBtn.addEventListener('click', () => {
-            infoPanel.style.display = infoPanel.style.display === 'none' ? 'block' : 'none';
-        });
-    }
-
-    if (infoPanelClose && infoPanel) {
-        infoPanelClose.addEventListener('click', () => {
-            infoPanel.style.display = 'none';
-        });
-    }
 
     // Fetch This Week's Parasha from Hebcal
     fetchThisWeekParasha();
@@ -487,7 +472,6 @@ async function loadBook(bookName) {
     heatmapContainer.innerHTML = `<div class="loading-container"><div class="loading-spinner"></div><div class="loading-text">Loading ${bookName}...</div></div>`;
 
     // Show Info/Legent
-    document.getElementById('info-btn').style.display = 'none'; // Maybe hide info for book view? Or generic info.
     document.getElementById('legend-bar').style.display = 'flex';
     document.getElementById('scale-control-group').style.display = 'flex'; // Show toggle group
     document.getElementById('filter-wrapper').style.display = 'flex'; // Show filter
@@ -574,9 +558,7 @@ async function loadParasha(parasha, updateUrl = true) {
     refBadge.style.display = 'block';
 
     // Show info button and legend bar
-    const infoBtn = document.getElementById('info-btn');
     const legendBar = document.getElementById('legend-bar');
-    if (infoBtn) infoBtn.style.display = 'flex';
     if (legendBar) legendBar.style.display = 'flex';
     document.getElementById('scale-control-group').style.display = 'flex'; // Show toggle group
     document.getElementById('filter-wrapper').style.display = 'flex'; // Show filter for parasha view
