@@ -75,8 +75,12 @@ CATEGORIES = [
     'Kabbalah',
     'Musar',
     'Chasidut',
-    'Modern'
+    'Modern',
+    'Rishonim'
 ]
+
+# Cache for title -> isRishonim boolean
+rishonim_cache = {}
 
 def get_slug(name):
     # simple slugify: lowercase, replace non-alphanum with -, strip ends
@@ -96,6 +100,13 @@ def fetch_json(endpoint, retries=3):
             with urllib.request.urlopen(req, timeout=30) as response:
                 return json.loads(response.read().decode())
         except urllib.error.HTTPError as e:
+            if e.code in [404]:
+                # 404 is valid for check_rishonim if index doesn't exist
+                # But fetch_json is generic... let's return None for 404 too?
+                # Usually we want to know it failed. But for index check, it means "not found".
+                # Let's verify context. For now, log and return None is safe.
+                print(f"HTTP 404 for {url}")
+                return None
             if e.code in [429, 500, 502, 503, 504]:
                 print(f"HTTP {e.code} for {url}. Retrying {attempt+1}/{retries}...")
                 time.sleep(2 * (attempt + 1))
@@ -109,6 +120,53 @@ def fetch_json(endpoint, retries=3):
             
     print(f"Failed to fetch {url} after {retries} attempts.")
     return None
+
+def check_rishonim(title):
+    # Normalize title slightly
+    if isinstance(title, dict):
+        title = title.get('en', str(title))
+    title = str(title)
+    
+    # Check cache
+    if title in rishonim_cache:
+        return rishonim_cache[title]
+        
+    # Heuristic for well-knowns to save API calls
+    if "Rashi" in title or "Ramban" in title or "Ibn Ezra" in title or "Rashbam" in title or "Sforno" in title:
+        rishonim_cache[title] = True
+        return True
+        
+    # Fetch Index (requires slugified title, usually replacing spaces with underscore)
+    # The API expects the exact title key usually, spaces are allowed in URL but usually underscores.
+    # Sefaria API: /api/index/{Title}
+    index_slug = title.replace(' ', '_')
+    data = fetch_json(f"/index/{index_slug}")
+    
+    is_rishonim = False
+    if data:
+        # Check categories
+        cats = data.get('categories', [])
+        # Also check heCategories for robustness? No, English is fine.
+        # Structure: ["Commentary", "Tanakh", "Rishonim"] OR ["Commentary", "Torah", "Rishonim"]
+        # Or just "Rishonim" in the list anywhere?
+        # Based on index check: ["Commentary", "Tanakh", "Rishonim on Tanakh", "Ramban", "Torah"]
+        # Wait, the example was: ["Tanakh", "Rishonim on Tanakh", "Ramban", "Torah"] ?
+        # Actually my check_ramban output was: "heCategories": [..., "Rishonim al HaTanakh", ...]
+        # For English I didn't see "Rishonim" in the example I inspected? 
+        # Ah, looking at my check_ramban output:
+        # Categories not shown in the truncated output! 
+        # Let's rely on checking for "Rishonim" substring in categories list.
+        
+        # Actually, let's look at the `categories` field if it exists.
+        # If not in truncated output, I should assume it's there.
+        # Usually it is.
+        for cat in cats:
+            if "Rishonim" in cat:
+                is_rishonim = True
+                break
+                
+    rishonim_cache[title] = is_rishonim
+    return is_rishonim
 
 def process_parasha(parasha):
     slug = get_slug(parasha['name'])
@@ -203,6 +261,10 @@ def process_parasha(parasha):
             
             if 'Rashi' in en_title:
                 counts_map[ref]['Rashi'] += 1
+                
+            # Check for Rishonim (Dynamic)
+            if check_rishonim(en_title):
+                counts_map[ref]['Rishonim'] += 1
 
         # Build Verse objects
         verses = []

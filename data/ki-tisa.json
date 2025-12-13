@@ -21,7 +21,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 2
           }
         },
         {
@@ -38,7 +39,8 @@
             "Kabbalah": 4,
             "Musar": 3,
             "Chasidut": 50,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 57
           }
         },
         {
@@ -55,7 +57,8 @@
             "Kabbalah": 6,
             "Musar": 4,
             "Chasidut": 37,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 35
           }
         },
         {
@@ -72,7 +75,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 6,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 14
           }
         },
         {
@@ -89,7 +93,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 18,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 16
           }
         },
         {
@@ -106,7 +111,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 13,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         },
         {
@@ -123,7 +129,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 2
           }
         },
         {
@@ -140,7 +147,8 @@
             "Kabbalah": 1,
             "Musar": 4,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         },
         {
@@ -157,7 +165,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 13
           }
         },
         {
@@ -174,7 +183,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         },
         {
@@ -191,7 +201,8 @@
             "Kabbalah": 0,
             "Musar": 2,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 6
           }
         },
         {
@@ -208,7 +219,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 6
           }
         },
         {
@@ -225,7 +237,8 @@
             "Kabbalah": 5,
             "Musar": 3,
             "Chasidut": 15,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 40
           }
         },
         {
@@ -242,7 +255,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 9
           }
         },
         {
@@ -259,7 +273,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 16
           }
         },
         {
@@ -276,7 +291,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 9
           }
         },
         {
@@ -293,7 +309,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 1
           }
         },
         {
@@ -310,7 +327,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 10
           }
         },
         {
@@ -327,7 +345,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 11
           }
         },
         {
@@ -344,7 +363,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 3
           }
         },
         {
@@ -361,7 +381,8 @@
             "Kabbalah": 0,
             "Musar": 2,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 17
           }
         },
         {
@@ -378,7 +399,8 @@
             "Kabbalah": 3,
             "Musar": 3,
             "Chasidut": 6,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 16
           }
         },
         {
@@ -395,7 +417,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 9
           }
         },
         {
@@ -412,7 +435,8 @@
             "Kabbalah": 3,
             "Musar": 0,
             "Chasidut": 6,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 44
           }
         },
         {
@@ -429,7 +453,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 6,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 17
           }
         },
         {
@@ -446,7 +471,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 17
           }
         },
         {
@@ -463,7 +489,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 7
           }
         },
         {
@@ -480,7 +507,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 7
           }
         }
       ]
@@ -502,7 +530,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 2
           }
         },
         {
@@ -519,7 +548,8 @@
             "Kabbalah": 3,
             "Musar": 1,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 22
           }
         },
         {
@@ -536,7 +566,8 @@
             "Kabbalah": 8,
             "Musar": 4,
             "Chasidut": 13,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 15
           }
         },
         {
@@ -553,7 +584,8 @@
             "Kabbalah": 1,
             "Musar": 4,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 2
           }
         },
         {
@@ -570,7 +602,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 5
           }
         },
         {
@@ -587,7 +620,8 @@
             "Kabbalah": 4,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -604,7 +638,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 3
           }
         },
         {
@@ -621,7 +656,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 3
           }
         },
         {
@@ -638,7 +674,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 1
           }
         },
         {
@@ -655,7 +692,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 14
           }
         },
         {
@@ -672,7 +710,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 5
           }
         },
         {
@@ -689,7 +728,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 2
           }
         },
         {
@@ -706,7 +746,8 @@
             "Kabbalah": 7,
             "Musar": 8,
             "Chasidut": 77,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 47
           }
         },
         {
@@ -723,7 +764,8 @@
             "Kabbalah": 17,
             "Musar": 12,
             "Chasidut": 27,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 36
           }
         },
         {
@@ -740,7 +782,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 11
           }
         },
         {
@@ -757,7 +800,8 @@
             "Kabbalah": 22,
             "Musar": 9,
             "Chasidut": 41,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 19
           }
         },
         {
@@ -774,7 +818,8 @@
             "Kabbalah": 34,
             "Musar": 19,
             "Chasidut": 36,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 42
           }
         },
         {
@@ -791,7 +836,8 @@
             "Kabbalah": 6,
             "Musar": 6,
             "Chasidut": 15,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 40
           }
         }
       ]
@@ -813,7 +859,8 @@
             "Kabbalah": 14,
             "Musar": 6,
             "Chasidut": 24,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 50
           }
         },
         {
@@ -830,7 +877,8 @@
             "Kabbalah": 1,
             "Musar": 2,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -847,7 +895,8 @@
             "Kabbalah": 3,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 10
           }
         },
         {
@@ -864,7 +913,8 @@
             "Kabbalah": 12,
             "Musar": 5,
             "Chasidut": 8,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 64
           }
         },
         {
@@ -881,7 +931,8 @@
             "Kabbalah": 3,
             "Musar": 5,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 25
           }
         },
         {
@@ -898,7 +949,8 @@
             "Kabbalah": 6,
             "Musar": 4,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 19
           }
         },
         {
@@ -915,7 +967,8 @@
             "Kabbalah": 12,
             "Musar": 8,
             "Chasidut": 33,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 29
           }
         },
         {
@@ -932,7 +985,8 @@
             "Kabbalah": 7,
             "Musar": 4,
             "Chasidut": 10,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         },
         {
@@ -949,7 +1003,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 5,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 10
           }
         },
         {
@@ -966,7 +1021,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 20,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 23
           }
         },
         {
@@ -983,7 +1039,8 @@
             "Kabbalah": 9,
             "Musar": 3,
             "Chasidut": 26,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 43
           }
         },
         {
@@ -1000,7 +1057,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -1017,7 +1075,8 @@
             "Kabbalah": 10,
             "Musar": 7,
             "Chasidut": 7,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 26
           }
         },
         {
@@ -1034,7 +1093,8 @@
             "Kabbalah": 3,
             "Musar": 4,
             "Chasidut": 17,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 9
           }
         },
         {
@@ -1051,7 +1111,8 @@
             "Kabbalah": 10,
             "Musar": 0,
             "Chasidut": 10,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -1068,7 +1129,8 @@
             "Kabbalah": 33,
             "Musar": 7,
             "Chasidut": 31,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 38
           }
         },
         {
@@ -1085,7 +1147,8 @@
             "Kabbalah": 3,
             "Musar": 1,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         },
         {
@@ -1102,7 +1165,8 @@
             "Kabbalah": 6,
             "Musar": 0,
             "Chasidut": 7,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -1119,7 +1183,8 @@
             "Kabbalah": 5,
             "Musar": 1,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 21
           }
         },
         {
@@ -1136,7 +1201,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 5,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 26
           }
         },
         {
@@ -1153,7 +1219,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 12
           }
         },
         {
@@ -1170,7 +1237,8 @@
             "Kabbalah": 4,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 15
           }
         },
         {
@@ -1187,7 +1255,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 3
           }
         },
         {
@@ -1204,7 +1273,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 15
           }
         },
         {
@@ -1221,7 +1291,8 @@
             "Kabbalah": 2,
             "Musar": 4,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 35
           }
         },
         {
@@ -1238,7 +1309,8 @@
             "Kabbalah": 1,
             "Musar": 4,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 32
           }
         },
         {
@@ -1255,7 +1327,8 @@
             "Kabbalah": 3,
             "Musar": 3,
             "Chasidut": 8,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 25
           }
         },
         {
@@ -1272,7 +1345,8 @@
             "Kabbalah": 5,
             "Musar": 2,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 7
           }
         },
         {
@@ -1289,7 +1363,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 25
           }
         },
         {
@@ -1306,7 +1381,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 22
           }
         },
         {
@@ -1323,7 +1399,8 @@
             "Kabbalah": 9,
             "Musar": 12,
             "Chasidut": 12,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 22
           }
         },
         {
@@ -1340,7 +1417,8 @@
             "Kabbalah": 17,
             "Musar": 5,
             "Chasidut": 24,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 28
           }
         },
         {
@@ -1357,7 +1435,8 @@
             "Kabbalah": 2,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 7
           }
         },
         {
@@ -1374,7 +1453,8 @@
             "Kabbalah": 3,
             "Musar": 2,
             "Chasidut": 13,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 53
           }
         },
         {
@@ -1391,7 +1471,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         }
       ]
@@ -1413,7 +1494,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 12
           }
         },
         {
@@ -1430,7 +1512,8 @@
             "Kabbalah": 4,
             "Musar": 1,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 13
           }
         },
         {
@@ -1447,7 +1530,8 @@
             "Kabbalah": 0,
             "Musar": 2,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 30
           }
         },
         {
@@ -1464,7 +1548,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -1481,7 +1566,8 @@
             "Kabbalah": 1,
             "Musar": 6,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 34
           }
         },
         {
@@ -1498,7 +1584,8 @@
             "Kabbalah": 11,
             "Musar": 4,
             "Chasidut": 14,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 19
           }
         },
         {
@@ -1515,7 +1602,8 @@
             "Kabbalah": 18,
             "Musar": 4,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 32
           }
         },
         {
@@ -1532,7 +1620,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 7,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 10
           }
         },
         {
@@ -1549,7 +1638,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 5
           }
         },
         {
@@ -1566,7 +1656,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 8
           }
         },
         {
@@ -1583,7 +1674,8 @@
             "Kabbalah": 16,
             "Musar": 7,
             "Chasidut": 21,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 52
           }
         },
         {
@@ -1600,7 +1692,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 14,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 54
           }
         },
         {
@@ -1617,7 +1710,8 @@
             "Kabbalah": 4,
             "Musar": 3,
             "Chasidut": 18,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 42
           }
         },
         {
@@ -1634,7 +1728,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 26
           }
         },
         {
@@ -1651,7 +1746,8 @@
             "Kabbalah": 6,
             "Musar": 2,
             "Chasidut": 4,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 16
           }
         },
         {
@@ -1668,7 +1764,8 @@
             "Kabbalah": 2,
             "Musar": 2,
             "Chasidut": 10,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 31
           }
         },
         {
@@ -1685,7 +1782,8 @@
             "Kabbalah": 3,
             "Musar": 1,
             "Chasidut": 7,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 29
           }
         },
         {
@@ -1702,7 +1800,8 @@
             "Kabbalah": 5,
             "Musar": 1,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 25
           }
         },
         {
@@ -1719,7 +1818,8 @@
             "Kabbalah": 25,
             "Musar": 11,
             "Chasidut": 28,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 55
           }
         },
         {
@@ -1736,7 +1836,8 @@
             "Kabbalah": 16,
             "Musar": 7,
             "Chasidut": 26,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 46
           }
         },
         {
@@ -1753,7 +1854,8 @@
             "Kabbalah": 4,
             "Musar": 1,
             "Chasidut": 10,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 26
           }
         },
         {
@@ -1770,7 +1872,8 @@
             "Kabbalah": 2,
             "Musar": 1,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 33
           }
         },
         {
@@ -1787,7 +1890,8 @@
             "Kabbalah": 28,
             "Musar": 5,
             "Chasidut": 37,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 28
           }
         }
       ]
@@ -1809,7 +1913,8 @@
             "Kabbalah": 7,
             "Musar": 4,
             "Chasidut": 19,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 33
           }
         },
         {
@@ -1826,7 +1931,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 13
           }
         },
         {
@@ -1843,7 +1949,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 19
           }
         },
         {
@@ -1860,7 +1967,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 11
           }
         },
         {
@@ -1877,7 +1985,8 @@
             "Kabbalah": 2,
             "Musar": 3,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 19
           }
         },
         {
@@ -1894,7 +2003,8 @@
             "Kabbalah": 50,
             "Musar": 20,
             "Chasidut": 71,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 101
           }
         },
         {
@@ -1911,7 +2021,8 @@
             "Kabbalah": 17,
             "Musar": 5,
             "Chasidut": 28,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 67
           }
         },
         {
@@ -1928,7 +2039,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 5,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 13
           }
         },
         {
@@ -1945,7 +2057,8 @@
             "Kabbalah": 5,
             "Musar": 3,
             "Chasidut": 8,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 38
           }
         },
         {
@@ -1962,7 +2075,8 @@
             "Kabbalah": 10,
             "Musar": 3,
             "Chasidut": 5,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 38
           }
         },
         {
@@ -1979,7 +2093,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 13
           }
         },
         {
@@ -1996,7 +2111,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 5
           }
         },
         {
@@ -2013,7 +2129,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 8
           }
         },
         {
@@ -2030,7 +2147,8 @@
             "Kabbalah": 8,
             "Musar": 6,
             "Chasidut": 8,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 8
           }
         },
         {
@@ -2047,7 +2165,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 8
           }
         },
         {
@@ -2064,7 +2183,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 6
           }
         },
         {
@@ -2081,7 +2201,8 @@
             "Kabbalah": 5,
             "Musar": 5,
             "Chasidut": 8,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 12
           }
         },
         {
@@ -2098,7 +2219,8 @@
             "Kabbalah": 2,
             "Musar": 1,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 15
           }
         },
         {
@@ -2115,7 +2237,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 14
           }
         },
         {
@@ -2132,7 +2255,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 27
           }
         },
         {
@@ -2149,7 +2273,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 10,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 17
           }
         },
         {
@@ -2166,7 +2291,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 22
           }
         },
         {
@@ -2183,7 +2309,8 @@
             "Kabbalah": 4,
             "Musar": 1,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 16
           }
         },
         {
@@ -2200,7 +2327,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 3,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 17
           }
         },
         {
@@ -2217,7 +2345,8 @@
             "Kabbalah": 0,
             "Musar": 1,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 22
           }
         },
         {
@@ -2234,7 +2363,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 1,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 27
           }
         },
         {
@@ -2251,7 +2381,8 @@
             "Kabbalah": 5,
             "Musar": 10,
             "Chasidut": 16,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 20
           }
         },
         {
@@ -2268,7 +2399,8 @@
             "Kabbalah": 15,
             "Musar": 6,
             "Chasidut": 9,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 31
           }
         },
         {
@@ -2285,7 +2417,8 @@
             "Kabbalah": 5,
             "Musar": 15,
             "Chasidut": 19,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 33
           }
         },
         {
@@ -2302,7 +2435,8 @@
             "Kabbalah": 6,
             "Musar": 3,
             "Chasidut": 11,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 18
           }
         },
         {
@@ -2319,7 +2453,8 @@
             "Kabbalah": 1,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 10
           }
         },
         {
@@ -2336,7 +2471,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 0,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 15
           }
         },
         {
@@ -2353,7 +2489,8 @@
             "Kabbalah": 7,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 12
           }
         },
         {
@@ -2370,7 +2507,8 @@
             "Kabbalah": 0,
             "Musar": 0,
             "Chasidut": 2,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 10
           }
         },
         {
@@ -2387,7 +2525,8 @@
             "Kabbalah": 1,
             "Musar": 1,
             "Chasidut": 5,
-            "Modern": 0
+            "Modern": 0,
+            "Rishonim": 11
           }
         }
       ]

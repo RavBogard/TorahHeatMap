@@ -77,6 +77,7 @@ let useAbsoluteScale = false;
 const GLOBAL_MAX_COUNTS = {
     "all": 1357,
     "Rashi": 22,
+    "Rishonim": 140, // Based on Bereshit (134)
     "Commentary": 1014,
     "Midrash": 419,
     "Talmud": 94,
