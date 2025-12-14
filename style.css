@@ -80,7 +80,8 @@ body {
 }
 
 .logo-area {
-  padding: 24px;
+  padding: 16px;
+  /* Reduced padding to make logo larger */
   border-bottom: 1px solid var(--border-color);
 }
 
@@ -93,7 +94,8 @@ body {
   width: 100%;
   height: auto;
   display: block;
-  margin: -20px 0;
+  margin: -10px 0;
+  /* Reduced negative margin */
   /* Crop top/bottom whitespace from image */
 }
 
@@ -227,6 +229,8 @@ body {
 .header-container {
   width: 100%;
   max-width: 1000px;
+  margin-top: 16px;
+  /* Move entire header down */
   margin-bottom: 24px;
   background: var(--glass-bg);
   backdrop-filter: blur(12px);
