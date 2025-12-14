@@ -14,6 +14,7 @@
           "counts": {
             "all": 208,
             "Rashi": 4,
+            "WomensCommentary": 6,
             "Commentary": 83,
             "Midrash": 40,
             "Talmud": 2,
@@ -32,6 +33,7 @@
           "counts": {
             "all": 185,
             "Rashi": 5,
+            "WomensCommentary": 4,
             "Commentary": 74,
             "Midrash": 36,
             "Talmud": 3,
@@ -50,6 +52,7 @@
           "counts": {
             "all": 88,
             "Rashi": 4,
+            "WomensCommentary": 4,
             "Commentary": 44,
             "Midrash": 3,
             "Talmud": 0,
@@ -68,6 +71,7 @@
           "counts": {
             "all": 43,
             "Rashi": 2,
+            "WomensCommentary": 1,
             "Commentary": 22,
             "Midrash": 4,
             "Talmud": 0,
@@ -86,6 +90,7 @@
           "counts": {
             "all": 35,
             "Rashi": 2,
+            "WomensCommentary": 1,
             "Commentary": 16,
             "Midrash": 6,
             "Talmud": 0,
@@ -104,6 +109,7 @@
           "counts": {
             "all": 14,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 1,
             "Talmud": 2,
@@ -122,6 +128,7 @@
           "counts": {
             "all": 15,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 3,
             "Midrash": 2,
             "Talmud": 0,
@@ -140,6 +147,7 @@
           "counts": {
             "all": 12,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 2,
             "Talmud": 0,
@@ -158,6 +166,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 2,
             "Talmud": 0,
@@ -176,6 +185,7 @@
           "counts": {
             "all": 33,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 13,
             "Midrash": 7,
             "Talmud": 0,
@@ -194,6 +204,7 @@
           "counts": {
             "all": 10,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 2,
             "Talmud": 0,
@@ -212,6 +223,7 @@
           "counts": {
             "all": 12,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 5,
             "Midrash": 1,
             "Talmud": 0,
@@ -230,6 +242,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 1,
             "Talmud": 0,
@@ -248,6 +261,7 @@
           "counts": {
             "all": 16,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 1,
             "Talmud": 0,
@@ -266,6 +280,7 @@
           "counts": {
             "all": 12,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 4,
             "Talmud": 0,
@@ -284,6 +299,7 @@
           "counts": {
             "all": 61,
             "Rashi": 4,
+            "WomensCommentary": 2,
             "Commentary": 26,
             "Midrash": 6,
             "Talmud": 0,
@@ -302,6 +318,7 @@
           "counts": {
             "all": 56,
             "Rashi": 2,
+            "WomensCommentary": 0,
             "Commentary": 24,
             "Midrash": 12,
             "Talmud": 1,
@@ -320,6 +337,7 @@
           "counts": {
             "all": 79,
             "Rashi": 2,
+            "WomensCommentary": 2,
             "Commentary": 31,
             "Midrash": 12,
             "Talmud": 2,
@@ -338,6 +356,7 @@
           "counts": {
             "all": 29,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 15,
             "Midrash": 2,
             "Talmud": 0,
@@ -356,6 +375,7 @@
           "counts": {
             "all": 48,
             "Rashi": 0,
+            "WomensCommentary": 2,
             "Commentary": 29,
             "Midrash": 2,
             "Talmud": 1,
@@ -374,6 +394,7 @@
           "counts": {
             "all": 14,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 2,
             "Talmud": 0,
@@ -392,6 +413,7 @@
           "counts": {
             "all": 22,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 11,
             "Midrash": 1,
             "Talmud": 0,
@@ -410,6 +432,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 1,
             "Talmud": 0,
@@ -428,6 +451,7 @@
           "counts": {
             "all": 8,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 0,
             "Talmud": 0,
@@ -446,6 +470,7 @@
           "counts": {
             "all": 7,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -464,6 +489,7 @@
           "counts": {
             "all": 8,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 0,
             "Talmud": 0,
@@ -482,6 +508,7 @@
           "counts": {
             "all": 7,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 0,
             "Talmud": 0,
@@ -500,6 +527,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -518,6 +546,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -536,6 +565,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -554,6 +584,7 @@
           "counts": {
             "all": 8,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -572,6 +603,7 @@
           "counts": {
             "all": 17,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 8,
             "Midrash": 1,
             "Talmud": 0,
@@ -590,6 +622,7 @@
           "counts": {
             "all": 7,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -608,6 +641,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -626,6 +660,7 @@
           "counts": {
             "all": 9,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 2,
             "Talmud": 0,
@@ -644,6 +679,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -662,6 +698,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -680,6 +717,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -698,6 +736,7 @@
           "counts": {
             "all": 7,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -716,6 +755,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 0,
             "Talmud": 0,
@@ -734,6 +774,7 @@
           "counts": {
             "all": 8,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -752,6 +793,7 @@
           "counts": {
             "all": 20,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 11,
             "Midrash": 1,
             "Talmud": 0,
@@ -770,6 +812,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -788,6 +831,7 @@
           "counts": {
             "all": 19,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 7,
             "Midrash": 4,
             "Talmud": 0,
@@ -806,6 +850,7 @@
           "counts": {
             "all": 15,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 10,
             "Midrash": 1,
             "Talmud": 0,
@@ -824,6 +869,7 @@
           "counts": {
             "all": 21,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 7,
             "Midrash": 2,
             "Talmud": 1,
@@ -842,6 +888,7 @@
           "counts": {
             "all": 38,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 23,
             "Midrash": 2,
             "Talmud": 0,
@@ -860,6 +907,7 @@
           "counts": {
             "all": 7,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 1,
             "Talmud": 0,
@@ -878,6 +926,7 @@
           "counts": {
             "all": 66,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 41,
             "Midrash": 9,
             "Talmud": 0,
@@ -896,6 +945,7 @@
           "counts": {
             "all": 62,
             "Rashi": 1,
+            "WomensCommentary": 4,
             "Commentary": 33,
             "Midrash": 6,
             "Talmud": 0,
@@ -914,6 +964,7 @@
           "counts": {
             "all": 108,
             "Rashi": 3,
+            "WomensCommentary": 1,
             "Commentary": 35,
             "Midrash": 12,
             "Talmud": 5,
@@ -932,6 +983,7 @@
           "counts": {
             "all": 42,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 21,
             "Midrash": 2,
             "Talmud": 0,
@@ -950,6 +1002,7 @@
           "counts": {
             "all": 52,
             "Rashi": 3,
+            "WomensCommentary": 1,
             "Commentary": 27,
             "Midrash": 7,
             "Talmud": 0,
@@ -968,6 +1021,7 @@
           "counts": {
             "all": 28,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 13,
             "Midrash": 7,
             "Talmud": 0,
@@ -991,6 +1045,7 @@
           "counts": {
             "all": 27,
             "Rashi": 1,
+            "WomensCommentary": 6,
             "Commentary": 13,
             "Midrash": 4,
             "Talmud": 0,
@@ -1009,6 +1064,7 @@
           "counts": {
             "all": 177,
             "Rashi": 5,
+            "WomensCommentary": 2,
             "Commentary": 57,
             "Midrash": 43,
             "Talmud": 0,
@@ -1027,6 +1083,7 @@
           "counts": {
             "all": 68,
             "Rashi": 1,
+            "WomensCommentary": 3,
             "Commentary": 28,
             "Midrash": 12,
             "Talmud": 1,
@@ -1045,6 +1102,7 @@
           "counts": {
             "all": 17,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 8,
             "Midrash": 1,
             "Talmud": 0,
@@ -1063,6 +1121,7 @@
           "counts": {
             "all": 17,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 5,
             "Midrash": 2,
             "Talmud": 0,
@@ -1081,6 +1140,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 0,
             "Talmud": 0,
@@ -1099,6 +1159,7 @@
           "counts": {
             "all": 12,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 1,
             "Talmud": 0,
@@ -1117,6 +1178,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1135,6 +1197,7 @@
           "counts": {
             "all": 35,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 17,
             "Midrash": 1,
             "Talmud": 0,
@@ -1153,6 +1216,7 @@
           "counts": {
             "all": 28,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 5,
             "Midrash": 6,
             "Talmud": 0,
@@ -1171,6 +1235,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1189,6 +1254,7 @@
           "counts": {
             "all": 18,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 6,
             "Midrash": 2,
             "Talmud": 0,
@@ -1207,6 +1273,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1225,6 +1292,7 @@
           "counts": {
             "all": 21,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 10,
             "Midrash": 1,
             "Talmud": 0,
@@ -1243,6 +1311,7 @@
           "counts": {
             "all": 7,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 0,
             "Talmud": 0,
@@ -1261,6 +1330,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 1,
             "Talmud": 0,
@@ -1279,6 +1349,7 @@
           "counts": {
             "all": 96,
             "Rashi": 10,
+            "WomensCommentary": 1,
             "Commentary": 40,
             "Midrash": 11,
             "Talmud": 9,
@@ -1297,6 +1368,7 @@
           "counts": {
             "all": 26,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 6,
             "Midrash": 5,
             "Talmud": 0,
@@ -1315,6 +1387,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1333,6 +1406,7 @@
           "counts": {
             "all": 72,
             "Rashi": 6,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 7,
             "Talmud": 3,
@@ -1351,6 +1425,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -1369,6 +1444,7 @@
           "counts": {
             "all": 9,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -1387,6 +1463,7 @@
           "counts": {
             "all": 4,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1405,6 +1482,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 1,
             "Talmud": 0,
@@ -1423,6 +1501,7 @@
           "counts": {
             "all": 21,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 5,
             "Midrash": 2,
             "Talmud": 0,
@@ -1441,6 +1520,7 @@
           "counts": {
             "all": 5,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -1459,6 +1539,7 @@
           "counts": {
             "all": 13,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -1477,6 +1558,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1495,6 +1577,7 @@
           "counts": {
             "all": 8,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -1513,6 +1596,7 @@
           "counts": {
             "all": 4,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 0,
             "Talmud": 0,
@@ -1531,6 +1615,7 @@
           "counts": {
             "all": 19,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 8,
             "Midrash": 3,
             "Talmud": 0,
@@ -1549,6 +1634,7 @@
           "counts": {
             "all": 18,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 5,
             "Midrash": 4,
             "Talmud": 0,
@@ -1567,6 +1653,7 @@
           "counts": {
             "all": 19,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 10,
             "Midrash": 3,
             "Talmud": 0,
@@ -1585,6 +1672,7 @@
           "counts": {
             "all": 24,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 10,
             "Midrash": 3,
             "Talmud": 0,
@@ -1608,6 +1696,7 @@
           "counts": {
             "all": 107,
             "Rashi": 2,
+            "WomensCommentary": 6,
             "Commentary": 56,
             "Midrash": 22,
             "Talmud": 2,
@@ -1626,6 +1715,7 @@
           "counts": {
             "all": 25,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 7,
             "Midrash": 5,
             "Talmud": 1,
@@ -1644,6 +1734,7 @@
           "counts": {
             "all": 40,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 12,
             "Midrash": 3,
             "Talmud": 2,
@@ -1662,6 +1753,7 @@
           "counts": {
             "all": 113,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 30,
             "Midrash": 32,
             "Talmud": 1,
@@ -1680,6 +1772,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 0,
             "Talmud": 0,
@@ -1698,6 +1791,7 @@
           "counts": {
             "all": 40,
             "Rashi": 2,
+            "WomensCommentary": 1,
             "Commentary": 21,
             "Midrash": 5,
             "Talmud": 0,
@@ -1716,6 +1810,7 @@
           "counts": {
             "all": 23,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 14,
             "Midrash": 2,
             "Talmud": 0,
@@ -1734,6 +1829,7 @@
           "counts": {
             "all": 17,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 1,
             "Talmud": 0,
@@ -1752,6 +1848,7 @@
           "counts": {
             "all": 44,
             "Rashi": 2,
+            "WomensCommentary": 0,
             "Commentary": 33,
             "Midrash": 3,
             "Talmud": 0,
@@ -1770,6 +1867,7 @@
           "counts": {
             "all": 53,
             "Rashi": 2,
+            "WomensCommentary": 1,
             "Commentary": 24,
             "Midrash": 7,
             "Talmud": 2,
@@ -1788,6 +1886,7 @@
           "counts": {
             "all": 8,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 3,
             "Midrash": 1,
             "Talmud": 0,
@@ -1806,6 +1905,7 @@
           "counts": {
             "all": 87,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 30,
             "Midrash": 15,
             "Talmud": 2,
@@ -1824,6 +1924,7 @@
           "counts": {
             "all": 81,
             "Rashi": 2,
+            "WomensCommentary": 2,
             "Commentary": 23,
             "Midrash": 14,
             "Talmud": 4,
@@ -1842,6 +1943,7 @@
           "counts": {
             "all": 16,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 6,
             "Midrash": 2,
             "Talmud": 0,
@@ -1860,6 +1962,7 @@
           "counts": {
             "all": 67,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 28,
             "Midrash": 14,
             "Talmud": 2,
@@ -1878,6 +1981,7 @@
           "counts": {
             "all": 21,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 4,
             "Talmud": 0,
@@ -1896,6 +2000,7 @@
           "counts": {
             "all": 22,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 1,
             "Talmud": 0,
@@ -1914,6 +2019,7 @@
           "counts": {
             "all": 13,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 2,
             "Talmud": 0,
@@ -1932,6 +2038,7 @@
           "counts": {
             "all": 15,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 2,
             "Midrash": 1,
             "Talmud": 0,
@@ -1950,6 +2057,7 @@
           "counts": {
             "all": 14,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -1968,6 +2076,7 @@
           "counts": {
             "all": 23,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 2,
             "Talmud": 0,
@@ -1986,6 +2095,7 @@
           "counts": {
             "all": 23,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 6,
             "Talmud": 0,
@@ -2004,6 +2114,7 @@
           "counts": {
             "all": 15,
             "Rashi": 0,
+            "WomensCommentary": 2,
             "Commentary": 8,
             "Midrash": 2,
             "Talmud": 0,
@@ -2022,6 +2133,7 @@
           "counts": {
             "all": 12,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 2,
             "Talmud": 0,
@@ -2040,6 +2152,7 @@
           "counts": {
             "all": 43,
             "Rashi": 4,
+            "WomensCommentary": 1,
             "Commentary": 28,
             "Midrash": 2,
             "Talmud": 0,
@@ -2058,6 +2171,7 @@
           "counts": {
             "all": 35,
             "Rashi": 2,
+            "WomensCommentary": 0,
             "Commentary": 17,
             "Midrash": 2,
             "Talmud": 1,
@@ -2076,6 +2190,7 @@
           "counts": {
             "all": 22,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 7,
             "Midrash": 2,
             "Talmud": 0,
@@ -2094,6 +2209,7 @@
           "counts": {
             "all": 17,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 3,
             "Talmud": 0,
@@ -2112,6 +2228,7 @@
           "counts": {
             "all": 32,
             "Rashi": 3,
+            "WomensCommentary": 1,
             "Commentary": 13,
             "Midrash": 6,
             "Talmud": 0,
@@ -2130,6 +2247,7 @@
           "counts": {
             "all": 18,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 5,
             "Talmud": 0,
@@ -2148,6 +2266,7 @@
           "counts": {
             "all": 37,
             "Rashi": 3,
+            "WomensCommentary": 0,
             "Commentary": 12,
             "Midrash": 3,
             "Talmud": 1,
@@ -2166,6 +2285,7 @@
           "counts": {
             "all": 49,
             "Rashi": 2,
+            "WomensCommentary": 0,
             "Commentary": 20,
             "Midrash": 7,
             "Talmud": 1,
@@ -2184,6 +2304,7 @@
           "counts": {
             "all": 10,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 2,
             "Midrash": 1,
             "Talmud": 0,
@@ -2202,6 +2323,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 3,
             "Talmud": 0,
@@ -2220,6 +2342,7 @@
           "counts": {
             "all": 17,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 3,
             "Talmud": 1,
@@ -2238,6 +2361,7 @@
           "counts": {
             "all": 18,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 3,
             "Talmud": 0,
@@ -2256,6 +2380,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 0,
             "Talmud": 0,
@@ -2274,6 +2399,7 @@
           "counts": {
             "all": 61,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 18,
             "Midrash": 16,
             "Talmud": 3,
@@ -2292,6 +2418,7 @@
           "counts": {
             "all": 75,
             "Rashi": 3,
+            "WomensCommentary": 0,
             "Commentary": 39,
             "Midrash": 9,
             "Talmud": 7,
@@ -2310,6 +2437,7 @@
           "counts": {
             "all": 55,
             "Rashi": 2,
+            "WomensCommentary": 1,
             "Commentary": 16,
             "Midrash": 12,
             "Talmud": 4,
@@ -2328,6 +2456,7 @@
           "counts": {
             "all": 31,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 14,
             "Midrash": 4,
             "Talmud": 0,
@@ -2346,6 +2475,7 @@
           "counts": {
             "all": 11,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 3,
             "Midrash": 1,
             "Talmud": 1,
@@ -2364,6 +2494,7 @@
           "counts": {
             "all": 18,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 5,
             "Midrash": 2,
             "Talmud": 1,
@@ -2382,6 +2513,7 @@
           "counts": {
             "all": 6,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 1,
             "Midrash": 1,
             "Talmud": 0,
@@ -2400,6 +2532,7 @@
           "counts": {
             "all": 60,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 24,
             "Midrash": 2,
             "Talmud": 4,
@@ -2418,6 +2551,7 @@
           "counts": {
             "all": 32,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 12,
             "Midrash": 6,
             "Talmud": 1,
@@ -2436,6 +2570,7 @@
           "counts": {
             "all": 39,
             "Rashi": 2,
+            "WomensCommentary": 0,
             "Commentary": 13,
             "Midrash": 4,
             "Talmud": 5,
@@ -2454,6 +2589,7 @@
           "counts": {
             "all": 16,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 6,
             "Midrash": 2,
             "Talmud": 0,
@@ -2472,6 +2608,7 @@
           "counts": {
             "all": 21,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 9,
             "Midrash": 1,
             "Talmud": 0,
@@ -2490,6 +2627,7 @@
           "counts": {
             "all": 24,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 15,
             "Midrash": 2,
             "Talmud": 0,
@@ -2508,6 +2646,7 @@
           "counts": {
             "all": 18,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 7,
             "Midrash": 3,
             "Talmud": 0,
@@ -2531,6 +2670,7 @@
           "counts": {
             "all": 22,
             "Rashi": 0,
+            "WomensCommentary": 1,
             "Commentary": 12,
             "Midrash": 4,
             "Talmud": 0,
@@ -2549,6 +2689,7 @@
           "counts": {
             "all": 46,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 18,
             "Midrash": 8,
             "Talmud": 1,
@@ -2567,6 +2708,7 @@
           "counts": {
             "all": 53,
             "Rashi": 2,
+            "WomensCommentary": 2,
             "Commentary": 18,
             "Midrash": 5,
             "Talmud": 1,
@@ -2585,6 +2727,7 @@
           "counts": {
             "all": 16,
             "Rashi": 1,
+            "WomensCommentary": 1,
             "Commentary": 8,
             "Midrash": 1,
             "Talmud": 0,
@@ -2603,6 +2746,7 @@
           "counts": {
             "all": 48,
             "Rashi": 3,
+            "WomensCommentary": 1,
             "Commentary": 22,
             "Midrash": 1,
             "Talmud": 0,
@@ -2621,6 +2765,7 @@
           "counts": {
             "all": 52,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 21,
             "Midrash": 5,
             "Talmud": 0,
@@ -2639,6 +2784,7 @@
           "counts": {
             "all": 80,
             "Rashi": 4,
+            "WomensCommentary": 1,
             "Commentary": 23,
             "Midrash": 11,
             "Talmud": 4,
@@ -2657,6 +2803,7 @@
           "counts": {
             "all": 16,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 2,
             "Midrash": 1,
             "Talmud": 0,
@@ -2675,6 +2822,7 @@
           "counts": {
             "all": 37,
             "Rashi": 4,
+            "WomensCommentary": 0,
             "Commentary": 13,
             "Midrash": 5,
             "Talmud": 0,
@@ -2693,6 +2841,7 @@
           "counts": {
             "all": 27,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 14,
             "Midrash": 2,
             "Talmud": 0,
@@ -2711,6 +2860,7 @@
           "counts": {
             "all": 19,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 5,
             "Midrash": 1,
             "Talmud": 0,
@@ -2729,6 +2879,7 @@
           "counts": {
             "all": 44,
             "Rashi": 3,
+            "WomensCommentary": 0,
             "Commentary": 12,
             "Midrash": 4,
             "Talmud": 4,
@@ -2747,6 +2898,7 @@
           "counts": {
             "all": 54,
             "Rashi": 4,
+            "WomensCommentary": 0,
             "Commentary": 21,
             "Midrash": 5,
             "Talmud": 1,
@@ -2765,6 +2917,7 @@
           "counts": {
             "all": 37,
             "Rashi": 4,
+            "WomensCommentary": 0,
             "Commentary": 12,
             "Midrash": 5,
             "Talmud": 0,
@@ -2783,6 +2936,7 @@
           "counts": {
             "all": 46,
             "Rashi": 3,
+            "WomensCommentary": 0,
             "Commentary": 18,
             "Midrash": 5,
             "Talmud": 0,
@@ -2801,6 +2955,7 @@
           "counts": {
             "all": 58,
             "Rashi": 3,
+            "WomensCommentary": 0,
             "Commentary": 36,
             "Midrash": 5,
             "Talmud": 1,
@@ -2819,6 +2974,7 @@
           "counts": {
             "all": 9,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 4,
             "Midrash": 1,
             "Talmud": 0,
@@ -2837,6 +2993,7 @@
           "counts": {
             "all": 43,
             "Rashi": 1,
+            "WomensCommentary": 0,
             "Commentary": 14,
             "Midrash": 10,
             "Talmud": 0,
@@ -2855,6 +3012,7 @@
           "counts": {
             "all": 51,
             "Rashi": 0,
+            "WomensCommentary": 0,
             "Commentary": 19,
             "Midrash": 10,
             "Talmud": 0,
@@ -2873,6 +3031,7 @@
           "counts": {
             "all": 92,
             "Rashi": 3,
+            "WomensCommentary": 2,
             "Commentary": 28,
             "Midrash": 9,
             "Talmud": 4,

@@ -89,7 +89,7 @@ def get_slug(name):
     s = re.sub(r'-+', '-', s)
     return s.strip('-')
 
-def fetch_json(endpoint, retries=3):
+def fetch_json(endpoint, retries=10):
     url = f"{API_BASE}{endpoint}"
     # Sefaria might require User-Agent
     req = urllib.request.Request(url, headers={'User-Agent': 'TorahHeatMap/1.0'})
@@ -312,11 +312,20 @@ import concurrent.futures
 # ... (rest is same)
 
 def process_parasha_wrapper(p):
-    try:
-        if process_parasha(p):
-            return True
-    except Exception as e:
-        print(f"Error processing {p['name']}: {e}")
+    # Retrieve infinite retry or high retry limit
+    # The user wants NO missing data. Let's loop until success or a very high limit.
+    max_retries = 20
+    for i in range(max_retries):
+        try:
+            if process_parasha(p):
+                return True
+            print(f"Parasha {p['name']} failed (internal check). Retrying parasha attempt {i+2}/{max_retries}...")
+            time.sleep(5)
+        except Exception as e:
+            print(f"Error processing {p['name']}: {e}. Retrying parasha attempt {i+2}/{max_retries}...")
+            time.sleep(5)
+            
+    print(f"PERMANENT FAILURE: Could not process {p['name']} after {max_retries} attempts.")
     return False
 
 def main():
