@@ -840,7 +840,24 @@ function renderHeatmap(data, bookName) {
 
             // Click and keyboard handler
             const openSefaria = () => {
-                window.open(`https://www.sefaria.org/${v.ref}`, '_blank');
+                const categoryMap = {
+                    'Rashi': 'Rashi',
+                    'Rishonim': 'Rishonim',
+                    'WomensCommentary': 'The Torah: A Women\'s Commentary',
+                    'Midrash': 'Midrash',
+                    'Talmud': 'Talmud',
+                    'Halakhah': 'Halakhah',
+                    'Kabbalah': 'Kabbalah'
+                };
+
+                const activeCategory = document.getElementById('category-filter').value;
+                let url = `https://www.sefaria.org/${v.ref}`;
+
+                if (activeCategory !== 'all' && categoryMap[activeCategory]) {
+                    url += `?lang=bi&with=${encodeURIComponent(categoryMap[activeCategory])}&lang2=en`;
+                }
+
+                window.open(url, '_blank');
             };
             cell.onclick = openSefaria;
             cell.onkeydown = (e) => {
