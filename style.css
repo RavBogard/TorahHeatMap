@@ -240,6 +240,11 @@ body {
   min-height: 48px;
 }
 
+.header-content {
+  padding-top: 8px;
+  /* Visual alignment with sidebar logo */
+}
+
 .header-content h2 {
   margin: 0 0 8px 0;
   font-size: 2rem;
