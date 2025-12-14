@@ -77,6 +77,7 @@ let useAbsoluteScale = false;
 const GLOBAL_MAX_COUNTS = {
     "all": 1357,
     "Rashi": 22,
+    "WomensCommentary": 10, // Estimate
     "Rishonim": 140, // Based on Bereshit (134)
     "Commentary": 1014,
     "Midrash": 419,
@@ -277,6 +278,10 @@ function applyFilter(category) {
                 const title = (link.collectiveTitle && link.collectiveTitle.en) ? link.collectiveTitle.en : (link.collectiveTitle || '');
                 if (typeof title === 'string' && !title.includes('Rashi')) return;
                 if (typeof title !== 'string') return; // Should likely match string
+            } else if (category === 'WomensCommentary') {
+                const title = (link.collectiveTitle && link.collectiveTitle.en) ? link.collectiveTitle.en : (link.collectiveTitle || '');
+                if (typeof title === 'string' && !(title.includes("Women's Commentary") && title.includes("The Torah"))) return;
+                if (typeof title !== 'string') return;
             } else if (category !== 'all' && link.category !== category) {
                 return;
             }

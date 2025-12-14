@@ -243,7 +243,7 @@ def process_parasha(parasha):
         for link in links_data.get('links', []):
             ref = link['anchorRef']
             if ref not in counts_map:
-                counts_map[ref] = { 'all': 0, 'Rashi': 0 }
+                counts_map[ref] = { 'all': 0, 'Rashi': 0, 'WomensCommentary': 0 }
                 for c in CATEGORIES:
                     counts_map[ref][c] = 0
             
@@ -261,6 +261,11 @@ def process_parasha(parasha):
             
             if 'Rashi' in en_title:
                 counts_map[ref]['Rashi'] += 1
+            
+            # Check for The Torah: A Women's Commentary
+            # Title might contain semicolon or colon
+            if "Women's Commentary" in en_title and "The Torah" in en_title:
+                counts_map[ref]['WomensCommentary'] += 1
                 
             # Check for Rishonim (Dynamic)
             if check_rishonim(en_title):
@@ -272,7 +277,7 @@ def process_parasha(parasha):
             verse_num = chap['startVerse'] + v
             verse_ref = f"{text_data['book']} {chap['chapter']}:{verse_num}"
             
-            counts = counts_map.get(verse_ref, { 'all': 0, 'Rashi': 0 })
+            counts = counts_map.get(verse_ref, { 'all': 0, 'Rashi': 0, 'WomensCommentary': 0 })
             
             verses.append({
                 'verse': verse_num,
