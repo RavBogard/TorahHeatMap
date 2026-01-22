@@ -3797,25 +3797,6 @@
     ],
     "Exodus": [
       {
-        "name": "Vaera",
-        "counts": {
-          "all": 8409,
-          "Rashi": 229,
-          "WomensCommentary": 98,
-          "Commentary": 3335,
-          "Midrash": 1331,
-          "Talmud": 57,
-          "Halakhah": 42,
-          "Kabbalah": 127,
-          "Musar": 94,
-          "Chasidut": 533,
-          "Modern": 0,
-          "Rishonim": 1511
-        },
-        "count": 8409,
-        "slug": "vaera"
-      },
-      {
         "name": "Shemot",
         "counts": {
           "all": 15158,
@@ -3833,6 +3814,25 @@
         },
         "count": 15158,
         "slug": "shemot"
+      },
+      {
+        "name": "Vaera",
+        "counts": {
+          "all": 8409,
+          "Rashi": 229,
+          "WomensCommentary": 98,
+          "Commentary": 3335,
+          "Midrash": 1331,
+          "Talmud": 57,
+          "Halakhah": 42,
+          "Kabbalah": 127,
+          "Musar": 94,
+          "Chasidut": 533,
+          "Modern": 0,
+          "Rishonim": 1511
+        },
+        "count": 8409,
+        "slug": "vaera"
       },
       {
         "name": "Bo",
